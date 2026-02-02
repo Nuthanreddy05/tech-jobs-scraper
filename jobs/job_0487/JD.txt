@@ -1,0 +1,9 @@
+Job: Staff Full Stack Engineer, Payments Dashboard
+Company: Stripe
+Location: Seattle
+Portal: greenhouse
+
+Apply: https://stripe.com/jobs/search?gh_jid=7492950
+
+Description:
+

@@ -1,0 +1,9 @@
+Job: Senior GenAI Research Engineer - Optimization and Kernels
+Company: Databricks
+Location: San Francisco, California
+Portal: greenhouse
+
+Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8297797002
+
+Description:
+

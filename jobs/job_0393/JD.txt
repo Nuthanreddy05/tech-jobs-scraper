@@ -1,0 +1,9 @@
+Job: Frontend Engineering Manager, Payments
+Company: Stripe
+Location: Seattle, San Francisco
+Portal: greenhouse
+
+Apply: https://stripe.com/jobs/search?gh_jid=7063232
+
+Description:
+

@@ -1,0 +1,9 @@
+Job: Staff Software Engineer, Query
+Company: MongoDB
+Location: Calgary; Edmonton; Montreal; Ontario; Toronto; Vancouver
+Portal: greenhouse
+
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7221904
+
+Description:
+

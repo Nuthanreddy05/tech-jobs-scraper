@@ -1,0 +1,9 @@
+Job: Software Engineer, Product Security Data Platforms
+Company: Stripe
+Location: Seattle
+Portal: greenhouse
+
+Apply: https://stripe.com/jobs/search?gh_jid=7545459
+
+Description:
+

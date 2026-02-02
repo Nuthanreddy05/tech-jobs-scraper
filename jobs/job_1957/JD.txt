@@ -1,0 +1,9 @@
+Job: Lead Engineer, Query
+Company: MongoDB
+Location: Alberta; British Columbia; Calgary; Edmonton; Manitoba; Nova Scotia; Ontario; Quebec; Toronto; Vancouver
+Portal: greenhouse
+
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7481204
+
+Description:
+

@@ -1,0 +1,9 @@
+Job: Lead Engineer, Query
+Company: MongoDB
+Location: New York City; Palo Alto; Seattle; United States
+Portal: greenhouse
+
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7465177
+
+Description:
+

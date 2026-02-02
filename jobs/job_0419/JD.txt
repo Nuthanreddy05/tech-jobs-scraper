@@ -1,0 +1,9 @@
+Job: Manager, Data Analytics
+Company: Stripe
+Location: Mexico City
+Portal: greenhouse
+
+Apply: https://stripe.com/jobs/search?gh_jid=7489560
+
+Description:
+

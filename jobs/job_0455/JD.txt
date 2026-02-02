@@ -1,0 +1,9 @@
+Job: Software Engineer, Bridge
+Company: Stripe
+Location: San Francisco, NY, Seattle
+Portal: greenhouse
+
+Apply: https://stripe.com/jobs/search?gh_jid=7277110
+
+Description:
+

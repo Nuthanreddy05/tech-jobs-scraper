@@ -1,0 +1,9 @@
+Job: Staff Engineer, Data Engineering Solutions
+Company: Stripe
+Location: Bengaluru
+Portal: greenhouse
+
+Apply: https://stripe.com/jobs/search?gh_jid=7548037
+
+Description:
+

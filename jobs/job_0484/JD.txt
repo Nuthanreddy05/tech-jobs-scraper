@@ -1,0 +1,9 @@
+Job: Staff Engineer, Payments
+Company: Stripe
+Location: Seattle, San Francisco
+Portal: greenhouse
+
+Apply: https://stripe.com/jobs/search?gh_jid=7416957
+
+Description:
+

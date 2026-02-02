@@ -1,0 +1,9 @@
+Job: Engineering Manager
+Company: Chime
+Location: San Francisco, CA
+Portal: greenhouse
+
+Apply: https://boards.greenhouse.io/chime/jobs/8342852002?gh_jid=8342852002
+
+Description:
+
