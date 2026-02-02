@@ -1,9 +1,9 @@
-Job: Staff iOS Engineer, App Builds
+Job: Staff Data Scientist, New Subjects
 Company: Duolingo
-Location: New York, NY
+Location: Pittsburgh, PA
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8322733002?gh_jid=8322733002
+Apply: https://careers.duolingo.com/jobs/8391444002?gh_jid=8391444002
 
 Description:
 

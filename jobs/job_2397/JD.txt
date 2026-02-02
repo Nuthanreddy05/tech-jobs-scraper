@@ -1,9 +1,9 @@
-Job: Software Engineer, Android
+Job: Site Reliability Engineer
 Company: Grammarly
-Location: Berlin; Hybrid
+Location: San Francisco; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/6624431
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/6994860
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Android Engineer
+Job: Senior AI Engineering Manager
 Company: Duolingo
-Location: Pittsburgh, PA
+Location: New York, NY
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8215862002?gh_jid=8215862002
+Apply: https://careers.duolingo.com/jobs/8322062002?gh_jid=8322062002
 
 Description:
 

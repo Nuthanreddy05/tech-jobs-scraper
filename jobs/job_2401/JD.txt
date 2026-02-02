@@ -1,9 +1,9 @@
-Job: Software Engineer, Data Engineering
+Job: Software Engineer, Backend (Superhuman Mail)
 Company: Grammarly
-Location: San Francisco; Hybrid
+Location: San Francisco or Remote (US, Canada, Argentina, Brazil, Mexico)
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/6259939
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/7339557
 
 Description:
 

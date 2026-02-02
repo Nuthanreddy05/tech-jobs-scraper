@@ -26214,6 +26214,17 @@
   },
   {
     "company": "Grammarly",
+    "title": "Alliances Partner Engineer",
+    "location": "United States; Canada",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7584412",
+    "job_id": "7584412",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7584412"
+  },
+  {
+    "company": "Grammarly",
     "title": "Data Scientist",
     "location": "San Francisco; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/6458934",
@@ -26369,17 +26380,6 @@
   {
     "company": "Grammarly",
     "title": "Software Engineer, Back-End",
-    "location": "Kyiv; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6467233",
-    "job_id": "6467233",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6467233"
-  },
-  {
-    "company": "Grammarly",
-    "title": "Software Engineer, Back-End",
     "location": "San Francisco; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/5856122",
     "job_id": "5856122",
@@ -26387,6 +26387,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "5856122"
+  },
+  {
+    "company": "Grammarly",
+    "title": "Software Engineer, Back-End",
+    "location": "Kyiv; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6467233",
+    "job_id": "6467233",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6467233"
   },
   {
     "company": "Grammarly",
@@ -26402,17 +26413,6 @@
   {
     "company": "Grammarly",
     "title": "Software Engineer, Data Engineering",
-    "location": "San Francisco; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6259939",
-    "job_id": "6259939",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6259939"
-  },
-  {
-    "company": "Grammarly",
-    "title": "Software Engineer, Data Engineering",
     "location": "New York City; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/7336882",
     "job_id": "7336882",
@@ -26420,6 +26420,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7336882"
+  },
+  {
+    "company": "Grammarly",
+    "title": "Software Engineer, Data Engineering",
+    "location": "San Francisco; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6259939",
+    "job_id": "6259939",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6259939"
   },
   {
     "company": "Grammarly",
@@ -26490,17 +26501,6 @@
   {
     "company": "Grammarly",
     "title": "Software Engineer, Full-Stack",
-    "location": "Seattle; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7333571",
-    "job_id": "7333571",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7333571"
-  },
-  {
-    "company": "Grammarly",
-    "title": "Software Engineer, Full-Stack",
     "location": "Kyiv; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/6928720",
     "job_id": "6928720",
@@ -26508,6 +26508,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6928720"
+  },
+  {
+    "company": "Grammarly",
+    "title": "Software Engineer, Full-Stack",
+    "location": "Seattle; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7333571",
+    "job_id": "7333571",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7333571"
   },
   {
     "company": "Grammarly",

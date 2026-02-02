@@ -1,9 +1,9 @@
-Job: Senior iOS Software Engineer
+Job: Senior iOS Engineer, Application Stability & Performance
 Company: Duolingo
-Location: Pittsburgh, PA
+Location: New York, NY
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8393272002?gh_jid=8393272002
+Apply: https://careers.duolingo.com/jobs/8369151002?gh_jid=8369151002
 
 Description:
 

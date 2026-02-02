@@ -1,9 +1,9 @@
-Job: Staff Data Scientist, New Subjects
+Job: Staff Data Scientist, Forecasting in Monetization
 Company: Duolingo
-Location: Pittsburgh, PA
+Location: New York, NY
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8391444002?gh_jid=8391444002
+Apply: https://careers.duolingo.com/jobs/8385155002?gh_jid=8385155002
 
 Description:
 

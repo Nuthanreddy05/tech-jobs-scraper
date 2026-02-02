@@ -1,9 +1,9 @@
 Job: Software Engineer, Full-Stack
 Company: Grammarly
-Location: Seattle; Hybrid
+Location: San Francisco; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7333571
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/6356355
 
 Description:
 

@@ -1,9 +1,9 @@
-Job:  Software Engineer, Full-Stack
+Job: Software Engineer, Frontend (Latin America)
 Company: Grammarly
-Location: NA; Remote
+Location: LATAM; Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7308798
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/7339850
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Deal Desk Analyst - MST or PST Time Zones
+Job: Data Scientist
 Company: Grammarly
-Location: NA; Remote
+Location: San Francisco; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7490276
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/6458934
 
 Description:
 

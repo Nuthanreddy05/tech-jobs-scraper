@@ -1,9 +1,9 @@
 Job: Senior Android Engineer
 Company: Duolingo
-Location: New York, NY
+Location: Pittsburgh, PA
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002
+Apply: https://careers.duolingo.com/jobs/8215862002?gh_jid=8215862002
 
 Description:
 

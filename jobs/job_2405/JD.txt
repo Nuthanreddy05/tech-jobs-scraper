@@ -1,9 +1,9 @@
 Job: Software Engineer, Front-End
 Company: Grammarly
-Location: Berlin; Hybrid
+Location: Kyiv; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/5856195
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/6590260
 
 Description:
 
