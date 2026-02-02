@@ -78,7 +78,7 @@ class GreenhouseScraper:
                 "departments": [d.get("name", "") for d in job.get("departments", [])],
                 "description": job.get("content", ""),
                 "portal": "greenhouse",
-                "company_slug": job.get("id", "").split("-")[0] if job.get("id") else ""
+                "company_slug": str(job.get("id", "")).split("-")[0] if job.get("id") else ""
             }
         except Exception as e:
             print(f"      ⚠️  Parse error: {str(e)[:50]}")
