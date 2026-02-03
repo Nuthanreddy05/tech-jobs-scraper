@@ -1,9 +1,9 @@
-Job: Senior Staff Engineer, Server Networking & Observability
+Job: Senior Software Engineer, Storage Engines
 Company: MongoDB
-Location: United States
+Location: Sydney
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6713492
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7253410
 
 Description:
 

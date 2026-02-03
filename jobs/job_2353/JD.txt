@@ -1,9 +1,9 @@
-Job:  IT Infrastructure Engineer 
+Job: Mobile Engineer
 Company: Vercel
-Location: Hybrid - San Francisco
+Location: Hybrid - New York City
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5623421004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5719796004
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Regional Manager, Sales Engineering
+Job: Regional Director Dubai, Enterprise Sales
 Company: Datadog
-Location: Jakarta, Indonesia
+Location: Dubai, United Arab Emirates
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7515905/?gh_jid=7515905
+Apply: https://careers.datadoghq.com/detail/7546813/?gh_jid=7546813
 
 Description:
 

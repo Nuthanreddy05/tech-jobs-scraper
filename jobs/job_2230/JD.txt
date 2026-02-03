@@ -1,9 +1,9 @@
-Job: Senior Frontend Engineer, Social Graph
+Job: Senior Frontend Engineer, UI Ecosystem
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7386682?gh_jid=7386682
+Apply: https://careers.roblox.com/jobs/7118363?gh_jid=7118363
 
 Description:
 

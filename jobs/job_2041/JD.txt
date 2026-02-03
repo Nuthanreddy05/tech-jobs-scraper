@@ -1,9 +1,9 @@
 Job: Site Reliability Engineer (Senior or Staff), Infrastructure Security
 Company: MongoDB
-Location: Ireland
+Location: Ontario; Quebec
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6865004
+Apply: https://www.mongodb.com/careers/job/?gh_jid=6864997
 
 Description:
 

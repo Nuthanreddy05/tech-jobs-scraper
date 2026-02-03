@@ -1,9 +1,9 @@
-Job: Director, Engineering Operations
+Job: Director, Channels - Global Systems Integrators
 Company: Datadog
-Location: New York, New York, USA
+Location: Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7579542/?gh_jid=7579542
+Apply: https://careers.datadoghq.com/detail/7484127/?gh_jid=7484127
 
 Description:
 

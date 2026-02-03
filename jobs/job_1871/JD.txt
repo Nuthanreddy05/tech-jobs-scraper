@@ -1,9 +1,9 @@
-Job: Manager, People Analytics Data Platform
+Job: Manager, Mid-Market Sales Engineering (LATAM)
 Company: Datadog
-Location: Boston, Massachusetts, USA; New York, New York, USA
+Location: Sao Paulo, Brazil
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7467678/?gh_jid=7467678
+Apply: https://careers.datadoghq.com/detail/7496499/?gh_jid=7496499
 
 Description:
 

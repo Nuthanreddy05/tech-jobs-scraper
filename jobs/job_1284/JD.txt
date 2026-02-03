@@ -1,9 +1,9 @@
-Job: Software Engineer, Full Stack (EAA)
+Job: Software Engineering Manager - Cloud Provisioning
 Company: Coinbase
-Location: Remote - Brazil
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7584070?gh_jid=7584070
+Apply: https://www.coinbase.com/careers/positions/7576813?gh_jid=7576813
 
 Description:
 

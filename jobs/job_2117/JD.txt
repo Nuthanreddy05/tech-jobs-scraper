@@ -1,9 +1,9 @@
-Job: Platform Security - Site Reliability Engineer II
+Job: Platform - Senior Product Manager (Elastic Cloud Platform)
 Company: Elastic
-Location: Spain
+Location: Greece
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7434535&gh_jid=7434535
+Apply: https://jobs.elastic.co/jobs?gh_jid=7279498&gh_jid=7279498
 
 Description:
 

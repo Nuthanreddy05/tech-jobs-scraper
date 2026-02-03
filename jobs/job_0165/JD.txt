@@ -1,9 +1,9 @@
-Job: AI Architect 
-Company: Scale AI
-Location: San Francisco, CA; New York, NY
+Job: Training Content and Systems Architect
+Company: Anthropic
+Location: San Francisco, CA | New York City, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4640244005
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5097351008
 
 Description:
 

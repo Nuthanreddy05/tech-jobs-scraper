@@ -1,9 +1,9 @@
 Job: Staff Fullstack Software Engineer, Growth Monetization
 Company: Dropbox
-Location: Remote - Canada: Select locations
+Location: Remote - US: Select locations
 Portal: greenhouse
 
-Apply: https://jobs.dropbox.com/listing/7421153?gh_jid=7421153
+Apply: https://jobs.dropbox.com/listing/7421150?gh_jid=7421150
 
 Description:
 

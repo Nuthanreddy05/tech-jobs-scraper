@@ -1,9 +1,9 @@
-Job: Director, Security Sales Engineering
+Job: Director, Product Management - Core Platforms
 Company: Datadog
-Location: Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA; Seattle, Washington, USA
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7534907/?gh_jid=7534907
+Apply: https://careers.datadoghq.com/detail/7583609/?gh_jid=7583609
 
 Description:
 

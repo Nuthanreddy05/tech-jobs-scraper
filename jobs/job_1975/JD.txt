@@ -1,9 +1,9 @@
-Job: (Senior) Consulting Engineer
+Job: Senior Business Operation & Strategy Analyst
 Company: MongoDB
-Location: Seoul
+Location: Austin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7538397
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7521325
 
 Description:
 

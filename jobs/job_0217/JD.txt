@@ -1,9 +1,9 @@
-Job: Software Engineer, Enterprise AI
+Job: Software Engineer
 Company: Scale AI
-Location: New York, NY; San Francisco, CA
+Location: Argentina; Uruguay
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4513943005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4612282005
 
 Description:
 

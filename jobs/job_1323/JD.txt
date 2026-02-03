@@ -1,9 +1,9 @@
-Job: Transaction Monitoring Compliance QA Analyst IV
-Company: Coinbase
-Location: Remote - UK
+Job: Backend Engineer
+Company: Chime
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7140861?gh_jid=7140861
+Apply: https://boards.greenhouse.io/chime/jobs/8342770002?gh_jid=8342770002
 
 Description:
 

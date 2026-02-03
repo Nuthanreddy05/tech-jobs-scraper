@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer - NYC Tri-State
+Job: Senior Solutions Engineer - New England
 Company: Cloudflare
 Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7518699?gh_jid=7518699
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7518670?gh_jid=7518670
 
 Description:
 

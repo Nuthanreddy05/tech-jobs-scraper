@@ -1,9 +1,9 @@
-Job: Senior Staff Software Engineer, Ads Infrastructure & Systems
+Job: Senior Technical Program Manager, Caper Machine Learning
 Company: Instacart
-Location: United States - Remote
+Location: USA - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7066269
+Apply: https://instacart.careers/job/?gh_jid=7565140
 
 Description:
 

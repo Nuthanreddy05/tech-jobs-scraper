@@ -1,9 +1,9 @@
-Job: Site Reliability Engineer (Senior or Staff), Infrastructure Security
+Job: Site Reliability Engineer (Senior or Staff), Atlas
 Company: MongoDB
-Location: Ontario; Quebec
+Location: Austin; Boston; Chicago; New York City; Pittsburgh; United States
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6864997
+Apply: https://www.mongodb.com/careers/job/?gh_jid=6984809
 
 Description:
 

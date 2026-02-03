@@ -1,9 +1,9 @@
-Job: Senior Software Engineer (Chicago)
+Job: Senior Software Engineer, Foundation - Financial Platform
 Company: Chime
-Location: Chicago, IL
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/7947697002?gh_jid=7947697002
+Apply: https://boards.greenhouse.io/chime/jobs/8304631002?gh_jid=8304631002
 
 Description:
 

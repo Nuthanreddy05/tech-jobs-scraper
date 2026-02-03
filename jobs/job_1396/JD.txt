@@ -1,9 +1,9 @@
-Job: Senior Manager, People Systems
+Job: Software Engineer, Android
 Company: Airtable
-Location: San Francisco, CA
+Location: San Francisco, CA; New York City, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/airtable/jobs/8235618002
+Apply: https://job-boards.greenhouse.io/airtable/jobs/7953553002
 
 Description:
 

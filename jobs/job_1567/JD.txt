@@ -1,9 +1,9 @@
 Job: Network Deployment Engineer
 Company: Cloudflare
-Location: Hybrid
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7538006?gh_jid=7538006
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6887813?gh_jid=6887813
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Data Product Manager, GTM
+Job: Senior Consulting Engineer
 Company: MongoDB
-Location: Austin; Boston; Chicago; New York City; Pittsburgh
+Location: Sydney
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7187739
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7573532
 
 Description:
 

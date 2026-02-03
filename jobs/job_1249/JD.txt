@@ -1,9 +1,9 @@
-Job: Senior Staff Software Engineer, Backend (Platform - Onboarding)
+Job: Senior Staff Software Engineer, Backend - Risk Platform
 Company: Coinbase
-Location: Remote - India
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/5804305?gh_jid=5804305
+Apply: https://www.coinbase.com/careers/positions/7573405?gh_jid=7573405
 
 Description:
 

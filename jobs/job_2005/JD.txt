@@ -1,9 +1,9 @@
-Job: Senior Software Engineer
+Job: Senior Software Development Engineer
 Company: MongoDB
-Location: Sydney
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6929125
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7243860
 
 Description:
 

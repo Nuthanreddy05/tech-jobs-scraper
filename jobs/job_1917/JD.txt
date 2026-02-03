@@ -1,9 +1,9 @@
-Job: Senior Staff Software Engineer 
+Job: Senior Staff GenAI Engineer - Application Performance Monitoring (APM)
 Company: Datadog
 Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/5608424/?gh_jid=5608424
+Apply: https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503
 
 Description:
 

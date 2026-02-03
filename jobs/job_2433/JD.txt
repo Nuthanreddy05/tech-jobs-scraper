@@ -1,9 +1,9 @@
-Job: Staff Android Engineer, Client Architecture
+Job: Staff iOS Engineer, App Builds
 Company: Duolingo
 Location: New York, NY
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8102231002?gh_jid=8102231002
+Apply: https://careers.duolingo.com/jobs/8322733002?gh_jid=8322733002
 
 Description:
 

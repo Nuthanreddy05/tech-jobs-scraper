@@ -1,9 +1,9 @@
-Job: Technical Support Engineer, Zero Trust
+Job: Technical Support Engineer
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7235735?gh_jid=7235735
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7075269?gh_jid=7075269
 
 Description:
 

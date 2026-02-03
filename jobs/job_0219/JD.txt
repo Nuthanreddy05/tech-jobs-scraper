@@ -1,9 +1,9 @@
-Job: Software Engineer, Gen AI
+Job: Software Engineer, Full Stack – Scale GP
 Company: Scale AI
 Location: San Francisco, CA; New York, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4591300005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4637485005
 
 Description:
 

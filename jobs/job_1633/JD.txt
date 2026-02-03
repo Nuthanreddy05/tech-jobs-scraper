@@ -1,9 +1,9 @@
-Job: Senior Product Manager, AI Agents Platform
+Job: Senior/Principal Systems Engineer, Workers AI (AI/ML)
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7178939?gh_jid=7178939
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6297179?gh_jid=6297179
 
 Description:
 

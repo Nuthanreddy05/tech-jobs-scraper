@@ -1,9 +1,9 @@
-Job: Senior Machine Learning Engineer, Ads
+Job: Senior Machine Learning Engineer, Home Modeling
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7351220?gh_jid=7351220
+Apply: https://careers.roblox.com/jobs/7562965?gh_jid=7562965
 
 Description:
 

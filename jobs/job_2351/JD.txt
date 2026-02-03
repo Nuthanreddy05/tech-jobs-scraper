@@ -1,9 +1,9 @@
-Job: Forward-Deployed Engineer 
+Job: Manager, Developer Success, EMEA
 Company: Vercel
-Location: Hybrid - San Francisco, New York City, Austin
+Location: Remote - United Kingdom, Germany
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5752684004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5635113004
 
 Description:
 

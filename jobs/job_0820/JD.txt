@@ -1,9 +1,9 @@
 Job: People Team Data Analyst, Talent Acquisition
 Company: Dropbox
-Location: Remote - Canada: Select locations
+Location: Remote - US: Select locations
 Portal: greenhouse
 
-Apply: https://jobs.dropbox.com/listing/7536374?gh_jid=7536374
+Apply: https://jobs.dropbox.com/listing/7536371?gh_jid=7536371
 
 Description:
 

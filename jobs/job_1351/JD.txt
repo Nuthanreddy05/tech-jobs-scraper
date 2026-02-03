@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Spending
+Job: Technical Program Manager, AI Evaluation Specialist
 Company: Chime
-Location: San Francisco, CA
+Location: Remote - US
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8322470002?gh_jid=8322470002
+Apply: https://boards.greenhouse.io/chime/jobs/8133306002?gh_jid=8133306002
 
 Description:
 

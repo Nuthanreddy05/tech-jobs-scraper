@@ -1,9 +1,9 @@
-Job: Software Engineering Manager, AI Agents
+Job: Software Engineer, Identity Access Management
 Company: Cloudflare
-Location: In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7256632?gh_jid=7256632
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6621615?gh_jid=6621615
 
 Description:
 

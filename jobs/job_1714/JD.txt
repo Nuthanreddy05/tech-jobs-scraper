@@ -1,9 +1,9 @@
-Job: Senior Specialist Solutions Engineer, Zero Trust - Japan
+Job: Senior Solutions Engineer - Vancouver
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7261894?gh_jid=7261894
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7518666?gh_jid=7518666
 
 Description:
 

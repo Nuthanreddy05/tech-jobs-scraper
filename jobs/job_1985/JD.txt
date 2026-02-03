@@ -1,9 +1,9 @@
-Job: Senior Financial Analyst
+Job: Senior Engineer, Netsuite
 Company: MongoDB
-Location: New York City
+Location: Gurugram
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7550357
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7484841
 
 Description:
 

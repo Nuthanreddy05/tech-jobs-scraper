@@ -1,9 +1,9 @@
-Job: Director of Trust & Safety Engineering
+Job: GTM Engineer 
 Company: Vercel
-Location: Hybrid - San Francisco
+Location: Hybrid - San Francisco, New York City, Austin
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5719801004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5777645004
 
 Description:
 

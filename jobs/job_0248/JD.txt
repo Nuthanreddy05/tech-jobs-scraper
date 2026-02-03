@@ -1,9 +1,9 @@
-Job: Engineering Manager, CS Data Services
+Job: Engineering Manager, Control Plane - Distributed Transactional Database
 Company: Airbnb
 Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7402675?gh_jid=7402675
+Apply: https://careers.airbnb.com/positions/7525334?gh_jid=7525334
 
 Description:
 

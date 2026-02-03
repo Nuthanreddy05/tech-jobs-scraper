@@ -1,9 +1,9 @@
 Job: Manager, Field Engineering
 Company: Databricks
-Location: Sao Paulo, Brazil
+Location: Melbourne, Australia
 Portal: greenhouse
 
-Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8360067002
+Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8316258002
 
 Description:
 

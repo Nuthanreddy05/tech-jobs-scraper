@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Applied AI
-Company: Webflow
-Location: CA Remote (BC & ON only); U.S. Remote
+Job: AI Engineer
+Company: Vercel
+Location: Hybrid - San Francisco, New York City
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7271678
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5517523004
 
 Description:
 

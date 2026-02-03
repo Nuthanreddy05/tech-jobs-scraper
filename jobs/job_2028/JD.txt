@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Query Execution
+Job: Senior Software Engineer, Private Cloud Backup
 Company: MongoDB
-Location: Dublin
+Location: Dublin; Ireland
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7484657
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7553999
 
 Description:
 

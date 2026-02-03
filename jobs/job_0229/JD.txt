@@ -1,9 +1,9 @@
-Job: Staff Machine Learning Engineer, Public Sector
+Job: Staff Infrastructure Software Engineer, Enterprise AI
 Company: Scale AI
-Location: San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC
+Location: New York, NY; San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4654382005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4599700005
 
 Description:
 

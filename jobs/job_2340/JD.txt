@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Assets - Distributed Systems
-Company: Webflow
-Location: U.S. Remote
+Job: Compliance Automation Engineer
+Company: Vercel
+Location: Remote - United States
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7354863
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5787037004
 
 Description:
 

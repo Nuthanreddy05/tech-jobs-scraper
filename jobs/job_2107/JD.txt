@@ -1,9 +1,9 @@
-Job: Manager, Salesforce Revenue Cloud
+Job: Join Elastic's Engineering Global Talent Community
 Company: Elastic
-Location: United States
+Location: Distributed, EMEA
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7550487&gh_jid=7550487
+Apply: https://jobs.elastic.co/jobs?gh_jid=6020362&gh_jid=6020362
 
 Description:
 

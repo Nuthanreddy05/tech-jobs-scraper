@@ -1,9 +1,9 @@
-Job: Software Engineer, Distributed Systems
+Job: Software Engineer, Full Stack
 Company: Figma
 Location: San Francisco, CA • New York, NY • United States
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/figma/jobs/5552549004?gh_jid=5552549004
+Apply: https://boards.greenhouse.io/figma/jobs/5691911004?gh_jid=5691911004
 
 Description:
 

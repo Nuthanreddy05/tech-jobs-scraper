@@ -1,9 +1,9 @@
-Job: Senior Business Solutions Engineer, BizTech
+Job: Senior Backend Software Engineer,  Media Ingestion & Serving
 Company: Airbnb
-Location: United States
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7306160?gh_jid=7306160
+Apply: https://careers.airbnb.com/positions/7539174?gh_jid=7539174
 
 Description:
 

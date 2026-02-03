@@ -1,9 +1,9 @@
-Job: Software Engineer, Backend  (Consumer - Trading)
+Job: Software Engineer, Backend - Financial Hub
 Company: Coinbase
-Location: Remote - Canada
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/6869392?gh_jid=6869392
+Apply: https://www.coinbase.com/careers/positions/6855601?gh_jid=6855601
 
 Description:
 

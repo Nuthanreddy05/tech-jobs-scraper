@@ -1,9 +1,9 @@
-Job: Software Engineering Manager - Cloud Provisioning
+Job: Software Engineer Intern
 Company: Coinbase
-Location: Remote - USA
+Location: Hybrid - San Francisco, CA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7576813?gh_jid=7576813
+Apply: https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895
 
 Description:
 

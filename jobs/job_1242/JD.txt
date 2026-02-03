@@ -1,9 +1,9 @@
-Job: Senior Staff Product Designer - Platform 
+Job: Senior Staff Software Engineer, Backend (Consumer) 
 Company: Coinbase
-Location: Remote - Canada
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7357050?gh_jid=7357050
+Apply: https://www.coinbase.com/careers/positions/7565860?gh_jid=7565860
 
 Description:
 

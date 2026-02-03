@@ -1,9 +1,9 @@
-Job: Senior Backend Engineer, Assets
+Job: Senior Engineering Manager, Hosting Infrastructure
 Company: Webflow
-Location: U.S. Remote
+Location: CA Remote (BC & ON only); U.S. Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7353505
+Apply: https://job-boards.greenhouse.io/webflow/jobs/6835628
 
 Description:
 

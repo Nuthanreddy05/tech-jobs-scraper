@@ -1,9 +1,9 @@
-Job: Senior Support Engineer
+Job: Senior Technical Content Editor - Developer Programs
 Company: Elastic
-Location: United States
+Location: United Kingdom
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7491161&gh_jid=7491161
+Apply: https://jobs.elastic.co/jobs?gh_jid=7440385&gh_jid=7440385
 
 Description:
 

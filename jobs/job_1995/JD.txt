@@ -1,9 +1,9 @@
-Job: Senior Product Manager, Growth & Developer Experience
+Job: Senior Practice Engineer, AMP
 Company: MongoDB
-Location: Austin; Boston; Chicago; Dallas; Houston; Miami; New York City; United States
+Location: Bengaluru; Gurugram
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7280325
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7471427
 
 Description:
 

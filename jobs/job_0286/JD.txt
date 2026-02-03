@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Reliability Engineering
+Job: Senior Software Engineer, Host Pricing & Settings
 Company: Airbnb
-Location: São Paulo, Brazil
+Location: Remote USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7565550?gh_jid=7565550
+Apply: https://careers.airbnb.com/positions/6718415?gh_jid=6718415
 
 Description:
 

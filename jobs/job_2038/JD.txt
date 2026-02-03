@@ -1,9 +1,9 @@
-Job: Site Reliability Engineer 3
+Job: Senior Win/Loss & Customer Insights Analyst
 Company: MongoDB
-Location: New York City
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7145126
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7477055
 
 Description:
 

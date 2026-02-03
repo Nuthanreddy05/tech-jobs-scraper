@@ -1,9 +1,9 @@
-Job: Software Engineer, Data Engineering
+Job: Software Engineer, Front-End
 Company: Grammarly
-Location: New York City; Hybrid
+Location: Berlin; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7336882
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/5856195
 
 Description:
 

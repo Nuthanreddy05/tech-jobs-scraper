@@ -1,9 +1,9 @@
-Job: Senior Staff Data Scientist, Guest & Host Marketplace AI
+Job: Senior Staff Data Engineer, Marketplaces DNA
 Company: Airbnb
-Location: Remote
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7107054?gh_jid=7107054
+Apply: https://careers.airbnb.com/positions/7463663?gh_jid=7463663
 
 Description:
 

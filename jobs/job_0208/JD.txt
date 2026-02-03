@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Agentic Data Products
+Job: Senior Machine Learning Engineer, Computer Vision - Robotics
 Company: Scale AI
 Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4653827005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4631677005
 
 Description:
 

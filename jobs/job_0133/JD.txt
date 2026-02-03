@@ -1,9 +1,9 @@
-Job: Software Engineer, Labs
+Job: Software Engineer, iOS
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY | Seattle, WA
+Location: San Francisco, CA, New York City, NY, Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5017202008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4572744008
 
 Description:
 

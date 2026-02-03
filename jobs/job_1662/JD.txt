@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer
+Job: Senior  Solutions Engineer
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7341019?gh_jid=7341019
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7443698?gh_jid=7443698
 
 Description:
 

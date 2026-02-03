@@ -1,9 +1,9 @@
-Job: Senior Staff Engineer, Online Datastores
+Job: Staff Software Engineer, Assets - Distributed Systems
 Company: Webflow
-Location: CA Remote (BC & ON only); U.S. Remote
+Location: U.S. Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7348663
+Apply: https://job-boards.greenhouse.io/webflow/jobs/7354863
 
 Description:
 

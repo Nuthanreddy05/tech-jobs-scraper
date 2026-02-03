@@ -1,9 +1,9 @@
-Job: 2026 - Information Security Engineering Intern, Seattle
+Job: 2026 - GTM Engineering Intern, Palo Alto
 Company: MongoDB
-Location: Seattle
+Location: Palo Alto
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7292751
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7335935
 
 Description:
 

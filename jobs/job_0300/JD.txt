@@ -1,9 +1,9 @@
-Job: Staff Data Engineer - Data AI-Listings & Structured Data
+Job: Staff Android Engineer, Reservation Management & Additional Products
 Company: Airbnb
-Location: United States
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7012829?gh_jid=7012829
+Apply: https://careers.airbnb.com/positions/7539152?gh_jid=7539152
 
 Description:
 

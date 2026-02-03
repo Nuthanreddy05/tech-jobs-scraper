@@ -1,9 +1,9 @@
-Job: Senior Software Engineer - Backend
+Job: Senior Software Engineer, Analytics and Reporting
 Company: Cloudflare
-Location: Hybrid; In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7244991?gh_jid=7244991
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7343748?gh_jid=7343748
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Manager I, Engineering - Cloud SIEM - Security Case Management
+Job: Manager I, Engineering - Cloud Security - Findings Prioritization
 Company: Datadog
-Location: Lisbon, Portugal
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7408712/?gh_jid=7408712
+Apply: https://careers.datadoghq.com/detail/7308805/?gh_jid=7308805
 
 Description:
 

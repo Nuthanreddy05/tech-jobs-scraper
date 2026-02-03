@@ -1,9 +1,9 @@
-Job: Deal Desk Analyst
+Job: Datadog for Startups Lead
 Company: Datadog
-Location: Boston, Massachusetts, USA; New York, New York, USA
+Location: San Francisco, California, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7420653/?gh_jid=7420653
+Apply: https://careers.datadoghq.com/detail/7128771/?gh_jid=7128771
 
 Description:
 

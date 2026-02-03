@@ -1,9 +1,9 @@
 Job: Developer Solutions Strategist
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7427840?gh_jid=7427840
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7422363?gh_jid=7422363
 
 Description:
 

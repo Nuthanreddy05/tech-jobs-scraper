@@ -1,9 +1,9 @@
-Job: Senior Machine Learning Engineer, Safety Core Data
+Job: Senior Machine Learning Infrastructure Engineer, Ads
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7543090?gh_jid=7543090
+Apply: https://careers.roblox.com/jobs/7351059?gh_jid=7351059
 
 Description:
 

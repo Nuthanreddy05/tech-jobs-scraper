@@ -1,9 +1,9 @@
-Job: Manager 1, Technical Support Engineering - Brazil
+Job: Manager 1, Technical Escalations Engineering - US-East
 Company: Datadog
-Location: Sao Paulo, Brazil
+Location: Boston, Massachusetts, USA; New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7181127/?gh_jid=7181127
+Apply: https://careers.datadoghq.com/detail/7380289/?gh_jid=7380289
 
 Description:
 

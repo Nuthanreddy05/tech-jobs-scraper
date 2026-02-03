@@ -1,9 +1,9 @@
-Job: Join Elastic's Engineering Global Talent Community
+Job: InfoSec - Senior Response Automation Engineer
 Company: Elastic
-Location: Distributed, EMEA
+Location: United States
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=6020362&gh_jid=6020362
+Apply: https://jobs.elastic.co/jobs?gh_jid=7561871&gh_jid=7561871
 
 Description:
 

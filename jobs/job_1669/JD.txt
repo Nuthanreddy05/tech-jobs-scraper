@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Digital Native Business
+Job: Senior Solutions Engineer Digital Native Business
 Company: Cloudflare
-Location: Hybrid
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7380486?gh_jid=7380486
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7526029?gh_jid=7526029
 
 Description:
 

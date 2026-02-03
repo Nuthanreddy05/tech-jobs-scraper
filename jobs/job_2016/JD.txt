@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, DevTools
+Job: Senior Software Engineer, Data Migration
 Company: MongoDB
-Location: Dublin
+Location: California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7541590
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7449128
 
 Description:
 

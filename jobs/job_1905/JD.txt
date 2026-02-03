@@ -1,9 +1,9 @@
-Job: Senior Security Researcher - GenAI
+Job: Senior Security Engineer - Threat Detection Engineering
 Company: Datadog
-Location: Lisbon, Portugal
+Location: Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7538327/?gh_jid=7538327
+Apply: https://careers.datadoghq.com/detail/7521096/?gh_jid=7521096
 
 Description:
 

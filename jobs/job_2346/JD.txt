@@ -1,9 +1,9 @@
-Job: Developer Success Engineer 
+Job: Director of Trust & Safety Engineering
 Company: Vercel
-Location: Remote - United Kingdom, Germany
+Location: Hybrid - San Francisco
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5530586004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5719801004
 
 Description:
 

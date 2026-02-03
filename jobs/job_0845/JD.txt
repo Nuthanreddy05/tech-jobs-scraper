@@ -1,9 +1,9 @@
 Job: Senior Fullstack Product Software Engineer, DocSend
 Company: Dropbox
-Location: Remote - Canada: Select locations
+Location: Remote - US: Select locations
 Portal: greenhouse
 
-Apply: https://jobs.dropbox.com/listing/7469399?gh_jid=7469399
+Apply: https://jobs.dropbox.com/listing/7469396?gh_jid=7469396
 
 Description:
 

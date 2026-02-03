@@ -1,9 +1,9 @@
-Job: Senior Machine Learning Engineer II - AI Special Projects
+Job: Senior Machine Learning Engineer II,  AI Special Projects
 Company: Instacart
-Location: Canada - Remote (ON, AB, BC, or NS Only)
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7358005
+Apply: https://instacart.careers/job/?gh_jid=7561665
 
 Description:
 

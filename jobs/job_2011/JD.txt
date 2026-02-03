@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, C2C Services
+Job: Senior Software Engineer, Atlas Search Systems
 Company: MongoDB
-Location: Dublin
+Location: New York City
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7378959
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7488010
 
 Description:
 

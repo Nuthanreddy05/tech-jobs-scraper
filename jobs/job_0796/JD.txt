@@ -1,9 +1,9 @@
 Job: Data Scientist
 Company: Dropbox
-Location: Remote - US: Select locations
+Location: Remote - Canada: Select locations
 Portal: greenhouse
 
-Apply: https://jobs.dropbox.com/listing/7543836?gh_jid=7543836
+Apply: https://jobs.dropbox.com/listing/7543839?gh_jid=7543839
 
 Description:
 

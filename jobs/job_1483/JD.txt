@@ -1,9 +1,9 @@
-Job: Software Engineering Manager, Database Platform
+Job: Software Engineering Manager, Enterprise Platform
 Company: Instacart
-Location: Canada - Remote (ON, AB, BC, NS)
+Location: USA - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7559018
+Apply: https://instacart.careers/job/?gh_jid=7524952
 
 Description:
 

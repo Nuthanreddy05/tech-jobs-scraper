@@ -1,9 +1,9 @@
 Job: Staff Software Engineer, Storage
 Company: Reddit
-Location: Remote - United States
+Location: Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/reddit/jobs/7511679
+Apply: https://job-boards.greenhouse.io/reddit/jobs/7511698
 
 Description:
 

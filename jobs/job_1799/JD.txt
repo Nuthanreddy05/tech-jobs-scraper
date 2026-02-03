@@ -1,9 +1,9 @@
-Job: Systems Engineer, Gateway
+Job: Systems Engineer, Fullstack
 Company: Cloudflare
-Location: Hybrid
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7343763?gh_jid=7343763
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7421905?gh_jid=7421905
 
 Description:
 

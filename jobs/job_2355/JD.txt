@@ -1,9 +1,9 @@
-Job: Manager of Sales Engineering, Majors/Commercial - AMER
+Job: Product Engineer – v0
 Company: Vercel
-Location: Hybrid - San Francisco, New York City, Austin
+Location: Hybrid - San Francisco, New York City
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5631091004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5466858004
 
 Description:
 

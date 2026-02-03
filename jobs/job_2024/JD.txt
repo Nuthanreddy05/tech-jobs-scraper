@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, MongoDB Server Clusters and Interfaces
+Job: Senior Software Engineer, Inference Platform
 Company: MongoDB
-Location: United States
+Location: Palo Alto
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6749138
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7467701
 
 Description:
 

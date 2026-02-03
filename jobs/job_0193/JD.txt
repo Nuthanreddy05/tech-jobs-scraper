@@ -1,9 +1,9 @@
-Job: Machine Learning Research Engineer - Robotics
+Job: Machine Learning Research Engineer, GenAI Applied ML
 Company: Scale AI
-Location: San Francisco, CA
+Location: San Francisco, CA; New York, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4600908005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4490301005
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Specialist Solutions Engineer, Cloudflare One
+Job: Solutions Engineer, Zero Trust
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7551847?gh_jid=7551847
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7300402?gh_jid=7300402
 
 Description:
 

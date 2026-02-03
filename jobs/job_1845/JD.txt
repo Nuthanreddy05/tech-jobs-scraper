@@ -1,9 +1,9 @@
-Job: GTM Strategy and Operations Analyst
+Job: Federal Support Engineer 3 - Denver
 Company: Datadog
-Location: Mexico City, Mexico
+Location: Denver, Colorado, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7493037/?gh_jid=7493037
+Apply: https://careers.datadoghq.com/detail/7496388/?gh_jid=7496388
 
 Description:
 

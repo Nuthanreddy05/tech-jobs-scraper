@@ -1,9 +1,9 @@
 Job: Solutions Architect, Retail - CPG
 Company: Databricks
-Location: Central - United States
+Location: Northeast - United States
 Portal: greenhouse
 
-Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=6649865002
+Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Staff Android Engineer, Reservation Management & Additional Products
+Job: Staff Android Automation Engineer
 Company: Airbnb
-Location: Remote - USA
+Location: Brazil - Remote
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7539152?gh_jid=7539152
+Apply: https://careers.airbnb.com/positions/7380185?gh_jid=7380185
 
 Description:
 

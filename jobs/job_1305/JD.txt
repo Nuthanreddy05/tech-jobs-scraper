@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Backend - Financial Hub
+Job: Staff Software Engineer, Backend (Institutional - Foundations)
 Company: Coinbase
-Location: Remote - USA
+Location: Remote - Canada
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7482196?gh_jid=7482196
+Apply: https://www.coinbase.com/careers/positions/7395303?gh_jid=7395303
 
 Description:
 

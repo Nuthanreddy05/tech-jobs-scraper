@@ -1,9 +1,9 @@
-Job: Director of Engineering, v0
+Job: Engineering Manager, CDN
 Company: Vercel
-Location: Hybrid - New York City
+Location: Hybrid - San Francisco
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5777178004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5701765004
 
 Description:
 

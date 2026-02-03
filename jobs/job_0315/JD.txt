@@ -1,9 +1,9 @@
-Job: Staff Software Engineer - GenAI Systems
+Job: Staff Software Engineer, Experimentation Data
 Company: Airbnb
-Location: Remote - USA
+Location: Remote USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7373817?gh_jid=7373817
+Apply: https://careers.airbnb.com/positions/7306868?gh_jid=7306868
 
 Description:
 

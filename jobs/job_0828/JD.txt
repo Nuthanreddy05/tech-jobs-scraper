@@ -1,9 +1,9 @@
 Job: Senior Backend Product Software Engineer
 Company: Dropbox
-Location: Remote - US: Select locations
+Location: Remote - Canada: Select locations
 Portal: greenhouse
 
-Apply: https://jobs.dropbox.com/listing/6330345?gh_jid=6330345
+Apply: https://jobs.dropbox.com/listing/6330339?gh_jid=6330339
 
 Description:
 

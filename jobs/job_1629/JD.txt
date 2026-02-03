@@ -1,9 +1,9 @@
-Job: Senior Named Solutions Engineer, UKI
+Job: Senior Named Solutions Engineer, Public Sector   
 Company: Cloudflare
-Location: In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6539277?gh_jid=6539277
 
 Description:
 

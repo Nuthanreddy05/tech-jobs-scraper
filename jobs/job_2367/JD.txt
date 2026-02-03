@@ -1,9 +1,9 @@
-Job: Software Engineer, Accounts
+Job: Software Engineer, Builds
 Company: Vercel
-Location: Hybrid - Berlin
+Location: Remote - United Kingdom, Germany
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5431123004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5648078004
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Engineering Manager, Application Security Platform
+Job: Director, Security Sales Engineering
 Company: Datadog
-Location: New York, New York, USA
+Location: Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA; Seattle, Washington, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7476431/?gh_jid=7476431
+Apply: https://careers.datadoghq.com/detail/7534907/?gh_jid=7534907
 
 Description:
 

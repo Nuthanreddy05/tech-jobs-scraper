@@ -1,9 +1,9 @@
-Job: Machine Learning Research Engineer, Agents - Enterprise GenAI
+Job:  Machine Learning Research Engineer, Agent Data Foundation - Enterprise GenAI
 Company: Scale AI
 Location: San Francisco, CA; New York, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4625344005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4625345005
 
 Description:
 

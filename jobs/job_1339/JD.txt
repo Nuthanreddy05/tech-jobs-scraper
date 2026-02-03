@@ -1,9 +1,9 @@
-Job: Senior Data Analyst, Spending
+Job: Senior Data Analyst, Strategy Analytics
 Company: Chime
-Location: San Francisco, CA
+Location: New York, NY; San Francisco, CA; Chicago, IL
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8344077002?gh_jid=8344077002
+Apply: https://boards.greenhouse.io/chime/jobs/7938790002?gh_jid=7938790002
 
 Description:
 

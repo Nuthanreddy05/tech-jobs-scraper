@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Listings & Host Tools and AI
+Job: Staff Software Engineer, iOS Platform
 Company: Airbnb
-Location: United States
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7528577?gh_jid=7528577
+Apply: https://careers.airbnb.com/positions/7467354?gh_jid=7467354
 
 Description:
 

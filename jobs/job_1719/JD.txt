@@ -1,9 +1,9 @@
-Job: Senior Systems Engineer, Durable Objects DevEx
+Job: Senior Systems Engineer (DIA)
 Company: Cloudflare
-Location: Hybrid
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7408167?gh_jid=7408167
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7566807?gh_jid=7566807
 
 Description:
 

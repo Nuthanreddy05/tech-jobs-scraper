@@ -1,9 +1,9 @@
-Job: Software Engineer, Deployment Infrastructure
+Job: Software Engineer, Support Platform
 Company: Vercel
-Location: Hybrid - San Francisco, New York City
+Location: Hybrid - San Francisco
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5633880004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5611527004
 
 Description:
 

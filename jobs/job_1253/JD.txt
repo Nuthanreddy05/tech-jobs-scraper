@@ -1,9 +1,9 @@
-Job: Site Reliability Engineer - Platform
+Job: Software Engineer, Backend - Blockchain Platform (Blockchain Nodes)
 Company: Coinbase
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7576755?gh_jid=7576755
+Apply: https://www.coinbase.com/careers/positions/6674800?gh_jid=6674800
 
 Description:
 

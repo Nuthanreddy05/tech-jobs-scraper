@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Backend — Frontier Data
+Job: Senior Software Engineer, Agentic Data Products
 Company: Scale AI
-Location: San Francisco, CA; New York, NY
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4648525005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4653827005
 
 Description:
 

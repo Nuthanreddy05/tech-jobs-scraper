@@ -1,9 +1,9 @@
-Job: Solutions Architect, Applied AI (Industries)
+Job: Solutions Architect, Applied AI (Federal Civilian)
 Company: Anthropic
-Location: New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA
+Location: San Francisco, CA | New York City, NY | Washington, DC
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4461444008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5079540008
 
 Description:
 

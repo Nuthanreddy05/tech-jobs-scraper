@@ -1,9 +1,9 @@
-Job: Compensation Programs -  Senior Analyst
+Job: Core Engine Developer - Systems (C++)
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7523941?gh_jid=7523941
+Apply: https://careers.roblox.com/jobs/7561736?gh_jid=7561736
 
 Description:
 

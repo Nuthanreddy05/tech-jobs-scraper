@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Growth
+Job: Senior Software Engineer, Infrastructure
 Company: Chime
 Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8112504002?gh_jid=8112504002
+Apply: https://boards.greenhouse.io/chime/jobs/8384277002?gh_jid=8384277002
 
 Description:
 

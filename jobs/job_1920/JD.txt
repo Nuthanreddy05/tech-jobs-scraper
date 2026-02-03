@@ -1,9 +1,9 @@
-Job: Staff GenAI Engineer - Application Performance Monitoring (APM)
+Job: Staff AI Engineer - Notebooks 
 Company: Datadog
-Location: New York, New York, USA
+Location: Lisbon, Portugal
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985
+Apply: https://careers.datadoghq.com/detail/7574626/?gh_jid=7574626
 
 Description:
 

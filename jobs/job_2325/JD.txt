@@ -1,9 +1,9 @@
-Job: Engineering Manager, Localization 
+Job: Security Trust Analyst - East
 Company: Webflow
-Location: CA Remote (BC & ON only); U.S. Remote
+Location: U.S. Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7074561
+Apply: https://job-boards.greenhouse.io/webflow/jobs/7531178
 
 Description:
 

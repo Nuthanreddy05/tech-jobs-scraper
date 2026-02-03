@@ -1,9 +1,9 @@
-Job: Threat Collections Engineer
+Job: Support Operations Analyst
 Company: Anthropic
-Location: Remote-Friendly (Travel-Required) | San Francisco, CA | Washington, DC
+Location: San Francisco, CA | New York City, NY | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5074937008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5080931008
 
 Description:
 

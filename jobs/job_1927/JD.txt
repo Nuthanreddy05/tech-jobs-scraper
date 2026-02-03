@@ -1,9 +1,9 @@
-Job: Staff Software Engineer - Frontend
+Job: Staff Software Engineer – Fabric
 Company: Datadog
 Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7375183/?gh_jid=7375183
+Apply: https://careers.datadoghq.com/detail/7558056/?gh_jid=7558056
 
 Description:
 

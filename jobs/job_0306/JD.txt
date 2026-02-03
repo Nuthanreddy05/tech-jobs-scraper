@@ -1,9 +1,9 @@
-Job: Staff GenAI System Engineer, Automation Foundation
+Job: Staff Fullstack Software Engineer, Marketing Technology
 Company: Airbnb
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7463421?gh_jid=7463421
+Apply: https://careers.airbnb.com/positions/7554915?gh_jid=7554915
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Manager Solutions Engineer
+Job: Senior Manager, Solutions Architecture , AI & Developer Platform
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7553460?gh_jid=7553460
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7469508?gh_jid=7469508
 
 Description:
 

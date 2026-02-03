@@ -1,9 +1,9 @@
-Job: Software Engineer, Android
+Job: Software Engineer, Backend (Superhuman Mail)
 Company: Grammarly
-Location: Berlin; Hybrid
+Location: San Francisco or Remote (US, Canada, Argentina, Brazil, Mexico)
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/6624431
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/7339557
 
 Description:
 

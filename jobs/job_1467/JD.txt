@@ -1,9 +1,9 @@
-Job: Senior Software Engineering Manager, AI & Developer Productivity
+Job: Senior Software Engineering Manager, AI Experiences
 Company: Instacart
-Location: United States - Remote
+Location: USA - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7260421
+Apply: https://instacart.careers/job/?gh_jid=7429459
 
 Description:
 

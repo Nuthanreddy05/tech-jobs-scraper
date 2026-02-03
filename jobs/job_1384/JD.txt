@@ -1,9 +1,9 @@
-Job: Technical Program Manager, AI Research
-Company: Figma
-Location: San Francisco, CA • New York, NY • United States
+Job: Analytics Engineer, Product Analytics
+Company: Airtable
+Location: San Francisco,CA; New York City, NY
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/figma/jobs/5707695004?gh_jid=5707695004
+Apply: https://job-boards.greenhouse.io/airtable/jobs/8112284002
 
 Description:
 

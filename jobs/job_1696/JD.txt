@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Majors, Seattle 
+Job: Senior Solutions Engineer, Majors, San Francisco
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7551587?gh_jid=7551587
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7551589?gh_jid=7551589
 
 Description:
 

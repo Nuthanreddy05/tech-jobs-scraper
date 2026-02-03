@@ -1,9 +1,9 @@
-Job: Mid-Market Sales Engineer (Spanish-speaking)
+Job: Mid-Market Sales Engineer (Italian-speaking)
 Company: Datadog
-Location: Amsterdam, The Netherlands; Dublin, Ireland
+Location: Italy, Remote
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7438564/?gh_jid=7438564
+Apply: https://careers.datadoghq.com/detail/7491989/?gh_jid=7491989
 
 Description:
 

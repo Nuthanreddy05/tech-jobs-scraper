@@ -1,9 +1,9 @@
-Job: Software Engineer, Frontend (Consumer - Coinbase One)
+Job: Software Engineer, Frontend (Consumer - Growth)
 Company: Coinbase
-Location: Remote - USA
+Location: Remote - Canada
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7135192?gh_jid=7135192
+Apply: https://www.coinbase.com/careers/positions/6652883?gh_jid=6652883
 
 Description:
 

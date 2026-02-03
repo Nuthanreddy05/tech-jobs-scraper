@@ -1,9 +1,9 @@
-Job: Engineering Manager, AI Product
+Job: Internal Airtable Solution Architect
 Company: Airtable
-Location: San Francisco, CA
+Location: Remote - US
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/airtable/jobs/8385135002
+Apply: https://job-boards.greenhouse.io/airtable/jobs/8227686002
 
 Description:
 

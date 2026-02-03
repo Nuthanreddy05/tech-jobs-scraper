@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Claude Developer Platform (Backend)
+Job: Staff Software Engineer, Build Systems
 Company: Anthropic
-Location: New York City, NY; San Francisco, CA
+Location: San Francisco, CA | New York City, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4988878008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5103029008
 
 Description:
 

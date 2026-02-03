@@ -1,9 +1,9 @@
-Job: Senior Product Security Engineer
+Job: Senior Product Manager, Search Platform
 Company: MongoDB
-Location: Dublin
+Location: New York City; Palo Alto; San Francisco; United States
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7484919
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7409201
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Identity and Access Management
+Job: Senior Software Engineer, Frontend Platform
 Company: MongoDB
-Location: Toronto
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7059646
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7283434
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Principal Staff Developer Advocate
+Job: Principal Research Scientist, Database Systems
 Company: MongoDB
-Location: APAC
+Location: New York City; Palo Alto
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6381035
+Apply: https://www.mongodb.com/careers/job/?gh_jid=6819978
 
 Description:
 

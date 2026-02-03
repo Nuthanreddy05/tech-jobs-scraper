@@ -1,9 +1,9 @@
 Job: Senior Software Security Engineer
 Company: Anthropic
-Location: Zürich, CH
+Location: New York City, NY; San Francisco, CA; Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5056795008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4887959008
 
 Description:
 

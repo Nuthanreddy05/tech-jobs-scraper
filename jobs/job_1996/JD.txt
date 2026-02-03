@@ -1,9 +1,9 @@
-Job: Senior Product Manager, Python Developer Experience
+Job: Senior Product Manager, Growth & Developer Experience
 Company: MongoDB
-Location: Dublin
+Location: Austin; Boston; Chicago; Dallas; Houston; Miami; New York City; United States
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7378931
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7280325
 
 Description:
 

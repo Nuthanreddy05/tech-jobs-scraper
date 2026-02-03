@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Frontend and AI
+Job: Senior Software Engineer, Forward Deployed AI Engineer
 Company: MongoDB
-Location: New York City
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7304325
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7392902
 
 Description:
 

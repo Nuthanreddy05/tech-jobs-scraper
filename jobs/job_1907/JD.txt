@@ -1,9 +1,9 @@
-Job: Senior Software Engineer - AI Code Gen - Agent Engineer
+Job: Senior Software Engineer 
 Company: Datadog
-Location: New York, New York, USA
+Location: Boston, Massachusetts, USA; New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7107875/?gh_jid=7107875
+Apply: https://careers.datadoghq.com/detail/3851935/?gh_jid=3851935
 
 Description:
 

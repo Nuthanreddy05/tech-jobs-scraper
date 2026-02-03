@@ -1,9 +1,9 @@
-Job: Mobile Engineer
+Job: Sales Engineer
 Company: Vercel
-Location: Hybrid - New York City
+Location: Hybrid - San Francisco, New York City
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5719796004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5347669004
 
 Description:
 

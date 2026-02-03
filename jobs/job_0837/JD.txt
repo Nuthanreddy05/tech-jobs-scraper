@@ -1,9 +1,9 @@
 Job: Senior Engineering Manager, Core AI Platform
 Company: Dropbox
-Location: Remote - Canada: Select locations
+Location: Remote - US: All locations
 Portal: greenhouse
 
-Apply: https://jobs.dropbox.com/listing/7344922?gh_jid=7344922
+Apply: https://jobs.dropbox.com/listing/7344918?gh_jid=7344918
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Data Engineer, Catalog
+Job: Senior Data Engineer, Finance
 Company: Instacart
 Location: Canada - Remote (ON, AB, BC, or NS Only)
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7564714
+Apply: https://instacart.careers/job/?gh_jid=7532386
 
 Description:
 

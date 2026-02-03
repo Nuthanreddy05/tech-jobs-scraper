@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineering Manager, West
+Job: Senior Solutions Engineering Manager, Southeastern States 
 Company: Cloudflare
 Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7528276?gh_jid=7528276
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7562152?gh_jid=7562152
 
 Description:
 

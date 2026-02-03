@@ -1,9 +1,9 @@
-Job: Training Content and Systems Architect
+Job: TPU Kernel Engineer
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY
+Location: San Francisco, CA | New York City, NY | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5097351008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4720576008
 
 Description:
 

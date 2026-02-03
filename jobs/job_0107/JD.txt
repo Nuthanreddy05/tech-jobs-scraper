@@ -1,9 +1,9 @@
-Job: Security Risk & Compliance, Cloud & Data Centers
+Job: Security Engineer, Detection & Response
 Company: Anthropic
 Location: San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5070425008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4982193008
 
 Description:
 

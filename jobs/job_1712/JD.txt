@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer Specialist
+Job: Senior Solutions Engineer, SLED
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7490367?gh_jid=7490367
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7530553?gh_jid=7530553
 
 Description:
 

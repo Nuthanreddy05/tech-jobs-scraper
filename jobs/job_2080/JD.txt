@@ -1,9 +1,9 @@
-Job: AI Research Scientist
-Company: Elastic
-Location: Spain
+Job: Win/Loss & Customer Insight Analyst
+Company: MongoDB
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7375635&gh_jid=7375635
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7477073
 
 Description:
 

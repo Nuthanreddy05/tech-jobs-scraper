@@ -1,9 +1,9 @@
-Job: Senior Platform Engineering Manager
+Job: Senior Software Engineer, Backend
 Company: Duolingo
 Location: Pittsburgh, PA
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8390632002?gh_jid=8390632002
+Apply: https://careers.duolingo.com/jobs/8328205002?gh_jid=8328205002
 
 Description:
 

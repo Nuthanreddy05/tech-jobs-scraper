@@ -1,9 +1,9 @@
-Job: Strategy and Business Growth Lead, Airbnb Experiences
+Job: Staff Software Engineer, Technical Lead - KV Stores & Caching
 Company: Airbnb
-Location: Sydney, Australia
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7582121?gh_jid=7582121
+Apply: https://careers.airbnb.com/positions/7527285?gh_jid=7527285
 
 Description:
 

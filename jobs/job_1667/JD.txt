@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Delhi NCR
+Job: Senior Solutions Engineer - Calgary 
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7203676?gh_jid=7203676
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7435457?gh_jid=7435457
 
 Description:
 

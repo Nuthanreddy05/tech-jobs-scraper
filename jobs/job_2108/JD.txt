@@ -1,9 +1,9 @@
-Job: Observability - Senior Software Engineer (Go/CI)
+Job: Manager, Salesforce Revenue Cloud
 Company: Elastic
-Location: Spain
+Location: United States
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7525644&gh_jid=7525644
+Apply: https://jobs.elastic.co/jobs?gh_jid=7550487&gh_jid=7550487
 
 Description:
 

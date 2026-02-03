@@ -1,9 +1,9 @@
-Job: Platform Observability - Senior Manager, Software Engineering
+Job: Platform - Engineering Productivity -  Engineering Manager 
 Company: Elastic
-Location: United States
+Location: Spain
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7477434&gh_jid=7477434
+Apply: https://jobs.elastic.co/jobs?gh_jid=7129934&gh_jid=7129934
 
 Description:
 

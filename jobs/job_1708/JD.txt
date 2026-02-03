@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer - Russian Speaking
+Job: Senior Solutions Engineer, Public Sector Federal
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7275868?gh_jid=7275868
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475
 
 Description:
 

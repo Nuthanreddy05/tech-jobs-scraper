@@ -1,9 +1,9 @@
-Job: Site Reliability Engineer (Senior or Staff), Observability
+Job: Site Reliability Engineer (Senior or Staff), Infrastructure Security
 Company: MongoDB
-Location: Austin; Boston; Chicago; New York City; Pittsburgh; United States; Washington DC
+Location: Ireland
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6711349
+Apply: https://www.mongodb.com/careers/job/?gh_jid=6865004
 
 Description:
 

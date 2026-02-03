@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Guest & Host
+Job: Senior Software Engineer, Guest Displays & Platform
 Company: Airbnb
-Location: Remote, USA
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7430121?gh_jid=7430121
+Apply: https://careers.airbnb.com/positions/7551565?gh_jid=7551565
 
 Description:
 

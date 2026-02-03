@@ -1,9 +1,9 @@
-Job: Staff Risk Analyst
+Job: Staff Software Engineer - AI Growth Lead
 Company: Coinbase
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7317917?gh_jid=7317917
+Apply: https://www.coinbase.com/careers/positions/7575042?gh_jid=7575042
 
 Description:
 

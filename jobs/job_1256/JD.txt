@@ -1,9 +1,9 @@
-Job: Software Engineer, Backend - (Coinbase for Business)
+Job: Software Engineer, Backend (Consumer)
 Company: Coinbase
-Location: Remote - Canada
+Location: Remote - UK
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7578498?gh_jid=7578498
+Apply: https://www.coinbase.com/careers/positions/5954689?gh_jid=5954689
 
 Description:
 

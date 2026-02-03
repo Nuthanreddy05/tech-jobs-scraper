@@ -1,9 +1,9 @@
-Job: Software Engineer, Full-stack (EAA)
+Job: Software Engineer, Full Stack (EAA)
 Company: Coinbase
-Location: Remote - India
+Location: Remote - Brazil
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/5739771?gh_jid=5739771
+Apply: https://www.coinbase.com/careers/positions/7584070?gh_jid=7584070
 
 Description:
 

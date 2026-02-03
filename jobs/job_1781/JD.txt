@@ -1,9 +1,9 @@
-Job: Solutions Engineer - Mid-Market
+Job: Solutions Engineer, Middle East - Turkish Speaking
 Company: Cloudflare
-Location: Distributed
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7524885?gh_jid=7524885
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7375134?gh_jid=7375134
 
 Description:
 

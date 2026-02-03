@@ -1,9 +1,9 @@
-Job: Senior Software Engineer - Cloudflare One
+Job: Senior Software Engineer —  Client Mobile and Desktop Apps
 Company: Cloudflare
-Location: In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7116731?gh_jid=7116731
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7243935?gh_jid=7243935
 
 Description:
 

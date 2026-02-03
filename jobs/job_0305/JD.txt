@@ -1,9 +1,9 @@
-Job: Staff Fullstack Software Engineer, Marketing Technology
+Job: Staff Fullstack Engineer, Reservation Management
 Company: Airbnb
-Location: Remote - USA
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7554915?gh_jid=7554915
+Apply: https://careers.airbnb.com/positions/7385025?gh_jid=7385025
 
 Description:
 

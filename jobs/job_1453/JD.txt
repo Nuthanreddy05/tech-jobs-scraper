@@ -1,9 +1,9 @@
-Job: Senior Sales Engineer
+Job: Senior Site Reliability Engineer II 
 Company: Instacart
-Location: United States - Remote
+Location: Canada - Remote (BC, ON, AB, or NS only)
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7341724
+Apply: https://instacart.careers/job/?gh_jid=6957204
 
 Description:
 

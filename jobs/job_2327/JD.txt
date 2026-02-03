@@ -1,9 +1,9 @@
-Job: Principal Product Manager, AI
+Job: Senior Database Engineer
 Company: Webflow
-Location: CA Remote (BC & ON only); U.S. Remote
+Location: Argentina Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7456857
+Apply: https://job-boards.greenhouse.io/webflow/jobs/7293932
 
 Description:
 

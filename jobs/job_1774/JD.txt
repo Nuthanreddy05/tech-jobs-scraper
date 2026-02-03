@@ -1,9 +1,9 @@
-Job: Solutions Engineer, Benelux
+Job: Solutions Engineer
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7515259?gh_jid=7515259
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7242541?gh_jid=7242541
 
 Description:
 

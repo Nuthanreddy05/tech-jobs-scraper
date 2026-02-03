@@ -1,9 +1,9 @@
 Job: Senior Application Security Engineer
 Company: Brex
-Location: New York, New York, United States
+Location: Seattle, Washington, United States
 Portal: greenhouse
 
-Apply: https://www.brex.com/careers/8249885002?gh_jid=8249885002
+Apply: https://www.brex.com/careers/8249884002?gh_jid=8249884002
 
 Description:
 

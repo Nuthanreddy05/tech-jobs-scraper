@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Backend - Customer Experience Team
+Job: Staff Software Engineer, Backend - Financial Hub
 Company: Coinbase
-Location: Remote - India
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/4969310?gh_jid=4969310
+Apply: https://www.coinbase.com/careers/positions/7482196?gh_jid=7482196
 
 Description:
 

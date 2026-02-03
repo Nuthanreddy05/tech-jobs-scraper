@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Inference
+Job: Staff+ Software Engineer, Data Infrastructure
 Company: Anthropic
-Location: Dublin, IE
+Location: San Francisco, CA | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4979237008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4941204008
 
 Description:
 

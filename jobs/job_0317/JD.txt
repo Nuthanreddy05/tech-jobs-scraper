@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Host Pricing & Settings
+Job: Staff Software Engineer, Growth Platform
 Company: Airbnb
-Location: Remote, USA
+Location: Remote, USA 
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7373734?gh_jid=7373734
+Apply: https://careers.airbnb.com/positions/6886222?gh_jid=6886222
 
 Description:
 

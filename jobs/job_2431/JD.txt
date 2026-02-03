@@ -1,9 +1,9 @@
-Job: Senior Site Reliability Engineer
+Job: Staff Data Scientist, Forecasting in Monetization
 Company: Duolingo
 Location: New York, NY
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8100021002?gh_jid=8100021002
+Apply: https://careers.duolingo.com/jobs/8385155002?gh_jid=8385155002
 
 Description:
 

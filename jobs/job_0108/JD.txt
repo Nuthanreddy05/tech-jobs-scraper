@@ -1,9 +1,9 @@
-Job: Security Software Engineer, D&R Platform
+Job: Security Risk & Compliance, Cloud & Data Centers
 Company: Anthropic
 Location: San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4595463008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5070425008
 
 Description:
 

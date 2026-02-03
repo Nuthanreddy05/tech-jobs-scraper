@@ -1,9 +1,9 @@
-Job: AI Product Manager
+Job: AI Infrastructure Engineer, Model Serving Platform
 Company: Scale AI
-Location: San Francisco, CA
+Location: San Francisco, CA; New York, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4611776005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4520320005
 
 Description:
 

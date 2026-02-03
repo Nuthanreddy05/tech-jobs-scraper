@@ -1,9 +1,9 @@
-Job: Software Engineering Manager, Enterprise Platform
+Job: Staff Machine Learning Engineer  - Inventory Intelligence
 Company: Instacart
-Location: USA - Remote
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7524952
+Apply: https://instacart.careers/job/?gh_jid=7411487
 
 Description:
 

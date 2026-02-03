@@ -1,9 +1,9 @@
 Job: Android Software Engineer, Ad Formats
 Company: Reddit
-Location: New York City, NY
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/reddit/jobs/7415013
+Apply: https://job-boards.greenhouse.io/reddit/jobs/7414993
 
 Description:
 

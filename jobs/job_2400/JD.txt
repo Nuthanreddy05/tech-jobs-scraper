@@ -1,9 +1,9 @@
-Job: Software Engineer, Back-End
+Job: Software Engineer, Data Engineering
 Company: Grammarly
-Location: Kyiv; Hybrid
+Location: New York City; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/6467233
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/7336882
 
 Description:
 

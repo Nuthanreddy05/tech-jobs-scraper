@@ -1,9 +1,9 @@
 Job: Senior Software Engineer, Android Test Engineering
 Company: Reddit
-Location: San Francisco, CA
+Location: New York City, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/reddit/jobs/7488986
+Apply: https://job-boards.greenhouse.io/reddit/jobs/7488992
 
 Description:
 

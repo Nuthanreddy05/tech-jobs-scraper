@@ -1,9 +1,9 @@
-Job: Technical Support Engineer 2
+Job: Technical Support Engineer 1 - Sao Paulo
 Company: Datadog
-Location: Seoul, South Korea
+Location: Sao Paulo, Brazil
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7477573/?gh_jid=7477573
+Apply: https://careers.datadoghq.com/detail/7477740/?gh_jid=7477740
 
 Description:
 

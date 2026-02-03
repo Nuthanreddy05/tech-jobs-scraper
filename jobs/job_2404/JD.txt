@@ -1,9 +1,9 @@
-Job: Software Engineer, Frontend
+Job: Software Engineer, Frontend (Latin America)
 Company: Grammarly
-Location: San Francisco or Remote (US, Canada, Argentina, Brazil, Mexico)
+Location: LATAM; Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7271992
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/7339850
 
 Description:
 

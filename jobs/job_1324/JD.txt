@@ -1,9 +1,9 @@
-Job: Backend Engineer
+Job: Data Analyst, Lending
 Company: Chime
 Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8342770002?gh_jid=8342770002
+Apply: https://boards.greenhouse.io/chime/jobs/8365502002?gh_jid=8365502002
 
 Description:
 

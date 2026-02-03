@@ -1,9 +1,9 @@
-Job: Software Engineer, Business Technology 
+Job: Software Engineer, Beneficial Deployments 
 Company: Anthropic
-Location: Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA
+Location: San Francisco, CA | New York City, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4982198008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4942024008
 
 Description:
 

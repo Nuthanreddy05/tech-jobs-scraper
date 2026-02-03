@@ -1,9 +1,9 @@
-Job: Software Engineer, Full-Stack - Platform Team
-Company: Grammarly
-Location: Berlin; Hybrid
+Job: AI Research Engineer, New PhD Graduate
+Company: Duolingo
+Location: New York, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/6429372
+Apply: https://careers.duolingo.com/jobs/8169815002?gh_jid=8169815002
 
 Description:
 

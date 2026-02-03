@@ -1,9 +1,9 @@
-Job: Principal Research Scientist, Database Systems
+Job: Practice Engineer, AMP
 Company: MongoDB
-Location: New York City; Palo Alto
+Location: Bengaluru
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6819978
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7471899
 
 Description:
 

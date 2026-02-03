@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Benelux
+Job: Senior Solutions Engineer
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7515330?gh_jid=7515330
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7404585?gh_jid=7404585
 
 Description:
 

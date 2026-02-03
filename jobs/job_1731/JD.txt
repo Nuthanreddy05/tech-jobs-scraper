@@ -1,9 +1,9 @@
-Job: SOC Analyst
+Job: Senior Threat Intelligence Engineer
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7528097?gh_jid=7528097
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7558153?gh_jid=7558153
 
 Description:
 

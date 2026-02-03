@@ -1,9 +1,9 @@
-Job: Sr. People Data Analyst
+Job: Sr. Program Manager, Gen AI Governance
 Company: Chime
-Location: San Francisco, CA
+Location: US - Remote
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8338101002?gh_jid=8338101002
+Apply: https://boards.greenhouse.io/chime/jobs/8375572002?gh_jid=8375572002
 
 Description:
 

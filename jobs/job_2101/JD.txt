@@ -1,9 +1,9 @@
-Job: GenAI Tech Lead
+Job: Elasticsearch - Vector Search - Principal Software Engineer I
 Company: Elastic
 Location: United States
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7437714&gh_jid=7437714
+Apply: https://jobs.elastic.co/jobs?gh_jid=7574131&gh_jid=7574131
 
 Description:
 

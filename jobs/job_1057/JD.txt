@@ -1,9 +1,9 @@
 Job: Senior Application Security Engineer
 Company: Brex
-Location: San Francisco, California, United States
+Location: New York, New York, United States
 Portal: greenhouse
 
-Apply: https://www.brex.com/careers/8249658002?gh_jid=8249658002
+Apply: https://www.brex.com/careers/8249885002?gh_jid=8249885002
 
 Description:
 

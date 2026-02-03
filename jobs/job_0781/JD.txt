@@ -1,9 +1,9 @@
 Job: Staff Technical Writer, Platform
 Company: Databricks
-Location: Seattle, Washington
+Location: San Francisco, California
 Portal: greenhouse
 
-Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8026857002
+Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8025165002
 
 Description:
 

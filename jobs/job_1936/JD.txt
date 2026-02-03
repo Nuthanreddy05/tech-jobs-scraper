@@ -1,9 +1,9 @@
-Job: Technical Support Engineer 2, Premier
+Job: Technical Support Engineer 2
 Company: Datadog
-Location: Sydney, Australia
+Location: Seoul, South Korea
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7255265/?gh_jid=7255265
+Apply: https://careers.datadoghq.com/detail/7477573/?gh_jid=7477573
 
 Description:
 

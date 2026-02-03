@@ -1,9 +1,9 @@
-Job: Manager I, Developer Advocacy
+Job: Manager, Commercial Sales Engineering (EMEA - North)
 Company: Datadog
-Location: Canada, Remote
+Location: Dublin, Ireland
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7440560/?gh_jid=7440560
+Apply: https://careers.datadoghq.com/detail/7496493/?gh_jid=7496493
 
 Description:
 

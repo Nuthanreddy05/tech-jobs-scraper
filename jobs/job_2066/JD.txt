@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Networking & Observability
+Job: Staff Software Engineer, Atlas Growth
 Company: MongoDB
-Location: Seattle; United States
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7264736
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7411430
 
 Description:
 

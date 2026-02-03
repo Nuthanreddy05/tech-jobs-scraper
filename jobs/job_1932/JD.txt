@@ -1,9 +1,9 @@
-Job: Technical Support Engineer 1 - 2
+Job: Technical Escalations Engineer 3 (Internal Developer Portal) - US-East
 Company: Datadog
-Location: Seoul, South Korea
+Location: Boston, Massachusetts, USA; New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/6882229/?gh_jid=6882229
+Apply: https://careers.datadoghq.com/detail/7536159/?gh_jid=7536159
 
 Description:
 

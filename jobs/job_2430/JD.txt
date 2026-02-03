@@ -1,9 +1,9 @@
-Job: Senior Site Reliability Engineer
+Job: Staff Android Engineer, Client Architecture
 Company: Duolingo
-Location: Pittsburgh, PA
+Location: New York, NY
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8100002002?gh_jid=8100002002
+Apply: https://careers.duolingo.com/jobs/8102231002?gh_jid=8102231002
 
 Description:
 

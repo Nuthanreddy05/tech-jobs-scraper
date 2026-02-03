@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Backend
+Job: Staff Data Scientist, New Subjects
 Company: Duolingo
 Location: Pittsburgh, PA
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8328205002?gh_jid=8328205002
+Apply: https://careers.duolingo.com/jobs/8391444002?gh_jid=8391444002
 
 Description:
 

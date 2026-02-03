@@ -1,9 +1,9 @@
-Job: Systems Engineer, Frontend
+Job: Systems Engineer, FL
 Company: Cloudflare
-Location: In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7436794?gh_jid=7436794
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7251646?gh_jid=7251646
 
 Description:
 

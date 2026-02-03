@@ -1,9 +1,9 @@
-Job: AI Infrastructure Engineer, Model Serving Platform
+Job: AI Infrastructure Engineer, Core Infrastructure
 Company: Scale AI
-Location: San Francisco, CA; New York, NY
+Location: San Francisco, CA; Seattle, WA; New York, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4520320005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4624681005
 
 Description:
 

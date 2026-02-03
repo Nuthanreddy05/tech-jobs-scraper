@@ -1,9 +1,9 @@
-Job: 2026 - Internal AI Product Management Intern, Palo Alto
+Job: 2026 - Information Security Engineering Intern, Seattle
 Company: MongoDB
-Location: Palo Alto
+Location: Seattle
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7336095
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7292751
 
 Description:
 

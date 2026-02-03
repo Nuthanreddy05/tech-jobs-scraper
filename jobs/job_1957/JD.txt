@@ -1,9 +1,9 @@
-Job: Lead Engineer, Query
+Job: Lead Engineer, Online Archive Storage Systems
 Company: MongoDB
-Location: Alberta; British Columbia; Calgary; Edmonton; Manitoba; Nova Scotia; Ontario; Quebec; Toronto; Vancouver
+Location: New York City; San Francisco; Seattle
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7481204
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7316445
 
 Description:
 

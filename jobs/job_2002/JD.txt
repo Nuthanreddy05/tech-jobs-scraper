@@ -1,9 +1,9 @@
-Job: Senior Research Scientist, Voyage AI
+Job: Senior Product Security Engineer, Server
 Company: MongoDB
-Location: Palo Alto
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7365646
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7484912
 
 Description:
 

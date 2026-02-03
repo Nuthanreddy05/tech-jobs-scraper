@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Build Systems
+Job: Staff Research Engineer, Discovery Team
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5103029008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4593216008
 
 Description:
 

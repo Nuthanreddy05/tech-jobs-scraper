@@ -1,9 +1,9 @@
-Job: Software Engineer, Accelerator Build Infrastructure
+Job: Senior/Staff Software Engineer, Inference
 Company: Anthropic
-Location: San Francisco, CA | Seattle, WA
+Location: New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA; Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4943668008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4951696008
 
 Description:
 

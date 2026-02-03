@@ -1,9 +1,9 @@
-Job: Lead, Engineering
+Job: Lead Engineer, Inference Platform
 Company: MongoDB
-Location: Gurugram
+Location: Palo Alto; Seattle
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7541875
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7195895
 
 Description:
 

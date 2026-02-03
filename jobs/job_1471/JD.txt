@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Marketing Enablement & Technology
+Job: Senior Software Engineer, Marketing Enablement & Technology (Full Stack)
 Company: Instacart
 Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7477726
+Apply: https://instacart.careers/job/?gh_jid=7477696
 
 Description:
 

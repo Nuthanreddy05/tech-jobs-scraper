@@ -1,9 +1,9 @@
-Job: Staff+ Software Engineer, Data Infrastructure
+Job: Staff+ Software Engineer, Databases
 Company: Anthropic
-Location: San Francisco, CA | Seattle, WA
+Location: San Francisco, CA | New York City, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4941204008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4970463008
 
 Description:
 

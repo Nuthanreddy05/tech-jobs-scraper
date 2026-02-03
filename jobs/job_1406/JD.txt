@@ -1,9 +1,9 @@
-Job: AV Engineer (Contractor)
+Job: Business Systems Analyst II - Order to Cash (O2C)
 Company: Instacart
-Location: San Francisco, CA
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7415809
+Apply: https://instacart.careers/job/?gh_jid=7284371
 
 Description:
 

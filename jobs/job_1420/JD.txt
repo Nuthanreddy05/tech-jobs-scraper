@@ -1,9 +1,9 @@
-Job: iOS Engineer II, Transaction Platform 
+Job: Machine Learning Engineer II, Economics
 Company: Instacart
-Location: Canada - Remote (ON, AB, BC, or NS Only)
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7545699
+Apply: https://instacart.careers/job/?gh_jid=7565189
 
 Description:
 

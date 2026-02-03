@@ -1,9 +1,9 @@
-Job: Senior Data Analyst, Strategy Analytics
+Job: Senior Data Analyst, Trust & Safety
 Company: Chime
-Location: New York, NY; San Francisco, CA; Chicago, IL
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/7938790002?gh_jid=7938790002
+Apply: https://boards.greenhouse.io/chime/jobs/8344063002?gh_jid=8344063002
 
 Description:
 

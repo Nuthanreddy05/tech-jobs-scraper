@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Backend (Institutional - Foundations)
+Job: Staff Software Engineer, Backend - Platform (Core Automation)
 Company: Coinbase
-Location: Remote - Canada
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7395303?gh_jid=7395303
+Apply: https://www.coinbase.com/careers/positions/7462710?gh_jid=7462710
 
 Description:
 

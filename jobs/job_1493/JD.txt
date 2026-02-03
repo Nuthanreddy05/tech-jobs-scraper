@@ -1,9 +1,9 @@
-Job: Application Security Engineer
+Job: Billing Systems Analyst 
 Company: Cloudflare
-Location: Hybrid; In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7185996?gh_jid=7185996
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6819455?gh_jid=6819455
 
 Description:
 

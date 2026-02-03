@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Growth Platform
+Job: Staff Software Engineer - GenAI Systems
 Company: Airbnb
-Location: Remote, USA 
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/6886222?gh_jid=6886222
+Apply: https://careers.airbnb.com/positions/7373817?gh_jid=7373817
 
 Description:
 

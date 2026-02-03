@@ -1,9 +1,9 @@
-Job: Platform Observability - Senior Manager, Software Engineering
+Job: Platform - Principal Software Engineer (Billing Team)
 Company: Elastic
 Location: Spain
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7550814&gh_jid=7550814
+Apply: https://jobs.elastic.co/jobs?gh_jid=7386030&gh_jid=7386030
 
 Description:
 

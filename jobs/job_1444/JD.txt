@@ -1,9 +1,9 @@
-Job: Senior Machine Learning Engineer II, Growth Modeling
+Job: Senior Machine Learning Engineer II, Search & Personalization
 Company: Instacart
-Location: USA - Remote
+Location: Canada - Remote (AB, BC, ON, NS ONLY)
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7566001
+Apply: https://instacart.careers/job/?gh_jid=6716788
 
 Description:
 

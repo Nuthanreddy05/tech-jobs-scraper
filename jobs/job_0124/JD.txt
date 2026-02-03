@@ -1,9 +1,9 @@
-Job: Software Engineer, Android
+Job: Software Engineer, Accelerator Build Infrastructure
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY | Seattle, WA
+Location: San Francisco, CA | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4899511008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4943668008
 
 Description:
 

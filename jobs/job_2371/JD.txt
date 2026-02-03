@@ -1,9 +1,9 @@
-Job: Software Engineer, CDN
+Job: Software Engineer, CI/CD
 Company: Vercel
-Location: Hybrid - San Francisco, New York City
+Location: Hybrid - New York City
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5179639004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5532030004
 
 Description:
 

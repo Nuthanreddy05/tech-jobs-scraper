@@ -1,9 +1,9 @@
-Job: Director, Channels - Global Systems Integrators
+Job: Deal Desk Analyst - EMEA
 Company: Datadog
-Location: Boston, Massachusetts, USA; Chicago, Illinois, USA; Denver, Colorado, USA; New York, New York, USA; San Francisco, California, USA
+Location: Amsterdam, The Netherlands; Dublin, Ireland
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7484127/?gh_jid=7484127
+Apply: https://careers.datadoghq.com/detail/7420695/?gh_jid=7420695
 
 Description:
 

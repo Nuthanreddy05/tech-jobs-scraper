@@ -1,9 +1,9 @@
-Job: Product Manager, Communications Platform
+Job: Product Manager, Internal AI
 Company: Chime
-Location: San Francisco, CA
+Location: San Francisco, CA; New York, NY; Chicago, IL
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/7915787002?gh_jid=7915787002
+Apply: https://boards.greenhouse.io/chime/jobs/8332735002?gh_jid=8332735002
 
 Description:
 

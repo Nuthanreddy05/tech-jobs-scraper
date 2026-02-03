@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Backend - Platform (Relocate to India)
+Job: Staff Software Engineer, Backend - Risk Platform (Travel Rule)
 Company: Coinbase
-Location: Remote - India
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/4969312?gh_jid=4969312
+Apply: https://www.coinbase.com/careers/positions/7573375?gh_jid=7573375
 
 Description:
 

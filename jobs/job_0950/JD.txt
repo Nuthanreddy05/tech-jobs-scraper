@@ -1,9 +1,9 @@
 Job: Software Engineer
 Company: Reddit
-Location: Remote - Ontario, Canada
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/reddit/jobs/6909093
+Apply: https://job-boards.greenhouse.io/reddit/jobs/7579681
 
 Description:
 

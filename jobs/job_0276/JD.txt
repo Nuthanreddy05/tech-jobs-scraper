@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Cloud Networking (Brazil)
+Job: Senior Software Engineer, BizTech
 Company: Airbnb
-Location: Brazil
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7391864?gh_jid=7391864
+Apply: https://careers.airbnb.com/positions/7175614?gh_jid=7175614
 
 Description:
 

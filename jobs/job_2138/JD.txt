@@ -1,9 +1,9 @@
-Job: Support Engineer (German speaking)
+Job: Systems Senior Software Developer (Go or C++) - Observability
 Company: Elastic
-Location: Barcelona, Spain
+Location: Spain
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7550821&gh_jid=7550821
+Apply: https://jobs.elastic.co/jobs?gh_jid=7349637&gh_jid=7349637
 
 Description:
 

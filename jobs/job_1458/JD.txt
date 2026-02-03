@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Data Governance and Foundations
+Job: Senior Software Engineer II, Ads Data Solutions Engineering
 Company: Instacart
-Location: (Canada - Remote (ON, AB, BC, or NS Only))
+Location: Canada - Remote (ON, AB, BC, or NS Only)
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7580053
+Apply: https://instacart.careers/job/?gh_jid=7271639
 
 Description:
 

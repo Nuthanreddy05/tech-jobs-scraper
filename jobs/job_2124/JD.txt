@@ -1,9 +1,9 @@
-Job: Sales Enablement Specialist (Trainer)
+Job: Search - Developer Tooling - C#/.NET Senior Software Engineer
 Company: Elastic
-Location: Barcelona, Spain
+Location: United Kingdom
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7386148&gh_jid=7386148
+Apply: https://jobs.elastic.co/jobs?gh_jid=7275041&gh_jid=7275041
 
 Description:
 

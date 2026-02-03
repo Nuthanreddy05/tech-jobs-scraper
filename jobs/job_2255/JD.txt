@@ -1,9 +1,9 @@
-Job: Senior Security Software Engineer, Application Security
+Job: Senior Site Reliability Engineer, Compute
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7054468?gh_jid=7054468
+Apply: https://careers.roblox.com/jobs/7421351?gh_jid=7421351
 
 Description:
 

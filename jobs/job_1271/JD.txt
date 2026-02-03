@@ -1,9 +1,9 @@
-Job: Software Engineer, Backend - Platform (Core Automation)
+Job: Software Engineer - Customer Agent Interactions System
 Company: Coinbase
-Location: Remote - USA
+Location: Remote - Brazil
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7579370?gh_jid=7579370
+Apply: https://www.coinbase.com/careers/positions/7539703?gh_jid=7539703
 
 Description:
 

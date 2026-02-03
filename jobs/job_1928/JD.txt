@@ -1,9 +1,9 @@
-Job: Staff Software Engineer - ML Observability
+Job: Staff Software Engineer - Frontend
 Company: Datadog
-Location: Boston, Massachusetts, USA; New York, New York, USA
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7107437/?gh_jid=7107437
+Apply: https://careers.datadoghq.com/detail/7375183/?gh_jid=7375183
 
 Description:
 

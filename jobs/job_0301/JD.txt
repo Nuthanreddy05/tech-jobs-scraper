@@ -1,9 +1,9 @@
-Job: Staff Data Scientist, Forecasting-Finance
+Job: Staff Data Engineer - Data AI-Listings & Structured Data
 Company: Airbnb
-Location: United States 
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7551313?gh_jid=7551313
+Apply: https://careers.airbnb.com/positions/7012829?gh_jid=7012829
 
 Description:
 

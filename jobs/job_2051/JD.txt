@@ -1,9 +1,9 @@
-Job: Software Engineer 3, Query Execution
+Job: Software Engineer 3, Internal Engineering
 Company: MongoDB
-Location: Dublin
+Location: Gurugram
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7533978
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7543827
 
 Description:
 

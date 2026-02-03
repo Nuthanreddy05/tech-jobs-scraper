@@ -1,9 +1,9 @@
-Job: Backend Engineer (Node.js) - AppEx
+Job: AI Research Scientist
 Company: Elastic
 Location: Spain
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7344767&gh_jid=7344767
+Apply: https://jobs.elastic.co/jobs?gh_jid=7375635&gh_jid=7375635
 
 Description:
 

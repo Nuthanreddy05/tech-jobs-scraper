@@ -1,9 +1,9 @@
-Job: Senior Director, Technical Support Engineering
+Job: Senior Customer Data Scientist
 Company: Datadog
-Location: Sydney, Australia
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7260990/?gh_jid=7260990
+Apply: https://careers.datadoghq.com/detail/7406998/?gh_jid=7406998
 
 Description:
 

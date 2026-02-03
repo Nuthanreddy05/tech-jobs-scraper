@@ -1,9 +1,9 @@
-Job: Staff+ Software Engineer, Databases
+Job: Staff Software Engineer, Claude Developer Platform (Full Stack)
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4970463008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4561282008
 
 Description:
 

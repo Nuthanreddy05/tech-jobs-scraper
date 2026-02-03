@@ -1,9 +1,9 @@
-Job: Senior Win/Loss & Customer Insights Analyst
+Job: Senior Technical Services Engineer- Weekends
 Company: MongoDB
-Location: Dublin
+Location: Palo Alto
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7477055
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7368213
 
 Description:
 

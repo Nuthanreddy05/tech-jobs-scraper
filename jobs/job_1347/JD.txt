@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Infrastructure
+Job: Software Engineer, Financial Platform
 Company: Chime
 Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8384277002?gh_jid=8384277002
+Apply: https://boards.greenhouse.io/chime/jobs/8183064002?gh_jid=8183064002
 
 Description:
 

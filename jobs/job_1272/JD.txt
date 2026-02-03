@@ -1,9 +1,9 @@
-Job: Software Engineer - Customer Agent Interactions System
+Job:  Software Engineer (EAA)
 Company: Coinbase
-Location: Remote - Brazil
+Location: Remote - India
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7539703?gh_jid=7539703
+Apply: https://www.coinbase.com/careers/positions/6817252?gh_jid=6817252
 
 Description:
 

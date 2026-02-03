@@ -1,9 +1,9 @@
-Job: Engineering Manager, Spending
+Job: Engineering Manager, Trust & Safety
 Company: Chime
-Location: San Francisco, CA
+Location: Chicago, IL
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8322458002?gh_jid=8322458002
+Apply: https://boards.greenhouse.io/chime/jobs/8369099002?gh_jid=8369099002
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: TMS Quality Compliance Analyst III
+Job: Transaction Monitoring Compliance QA Analyst IV
 Company: Coinbase
-Location: Charlotte, NC
+Location: Remote - UK
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/6676764?gh_jid=6676764
+Apply: https://www.coinbase.com/careers/positions/7140861?gh_jid=7140861
 
 Description:
 

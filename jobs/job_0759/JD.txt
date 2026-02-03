@@ -1,9 +1,9 @@
 Job: Staff Software Engineer - Distributed Data Systems
 Company: Databricks
-Location: Belgrade, Serbia
+Location: Mountain View, California
 Portal: greenhouse
 
-Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002
+Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002
 
 Description:
 

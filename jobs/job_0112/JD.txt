@@ -1,9 +1,9 @@
-Job: Senior Security Software Engineer, D&R Platform
+Job: Senior Security Engineer, Detection & Response
 Company: Anthropic
 Location: Zürich, CH
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5068313008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5068288008
 
 Description:
 

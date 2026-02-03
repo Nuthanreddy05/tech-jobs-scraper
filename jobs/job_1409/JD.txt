@@ -1,9 +1,9 @@
-Job: Data Scientist
+Job: Director, AI Solutions Strategy & Planning
 Company: Instacart
 Location: Canada - Remote (ON, AB, BC, or NS Only)
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=6298376
+Apply: https://instacart.careers/job/?gh_jid=7403584
 
 Description:
 

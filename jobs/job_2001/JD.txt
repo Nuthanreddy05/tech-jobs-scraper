@@ -1,9 +1,9 @@
-Job: Senior Product Security Engineer, Server
+Job: Senior Product Security Engineer
 Company: MongoDB
 Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7484912
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7484919
 
 Description:
 

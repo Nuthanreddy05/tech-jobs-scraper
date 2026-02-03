@@ -1,9 +1,9 @@
-Job: Senior Data Engineer, Marketing Enablement & Technology
+Job: Senior Data Scientist
 Company: Instacart
 Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7573546
+Apply: https://instacart.careers/job/?gh_jid=4949339
 
 Description:
 

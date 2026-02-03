@@ -1,9 +1,9 @@
-Job: Senior Technical Program Manager, Knowledge Systems
+Job: Senior Staff Software Engineer 
 Company: Datadog
-Location: Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California, USA
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392
+Apply: https://careers.datadoghq.com/detail/5608424/?gh_jid=5608424
 
 Description:
 

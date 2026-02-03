@@ -1,9 +1,9 @@
-Job: Machine Learning Engineer II, Economics
+Job: Machine Learning Engineer, PhD Intern
 Company: Instacart
 Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7565189
+Apply: https://instacart.careers/job/?gh_jid=5917202
 
 Description:
 

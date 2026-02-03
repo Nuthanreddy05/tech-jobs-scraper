@@ -1,9 +1,9 @@
-Job: Staff Infrastructure Engineer, Pre-training
+Job: Solutions Architect, Applied AI (Startups)
 Company: Anthropic
-Location: San Francisco, CA
+Location: San Francisco, CA | New York City, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4973067008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5057258008
 
 Description:
 

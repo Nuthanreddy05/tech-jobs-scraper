@@ -1,9 +1,9 @@
 Job: Senior Software Engineer - Distributed Data Systems
 Company: Databricks
-Location: San Francisco, California
+Location: Mountain View, California
 Portal: greenhouse
 
-Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002
+Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002
 
 Description:
 

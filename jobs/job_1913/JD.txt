@@ -1,9 +1,9 @@
-Job: Senior Software Engineer – IDE Integrations (VS Code & Cursor)
+Job: Senior Software Engineer - IDE AI Experiences - LLM Engineer
 Company: Datadog
-Location: Portugal, Remote
+Location: Boston, Massachusetts, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7391295/?gh_jid=7391295
+Apply: https://careers.datadoghq.com/detail/7107873/?gh_jid=7107873
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Infrastructure Engineer - Hosting
+Job: Senior Staff Engineer, Online Datastores
 Company: Webflow
 Location: CA Remote (BC & ON only); U.S. Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7456357
+Apply: https://job-boards.greenhouse.io/webflow/jobs/7348663
 
 Description:
 

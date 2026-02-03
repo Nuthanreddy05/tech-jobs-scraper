@@ -1,9 +1,9 @@
-Job: Machine Learning PhD Intern, Economics
+Job: Principal Software Engineer, Catalog & Real-Time Serving Systems
 Company: Instacart
 Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7532267
+Apply: https://instacart.careers/job/?gh_jid=7066216
 
 Description:
 

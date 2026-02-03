@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Computer Graphics 
+Job: Senior Software Engineer, Consumer App Foundations
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7540188?gh_jid=7540188
+Apply: https://careers.roblox.com/jobs/7360413?gh_jid=7360413
 
 Description:
 

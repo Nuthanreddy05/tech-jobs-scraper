@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Client Systems
+Job: Senior Software Engineer - Cluster Lifecycle
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7283870?gh_jid=7283870
+Apply: https://careers.roblox.com/jobs/7421223?gh_jid=7421223
 
 Description:
 

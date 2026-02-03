@@ -1,9 +1,9 @@
-Job: Senior SDET Engineer, Query
+Job: Senior Research Scientist, Voyage AI
 Company: MongoDB
-Location: Dublin
+Location: Palo Alto
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7571473
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7365646
 
 Description:
 

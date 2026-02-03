@@ -1,9 +1,9 @@
-Job: Staff Data Analyst, Growth
+Job: Software Engineer, Data Migration
 Company: MongoDB
-Location: New York City
+Location: British Columbia; Calgary
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7218663
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7311708
 
 Description:
 

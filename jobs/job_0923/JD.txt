@@ -1,9 +1,9 @@
 Job: Senior iOS Software Engineer, iOS Platform
 Company: Reddit
-Location: New York City, NY
+Location: Remote - United States
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/reddit/jobs/7348120
+Apply: https://job-boards.greenhouse.io/reddit/jobs/7380919
 
 Description:
 

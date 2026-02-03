@@ -1,9 +1,9 @@
-Job: Senior Data Analyst, Trust & Safety
+Job: Senior IAM Engineer
 Company: Chime
-Location: San Francisco, CA
+Location: New York, NY
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8344063002?gh_jid=8344063002
+Apply: https://boards.greenhouse.io/chime/jobs/8389281002?gh_jid=8389281002
 
 Description:
 

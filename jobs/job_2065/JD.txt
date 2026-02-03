@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Atlas Growth
+Job: Staff Research Scientist, Voyage AI
 Company: MongoDB
-Location: Dublin
+Location: Palo Alto; United States
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7411430
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7280132
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Software Engineer 3, Internal Engineering
+Job: Software Engineer 3, Atlas Growth
 Company: MongoDB
-Location: Gurugram
+Location: New York City
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7543827
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7460387
 
 Description:
 

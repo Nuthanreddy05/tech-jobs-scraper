@@ -1,9 +1,9 @@
-Job: Software Engineer Intern (Summer 2026)
-Company: Grammarly
-Location: Berlin; Hybrid
+Job: AI Research Engineer, New PhD Graduate
+Company: Duolingo
+Location: Pittsburgh, PA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7491439
+Apply: https://careers.duolingo.com/jobs/8151163002?gh_jid=8151163002
 
 Description:
 

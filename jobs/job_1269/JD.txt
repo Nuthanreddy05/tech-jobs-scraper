@@ -1,9 +1,9 @@
-Job: Software Engineer, Backend (Institutional - Custody)
+Job: Software Engineer, Backend (Institutional - Markets, Derivatives)
 Company: Coinbase
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7247428?gh_jid=7247428
+Apply: https://www.coinbase.com/careers/positions/6968491?gh_jid=6968491
 
 Description:
 

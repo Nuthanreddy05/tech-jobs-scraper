@@ -1,9 +1,9 @@
-Job: Senior Systems Engineer, Pipelines
+Job: Senior Systems Engineer, Edge
 Company: Cloudflare
-Location: Hybrid
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7093840?gh_jid=7093840
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7068271?gh_jid=7068271
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Manager, FP&A Systems
+Job: Senior Software Engineer, Trust & Safety
 Company: Vercel
-Location: Hybrid - San Francisco
+Location: Remote - United States
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5759817004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5788954004
 
 Description:
 

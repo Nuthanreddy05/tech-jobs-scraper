@@ -1,9 +1,9 @@
-Job: Security Engineer II, Risk Engineering
+Job: Sales Engineer - Majors (UK)
 Company: Datadog
-Location: New York, New York, USA
+Location: United Kingdom, Remote
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7373580/?gh_jid=7373580
+Apply: https://careers.datadoghq.com/detail/7545208/?gh_jid=7545208
 
 Description:
 

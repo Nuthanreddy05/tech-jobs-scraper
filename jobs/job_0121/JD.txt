@@ -1,9 +1,9 @@
-Job: Senior / Staff+ Software Engineer - Autonomous Agent Infrastructure
+Job: Senior Software Security Engineer
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY | Seattle, WA
+Location: Zürich, CH
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5065894008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5056795008
 
 Description:
 

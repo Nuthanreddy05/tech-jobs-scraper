@@ -1,9 +1,9 @@
-Job: Senior Territory Account Executive, Ukraine
+Job: Senior Territory Account Executive, Shanghai
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/6447148?gh_jid=6447148
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7525180?gh_jid=7525180
 
 Description:
 

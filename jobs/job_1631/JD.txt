@@ -1,9 +1,9 @@
-Job: Senior Payroll Analyst
+Job: Senior Partner Solutions Engineer, North Central Region
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7520450?gh_jid=7520450
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7257836?gh_jid=7257836
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior AI Engineer - CD Visibility
+Job: Senior AI Engineer - Bits AI Security Analyst
 Company: Datadog
-Location: Madrid, Spain
+Location: Lisbon, Portugal
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7566827/?gh_jid=7566827
+Apply: https://careers.datadoghq.com/detail/7553034/?gh_jid=7553034
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Consulting Engineer
+Job: Competitive Intelligence Operations Analyst
 Company: MongoDB
-Location: Atlanta; Austin; Boston; Chicago
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7405852
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7477070
 
 Description:
 

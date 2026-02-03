@@ -1,9 +1,9 @@
-Job: Senior Business Operation & Strategy Analyst
+Job: Senior Business Operations & Strategy Analyst
 Company: MongoDB
-Location: Austin
+Location: New York City
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7521325
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7128879
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Partner Solutions Engineer, North Central Region
+Job: Senior Named Solutions Engineer, UKI
 Company: Cloudflare
-Location: Distributed
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7257836?gh_jid=7257836
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7515882?gh_jid=7515882
 
 Description:
 

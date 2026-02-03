@@ -1,9 +1,9 @@
-Job: Engineering Manager, AI Platform 
+Job: Engineering Manager, AI Product
 Company: Airtable
-Location: San Francisco, CA; New York City, NY
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/airtable/jobs/8293251002
+Apply: https://job-boards.greenhouse.io/airtable/jobs/8385135002
 
 Description:
 

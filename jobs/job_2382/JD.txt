@@ -1,9 +1,9 @@
-Job: Staff Data Platform Engineer
-Company: Vercel
-Location: Hybrid - San Francisco, New York City
+Job: Data Scientist
+Company: Grammarly
+Location: San Francisco; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5735704004
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/6458934
 
 Description:
 

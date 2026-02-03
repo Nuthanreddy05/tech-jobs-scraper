@@ -1,9 +1,9 @@
 Job: Sr. Software Engineer, Backend
 Company: Pinterest
-Location: San Francisco, CA, US; Seattle, WA; Remote, US
+Location: Toronto, ON, CA
 Portal: greenhouse
 
-Apply: https://www.pinterestcareers.com/jobs/?gh_jid=4902175
+Apply: https://www.pinterestcareers.com/jobs/?gh_jid=5572858
 
 Description:
 

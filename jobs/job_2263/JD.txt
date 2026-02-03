@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Character Control
+Job: Senior Software Engineer, Client Systems
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7469368?gh_jid=7469368
+Apply: https://careers.roblox.com/jobs/7283870?gh_jid=7283870
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Platform
+Job: Staff+ Software Engineer, Infrastructure
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY
+Location: San Francisco, CA | New York City, NY | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5023089008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4970314008
 
 Description:
 

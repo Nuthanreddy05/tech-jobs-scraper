@@ -1,9 +1,9 @@
-Job: Win/Loss & Customer Insight Analyst
+Job: Technical Services Engineer, Tuesday-Saturday
 Company: MongoDB
 Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7477073
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7547561
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Staff AI Engineer - Notebooks 
+Job: Senior Technical Program Manager, Knowledge Systems
 Company: Datadog
-Location: Lisbon, Portugal
+Location: Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7574626/?gh_jid=7574626
+Apply: https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392
 
 Description:
 

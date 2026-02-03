@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Enterprise GenAI
+Job: Staff Software Engineer, Developer Experience
 Company: Scale AI
-Location: San Francisco, CA; New York, NY
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4569678005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4518088005
 
 Description:
 

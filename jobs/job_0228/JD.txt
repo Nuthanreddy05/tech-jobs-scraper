@@ -1,9 +1,9 @@
-Job: Staff Infrastructure Software Engineer, Enterprise AI
+Job: Solutions Engineer - Robotics
 Company: Scale AI
-Location: New York, NY; San Francisco, CA
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4599700005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4640096005
 
 Description:
 

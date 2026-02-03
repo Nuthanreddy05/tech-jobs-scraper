@@ -1,9 +1,9 @@
-Job: Software Engineer Intern
+Job: Sr. Site Reliability Engineer, IT Infrastructure
 Company: Coinbase
-Location: Hybrid - San Francisco, CA
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7268895?gh_jid=7268895
+Apply: https://www.coinbase.com/careers/positions/7559108?gh_jid=7559108
 
 Description:
 

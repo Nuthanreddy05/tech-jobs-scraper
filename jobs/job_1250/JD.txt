@@ -1,9 +1,9 @@
-Job: Senior Staff Software Engineer, Backend - Risk Platform
+Job: Senior Staff Software Engineer - Blockchain Platform  (Asset Data)
 Company: Coinbase
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7573405?gh_jid=7573405
+Apply: https://www.coinbase.com/careers/positions/7580176?gh_jid=7580176
 
 Description:
 

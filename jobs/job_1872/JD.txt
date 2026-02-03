@@ -1,9 +1,9 @@
-Job: Mid-Market Account Executive (Spain)
+Job: Manager, People Analytics Data Platform
 Company: Datadog
-Location: Amsterdam, The Netherlands; Dublin, Ireland
+Location: Boston, Massachusetts, USA; New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7442078/?gh_jid=7442078
+Apply: https://careers.datadoghq.com/detail/7467678/?gh_jid=7467678
 
 Description:
 

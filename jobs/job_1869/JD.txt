@@ -1,9 +1,9 @@
-Job: Manager II, Engineering - Runtime
+Job: Manager II, Engineering - Bits AI Security Analyst
 Company: Datadog
-Location: Boston, Massachusetts, USA; New York, New York, USA
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7474659/?gh_jid=7474659
+Apply: https://careers.datadoghq.com/detail/7482671/?gh_jid=7482671
 
 Description:
 

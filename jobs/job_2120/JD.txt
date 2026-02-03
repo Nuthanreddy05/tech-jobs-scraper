@@ -1,9 +1,9 @@
-Job: Platform - Site Reliability Engineer II (Networking)
+Job: Principal Backend Engineer (Node.js)
 Company: Elastic
-Location: Greece
+Location: United States
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7480990&gh_jid=7480990
+Apply: https://jobs.elastic.co/jobs?gh_jid=7440383&gh_jid=7440383
 
 Description:
 

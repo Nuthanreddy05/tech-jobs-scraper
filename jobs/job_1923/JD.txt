@@ -1,9 +1,9 @@
-Job: Staff Product Designer, Visual Systems
+Job: Staff Product Designer, Bits AI
 Company: Datadog
 Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7496207/?gh_jid=7496207
+Apply: https://careers.datadoghq.com/detail/7182907/?gh_jid=7182907
 
 Description:
 

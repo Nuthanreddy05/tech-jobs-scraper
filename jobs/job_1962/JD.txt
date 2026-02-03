@@ -1,9 +1,9 @@
-Job: Market Intelligence Analyst
+Job: Lead, Strategic Core Analyst, Competitive Intelligence
 Company: MongoDB
-Location: Dublin; Ireland
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7477076
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7477065
 
 Description:
 

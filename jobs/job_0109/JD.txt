@@ -1,9 +1,9 @@
-Job: Senior Education Platform Engineer
+Job: Security Software Engineer, D&R Platform
 Company: Anthropic
-Location: San Francisco, CA
+Location: San Francisco, CA | New York City, NY | Seattle, WA; Washington, DC
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5098565008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4595463008
 
 Description:
 

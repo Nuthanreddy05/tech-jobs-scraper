@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Backend (Consumer - Growth)
+Job: Senior Software Engineer, Backend (Consumer - Growth & App Infra)
 Company: Coinbase
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/6650932?gh_jid=6650932
+Apply: https://www.coinbase.com/careers/positions/7257545?gh_jid=7257545
 
 Description:
 

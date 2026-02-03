@@ -1,9 +1,9 @@
-Job:  Senior Product Manager - Elastic Cloud Platform team
+Job: Senior Support Engineer
 Company: Elastic
-Location: Greece
+Location: United States
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7306009&gh_jid=7306009
+Apply: https://jobs.elastic.co/jobs?gh_jid=7491161&gh_jid=7491161
 
 Description:
 

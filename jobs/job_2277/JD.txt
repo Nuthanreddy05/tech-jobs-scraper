@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Developer Monetization
+Job: Senior Software Engineer, Developer Monetization (C++)
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7545980?gh_jid=7545980
+Apply: https://careers.roblox.com/jobs/7545971?gh_jid=7545971
 
 Description:
 

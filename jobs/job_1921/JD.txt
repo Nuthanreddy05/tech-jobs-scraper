@@ -1,9 +1,9 @@
-Job: Staff Product Designer - AI Observability
+Job: Staff GenAI Engineer - Application Performance Monitoring (APM)
 Company: Datadog
 Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7514704/?gh_jid=7514704
+Apply: https://careers.datadoghq.com/detail/6958985/?gh_jid=6958985
 
 Description:
 

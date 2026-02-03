@@ -1,9 +1,9 @@
-Job: Content Engineer
+Job: Director of Engineering, v0
 Company: Vercel
-Location: Hybrid - San Francisco, New York City, Austin
+Location: Hybrid - New York City
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5722313004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5777178004
 
 Description:
 

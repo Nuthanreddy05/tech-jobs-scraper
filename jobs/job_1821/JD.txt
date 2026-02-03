@@ -1,9 +1,9 @@
-Job: Commercial Sales Engineer (Portuguese-speaking)
+Job: Commercial Sales Engineer - NYC
 Company: Datadog
-Location: Amsterdam, The Netherlands; Dublin, Ireland
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7492206/?gh_jid=7492206
+Apply: https://careers.datadoghq.com/detail/7491559/?gh_jid=7491559
 
 Description:
 

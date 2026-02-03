@@ -1,9 +1,9 @@
-Job: Senior+ Software Engineer, Research Tools
+Job: Senior Software Engineer, Infrastructure 
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY
+Location: New York City, NY; San Francisco, CA; Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4981828008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4632118008
 
 Description:
 

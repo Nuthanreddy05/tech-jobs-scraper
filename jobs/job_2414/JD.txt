@@ -1,9 +1,9 @@
-Job: Superhuman Mail Head of Product
-Company: Grammarly
-Location: San Francisco; Hybrid
+Job: Engineering Manager, Chess
+Company: Duolingo
+Location: New York, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7308929
+Apply: https://careers.duolingo.com/jobs/8385137002?gh_jid=8385137002
 
 Description:
 

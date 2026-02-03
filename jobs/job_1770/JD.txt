@@ -1,9 +1,9 @@
-Job: Solution Architect, AI / Cloudflare Developer Platform
+Job: Software Engineer, Workers Observability
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7529800?gh_jid=7529800
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7505637?gh_jid=7505637
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Backend Engineer, GraphQL
+Job: Senior Android Software Engineer, Quality Engineering
 Company: Airbnb
-Location: Remote - USA
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7547843?gh_jid=7547843
+Apply: https://careers.airbnb.com/positions/6602436?gh_jid=6602436
 
 Description:
 

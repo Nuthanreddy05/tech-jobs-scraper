@@ -1,9 +1,9 @@
-Job: Senior Systems Engineer (DIA)
+Job: Senior Systems Engineer, Cloudflare Data Platform
 Company: Cloudflare
-Location: In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7566807?gh_jid=7566807
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7090955?gh_jid=7090955
 
 Description:
 

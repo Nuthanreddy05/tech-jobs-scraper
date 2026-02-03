@@ -1,9 +1,9 @@
-Job: Senior Developer Advocate
+Job:  Senior Product Manager - Elastic Cloud Platform team
 Company: Elastic
-Location: The Netherlands
+Location: Greece
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7445210&gh_jid=7445210
+Apply: https://jobs.elastic.co/jobs?gh_jid=7306009&gh_jid=7306009
 
 Description:
 

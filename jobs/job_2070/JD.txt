@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Replicated Storage Services (Replication)
+Job: Staff Software Engineer, Query
 Company: MongoDB
-Location: New York City
+Location: New York City; United States
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7456085
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7221902
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Manager, Commercial Sales Engineering (AMER - West)
+Job: Manager, Commercial Sales Engineering (AMER - East)
 Company: Datadog
-Location: Denver, Colorado, USA
+Location: Boston, Massachusetts, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7456376/?gh_jid=7456376
+Apply: https://careers.datadoghq.com/detail/7512337/?gh_jid=7512337
 
 Description:
 

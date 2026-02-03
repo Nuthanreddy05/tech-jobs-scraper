@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Backend (Consumer - Stablecoin)
+Job: Senior Software Engineer, Backend - Finhub
 Company: Coinbase
-Location: Remote - Canada
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/6570384?gh_jid=6570384
+Apply: https://www.coinbase.com/careers/positions/7255761?gh_jid=7255761
 
 Description:
 

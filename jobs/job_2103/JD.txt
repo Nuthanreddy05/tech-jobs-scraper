@@ -1,9 +1,9 @@
-Job: Go Engineer - Intake Services Team
+Job: Global Alliance Director - Google Cloud
 Company: Elastic
-Location: Australia
+Location: United States
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7517629&gh_jid=7517629
+Apply: https://jobs.elastic.co/jobs?gh_jid=7349976&gh_jid=7349976
 
 Description:
 

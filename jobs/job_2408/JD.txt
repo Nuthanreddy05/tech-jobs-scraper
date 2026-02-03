@@ -1,9 +1,9 @@
-Job:  Software Engineer, Full-Stack
+Job: Software Engineer, Full-Stack
 Company: Grammarly
-Location: NA; Remote
+Location: Kyiv; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7308798
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/6928720
 
 Description:
 

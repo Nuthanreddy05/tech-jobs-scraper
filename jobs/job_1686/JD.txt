@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Majors - Chicago, IL
+Job: Senior Solutions Engineer, Majors
 Company: Cloudflare
 Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7522025?gh_jid=7522025
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7374554?gh_jid=7374554
 
 Description:
 

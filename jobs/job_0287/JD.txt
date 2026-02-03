@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Service Tools
+Job: Senior Software Engineer, Reliability Engineering
 Company: Airbnb
-Location: Brazil
+Location: São Paulo, Brazil
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7490348?gh_jid=7490348
+Apply: https://careers.airbnb.com/positions/7565550?gh_jid=7565550
 
 Description:
 

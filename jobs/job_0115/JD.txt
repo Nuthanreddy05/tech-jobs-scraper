@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Continuous Integration 
+Job: Senior Software Engineer, Business Technology
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY | Seattle, WA
+Location: Dublin, IE
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5095630008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5081409008
 
 Description:
 

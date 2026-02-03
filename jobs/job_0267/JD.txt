@@ -1,9 +1,9 @@
-Job: Senior Fullstack Engineer, Trust 
+Job: Senior Frontend Engineer, Reliability Experience
 Company: Airbnb
-Location: Remote, USA 
+Location: Brazil - Remote
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7381159?gh_jid=7381159
+Apply: https://careers.airbnb.com/positions/7378231?gh_jid=7378231
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Frontend Engineer, Reliability Experience
+Job: Senior Frontend Engineer, GraphQL & Networking Platform
 Company: Airbnb
-Location: Brazil - Remote
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7378231?gh_jid=7378231
+Apply: https://careers.airbnb.com/positions/7358446?gh_jid=7358446
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Query
+Job: Staff Software Engineer, Networking & Observability
 Company: MongoDB
-Location: Calgary; Edmonton; Montreal; Ontario; Toronto; Vancouver
+Location: Seattle; United States
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7221904
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7264736
 
 Description:
 

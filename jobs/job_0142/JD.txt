@@ -1,9 +1,9 @@
-Job: Solutions Architect, Applied AI
+Job: Software Engineer, Windows - Claude Code
 Company: Anthropic
-Location: Seoul, South Korea
+Location: San Francisco, CA | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4962867008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5098506008
 
 Description:
 

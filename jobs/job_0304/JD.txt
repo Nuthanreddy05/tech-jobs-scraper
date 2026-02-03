@@ -1,9 +1,9 @@
-Job: Staff Fullstack Engineer, Reservation Management
+Job: Staff Data Scientist, Marketplace
 Company: Airbnb
-Location: United States
+Location: Remote
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7385025?gh_jid=7385025
+Apply: https://careers.airbnb.com/positions/7415829?gh_jid=7415829
 
 Description:
 

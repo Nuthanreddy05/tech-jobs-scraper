@@ -1,9 +1,9 @@
-Job: Consulting Engineer - ElasticSearch
+Job: Backend Engineer (Node.js) - AppEx
 Company: Elastic
-Location: United States
+Location: Spain
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7411526&gh_jid=7411526
+Apply: https://jobs.elastic.co/jobs?gh_jid=7344767&gh_jid=7344767
 
 Description:
 

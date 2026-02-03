@@ -1,9 +1,9 @@
-Job: DevOps Engineer, IPS
+Job: Data Analyst, GenAI Marketplace
 Company: Scale AI
-Location: Doha, Qatar 
+Location: San Francisco, CA; New York, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4613839005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4631695005
 
 Description:
 

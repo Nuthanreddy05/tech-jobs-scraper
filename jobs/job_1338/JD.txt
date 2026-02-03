@@ -1,9 +1,9 @@
-Job: Senior Data Analyst, Credit Risk
+Job: Senior Data Analyst, Spending
 Company: Chime
 Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8327705002?gh_jid=8327705002
+Apply: https://boards.greenhouse.io/chime/jobs/8344077002?gh_jid=8344077002
 
 Description:
 

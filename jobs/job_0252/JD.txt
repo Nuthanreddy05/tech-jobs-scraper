@@ -1,9 +1,9 @@
-Job: Lead Product Manager, Airbnb.org
+Job: Engineering Manager - Tax Platform 
 Company: Airbnb
-Location: Remote United States 
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7481945?gh_jid=7481945
+Apply: https://careers.airbnb.com/positions/7481629?gh_jid=7481629
 
 Description:
 

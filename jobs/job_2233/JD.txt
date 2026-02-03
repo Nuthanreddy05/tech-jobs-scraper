@@ -1,9 +1,9 @@
-Job: Senior GRC Analyst
+Job: Senior Hardware Engineer - GPU & AI Infrastructure
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7557887?gh_jid=7557887
+Apply: https://careers.roblox.com/jobs/7463674?gh_jid=7463674
 
 Description:
 

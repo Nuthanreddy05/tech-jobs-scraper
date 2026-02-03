@@ -1,9 +1,9 @@
-Job: Design Engineer
+Job: Director of Sales Engineering, AMER
 Company: Vercel
-Location: Remote - United States
+Location: Hybrid - San Francisco, New York City, Austin
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5709080004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5650641004
 
 Description:
 

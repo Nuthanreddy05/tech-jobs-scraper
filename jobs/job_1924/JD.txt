@@ -1,9 +1,9 @@
-Job: Staff Software Engineer
+Job: Staff Product Designer, Visual Systems
 Company: Datadog
-Location: Boston, Massachusetts, USA; New York, New York, USA
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/3210217/?gh_jid=3210217
+Apply: https://careers.datadoghq.com/detail/7496207/?gh_jid=7496207
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Engineering Manager, CDN
+Job:  IT Infrastructure Engineer 
 Company: Vercel
 Location: Hybrid - San Francisco
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5701765004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5623421004
 
 Description:
 

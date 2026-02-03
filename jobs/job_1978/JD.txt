@@ -1,9 +1,9 @@
-Job: Senior Developer Advocate
+Job: Senior Data Product Manager, GTM
 Company: MongoDB
-Location: United States
+Location: Austin; Boston; Chicago; New York City; Pittsburgh
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7490333
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7187739
 
 Description:
 

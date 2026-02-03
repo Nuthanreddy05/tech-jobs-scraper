@@ -1,9 +1,9 @@
 Job: Business Partner Analyst
 Company: Stripe
-Location: Chicago- New York City- San Francisco or Seattle
+Location: Dublin, Ireland
 Portal: greenhouse
 
-Apply: https://stripe.com/jobs/search?gh_jid=5986232
+Apply: https://stripe.com/jobs/search?gh_jid=7558195
 
 Description:
 

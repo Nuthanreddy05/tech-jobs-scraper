@@ -1,9 +1,9 @@
-Job: Enterprise Sales Engineer - South Africa
+Job: Enterprise Sales Engineer - Nordics
 Company: Datadog
-Location: South Africa, Remote
+Location: Copenhagen, Denmark; Stockholm, Sweden
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7476093/?gh_jid=7476093
+Apply: https://careers.datadoghq.com/detail/7101976/?gh_jid=7101976
 
 Description:
 

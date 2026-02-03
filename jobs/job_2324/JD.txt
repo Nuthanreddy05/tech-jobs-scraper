@@ -1,9 +1,9 @@
-Job: Engineering Manager, Code Sync
+Job: Principal Product Manager, AI
 Company: Webflow
-Location: CA Remote (BC & ON only); U.K. / Ireland Remote; U.S. Remote
+Location: CA Remote (BC & ON only); U.S. Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7532377
+Apply: https://job-boards.greenhouse.io/webflow/jobs/7456857
 
 Description:
 

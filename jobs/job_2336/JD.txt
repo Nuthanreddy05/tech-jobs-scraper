@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Fullstack
+Job: Staff Software Engineer, Applied AI
 Company: Webflow
-Location: Argentina Remote
+Location: CA Remote (BC & ON only); U.S. Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7293969
+Apply: https://job-boards.greenhouse.io/webflow/jobs/7271678
 
 Description:
 

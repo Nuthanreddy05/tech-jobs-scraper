@@ -1,9 +1,9 @@
-Job: Software Engineer, Public Sector
+Job: Software Engineer, Platform
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY | Washington, DC
+Location: New York City, NY; San Francisco, CA; Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4902636008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4955107008
 
 Description:
 

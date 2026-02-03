@@ -1,9 +1,9 @@
-Job: Manager I, Engineering - Infrastructure Remediation
+Job: Manager I, Engineering - Container Autoscaling
 Company: Datadog
-Location: New York, New York, USA
+Location: Lisbon, Portugal
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/6881788/?gh_jid=6881788
+Apply: https://careers.datadoghq.com/detail/7532950/?gh_jid=7532950
 
 Description:
 

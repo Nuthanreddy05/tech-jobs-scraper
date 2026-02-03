@@ -1,9 +1,9 @@
-Job: Senior Sales Engineer - Key Accounts (West)
+Job: Senior Sales Engineer
 Company: Datadog
-Location: Illinois, USA, Remote; Oregon, USA, Remote; Texas, USA, Remote; Washington, USA, Remote
+Location: Chicago, Illinois, USA; Minnesota, USA, Remote
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7516279/?gh_jid=7516279
+Apply: https://careers.datadoghq.com/detail/7460368/?gh_jid=7460368
 
 Description:
 

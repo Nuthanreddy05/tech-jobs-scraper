@@ -1,9 +1,9 @@
 Job: Senior Software Engineer, Site Defense
 Company: Reddit
-Location: San Francisco, CA
+Location: Remote - United States
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/reddit/jobs/7558455
+Apply: https://job-boards.greenhouse.io/reddit/jobs/7542751
 
 Description:
 

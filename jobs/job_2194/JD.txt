@@ -1,9 +1,9 @@
-Job: Principal Machine Learning Engineer, Safety Experience 
+Job: Principal Machine Learning Infrastructure Engineer, Ads
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7272668?gh_jid=7272668
+Apply: https://careers.roblox.com/jobs/7351202?gh_jid=7351202
 
 Description:
 

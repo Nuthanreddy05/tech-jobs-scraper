@@ -1,9 +1,9 @@
-Job: Senior Research Scientist, Reward Models
+Job: Senior Education Platform Engineer
 Company: Anthropic
-Location: Remote-Friendly (Travel Required) | San Francisco, CA
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5024835008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5098565008
 
 Description:
 

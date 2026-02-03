@@ -1,9 +1,9 @@
-Job: Senior Treasury Analyst
+Job: Sr. Manager, Global Partner and AI Ecosystem Communications
 Company: Elastic
-Location: Costa Rica
+Location: United States
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7569194&gh_jid=7569194
+Apply: https://jobs.elastic.co/jobs?gh_jid=7378571&gh_jid=7378571
 
 Description:
 

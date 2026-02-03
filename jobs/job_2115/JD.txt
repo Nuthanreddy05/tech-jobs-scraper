@@ -1,9 +1,9 @@
-Job: Platform - Principal Software Engineer (Billing Team)
+Job: Platform Resilience - Senior Site Reliability Engineer
 Company: Elastic
 Location: Spain
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7386030&gh_jid=7386030
+Apply: https://jobs.elastic.co/jobs?gh_jid=7517615&gh_jid=7517615
 
 Description:
 

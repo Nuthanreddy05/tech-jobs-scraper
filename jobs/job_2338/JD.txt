@@ -1,9 +1,9 @@
-Job: Staff Application Security Engineer
+Job: Staff Software Engineer, eCommerce
 Company: Webflow
-Location: CA Remote (BC & ON only); U.S. Remote
+Location: Argentina Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7555952
+Apply: https://job-boards.greenhouse.io/webflow/jobs/7340652
 
 Description:
 

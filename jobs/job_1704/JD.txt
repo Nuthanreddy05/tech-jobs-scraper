@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Named Accounts
+Job: Senior Solutions Engineer - Mid Market - San Francisco
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7518676?gh_jid=7518676
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7521551?gh_jid=7521551
 
 Description:
 

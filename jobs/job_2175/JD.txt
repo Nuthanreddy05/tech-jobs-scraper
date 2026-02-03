@@ -1,9 +1,9 @@
-Job: Engineering Manager - Data Services
+Job: Engineering Manager, Machine Learning Infrastructure, Ads
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7202770?gh_jid=7202770
+Apply: https://careers.roblox.com/jobs/7390212?gh_jid=7390212
 
 Description:
 

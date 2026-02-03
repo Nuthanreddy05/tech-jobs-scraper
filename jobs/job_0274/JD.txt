@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, AI Compute
+Job: Senior Security Assurance Analyst
 Company: Airbnb
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7568919?gh_jid=7568919
+Apply: https://careers.airbnb.com/positions/7572628?gh_jid=7572628
 
 Description:
 

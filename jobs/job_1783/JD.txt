@@ -1,9 +1,9 @@
-Job: Solutions Engineer, Zero Trust
+Job: Solutions Engineer, South China
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7300402?gh_jid=7300402
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7316913?gh_jid=7316913
 
 Description:
 

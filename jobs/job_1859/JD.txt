@@ -1,9 +1,9 @@
-Job: Manager I, Engineering - Alerting Platform
+Job: Manager I, Developer Advocacy
 Company: Datadog
-Location: New York, New York, USA
+Location: Canada, Remote
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7578962/?gh_jid=7578962
+Apply: https://careers.datadoghq.com/detail/7440560/?gh_jid=7440560
 
 Description:
 

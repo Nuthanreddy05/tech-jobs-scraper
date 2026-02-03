@@ -1,9 +1,9 @@
-Job: Senior Product Manager - Database AI Optimization
+Job: Senior Product Manager, Cloud Network Monitoring
 Company: Datadog
 Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7065807/?gh_jid=7065807
+Apply: https://careers.datadoghq.com/detail/7555533/?gh_jid=7555533
 
 Description:
 

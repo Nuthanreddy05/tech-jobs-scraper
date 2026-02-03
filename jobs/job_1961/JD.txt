@@ -1,9 +1,9 @@
-Job: Lead, Strategic Core Analyst, Competitive Intelligence
+Job: Lead Engineer, Server Programmability
 Company: MongoDB
-Location: Dublin
+Location: United States
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7477065
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7201997
 
 Description:
 

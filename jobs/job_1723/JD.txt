@@ -1,9 +1,9 @@
-Job: Senior Technical Support Engineer, Developer Platform
+Job: Senior Systems Engineer, Platform
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7396942?gh_jid=7396942
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7340134?gh_jid=7340134
 
 Description:
 

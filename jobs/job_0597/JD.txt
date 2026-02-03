@@ -1,9 +1,9 @@
 Job: Senior Software Engineer - Database Engine Internals
 Company: Databricks
-Location: Belgrade, Serbia
+Location: San Francisco, California
 Portal: greenhouse
 
-Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002
+Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Guest Displays & Platform
+Job: Senior Software Engineer, Experimentation Infrastructure
 Company: Airbnb
-Location: United States
+Location: Remote USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7551565?gh_jid=7551565
+Apply: https://careers.airbnb.com/positions/7107439?gh_jid=7107439
 
 Description:
 

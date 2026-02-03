@@ -1,9 +1,9 @@
-Job: Software Engineer, Python Language
+Job: Software Engineer, Public Sector
 Company: Anthropic
-Location: New York City, NY; San Francisco, CA
+Location: San Francisco, CA | New York City, NY | Washington, DC
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4935567008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4902636008
 
 Description:
 

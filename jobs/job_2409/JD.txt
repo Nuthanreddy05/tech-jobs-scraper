@@ -1,9 +1,9 @@
-Job: Software Engineer, Full-Stack
+Job: Software Engineer, Full-Stack - Platform Team
 Company: Grammarly
-Location: San Francisco; Hybrid
+Location: Berlin; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/6356355
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/6429372
 
 Description:
 

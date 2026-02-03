@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Backend (Consumer - International)
+Job: Staff Software Engineer, Backend - Consumer Product Group
 Company: Coinbase
-Location: Remote - Brazil
+Location: Remote - Canada
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/6377946?gh_jid=6377946
+Apply: https://www.coinbase.com/careers/positions/5968428?gh_jid=5968428
 
 Description:
 

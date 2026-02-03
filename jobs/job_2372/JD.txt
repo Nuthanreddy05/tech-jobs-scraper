@@ -1,9 +1,9 @@
-Job: Software Engineer, CDN Security
+Job: Software Engineer, Compute
 Company: Vercel
 Location: Remote - United States
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5473266004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5551619004
 
 Description:
 

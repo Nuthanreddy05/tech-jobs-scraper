@@ -1,9 +1,9 @@
-Job: Elasticsearch - Principal Java Engineer – Core Infrastructure, JVM Internals
+Job: Customer Architect - Self-Service Cloud
 Company: Elastic
-Location: United Kingdom
+Location: Spain
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7360675&gh_jid=7360675
+Apply: https://jobs.elastic.co/jobs?gh_jid=6827412&gh_jid=6827412
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Revenue Systems Solution Architect
+Job: Research Scientist, Societal Impacts
 Company: Anthropic
 Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5068721008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5076616008
 
 Description:
 

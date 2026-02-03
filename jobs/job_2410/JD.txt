@@ -1,9 +1,9 @@
-Job: Software Engineer, Full-Stack
+Job: Software Engineer Intern (Summer 2026)
 Company: Grammarly
-Location: Kyiv; Hybrid
+Location: Berlin; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/6928720
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/7491439
 
 Description:
 

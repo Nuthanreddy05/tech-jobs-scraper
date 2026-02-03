@@ -1,9 +1,9 @@
-Job: Senior Technical Program Manager, Caper Machine Learning
+Job: Senior Threat Hunting Engineer
 Company: Instacart
-Location: USA - Remote
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7565140
+Apply: https://instacart.careers/job/?gh_jid=7516537
 
 Description:
 

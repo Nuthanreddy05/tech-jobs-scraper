@@ -1,9 +1,9 @@
 Job: Staff Software Engineer - Backend
 Company: Databricks
-Location: Mountain View, California
+Location: Seattle, Washington
 Portal: greenhouse
 
-Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002
+Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002
 
 Description:
 

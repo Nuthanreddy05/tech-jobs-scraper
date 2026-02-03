@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Majors - Houston, TX
+Job: Senior Solutions Engineer, Majors - Columbus OH
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7522065?gh_jid=7522065
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7522014?gh_jid=7522014
 
 Description:
 

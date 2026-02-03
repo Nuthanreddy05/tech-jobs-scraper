@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Atlas Clusters Security
+Job: Senior Software Engineer
 Company: MongoDB
-Location: New York City
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7254433
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7562420
 
 Description:
 

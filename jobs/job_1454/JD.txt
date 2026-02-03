@@ -1,9 +1,9 @@
-Job: Senior Site Reliability Engineer II 
+Job: Senior Software Engineer, Ads
 Company: Instacart
-Location: Canada - Remote (BC, ON, AB, or NS only)
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=6957204
+Apply: https://instacart.careers/job/?gh_jid=7341203
 
 Description:
 

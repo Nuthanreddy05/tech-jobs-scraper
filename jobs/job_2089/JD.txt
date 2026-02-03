@@ -1,9 +1,9 @@
-Job: Elasticsearch - Principal Software Engineer I - Distributed Systems
+Job: Elasticsearch - Principal Java Engineer II - ML Core
 Company: Elastic
 Location: United Kingdom
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7367128&gh_jid=7367128
+Apply: https://jobs.elastic.co/jobs?gh_jid=7440363&gh_jid=7440363
 
 Description:
 

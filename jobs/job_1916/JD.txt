@@ -1,9 +1,9 @@
-Job: Senior Staff GenAI Engineer - Application Performance Monitoring (APM)
+Job: Senior Software Engineer – IDE Integrations (VS Code & Cursor)
 Company: Datadog
-Location: New York, New York, USA
+Location: Portugal, Remote
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503
+Apply: https://careers.datadoghq.com/detail/7391295/?gh_jid=7391295
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Counsel, AI 
+Job: Senior Data Center Engineer
 Company: Roblox
-Location: San Mateo, CA, United States
+Location: Chicago, Illinois, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7482104?gh_jid=7482104
+Apply: https://careers.roblox.com/jobs/7559232?gh_jid=7559232
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Group Product Manager, Platform
+Job: Mobile Software Engineer
 Company: Chime
 Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8393494002?gh_jid=8393494002
+Apply: https://boards.greenhouse.io/chime/jobs/8350779002?gh_jid=8350779002
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Solutions Architect, Applied AI (Beneficial Deployments)
+Job: Solutions Architect, Applied AI
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY
+Location: Seoul, South Korea
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5062712008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4962867008
 
 Description:
 

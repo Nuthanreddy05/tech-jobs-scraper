@@ -1,9 +1,9 @@
 Job: Support Engineer
 Company: Elastic
-Location: Mexico
+Location: Costa Rica
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7466241&gh_jid=7466241
+Apply: https://jobs.elastic.co/jobs?gh_jid=7493072&gh_jid=7493072
 
 Description:
 

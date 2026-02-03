@@ -1,9 +1,9 @@
 Job: Cloud Operations Engineer
 Company: MongoDB
-Location: Dublin
+Location: Palo Alto; Seattle
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7453323
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7520623
 
 Description:
 

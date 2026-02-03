@@ -1,9 +1,9 @@
-Job: Software Engineer - Growth Engineering
+Job: Software Engineer, Enterprise Readiness
 Company: Cloudflare
-Location: In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/6972995?gh_jid=6972995
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6467350?gh_jid=6467350
 
 Description:
 

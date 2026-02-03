@@ -1,9 +1,9 @@
-Job: Senior Staff Machine Learning Engineer, Communication & Connectivity
+Job: Senior Staff Machine Learning Engineer - AI Safety and Guardrail 
 Company: Airbnb
-Location: Remote - USA
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7005605?gh_jid=7005605
+Apply: https://careers.airbnb.com/positions/7159569?gh_jid=7159569
 
 Description:
 

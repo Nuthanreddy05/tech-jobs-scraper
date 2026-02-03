@@ -1,9 +1,9 @@
-Job: Lead Engineer, Online Archive Storage Systems
+Job: Lead, Engineering
 Company: MongoDB
-Location: New York City; San Francisco; Seattle
+Location: Gurugram
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7316445
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7541875
 
 Description:
 

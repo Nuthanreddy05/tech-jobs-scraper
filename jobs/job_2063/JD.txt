@@ -1,9 +1,9 @@
-Job: Staff NetSuite Engineer
+Job: Staff Engineer, Search Systems
 Company: MongoDB
-Location: Palo Alto
+Location: Toronto
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7274598
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7094786
 
 Description:
 

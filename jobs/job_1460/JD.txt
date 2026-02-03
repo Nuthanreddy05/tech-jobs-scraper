@@ -1,9 +1,9 @@
-Job: Senior Software Engineer II, Caper
+Job: Senior Software Engineer II, Commerce Platform
 Company: Instacart
-Location: (Canada - Remote (ON, AB, BC, or NS Only))
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7522836
+Apply: https://instacart.careers/job/?gh_jid=7171033
 
 Description:
 

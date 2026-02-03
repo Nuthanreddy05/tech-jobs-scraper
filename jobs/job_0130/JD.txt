@@ -1,9 +1,9 @@
-Job: Software Engineer, Enterprise Foundations
+Job: Software Engineer, Desktop
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY
+Location: San Francisco, CA | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4667572008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4980420008
 
 Description:
 

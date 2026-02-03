@@ -1,9 +1,9 @@
-Job: Software Engineer, Android
+Job: Software Engineer, Infrastructure (2-8 YOE)
 Company: Airtable
-Location: San Francisco, CA; New York City, NY
+Location: San Francisco, CA; New York, NY; Remote (Seattle, WA only)
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/airtable/jobs/7953553002
+Apply: https://job-boards.greenhouse.io/airtable/jobs/7845293002
 
 Description:
 

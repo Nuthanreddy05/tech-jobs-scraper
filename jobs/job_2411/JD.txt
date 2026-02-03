@@ -1,9 +1,9 @@
-Job: Software Engineer, Full-Stack
+Job: Superhuman Mail Head of Product
 Company: Grammarly
-Location: Seattle; Hybrid
+Location: San Francisco; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7333571
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/7308929
 
 Description:
 

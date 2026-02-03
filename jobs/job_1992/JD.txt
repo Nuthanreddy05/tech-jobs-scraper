@@ -1,9 +1,9 @@
-Job: Senior Market Intelligence Analyst
+Job: Senior Manager, Technical Services Engineering
 Company: MongoDB
-Location: Dublin
+Location: Austin; New York City; United States
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7477059
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7337511
 
 Description:
 

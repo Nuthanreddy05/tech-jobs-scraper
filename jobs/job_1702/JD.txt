@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer - Mid-Market - Dallas
+Job: Senior Solutions Engineer - Mid-Market - Austin
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7558268?gh_jid=7558268
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7520499?gh_jid=7520499
 
 Description:
 

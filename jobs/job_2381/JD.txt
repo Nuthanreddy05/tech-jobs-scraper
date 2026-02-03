@@ -1,9 +1,9 @@
-Job: Staff Cloud Security Engineer
-Company: Vercel
-Location: Remote - United States
+Job: Alliances Partner Engineer
+Company: Grammarly
+Location: United States; Canada
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5710898004
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/7584412
 
 Description:
 

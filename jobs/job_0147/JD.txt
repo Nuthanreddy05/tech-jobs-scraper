@@ -1,9 +1,9 @@
-Job: Solutions Architect, Applied AI (National Security)
+Job: Solutions Architect, Applied AI (Industries)
 Company: Anthropic
-Location: Washington, DC
+Location: New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5079511008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4461444008
 
 Description:
 

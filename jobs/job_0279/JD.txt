@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Experimentation Infrastructure
+Job: Senior Software Engineer, Distributed Transactional Database
 Company: Airbnb
-Location: Remote USA
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7107439?gh_jid=7107439
+Apply: https://careers.airbnb.com/positions/7070179?gh_jid=7070179
 
 Description:
 

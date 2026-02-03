@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Experimentation Data
+Job: Staff Software Engineer, Communication & Connectivity
 Company: Airbnb
-Location: Remote USA
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7306868?gh_jid=7306868
+Apply: https://careers.airbnb.com/positions/7421419?gh_jid=7421419
 
 Description:
 

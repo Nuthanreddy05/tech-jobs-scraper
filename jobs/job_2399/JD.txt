@@ -1,9 +1,9 @@
-Job: Software Engineer, Back-End
+Job: Software Engineer, Data Engineering
 Company: Grammarly
 Location: San Francisco; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/5856122
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/6259939
 
 Description:
 

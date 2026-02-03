@@ -1,9 +1,9 @@
-Job: Engineering Manager, FoodStorm
+Job: Engineering Manager, Marketing Enablement & Technology
 Company: Instacart
-Location: Australia - Remote
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7441852
+Apply: https://instacart.careers/job/?gh_jid=7450594
 
 Description:
 

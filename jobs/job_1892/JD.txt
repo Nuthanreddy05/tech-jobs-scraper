@@ -1,9 +1,9 @@
-Job: Senior AI Engineer - Bits AI Security Analyst
+Job: Senior AI Engineer - APM Integrations
 Company: Datadog
-Location: Lisbon, Portugal
+Location: Germany, Remote; Italy, Remote; Spain, Remote
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7553034/?gh_jid=7553034
+Apply: https://careers.datadoghq.com/detail/7582805/?gh_jid=7582805
 
 Description:
 

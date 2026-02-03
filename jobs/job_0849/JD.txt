@@ -1,9 +1,9 @@
 Job: Senior Infrastructure Software Engineer, Storage
 Company: Dropbox
-Location: Remote - US: Select locations
+Location: Remote - Canada: Select locations
 Portal: greenhouse
 
-Apply: https://jobs.dropbox.com/listing/7336425?gh_jid=7336425
+Apply: https://jobs.dropbox.com/listing/7336428?gh_jid=7336428
 
 Description:
 

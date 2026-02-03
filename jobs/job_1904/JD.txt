@@ -1,9 +1,9 @@
-Job: Senior Security Engineer - Threat Detection Engineering
+Job: Senior Sales Engineer - Majors Northeast
 Company: Datadog
-Location: Boston, Massachusetts, USA; Denver, Colorado, USA; New York, New York, USA
+Location: New Jersey, USA, Remote
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7521096/?gh_jid=7521096
+Apply: https://careers.datadoghq.com/detail/7393792/?gh_jid=7393792
 
 Description:
 

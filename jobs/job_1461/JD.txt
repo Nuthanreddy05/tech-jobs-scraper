@@ -1,9 +1,9 @@
-Job: Senior Software Engineer II, Commerce Platform
+Job: Senior Software Engineer II, Core Experience
 Company: Instacart
 Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7171033
+Apply: https://instacart.careers/job/?gh_jid=7171162
 
 Description:
 

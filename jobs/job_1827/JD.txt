@@ -1,9 +1,9 @@
-Job: Deal Desk Analyst - EMEA
+Job: Deal Desk Analyst - Denver
 Company: Datadog
-Location: Amsterdam, The Netherlands; Dublin, Ireland
+Location: Denver, Colorado, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7420695/?gh_jid=7420695
+Apply: https://careers.datadoghq.com/detail/7420668/?gh_jid=7420668
 
 Description:
 

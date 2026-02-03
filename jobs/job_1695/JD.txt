@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Majors, San Francisco
+Job: Senior Solutions Engineer, Majors, San Diego
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7551589?gh_jid=7551589
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7551602?gh_jid=7551602
 
 Description:
 

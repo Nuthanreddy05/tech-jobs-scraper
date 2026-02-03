@@ -1,9 +1,9 @@
-Job: Senior Software Engineer II, Storage
+Job: Senior Software Engineering Manager, Ads Solutions
 Company: Instacart
-Location: United States - Remote
+Location: USA - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7564947
+Apply: https://instacart.careers/job/?gh_jid=7408933
 
 Description:
 

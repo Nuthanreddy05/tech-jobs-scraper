@@ -1,9 +1,9 @@
-Job: Senior Software Engineer (Fullstack) - Product (Lisbon)
+Job: Senior Software Engineer (Frontend) - Product Engineering (Lisbon)
 Company: Datadog
 Location: Lisbon, Portugal
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7557217/?gh_jid=7557217
+Apply: https://careers.datadoghq.com/detail/7557122/?gh_jid=7557122
 
 Description:
 

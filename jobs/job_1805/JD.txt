@@ -1,9 +1,9 @@
-Job: Systems Reliability Engineer (SRE), Edge
+Job: Systems Reliability Engineer
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7370630?gh_jid=7370630
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7453074?gh_jid=7453074
 
 Description:
 

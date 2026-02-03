@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineering Manager, Southeastern States 
+Job: Senior Solutions Engineering Manager - Mid Atlantic
 Company: Cloudflare
 Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7562152?gh_jid=7562152
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7522105?gh_jid=7522105
 
 Description:
 

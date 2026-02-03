@@ -1,9 +1,9 @@
-Job: Software Engineer, Frontend (Trust and Loyalty)
+Job: Software Engineer, Full-stack (EAA)
 Company: Coinbase
-Location: Remote - Canada
+Location: Remote - India
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/6204422?gh_jid=6204422
+Apply: https://www.coinbase.com/careers/positions/5739771?gh_jid=5739771
 
 Description:
 

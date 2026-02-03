@@ -1,9 +1,9 @@
-Job: Software Engineer, Infrastructure (8+ YOE)
+Job: Software Engineer, Observability
 Company: Airtable
 Location: San Francisco, CA; New York, NY; Remote (Seattle, WA only)
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/airtable/jobs/7845295002
+Apply: https://job-boards.greenhouse.io/airtable/jobs/8384683002
 
 Description:
 

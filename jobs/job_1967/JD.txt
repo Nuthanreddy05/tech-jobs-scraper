@@ -1,9 +1,9 @@
-Job: Product Manager, Developer Tools
+Job: Product Manager 3, Internal AI
 Company: MongoDB
-Location: Dublin
+Location: Palo Alto; San Francisco
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7369344
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7276451
 
 Description:
 

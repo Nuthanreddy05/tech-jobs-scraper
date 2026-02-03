@@ -1,9 +1,9 @@
-Job: Technical Support Engineer 2, Premier - Mexico City
+Job: Technical Support Engineer 2, Premier - Denver
 Company: Datadog
-Location: Mexico City, Mexico
+Location: Denver, Colorado, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7496246/?gh_jid=7496246
+Apply: https://careers.datadoghq.com/detail/7496260/?gh_jid=7496260
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Product Marketing Manager (Cloud Cost Management)
+Job: Senior Product Marketing Manager (AI Security)
 Company: Datadog
 Location: New York, New York, USA; San Francisco, California, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7329541/?gh_jid=7329541
+Apply: https://careers.datadoghq.com/detail/7373098/?gh_jid=7373098
 
 Description:
 

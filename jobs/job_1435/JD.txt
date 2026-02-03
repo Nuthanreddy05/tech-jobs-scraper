@@ -1,9 +1,9 @@
-Job: Senior Data Scientist
+Job: Senior Director, Financial Systems & Solutions
 Company: Instacart
-Location: Canada - Remote (ON, AB, BC, or NS Only)
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=4949335
+Apply: https://instacart.careers/job/?gh_jid=7473374
 
 Description:
 

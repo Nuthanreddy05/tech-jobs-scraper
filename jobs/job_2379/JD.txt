@@ -1,9 +1,9 @@
-Job: Software Engineer, Support Platform
+Job: Staff Data Platform Engineer
 Company: Vercel
-Location: Hybrid - San Francisco
+Location: Hybrid - San Francisco, New York City
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5611527004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5735704004
 
 Description:
 

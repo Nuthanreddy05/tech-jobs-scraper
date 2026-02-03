@@ -1,9 +1,9 @@
-Job: Senior Software Security Engineer
+Job: Senior+ Software Engineer, Research Tools
 Company: Anthropic
-Location: New York City, NY; San Francisco, CA; Seattle, WA
+Location: San Francisco, CA | New York City, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4887959008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4981828008
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Technical Lead - KV Stores & Caching
+Job: Staff Software Engineer, Search Infrastructure
 Company: Airbnb
-Location: United States
+Location: Brazil
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7527285?gh_jid=7527285
+Apply: https://careers.airbnb.com/positions/7362663?gh_jid=7362663
 
 Description:
 

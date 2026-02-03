@@ -1,9 +1,9 @@
-Job: Staff Platform Manager - Agent Products and Intelligence Platforms
+Job: Staff Machine Learning Engineer, Listings and Host Tools Data and AI
 Company: Airbnb
-Location: United States 
+Location: Remote-USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7525175?gh_jid=7525175
+Apply: https://careers.airbnb.com/positions/7454348?gh_jid=7454348
 
 Description:
 

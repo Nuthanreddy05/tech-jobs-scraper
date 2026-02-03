@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Inference
+Job: Senior Software Engineer, Continuous Integration 
 Company: Anthropic
-Location: Dublin, IE
+Location: San Francisco, CA | New York City, NY | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4641822008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5095630008
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Commercial Sales Engineer - NYC
+Job: Commercial Sales Engineer (East)
 Company: Datadog
-Location: New York, New York, USA
+Location: Boston, Massachusetts, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7491559/?gh_jid=7491559
+Apply: https://careers.datadoghq.com/detail/7452669/?gh_jid=7452669
 
 Description:
 

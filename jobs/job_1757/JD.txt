@@ -1,9 +1,9 @@
-Job: Software Engineer - Platforms & Productivity
+Job: Software Engineer - Network Services
 Company: Cloudflare
-Location: In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/6972536?gh_jid=6972536
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7343760?gh_jid=7343760
 
 Description:
 

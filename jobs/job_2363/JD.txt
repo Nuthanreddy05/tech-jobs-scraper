@@ -1,9 +1,9 @@
-Job: Senior Partner Solutions Engineer
+Job: Software Engineer, Accounts
 Company: Vercel
-Location: Hybrid - San Francisco, New York City, Austin
+Location: Hybrid - Berlin
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5553789004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5431123004
 
 Description:
 

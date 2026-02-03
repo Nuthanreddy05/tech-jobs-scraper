@@ -1,9 +1,9 @@
-Job: Senior Manager, Technical Services Engineering
+Job: Senior Java Software Engineer, Client Libraries
 Company: MongoDB
-Location: Austin; New York City; United States
+Location: Toronto; Vancouver
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7337511
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7194687
 
 Description:
 

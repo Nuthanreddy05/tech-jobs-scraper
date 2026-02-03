@@ -1,9 +1,9 @@
-Job: Sr. Program Manager, Gen AI Governance
+Job: Staff Software Engineer, Spending
 Company: Chime
-Location: US - Remote
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8375572002?gh_jid=8375572002
+Apply: https://boards.greenhouse.io/chime/jobs/8322470002?gh_jid=8322470002
 
 Description:
 

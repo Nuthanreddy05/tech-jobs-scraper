@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Majors - Phoenix, Arizona
+Job: Senior Solutions Engineer, Majors, Philadelphia or Pittsburgh 
 Company: Cloudflare
 Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7380187?gh_jid=7380187
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7520051?gh_jid=7520051
 
 Description:
 

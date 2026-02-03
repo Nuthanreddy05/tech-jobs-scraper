@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Communication & Connectivity
+Job: Staff Software Engineer, Android Platform
 Company: Airbnb
-Location: United States
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7421419?gh_jid=7421419
+Apply: https://careers.airbnb.com/positions/7235415?gh_jid=7235415
 
 Description:
 

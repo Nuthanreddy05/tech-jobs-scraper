@@ -1,9 +1,9 @@
-Job: Commercial Sales Engineer
+Job: AI Research Scientist – Datadog AI Research (DAIR)
 Company: Datadog
-Location: Amsterdam, The Netherlands
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7491942/?gh_jid=7491942
+Apply: https://careers.datadoghq.com/detail/6572669/?gh_jid=6572669
 
 Description:
 

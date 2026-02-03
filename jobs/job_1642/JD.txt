@@ -1,9 +1,9 @@
-Job: Senior Security Systems Reliability Engineer
+Job: Senior Security Researcher & Analyst - WAF Application Security Experts
 Company: Cloudflare
-Location: Hybrid
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7137244?gh_jid=7137244
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7368062?gh_jid=7368062
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Software Engineer, Robotics
+Job: Software Engineer, Public Sector
 Company: Scale AI
-Location: Mexico City, MX
+Location: San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4655050005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4302243005
 
 Description:
 

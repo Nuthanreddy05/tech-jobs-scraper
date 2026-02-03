@@ -1,9 +1,9 @@
-Job: Engineering Manager, Guest Displays and Platforms
+Job: Engineering Manager, CS Data Services
 Company: Airbnb
-Location: Remote - USA
+Location: United States
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7521998?gh_jid=7521998
+Apply: https://careers.airbnb.com/positions/7402675?gh_jid=7402675
 
 Description:
 

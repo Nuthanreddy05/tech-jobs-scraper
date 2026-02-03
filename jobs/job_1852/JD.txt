@@ -1,9 +1,9 @@
-Job: Manager 2, Premier Support Engineering - Amsterdam
+Job: Manager 1, Technical Support Engineering - Brazil
 Company: Datadog
-Location: Amsterdam, The Netherlands
+Location: Sao Paulo, Brazil
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7496237/?gh_jid=7496237
+Apply: https://careers.datadoghq.com/detail/7181127/?gh_jid=7181127
 
 Description:
 

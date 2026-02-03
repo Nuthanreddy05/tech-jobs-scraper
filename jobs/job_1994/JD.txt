@@ -1,9 +1,9 @@
-Job: Senior Practice Engineer, AMP
+Job: Senior Market Intelligence Analyst
 Company: MongoDB
-Location: Bengaluru; Gurugram
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7471427
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7477059
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer - Calgary 
+Job: Senior Solutions Engineer, Benelux
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7435457?gh_jid=7435457
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7515330?gh_jid=7515330
 
 Description:
 

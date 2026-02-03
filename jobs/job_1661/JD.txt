@@ -1,9 +1,9 @@
-Job: Senior  Solutions Engineer
+Job: Senior Software Engineer, Workers Runtime
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7443698?gh_jid=7443698
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6578726?gh_jid=6578726
 
 Description:
 

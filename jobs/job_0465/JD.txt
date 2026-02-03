@@ -1,9 +1,9 @@
 Job: Software Engineer, New Grad
 Company: Stripe
-Location: Barcelona
+Location: San Francisco, Seattle
 Portal: greenhouse
 
-Apply: https://stripe.com/jobs/search?gh_jid=7213871
+Apply: https://stripe.com/jobs/search?gh_jid=7210112
 
 Description:
 

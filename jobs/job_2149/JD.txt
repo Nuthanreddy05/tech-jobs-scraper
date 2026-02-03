@@ -1,9 +1,9 @@
-Job: [2026] Senior Machine Learning Engineer, Multimodal AI, Computer Vision and Graphics - PhD Early Career 
+Job: [2026] Senior Machine Learning Engineer, Natural Language Processing - PhD Early Career
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7323437?gh_jid=7323437
+Apply: https://careers.roblox.com/jobs/7324377?gh_jid=7324377
 
 Description:
 

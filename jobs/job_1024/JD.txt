@@ -1,9 +1,9 @@
 Job: Sr. Software Engineer, Backend
 Company: Pinterest
-Location: Toronto, ON, CA
+Location: Mexico City, MX; Remote, MX
 Portal: greenhouse
 
-Apply: https://www.pinterestcareers.com/jobs/?gh_jid=5572858
+Apply: https://www.pinterestcareers.com/jobs/?gh_jid=6087228
 
 Description:
 

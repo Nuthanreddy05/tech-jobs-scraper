@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer - Enterprise - Denver
+Job: Senior Solutions Engineer, Eastern Europe - Polish Speaking
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7518649?gh_jid=7518649
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6332642?gh_jid=6332642
 
 Description:
 

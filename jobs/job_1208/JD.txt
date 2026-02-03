@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Backend (Consumer - Coinbase Card)
+Job: Senior Software Engineer, Backend (Consumer - Coinbase One)
 Company: Coinbase
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7530582?gh_jid=7530582
+Apply: https://www.coinbase.com/careers/positions/7135202?gh_jid=7135202
 
 Description:
 

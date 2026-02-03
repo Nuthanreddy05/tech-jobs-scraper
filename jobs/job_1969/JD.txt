@@ -1,9 +1,9 @@
-Job: Security Software Engineer,  Infrastructure Security (Staff or Senior)
+Job: SDET Engineer, Query
 Company: MongoDB
-Location: Austin; Boston; Chicago; New York City; Pittsburgh; Raleigh; United States; Washington DC
+Location: Dublin; Ireland
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6982487
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7571255
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Leadership Training Manager
+Job: Intranet Platform Manager
 Company: Datadog
 Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7477194/?gh_jid=7477194
+Apply: https://careers.datadoghq.com/detail/7490601/?gh_jid=7490601
 
 Description:
 

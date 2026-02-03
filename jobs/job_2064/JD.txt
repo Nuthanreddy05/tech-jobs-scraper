@@ -1,9 +1,9 @@
-Job: Staff Research Scientist, Voyage AI
+Job: Staff NetSuite Engineer
 Company: MongoDB
-Location: Palo Alto; United States
+Location: Palo Alto
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7280132
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7274598
 
 Description:
 

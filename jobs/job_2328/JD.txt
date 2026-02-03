@@ -1,9 +1,9 @@
-Job: Security Trust Analyst - East
+Job: Senior Data Scientist
 Company: Webflow
-Location: U.S. Remote
+Location: CA Remote (BC & ON only); U.S. Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/webflow/jobs/7531178
+Apply: https://job-boards.greenhouse.io/webflow/jobs/7550682
 
 Description:
 

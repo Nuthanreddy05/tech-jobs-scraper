@@ -1,9 +1,9 @@
-Job: Staff Data Scientist, Listing Understanding
+Job: Staff Data Scientist, Forecasting-Finance
 Company: Airbnb
-Location: Remote
+Location: United States 
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7360248?gh_jid=7360248
+Apply: https://careers.airbnb.com/positions/7551313?gh_jid=7551313
 
 Description:
 

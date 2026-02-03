@@ -1,9 +1,9 @@
-Job: Security Sales Engineer - US East
+Job: Security Engineer II, Risk Engineering
 Company: Datadog
-Location: Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877
+Apply: https://careers.datadoghq.com/detail/7373580/?gh_jid=7373580
 
 Description:
 

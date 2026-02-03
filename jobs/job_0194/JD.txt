@@ -1,9 +1,9 @@
-Job: Machine Learning Research Intern (Summer 2026)
+Job: Machine Learning Research Engineer - Robotics
 Company: Scale AI
 Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4606060005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4600908005
 
 Description:
 

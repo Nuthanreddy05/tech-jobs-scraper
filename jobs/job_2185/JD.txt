@@ -1,9 +1,9 @@
-Job: Principal Core Engine Developer - Systems (C++)
+Job: Principal Core Systems Software Engineer - Game Engine (C++)
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7561753?gh_jid=7561753
+Apply: https://careers.roblox.com/jobs/7449585?gh_jid=7449585
 
 Description:
 

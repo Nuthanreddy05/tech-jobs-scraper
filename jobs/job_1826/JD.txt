@@ -1,9 +1,9 @@
-Job: Deal Desk Analyst - Denver
+Job: Deal Desk Analyst
 Company: Datadog
-Location: Denver, Colorado, USA
+Location: Boston, Massachusetts, USA; New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7420668/?gh_jid=7420668
+Apply: https://careers.datadoghq.com/detail/7420653/?gh_jid=7420653
 
 Description:
 

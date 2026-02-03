@@ -1,9 +1,9 @@
-Job: Digital Ops Data Manager
+Job: Consulting Engineer, Remote Services
 Company: MongoDB
-Location: Austin; Chicago
+Location: Gurugram
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7534583
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7361346
 
 Description:
 

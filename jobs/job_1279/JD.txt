@@ -1,9 +1,9 @@
-Job: Software Engineer, Frontend (Consumer - Trust and Loyalty)
+Job: Software Engineer, Frontend - Identity
 Company: Coinbase
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/5948954?gh_jid=5948954
+Apply: https://www.coinbase.com/careers/positions/7558035?gh_jid=7558035
 
 Description:
 

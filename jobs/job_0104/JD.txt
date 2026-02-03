@@ -1,9 +1,9 @@
-Job: Research Scientist, Societal Impacts
+Job: Research Scientist, Interpretability
 Company: Anthropic
 Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5076616008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4980427008
 
 Description:
 

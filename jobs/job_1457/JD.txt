@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Core Experience
+Job: Senior Software Engineer, Data Governance and Foundations
 Company: Instacart
-Location: Canada - Remote (ON, AB, BC, or NS Only)
+Location: (Canada - Remote (ON, AB, BC, or NS Only))
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7175500
+Apply: https://instacart.careers/job/?gh_jid=7580053
 
 Description:
 

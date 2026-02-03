@@ -1,9 +1,9 @@
-Job: Staff Data Scientist - Product
+Job: Staff Machine Learning Engineer - Risk AI/ML
 Company: Coinbase
 Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7580255?gh_jid=7580255
+Apply: https://www.coinbase.com/careers/positions/7569263?gh_jid=7569263
 
 Description:
 

@@ -1,9 +1,9 @@
 Job: Staff Software Engineer, Replicated Storage Services (Replication)
 Company: MongoDB
-Location: Alberta; British Columbia; Calgary; Ontario; Quebec
+Location: New York City
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7477378
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7456085
 
 Description:
 

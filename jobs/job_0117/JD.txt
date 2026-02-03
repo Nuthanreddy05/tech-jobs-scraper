@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Infrastructure 
+Job: Senior Software Engineer, Inference
 Company: Anthropic
-Location: New York City, NY; San Francisco, CA; Seattle, WA
+Location: Dublin, IE
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4632118008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/4641822008
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Security Researcher & Analyst - WAF Application Security Experts
+Job: Senior Security Engineer - Security Technology Delivery
 Company: Cloudflare
-Location: In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7368062?gh_jid=7368062
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7434858?gh_jid=7434858
 
 Description:
 

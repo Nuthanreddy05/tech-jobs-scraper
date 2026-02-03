@@ -1,9 +1,9 @@
-Job: Senior Systems Engineer - OIC
+Job: Senior Staff Machine Learning Engineer, Relevance and Personalization
 Company: Airbnb
-Location: Remote - Bangalore, India
+Location: United States 
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7556182?gh_jid=7556182
+Apply: https://careers.airbnb.com/positions/7381973?gh_jid=7381973
 
 Description:
 

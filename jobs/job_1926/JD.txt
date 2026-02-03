@@ -1,9 +1,9 @@
-Job: Staff Software Engineer – Fabric
+Job: Staff Software Engineer – Cloud Foundations
 Company: Datadog
 Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7558056/?gh_jid=7558056
+Apply: https://careers.datadoghq.com/detail/7554581/?gh_jid=7554581
 
 Description:
 

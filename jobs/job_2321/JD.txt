@@ -1,9 +1,9 @@
-Job: Technical Director - Data Science (Discovery)
-Company: Roblox
-Location: San Mateo, CA, United States
+Job: Engineering Manager, Code Sync
+Company: Webflow
+Location: CA Remote (BC & ON only); U.K. / Ireland Remote; U.S. Remote
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7376352?gh_jid=7376352
+Apply: https://job-boards.greenhouse.io/webflow/jobs/7532377
 
 Description:
 

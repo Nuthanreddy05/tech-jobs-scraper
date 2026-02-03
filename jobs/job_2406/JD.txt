@@ -1,9 +1,9 @@
-Job: Software Engineer, Front-End
+Job: Software Engineer, Full-Stack
 Company: Grammarly
-Location: Berlin; Hybrid
+Location: Seattle; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/5856195
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/7333571
 
 Description:
 

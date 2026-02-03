@@ -1,9 +1,9 @@
-Job: Senior/Staff Software Engineer, Inference
+Job: Senior / Staff+ Software Engineer - Autonomous Agent Infrastructure
 Company: Anthropic
-Location: New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA; Seattle, WA
+Location: San Francisco, CA | New York City, NY | Seattle, WA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/4951696008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5065894008
 
 Description:
 

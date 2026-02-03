@@ -1,9 +1,9 @@
 Job: Staff Software Engineer, Backend (Consumer - Growth)
 Company: Coinbase
-Location: Remote - Canada
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/6650948?gh_jid=6650948
+Apply: https://www.coinbase.com/careers/positions/6650942?gh_jid=6650942
 
 Description:
 

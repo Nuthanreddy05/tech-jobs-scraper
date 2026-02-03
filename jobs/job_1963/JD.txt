@@ -1,9 +1,9 @@
-Job: Practice Engineer, AMP
+Job: Market Intelligence Analyst
 Company: MongoDB
-Location: Bengaluru
+Location: Dublin; Ireland
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7471899
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7477076
 
 Description:
 

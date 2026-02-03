@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, Frontend - Consumer Products
+Job: Staff Software Engineer, Trading
 Company: Coinbase
-Location: Remote - Canada
+Location: Remote - Singapore
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/5961307?gh_jid=5961307
+Apply: https://www.coinbase.com/careers/positions/7010523?gh_jid=7010523
 
 Description:
 

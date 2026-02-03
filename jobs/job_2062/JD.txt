@@ -1,9 +1,9 @@
-Job: Staff Engineer, Search Systems
+Job: Staff Engineer, C2C
 Company: MongoDB
-Location: Toronto
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7094786
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7409529
 
 Description:
 

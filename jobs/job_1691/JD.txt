@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Majors, Philadelphia or Pittsburgh 
+Job: Senior Solutions Engineer, Majors - Houston, TX
 Company: Cloudflare
 Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7520051?gh_jid=7520051
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7522065?gh_jid=7522065
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Software Engineer, Product Backend (8+ YOE)
+Job: Software Engineer, Product Frontend (2-8 YOE)
 Company: Airtable
-Location: San Francisco, CA; Remote (Seattle, WA only)
+Location: San Francisco, CA; New York, NY; Remote (Seattle, WA only)
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/airtable/jobs/7845287002
+Apply: https://job-boards.greenhouse.io/airtable/jobs/7845265002
 
 Description:
 

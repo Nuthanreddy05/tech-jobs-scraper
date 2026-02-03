@@ -1,9 +1,9 @@
-Job: Senior Software Engineer - IDE AI Experiences - LLM Engineer
+Job: Senior Software Engineer (Fullstack) - Product (Lisbon)
 Company: Datadog
-Location: Boston, Massachusetts, USA
+Location: Lisbon, Portugal
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7107873/?gh_jid=7107873
+Apply: https://careers.datadoghq.com/detail/7557217/?gh_jid=7557217
 
 Description:
 

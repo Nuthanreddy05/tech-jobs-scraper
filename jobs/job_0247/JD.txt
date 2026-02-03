@@ -1,9 +1,9 @@
-Job: Engineering Manager, Control Plane - Distributed Transactional Database
+Job: Engineering Manager, Client Products & Emerging Tech
 Company: Airbnb
-Location: United States
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7525334?gh_jid=7525334
+Apply: https://careers.airbnb.com/positions/7522011?gh_jid=7522011
 
 Description:
 

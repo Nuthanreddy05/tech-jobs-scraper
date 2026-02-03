@@ -1,9 +1,9 @@
-Job: Manager 1, Technical Escalations Engineering - US-East
+Job: Leadership Training Manager
 Company: Datadog
-Location: Boston, Massachusetts, USA; New York, New York, USA
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7380289/?gh_jid=7380289
+Apply: https://careers.datadoghq.com/detail/7477194/?gh_jid=7477194
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Compliance Automation Engineer
+Job: Developer Success Engineer 
 Company: Vercel
-Location: Remote - United States
+Location: Remote - United Kingdom, Germany
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5787037004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5530586004
 
 Description:
 

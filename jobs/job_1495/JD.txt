@@ -1,9 +1,9 @@
-Job: Business Analyst
+Job: Cloud and AI Strategic Negotiator
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7567116?gh_jid=7567116
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7435489?gh_jid=7435489
 
 Description:
 

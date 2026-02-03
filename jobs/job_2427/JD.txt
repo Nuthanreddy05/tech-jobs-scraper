@@ -1,9 +1,9 @@
-Job: Senior iOS Software Engineer
+Job: Senior Site Reliability Engineer
 Company: Duolingo
 Location: Pittsburgh, PA
 Portal: greenhouse
 
-Apply: https://careers.duolingo.com/jobs/8393272002?gh_jid=8393272002
+Apply: https://careers.duolingo.com/jobs/8100002002?gh_jid=8100002002
 
 Description:
 

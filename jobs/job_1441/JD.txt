@@ -1,9 +1,9 @@
-Job: Senior Machine Learning Engineer, Caper (Fraud)
+Job: Senior Machine Learning Engineer II - AI Special Projects
 Company: Instacart
-Location: US-Remote
+Location: Canada - Remote (ON, AB, BC, or NS Only)
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7561937
+Apply: https://instacart.careers/job/?gh_jid=7358005
 
 Description:
 

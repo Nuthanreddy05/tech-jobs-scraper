@@ -1,9 +1,9 @@
-Job: Senior Manager, Solutions Architecture , AI & Developer Platform
+Job: Senior Manager, Solutions Architect (Developer Platform), APAC
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7469508?gh_jid=7469508
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7559655?gh_jid=7559655
 
 Description:
 

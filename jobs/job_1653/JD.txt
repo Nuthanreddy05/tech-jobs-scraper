@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Network Performance & Reliability
+Job: Senior Software Engineer - Network Dev
 Company: Cloudflare
-Location: Hybrid
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7446340?gh_jid=7446340
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7167953?gh_jid=7167953
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Solutions Engineering Manager, 
+Job: Solutions Engineer, Central & Eastern Europe - Hebrew Speaking
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7562159?gh_jid=7562159
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6530077?gh_jid=6530077
 
 Description:
 

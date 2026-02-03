@@ -1,9 +1,9 @@
-Job: Software Engineer, Product Frontend (2-8 YOE)
-Company: Airtable
-Location: San Francisco, CA; New York, NY; Remote (Seattle, WA only)
+Job: Ads AI Analytics Lead II
+Company: Instacart
+Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/airtable/jobs/7845265002
+Apply: https://instacart.careers/job/?gh_jid=7495338
 
 Description:
 

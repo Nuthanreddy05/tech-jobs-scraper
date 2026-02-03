@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Durable Objects (DO)
+Job: Senior Software Engineer, Data Localization
 Company: Cloudflare
-Location: Hybrid
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/5390243?gh_jid=5390243
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7340151?gh_jid=7340151
 
 Description:
 

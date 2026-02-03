@@ -101,6 +101,7 @@ Anthropic,"Research Engineer / Scientist, Frontier Red Team (Cyber)","San Franci
 Anthropic,"Research Engineer / Scientist, Societal Impacts","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5076606008
 Anthropic,"Research Engineer, Universes","Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5061517008
 Anthropic,"Research Operations & Strategy Lead, Coding & Cybersecurity Data","San Francisco, CA | New York City, NY",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/4946306008
+Anthropic,"Research Scientist, Frontier Red Team (Emerging Risks)","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5103788008
 Anthropic,"Research Scientist, Interpretability","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/4980427008
 Anthropic,"Research Scientist, Societal Impacts","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5076616008
 Anthropic,Revenue Systems Solution Architect,"San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5068721008
@@ -139,7 +140,7 @@ Anthropic,"Software Engineer, Python Language","New York City, NY; San Francisco
 Anthropic,"Software Engineer, Safeguards","San Francisco, CA | New York City, NY",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/4951844008
 Anthropic,"Software Engineer, Sandboxing","San Francisco, CA | New York City, NY",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5083039008
 Anthropic,"Software Engineer, Sandboxing (Systems)","San Francisco, CA | New York City, NY",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5025591008
-Anthropic,"Software Engineer, Windows - Claude Code","San Francisco, CA | New York City, NY",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5098506008
+Anthropic,"Software Engineer, Windows - Claude Code","San Francisco, CA | Seattle, WA",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5098506008
 Anthropic,"Solutions Architect, Applied AI","Seoul, South Korea",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/4962867008
 Anthropic,"Solutions Architect, Applied AI (Beneficial Deployments)","San Francisco, CA | New York City, NY",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5062712008
 Anthropic,"Solutions Architect, Applied AI (Digital Native Business)","San Francisco, CA | New York City, NY",greenhouse,https://job-boards.greenhouse.io/anthropic/jobs/5065835008
@@ -200,8 +201,8 @@ Scale AI,"Manager, Machine Learning Research Scientist, GenAI","San Francisco, C
 Scale AI,"Mission Software Engineering Manager, Public Sector","San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC",greenhouse,https://job-boards.greenhouse.io/scaleai/jobs/4631039005
 Scale AI,"ML Research Engineer, ML Systems","San Francisco, CA; Seattle, WA; New York, NY",greenhouse,https://job-boards.greenhouse.io/scaleai/jobs/4534631005
 Scale AI,"Product Manager, Gen AI Platform","San Francisco, CA; New York, NY",greenhouse,https://job-boards.greenhouse.io/scaleai/jobs/4591330005
-Scale AI,"Product Manager of AI Applications, International Public Sector","Riyadh, Saudi Arabia",greenhouse,https://job-boards.greenhouse.io/scaleai/jobs/4650514005
 Scale AI,"Product Manager of AI Applications, International Public Sector","Doha, Qatar ; Dubai, UAE",greenhouse,https://job-boards.greenhouse.io/scaleai/jobs/4589749005
+Scale AI,"Product Manager of AI Applications, International Public Sector","Riyadh, Saudi Arabia",greenhouse,https://job-boards.greenhouse.io/scaleai/jobs/4650514005
 Scale AI,Robotics Engineer,"San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/scaleai/jobs/4655744005
 Scale AI,"Security Engineer, Product Security","San Francisco, CA; Seattle, WA; New York, NY",greenhouse,https://job-boards.greenhouse.io/scaleai/jobs/4647404005
 Scale AI,Senior Forward Deployed Data Scientist/Engineer,"San Francisco, CA; New York, NY",greenhouse,https://job-boards.greenhouse.io/scaleai/jobs/4636227005
@@ -279,8 +280,8 @@ Airbnb,"Senior Software Engineer, Community Support Engineering ","Remote, USA",
 Airbnb,"Senior Software Engineer, Distributed Transactional Database",United States,greenhouse,https://careers.airbnb.com/positions/7070179?gh_jid=7070179
 Airbnb,"Senior Software Engineer, Experimentation Infrastructure",Remote USA,greenhouse,https://careers.airbnb.com/positions/7107439?gh_jid=7107439
 Airbnb,"Senior Software Engineer, Guest Displays & Platform",United States,greenhouse,https://careers.airbnb.com/positions/7551565?gh_jid=7551565
-Airbnb,"Senior Software Engineer, Guest & Host","Remote, USA",greenhouse,https://careers.airbnb.com/positions/7430121?gh_jid=7430121
 Airbnb,"Senior Software Engineer, Guest & Host",United States,greenhouse,https://careers.airbnb.com/positions/7383965?gh_jid=7383965
+Airbnb,"Senior Software Engineer, Guest & Host","Remote, USA",greenhouse,https://careers.airbnb.com/positions/7430121?gh_jid=7430121
 Airbnb,"Senior Software Engineer, Guest & Host (Listing)","Remote, USA",greenhouse,https://careers.airbnb.com/positions/7450454?gh_jid=7450454
 Airbnb,"Senior Software Engineer, Host Platforms & Access",United States,greenhouse,https://careers.airbnb.com/positions/7463313?gh_jid=7463313
 Airbnb,"Senior Software Engineer, Host Pricing & Settings",Remote USA,greenhouse,https://careers.airbnb.com/positions/6718415?gh_jid=6718415
@@ -321,7 +322,6 @@ Airbnb,"Staff Software Engineer, Listings & Host Tools and AI",United States,gre
 Airbnb,"Staff Software Engineer, Performance ",Remote - USA,greenhouse,https://careers.airbnb.com/positions/6996864?gh_jid=6996864
 Airbnb,"Staff Software Engineer, Search Infrastructure",Brazil,greenhouse,https://careers.airbnb.com/positions/7362663?gh_jid=7362663
 Airbnb,"Staff Software Engineer, Technical Lead - KV Stores & Caching",United States,greenhouse,https://careers.airbnb.com/positions/7527285?gh_jid=7527285
-Airbnb,"Strategy and Business Growth Lead, Airbnb Experiences","Sydney, Australia",greenhouse,https://careers.airbnb.com/positions/7582121?gh_jid=7582121
 Airbnb,"Tech Lead Manager, Cloud Networking (Brazil)",Brazil,greenhouse,https://careers.airbnb.com/positions/7381450?gh_jid=7381450
 Stripe,"Account Executive, Platforms (Existing Business)","Sydney, Australia",greenhouse,https://stripe.com/jobs/search?gh_jid=7456957
 Stripe,"Account Executive, Platforms (French Speaking)",Dublin,greenhouse,https://stripe.com/jobs/search?gh_jid=7353623
@@ -354,8 +354,8 @@ Stripe,Bridge Data & Finance Analyst,San Francisco,greenhouse,https://stripe.com
 Stripe,"Bridge - Operations Associate, Financial Crimes (AML Investigations)",Mexico City,greenhouse,https://stripe.com/jobs/search?gh_jid=7456081
 Stripe,Broadcast Engineer,"San Francisco, CA ",greenhouse,https://stripe.com/jobs/search?gh_jid=6632309
 Stripe,"Business Development Manager, Developer Platforms","SF, NYC, Seattle, Remote",greenhouse,https://stripe.com/jobs/search?gh_jid=7450084
-Stripe,Business Partner Analyst,Chicago- New York City- San Francisco or Seattle,greenhouse,https://stripe.com/jobs/search?gh_jid=5986232
 Stripe,Business Partner Analyst,"Dublin, Ireland",greenhouse,https://stripe.com/jobs/search?gh_jid=7558195
+Stripe,Business Partner Analyst,Chicago- New York City- San Francisco or Seattle,greenhouse,https://stripe.com/jobs/search?gh_jid=5986232
 Stripe,Business Systems Analyst - Legal Domain,Bangalore,greenhouse,https://stripe.com/jobs/search?gh_jid=7436172
 Stripe,Client Onboarding Integration Engineer,"Toronto, CA; Chicago, IL ",greenhouse,https://stripe.com/jobs/search?gh_jid=7227066
 Stripe,Compensation Analyst,"US-Remote, Toronto",greenhouse,https://stripe.com/jobs/search?gh_jid=7564387
@@ -392,16 +392,16 @@ Stripe,"Financial Data Analyst, Technical Operations","Dublin, Ireland",greenhou
 Stripe,Financial Data Analyst-User Billing,Bengaluru,greenhouse,https://stripe.com/jobs/search?gh_jid=7278434
 Stripe,"Forward Deployed Engineer, Privy",New York Privy HQ,greenhouse,https://stripe.com/jobs/search?gh_jid=7230452
 Stripe,"Frontend Engineering Manager, Payments","Seattle, San Francisco",greenhouse,https://stripe.com/jobs/search?gh_jid=7063232
-Stripe,"Full Stack Engineer, Collaboration",N/A,greenhouse,https://stripe.com/jobs/search?gh_jid=7488253
 Stripe,"Full Stack Engineer, Collaboration",N/A,greenhouse,https://stripe.com/jobs/search?gh_jid=7532806
+Stripe,"Full Stack Engineer, Collaboration",N/A,greenhouse,https://stripe.com/jobs/search?gh_jid=7488253
 Stripe,"Full Stack Engineer, Developer Experience & Product Platform",NA,greenhouse,https://stripe.com/jobs/search?gh_jid=7436034
 Stripe,"Full Stack Engineer, Developer Experience & Product Platform",N/A,greenhouse,https://stripe.com/jobs/search?gh_jid=6567104
 Stripe,"Full Stack Engineer, Link","Toronto, Remote in Canada",greenhouse,https://stripe.com/jobs/search?gh_jid=6447175
 Stripe,"Full Stack Engineer, Money as a Service",N/A,greenhouse,https://stripe.com/jobs/search?gh_jid=7325118
 Stripe,"Full Stack Engineer, Money as a Service",N/A,greenhouse,https://stripe.com/jobs/search?gh_jid=6606581
 Stripe,"Full Stack Engineer, Payments and Risk","Dublin, Ireland",greenhouse,https://stripe.com/jobs/search?gh_jid=6717520
-Stripe,"Full Stack Engineer, Revenue and Finance Automation",Barcelona ,greenhouse,https://stripe.com/jobs/search?gh_jid=6719642
 Stripe,"Full Stack Engineer, Revenue and Finance Automation",Dublin,greenhouse,https://stripe.com/jobs/search?gh_jid=5995109
+Stripe,"Full Stack Engineer, Revenue and Finance Automation",Barcelona ,greenhouse,https://stripe.com/jobs/search?gh_jid=6719642
 Stripe,"Full Stack Engineer, Revenue & Finance Automation",N/A,greenhouse,https://stripe.com/jobs/search?gh_jid=6786324
 Stripe,"Full Stack Engineer, Revenue & Finance Automation",N/A,greenhouse,https://stripe.com/jobs/search?gh_jid=6343955
 Stripe,"Full Stack Engineer, Web Presence and Platform",N/A,greenhouse,https://stripe.com/jobs/search?gh_jid=7436086
@@ -443,9 +443,9 @@ Stripe,SaaS Operations Engineer,Dublin ,greenhouse,https://stripe.com/jobs/searc
 Stripe,SaaS Platforms Solutions Architecture Manager,"Chicago, IL",greenhouse,https://stripe.com/jobs/search?gh_jid=7394633
 Stripe,Sales Enablement & Training Specialist,SF,greenhouse,https://stripe.com/jobs/search?gh_jid=7359215
 Stripe,"Sales Manager, Enterprise Platforms; Hunter Team","San Francisco, CA",greenhouse,https://stripe.com/jobs/search?gh_jid=7375436
-Stripe,"Sales Manager, Platforms (Existing Business)",US-NYC,greenhouse,https://stripe.com/jobs/search?gh_jid=7522069
-Stripe,"Sales Manager, Platforms (Existing Business)",US-SF,greenhouse,https://stripe.com/jobs/search?gh_jid=7342373
 Stripe,"Sales Manager, Platforms (Existing Business)",US-SF,greenhouse,https://stripe.com/jobs/search?gh_jid=7375100
+Stripe,"Sales Manager, Platforms (Existing Business)",US-SF,greenhouse,https://stripe.com/jobs/search?gh_jid=7342373
+Stripe,"Sales Manager, Platforms (Existing Business)",US-NYC,greenhouse,https://stripe.com/jobs/search?gh_jid=7522069
 Stripe,"Sales Manager, Startup SaaS Platforms - German or French Speaking",Dublin,greenhouse,https://stripe.com/jobs/search?gh_jid=7527325
 Stripe,"Sales Strategy & Operations Analyst, Platform Sales","CHI, ATL, US-Remote",greenhouse,https://stripe.com/jobs/search?gh_jid=7411273
 Stripe,"SDC Operations Manager, Financial Crimes (AML)",Bengaluru,greenhouse,https://stripe.com/jobs/search?gh_jid=7325566
@@ -461,10 +461,10 @@ Stripe,"Software Engineer, Intern",Dublin,greenhouse,https://stripe.com/jobs/sea
 Stripe,"Software Engineer, Intern",Toronto,greenhouse,https://stripe.com/jobs/search?gh_jid=7206389
 Stripe,"Software Engineer, Internal Systems","Seattle, San Francisco, New York City ",greenhouse,https://stripe.com/jobs/search?gh_jid=7009186
 Stripe,"Software Engineer, Intern (Summer and Winter)","San Francisco, Seattle, New York City",greenhouse,https://stripe.com/jobs/search?gh_jid=7210115
-Stripe,"Software Engineer, New Grad",Toronto,greenhouse,https://stripe.com/jobs/search?gh_jid=7206505
 Stripe,"Software Engineer, New Grad",Dublin,greenhouse,https://stripe.com/jobs/search?gh_jid=7206515
-Stripe,"Software Engineer, New Grad",Barcelona,greenhouse,https://stripe.com/jobs/search?gh_jid=7213871
+Stripe,"Software Engineer, New Grad",Toronto,greenhouse,https://stripe.com/jobs/search?gh_jid=7206505
 Stripe,"Software Engineer, New Grad","San Francisco, Seattle",greenhouse,https://stripe.com/jobs/search?gh_jid=7210112
+Stripe,"Software Engineer, New Grad",Barcelona,greenhouse,https://stripe.com/jobs/search?gh_jid=7213871
 Stripe,"Software Engineer, Payments & Risk",IN-Bengaluru,greenhouse,https://stripe.com/jobs/search?gh_jid=4952353
 Stripe,"Software Engineer, Product Security Data Platforms",Seattle,greenhouse,https://stripe.com/jobs/search?gh_jid=7545459
 Stripe,"Software Engineer, Secrets Infrastructure",na,greenhouse,https://stripe.com/jobs/search?gh_jid=7396679
@@ -507,11 +507,11 @@ Stripe,Technical Solutions Engineer,"Remote - California, Remote - Colorado, Rem
 Stripe,"Training Engineer, Training & Certification",US-SF,greenhouse,https://stripe.com/jobs/search?gh_jid=7521020
 Stripe,Transaction Fraud Strategy Analyst,"Chicago, US-Remote, Toronto, Canada-Remote",greenhouse,https://stripe.com/jobs/search?gh_jid=7274401
 Stripe,"UX Researcher, Reporting and Data","US, Canada",greenhouse,https://stripe.com/jobs/search?gh_jid=7409756
-Databricks,AI Engineer - FDE (Forward Deployed Engineer),Remote - India,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002
-Databricks,AI Engineer - FDE (Forward Deployed Engineer),United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002
-Databricks,AI Engineer - FDE (Forward Deployed Engineer),"Sydney, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002
 Databricks,AI Engineer - FDE (Forward Deployed Engineer),"Melbourne, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002
 Databricks,AI Engineer - FDE (Forward Deployed Engineer),"Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8189900002
+Databricks,AI Engineer - FDE (Forward Deployed Engineer),"Sydney, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002
+Databricks,AI Engineer - FDE (Forward Deployed Engineer),United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002
+Databricks,AI Engineer - FDE (Forward Deployed Engineer),Remote - India,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002
 Databricks,AI GTM Leader,United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8341837002
 Databricks,Big Data Solutions Architect (Professional Services),Remote - France,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8336976002
 Databricks,"Compensation Analyst,  Programs & Operations","Mountain View, California; New York City, New York; San Francisco, California; Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8024692002
@@ -543,13 +543,13 @@ Databricks,GenAI Research Scientist,"San Francisco, California",greenhouse,https
 Databricks, Global Head of Technical Scale and Strategy (Field Engineering),"San Francisco, California; United States",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8223325002
 Databricks,Head of AI FDE (Forward Deployed Engineering) - APJ,"Sydney, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8385962002
 Databricks,Head of Corporate Engineering,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7293607002
-Databricks,"Manager, Field Engineering",Mexico City,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8360069002
-Databricks,"Manager, Field Engineering","Sao Paulo, Brazil",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8360067002
+Databricks,"Manager, Field Engineering",United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8391857002
+Databricks,"Manager, Field Engineering","Melbourne, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8316258002
 Databricks,"Manager, Field Engineering","Western Australia, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8400018002
 Databricks,"Manager, Field Engineering",United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8291077002
 Databricks,"Manager, Field Engineering","Sydney, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8277580002
-Databricks,"Manager, Field Engineering","Melbourne, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8316258002
-Databricks,"Manager, Field Engineering",United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8391857002
+Databricks,"Manager, Field Engineering","Sao Paulo, Brazil",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8360067002
+Databricks,"Manager, Field Engineering",Mexico City,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8360069002
 Databricks,"Manager, Field Engineering Italy",Remote - Italy,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8374096002
 Databricks,"Manager, Field Engineering (Pre-Sales)",Madrid,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8326982002
 Databricks,"Manager, Field Engineering (Pre-Sales) - Nordics Enterprise","Stockholm, Sweden",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8368215002
@@ -562,10 +562,10 @@ Databricks,"Principal Engineer, Authentication","Bellevue, Washington; Seattle, 
 Databricks,"Principal Engineer, Authentication","Mountain View, California; San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8400559002
 Databricks,"Principal Engineer, Compute Fleet Management","Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8334738002
 Databricks,Principal Engineer - Privacy,"New York City, New York",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274624002
-Databricks,Principal Engineer - Privacy,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002
 Databricks,Principal Engineer - Privacy,"Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274875002
-Databricks,Principal Engineer - Privacy,"Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002
+Databricks,Principal Engineer - Privacy,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002
 Databricks,Principal Engineer - Privacy,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274488002
+Databricks,Principal Engineer - Privacy,"Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002
 Databricks,"Principal Product Marketing Manager, Platform Marketing",United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7455691002
 Databricks,Product Security Engineer,United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8026646002
 Databricks,Scale Solution Engineer,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7932275002
@@ -576,9 +576,9 @@ Databricks,Senior Backend Software Engineer- (AI Platform),"Mountain View, Calif
 Databricks,Senior Engineering Manager - Enzyme,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8109902002
 Databricks,Senior Engineering Manager for Workspace Platform,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7987658002
 Databricks,Senior Engineering Manager - Lakeflow Pipeline,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8109905002
-Databricks,Senior Engineering Manager - Trust and Safety,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8374884002
-Databricks,Senior Engineering Manager - Trust and Safety,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002
 Databricks,Senior Engineering Manager - Trust and Safety,"Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8374883002
+Databricks,Senior Engineering Manager - Trust and Safety,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8180690002
+Databricks,Senior Engineering Manager - Trust and Safety,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8374884002
 Databricks,Senior GenAI Research Engineer - Optimization and Kernels,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8297797002
 Databricks,Senior GenAI Research Scientist - Scaling,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8297804002
 Databricks,Senior Machine Learning Engineer - GenAI Platform ,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6954585002
@@ -588,23 +588,23 @@ Databricks,"Senior Manager, Infrastructure Data Science","Mountain View, Califor
 Databricks,Senior Product Operation Analyst,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8298108002
 Databricks,"Senior Software Engineer, Agentic Applications","Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7804049002
 Databricks,Senior Software Engineer  - Application Traffic team,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8183195002
-Databricks,Senior Software Engineer - Backend,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002
 Databricks,Senior Software Engineer - Backend,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002
-Databricks,Senior Software Engineer - Backend,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002
 Databricks,Senior Software Engineer - Backend,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002
+Databricks,Senior Software Engineer - Backend,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6544435002
+Databricks,Senior Software Engineer - Backend,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002
 Databricks,Senior Software Engineer (Backend) - AI/ML Environments,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8233899002
 Databricks,Senior Software Engineer - Compliance,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8029215002
-Databricks,Senior Software Engineer - Database Engine Internals,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002
 Databricks,Senior Software Engineer - Database Engine Internals,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002
+Databricks,Senior Software Engineer - Database Engine Internals,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002
 Databricks,Senior Software Engineer - Database Engine Internals,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6544383002
 Databricks,Senior Software Engineer - Developer Experience,"Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8029673002
+Databricks,Senior Software Engineer - Distributed Data Systems,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002
 Databricks,Senior Software Engineer - Distributed Data Systems,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002
 Databricks,Senior Software Engineer - Distributed Data Systems,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002
-Databricks,Senior Software Engineer - Distributed Data Systems,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002
-Databricks,Senior Software Engineer - Fullstack,"Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002
 Databricks,Senior Software Engineer - Fullstack,"Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6544403002
 Databricks,Senior Software Engineer - Fullstack,"Mountain View, California; San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7898766002
 Databricks,Senior Software Engineer - Fullstack,"Mountain View, California; San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=5445641002
+Databricks,Senior Software Engineer - Fullstack,"Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002
 Databricks,"Senior Software Engineer - Fullstack, Assistant","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7849869002
 Databricks,Senior Software Engineer - Fullstack (NYC),New York,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8211634002
 Databricks,Senior Software Engineer - IAM,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8029209002
@@ -615,8 +615,8 @@ Databricks,Senior Software Engineer - Observability (Databases),"Mountain View, 
 Databricks,Senior Software Engineer - Privacy,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8029211002
 Databricks,Senior Software Engineer - Security,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274451002
 Databricks,Senior Software Engineer - Security ,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274459002
-Databricks,Senior Solutions Engineer,Remote - Denmark,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8239195002
 Databricks,Senior Solutions Engineer,Finland,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8325452002
+Databricks,Senior Solutions Engineer,Remote - Denmark,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8239195002
 Databricks,Senior Solutions Engineer - Financial Services,"Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8368201002
 Databricks,Senior Solutions Engineer (Pre-Sales),"Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8346832002
 Databricks,Senior Specialist Solutions Engineer,"Denmark; Finland; Stockholm, Sweden",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8300966002
@@ -625,10 +625,10 @@ Databricks,Senior Staff Software Engineer - Delta,"Aarhus, Denmark",greenhouse,h
 Databricks,Senior Staff Software Engineer - Delta,"Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8303015002
 Databricks,Senior Staff Software Engineer - Delta,"Zürich, Switzerland",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8303017002
 Databricks,Senior Staff Software Engineer - Enzyme,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7934466002
-Databricks,Senior Staff Software Engineer - IAM,"Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002
 Databricks,Senior Staff Software Engineer - IAM,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002
-Databricks,Senior Staff Software Engineer - Security Infrastructure,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002
+Databricks,Senior Staff Software Engineer - IAM,"Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002
 Databricks,Senior Staff Software Engineer - Security Infrastructure,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274908002
+Databricks,Senior Staff Software Engineer - Security Infrastructure,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002
 Databricks,Senior Staff Threat Hunter & Intelligence Engineer - Databricks,Remote - California; United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8345801002
 Databricks,"Senior Supportability Product Specialist, Supportability and Support Platforms","Mountain View, California; San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7995113002
 Databricks," Senior Technical Solutions Engineer, Platform",Costa Rica,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7902994002
@@ -652,8 +652,8 @@ Databricks,Software Engineer -  Systems PhD Candidates,"Mountain View, Californi
 Databricks,Software Engineer - Systems PhD Candidates ,"Bellevue, Washington; Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7649293002
 Databricks,"Solutions Architect, Retail",West Coast - United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6456675002
 Databricks,"Solutions Architect, Retail ",Remote - Ohio,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6049142002
-Databricks,"Solutions Architect, Retail - CPG",Northeast - United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002
 Databricks,"Solutions Architect, Retail - CPG",Central - United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6649865002
+Databricks,"Solutions Architect, Retail - CPG",Northeast - United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002
 Databricks,Solutions Engineer,"Sydney, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8349390002
 Databricks,Solutions Engineer,"Seoul, South Korea",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8234183002
 Databricks,Specialist Solutions Architect - HCLS - Data Warehousing ,Northeast - United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8337429002
@@ -685,8 +685,8 @@ Databricks,"Sr. Product Designer, Data Engineering","Seattle, Washington",greenh
 Databricks,"Sr. Product Designer, Data Engineering","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8373533002
 Databricks,"Sr. Product Manager, Compute Platform","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8200284002
 Databricks,"Sr. Product Manager, Compute Platform","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8200462002
-Databricks,"Sr. Product Manager, Databricks AI","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002
 Databricks,"Sr. Product Manager, Databricks AI","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002
+Databricks,"Sr. Product Manager, Databricks AI","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002
 Databricks,"Sr. Product Manager, Databricks Free Edition","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8235785002
 Databricks,"Sr. Product Manager, Databricks Free Edition","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7680573002
 Databricks,"Sr. Product Manager, Databricks Repos","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8326570002
@@ -695,8 +695,8 @@ Databricks,"Sr. Product Manager, Data Engineering","San Francisco, California",g
 Databricks,"Sr. Product Manager, Data Governance","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7863522002
 Databricks,"Sr. Product Manager, Data Governance","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7863365002
 Databricks,"Sr. Product Manager, Developer Ecosystem","Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7870132002
-Databricks,"Sr. Program Manager, Data for Good","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8385177002
 Databricks,"Sr. Program Manager, Data for Good","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8389535002
+Databricks,"Sr. Program Manager, Data for Good","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8385177002
 Databricks,Sr. Software Engineer - Backend,"Aarhus, Denmark",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7643201002
 Databricks,Sr. Software Engineer- Backend,"New York City, New York",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8379331002
 Databricks,Sr. Software Engineer - Data Engineering ,"Aarhus, Denmark",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8300574002
@@ -706,8 +706,8 @@ Databricks,Sr. Software Engineer - Performance,"Mountain View, California",green
 Databricks,Sr. Software Engineer - Performance ,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6569772002
 Databricks,Sr. Solutions Architect - GSI's and FinTech Data ,Massachusetts; New York; North Carolina,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8200376002
 Databricks,Sr. Solutions Engineer,"Seoul, South Korea",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8228058002
-Databricks,Sr. Solutions Engineer,"Melbourne, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8059387002
 Databricks,Sr. Solutions Engineer,"Zürich, Switzerland",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8351105002
+Databricks,Sr. Solutions Engineer,"Melbourne, Australia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8059387002
 Databricks,Sr. Solutions Engineer Italy,Remote - Italy,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8389657002
 Databricks,"Sr. Solutions Engineer, Retail - CPG",Illinois,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7507778002
 Databricks,Sr. Staff Backend Software Engineer -  Enterprise Apps,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8220983002
@@ -733,33 +733,33 @@ Databricks, Staff Data Scientist - Trust and Safety,"San Francisco, California",
 Databricks,Staff Designated Support Engineer,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7839474002
 Databricks,Staff Fullstack Engineer,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6704975002
 Databricks,"Staff Fullstack Engineer, Agentic Applications","Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8220836002
-Databricks,Staff GenAI Research Scientist,"New York City, New York",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7434541002
 Databricks,Staff GenAI Research Scientist,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7434532002
+Databricks,Staff GenAI Research Scientist,"New York City, New York",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7434541002
 Databricks,Staff Machine Learning Engineer ,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8401114002
-Databricks,"Staff Partner Engineer, Data Collaboration & Industry","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8375583002
 Databricks,"Staff Partner Engineer, Data Collaboration & Industry","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8389608002
+Databricks,"Staff Partner Engineer, Data Collaboration & Industry","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8375583002
 Databricks,"Staff Product Manager, Databricks Notebooks ","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8221270002
 Databricks,"Staff Product Manager, Databricks Notebooks ","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8297805002
 Databricks,Staff Product Security Engineer,Remote - Netherlands,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8026634002
-Databricks,Staff Product Security Engineer,Remote - United Kingdom,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8148273002
 Databricks,Staff Product Security Engineer,Remote - Germany,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8148278002
+Databricks,Staff Product Security Engineer,Remote - United Kingdom,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8148273002
 Databricks,Staff Product Security Engineer,United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7882009002
 Databricks,Staff Security Detection Engineer ,United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8184634002
 Databricks,Staff Security Software Engineer,United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7932280002
-Databricks,Staff Software Engineer - Backend,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002
-Databricks,Staff Software Engineer - Backend,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002
 Databricks,Staff Software Engineer - Backend,"Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002
+Databricks,Staff Software Engineer - Backend,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012814002
 Databricks,Staff Software Engineer - Backend,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002
+Databricks,Staff Software Engineer - Backend,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002
 Databricks,Staff Software Engineer - Backend,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=5408888002
 Databricks,Staff Software Engineer - Backend  ,"Aarhus, Denmark",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7642799002
 Databricks,Staff Software Engineer - Customer Engagement & Docs Platform,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8032546002
 Databricks, Staff Software Engineer - Database Engine Internals,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6544386002
-Databricks,Staff Software Engineer - Database Engine Internals,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002
 Databricks,Staff Software Engineer - Database Engine Internals,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002
+Databricks,Staff Software Engineer - Database Engine Internals,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002
 Databricks,Staff Software Engineer - Developer Experience,"Amsterdam, Netherlands",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8029676002
-Databricks,Staff Software Engineer - Distributed Data Systems,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002
-Databricks,Staff Software Engineer - Distributed Data Systems,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002
 Databricks,Staff Software Engineer - Distributed Data Systems,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002
+Databricks,Staff Software Engineer - Distributed Data Systems,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=5646855002
+Databricks,Staff Software Engineer - Distributed Data Systems,"Belgrade, Serbia",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002
 Databricks,"Staff Software Engineer, Foundational Model Serving","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8224683002
 Databricks,Staff Software Engineer - Fullstack (NYC),"New York City, New York",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8384595002
 Databricks,Staff Software Engineer - GenAI inference,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8202698002
@@ -771,16 +771,16 @@ Databricks,"Staff Software Engineer, Model Serving ","San Francisco, California"
 Databricks,Staff Software Engineer - Money Team,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7111068002
 Databricks,"Staff Software Engineer, Observability ","Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8328675002
 Databricks,"Staff Software Engineer, Search Quality","Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8295792002
-Databricks,Staff Software Engineer - Security Infrastructure,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002
 Databricks,Staff Software Engineer - Security Infrastructure,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002
+Databricks,Staff Software Engineer - Security Infrastructure,"Bellevue, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002
 Databricks,Staff Software Engineer - Unity Catalog,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7933498002
 Databricks,Staff Software Engineer - User Activation,"San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=7979523002
-Databricks,Staff Technical Program Manager – GenAI Ops & Capacity Planning,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8381772002
 Databricks,Staff Technical Program Manager – GenAI Ops & Capacity Planning,"Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8381771002
+Databricks,Staff Technical Program Manager – GenAI Ops & Capacity Planning,"Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8381772002
 Databricks,"Staff Technical Program Manager, Streaming Engineering","Mountain View, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8289827002
 Databricks,"Staff Technical Solutions Engineer, Platform","Sao Paulo, Brazil",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8007203002
-Databricks,"Staff Technical Writer, Platform","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8026857002
 Databricks,"Staff Technical Writer, Platform","San Francisco, California",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8025165002
+Databricks,"Staff Technical Writer, Platform","Seattle, Washington",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8026857002
 Databricks,Strategic Hunter Account Executive - Retail ,Central - United States; Northeast - United States; Southeast - United States,greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8168293002
 Databricks,Tech Lead - Platform Monitoring Engineer,"Plano, Texas; United States",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8284218002
 Databricks,"Technical Solutions Manager, Platform","Sao Paulo, Brazil",greenhouse,https://databricks.com/company/careers/open-positions/job?gh_jid=8128605002
@@ -792,19 +792,19 @@ Dropbox,CX Software Engineer,Remote - Canada: Select locations,greenhouse,https:
 Dropbox,"CX Software Engineer, GTM Platforms",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7181369?gh_jid=7181369
 Dropbox,Data Science Engineer Intern (Summer 2026),Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7527941?gh_jid=7527941
 Dropbox,Data Science Intern (Summer 2026),Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7527921?gh_jid=7527921
+Dropbox,Data Scientist,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7543836?gh_jid=7543836
 Dropbox,Data Scientist,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7486226?gh_jid=7486226
 Dropbox,Data Scientist,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7543839?gh_jid=7543839
-Dropbox,Data Scientist,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7543836?gh_jid=7543836
 Dropbox,Data Scientist,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7486229?gh_jid=7486229
 Dropbox,"Director, Finance Systems",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7492874?gh_jid=7492874
 Dropbox,Frontend Product Software Engineer,Remote - Poland,greenhouse,https://jobs.dropbox.com/listing/6333185?gh_jid=6333185
 Dropbox,Full Stack Product Software Engineer,Remote - Poland,greenhouse,https://jobs.dropbox.com/listing/6449729?gh_jid=6449729
 Dropbox,"Fullstack Product Software Engineer, DocSend",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7344971?gh_jid=7344971
 Dropbox,"Fullstack Product Software Engineer, DocSend",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7344968?gh_jid=7344968
-Dropbox,"Fullstack Product Software Engineer, Growth Monetization",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7344952?gh_jid=7344952
 Dropbox,"Fullstack Product Software Engineer, Growth Monetization",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7344955?gh_jid=7344955
-Dropbox,"Full-Stack Product Software Engineer, Search Platform",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7491860?gh_jid=7491860
+Dropbox,"Fullstack Product Software Engineer, Growth Monetization",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7344952?gh_jid=7344952
 Dropbox,"Full-Stack Product Software Engineer, Search Platform",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7491863?gh_jid=7491863
+Dropbox,"Full-Stack Product Software Engineer, Search Platform",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7491860?gh_jid=7491860
 Dropbox,Global Collections Analyst Intern (Summer 2026),Remote - Ireland,greenhouse,https://jobs.dropbox.com/listing/7510425?gh_jid=7510425
 Dropbox,Indirect Tax - Senior Tax Analyst,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7535644?gh_jid=7535644
 Dropbox,Infrastructure Software Engineer,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/6330390?gh_jid=6330390
@@ -818,52 +818,52 @@ Dropbox,"iOS Software Engineer, Mobile Infrastructure",Remote - US: All location
 Dropbox,"Machine Learning Engineer, Dash",Remote - Germany,greenhouse,https://jobs.dropbox.com/listing/7384405?gh_jid=7384405
 Dropbox,"Machine Learning Engineer, Dash",Remote - Denmark,greenhouse,https://jobs.dropbox.com/listing/7384408?gh_jid=7384408
 Dropbox,Network Engineer,Remote - Mexico,greenhouse,https://jobs.dropbox.com/listing/7539803?gh_jid=7539803
-Dropbox,"People Team Data Analyst, Talent Acquisition",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7536374?gh_jid=7536374
 Dropbox,"People Team Data Analyst, Talent Acquisition",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7536371?gh_jid=7536371
+Dropbox,"People Team Data Analyst, Talent Acquisition",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7536374?gh_jid=7536374
 Dropbox,PhD Machine Learning Intern (Summer 2026),Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7368677?gh_jid=7368677
 Dropbox,PhD Systems & AI/ML Research Intern (Summer 2026),Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7462813?gh_jid=7462813
 Dropbox,"Principal Product Manager - AI Security, Data Access Governance and DLP",Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7183783?gh_jid=7183783
 Dropbox,"Principal Product Manager - AI Security, Data Access Governance and DLP",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7183788?gh_jid=7183788
 Dropbox,"Principal Software Engineer, Core Sharing & Collaboration",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7344927?gh_jid=7344927
 Dropbox,"Principal Software Engineer, Core Sharing & Collaboration",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7344930?gh_jid=7344930
-Dropbox,Senior Backend Product Software Engineer,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/6330345?gh_jid=6330345
 Dropbox,Senior Backend Product Software Engineer,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/6330339?gh_jid=6330339
+Dropbox,Senior Backend Product Software Engineer,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/6330345?gh_jid=6330345
 Dropbox,Senior Business Intelligence Engineer,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7362683?gh_jid=7362683
 Dropbox,Senior Business Intelligence Engineer,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7362682?gh_jid=7362682
-Dropbox,Senior Data Scientist,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7543844?gh_jid=7543844
-Dropbox,Senior Data Scientist,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7543847?gh_jid=7543847
-Dropbox,Senior Data Scientist,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7294189?gh_jid=7294189
 Dropbox,Senior Data Scientist,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7294188?gh_jid=7294188
-Dropbox,"Senior Engineering Manager, Core AI Platform",Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7344918?gh_jid=7344918
+Dropbox,Senior Data Scientist,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7543847?gh_jid=7543847
+Dropbox,Senior Data Scientist,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7543844?gh_jid=7543844
+Dropbox,Senior Data Scientist,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7294189?gh_jid=7294189
 Dropbox,"Senior Engineering Manager, Core AI Platform",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7344922?gh_jid=7344922
-Dropbox,"Senior Engineering Manager, Core Mobile Experience",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7558697?gh_jid=7558697
+Dropbox,"Senior Engineering Manager, Core AI Platform",Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7344918?gh_jid=7344918
 Dropbox,"Senior Engineering Manager, Core Mobile Experience",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7558700?gh_jid=7558700
-Dropbox,Senior Full Stack Product Software Engineer,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7536345?gh_jid=7536345
+Dropbox,"Senior Engineering Manager, Core Mobile Experience",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7558697?gh_jid=7558697
 Dropbox,Senior Full Stack Product Software Engineer,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7536346?gh_jid=7536346
-Dropbox,"Senior Fullstack Product Software Engineer, Corporate IT",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7244914?gh_jid=7244914
+Dropbox,Senior Full Stack Product Software Engineer,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7536345?gh_jid=7536345
 Dropbox,"Senior Fullstack Product Software Engineer, Corporate IT",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7244917?gh_jid=7244917
-Dropbox,"Senior Fullstack Product Software Engineer, DocSend",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7469396?gh_jid=7469396
+Dropbox,"Senior Fullstack Product Software Engineer, Corporate IT",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7244914?gh_jid=7244914
 Dropbox,"Senior Fullstack Product Software Engineer, DocSend",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7469399?gh_jid=7469399
+Dropbox,"Senior Fullstack Product Software Engineer, DocSend",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7469396?gh_jid=7469396
 Dropbox,"Senior Infrastructure Software Engineer, Cloud Foundation",Remote - Poland,greenhouse,https://jobs.dropbox.com/listing/7163799?gh_jid=7163799
 Dropbox,"Senior Infrastructure Software Engineer, Dash",Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7438695?gh_jid=7438695
-Dropbox,"Senior Infrastructure Software Engineer, Storage",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7336428?gh_jid=7336428
 Dropbox,"Senior Infrastructure Software Engineer, Storage",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7336425?gh_jid=7336425
+Dropbox,"Senior Infrastructure Software Engineer, Storage",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7336428?gh_jid=7336428
 Dropbox,"Senior iOS Software Engineer, Design Systems",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7274110?gh_jid=7274110
 Dropbox,"Senior iOS Software Engineer, Design Systems",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7274113?gh_jid=7274113
 Dropbox,"Senior Network Engineer, Corporate IT",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7409613?gh_jid=7409613
 Dropbox,"Senior Network Engineer, Corporate IT",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7409610?gh_jid=7409610
-Dropbox,"Senior Product Designer, Mobile Design Systems",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7274140?gh_jid=7274140
 Dropbox,"Senior Product Designer, Mobile Design Systems",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7274137?gh_jid=7274137
+Dropbox,"Senior Product Designer, Mobile Design Systems",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7274140?gh_jid=7274140
 Dropbox,"Senior Salesforce Developer, Managed Storefront",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7341926?gh_jid=7341926
 Dropbox,"Senior Salesforce Developer, Managed Storefront",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7341927?gh_jid=7341927
-Dropbox,ServiceNow Engineer,Remote - Mexico,greenhouse,https://jobs.dropbox.com/listing/7529808?gh_jid=7529808
 Dropbox,ServiceNow Engineer,Remote - Poland,greenhouse,https://jobs.dropbox.com/listing/7525099?gh_jid=7525099
+Dropbox,ServiceNow Engineer,Remote - Mexico,greenhouse,https://jobs.dropbox.com/listing/7529808?gh_jid=7529808
 Dropbox,Site Reliability Engineer,Remote - Mexico,greenhouse,https://jobs.dropbox.com/listing/7539817?gh_jid=7539817
 Dropbox,Software Engineer Intern (Summer 2026),Remote - Poland,greenhouse,https://jobs.dropbox.com/listing/7362887?gh_jid=7362887
-Dropbox,Sr. Sales Compensation Analyst,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7524793?gh_jid=7524793
 Dropbox,Sr. Sales Compensation Analyst,Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7524792?gh_jid=7524792
-Dropbox,"Staff Backend Product Software Engineer, Core",Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7466493?gh_jid=7466493
+Dropbox,Sr. Sales Compensation Analyst,Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7524793?gh_jid=7524793
 Dropbox,"Staff Backend Product Software Engineer, Core",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7466497?gh_jid=7466497
+Dropbox,"Staff Backend Product Software Engineer, Core",Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7466493?gh_jid=7466493
 Dropbox,"Staff Backend Product Software Engineer, Core Intelligence & Media",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/6936186?gh_jid=6936186
 Dropbox,"Staff Backend Product Software Engineer, Core Intelligence & Media",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/6936183?gh_jid=6936183
 Dropbox,"Staff Backend Product Software Engineer, Desktop Sync",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7260582?gh_jid=7260582
@@ -874,8 +874,8 @@ Dropbox,"Staff Data Scientist, AI Products",Remote - Canada: Select locations,gr
 Dropbox,"Staff Data Scientist, AI Products- Growth",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7512377?gh_jid=7512377
 Dropbox,"Staff Data Scientist, AI Products- Growth",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7512374?gh_jid=7512374
 Dropbox,"Staff Full Stack Software Engineer, Churn",Remote - Poland,greenhouse,https://jobs.dropbox.com/listing/7421131?gh_jid=7421131
-Dropbox,"Staff Fullstack Software Engineer, Growth Monetization",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7421153?gh_jid=7421153
 Dropbox,"Staff Fullstack Software Engineer, Growth Monetization",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7421150?gh_jid=7421150
+Dropbox,"Staff Fullstack Software Engineer, Growth Monetization",Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7421153?gh_jid=7421153
 Dropbox,"Staff Fullstack Software Engineer, Smart Storage Management",Remote - Poland,greenhouse,https://jobs.dropbox.com/listing/7421160?gh_jid=7421160
 Dropbox,"Staff Product Backend Software Engineer, Desktop Sync",Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7260578?gh_jid=7260578
 Dropbox,"Staff Technical Program Manager, Engineering Productivity",Remote - US: Select locations,greenhouse,https://jobs.dropbox.com/listing/7387347?gh_jid=7387347
@@ -883,8 +883,8 @@ Dropbox,"Staff Technical Program Manager, Engineering Productivity",Remote - Can
 Dropbox,Support Enablement Engineer Intern  (Summer 2026),Remote - Canada: Select locations,greenhouse,https://jobs.dropbox.com/listing/7531481?gh_jid=7531481
 Dropbox,Support Enablement Engineer Intern  (Summer 2026),Remote - US: All locations,greenhouse,https://jobs.dropbox.com/listing/7531477?gh_jid=7531477
 Reddit,"Ads Engineering Manager, SMB Activation (Advertiser Growth)",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7215371
-Reddit,"Android Software Engineer, Ad Formats","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7415013
 Reddit,"Android Software Engineer, Ad Formats","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7414993
+Reddit,"Android Software Engineer, Ad Formats","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7415013
 Reddit,"Android Software Engineer, Ad Formats",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7415052
 Reddit,"Android Software Engineer, Ad Formats","Chicago, IL",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7415003
 Reddit,"Backend Engineer, Feeds Experience",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7565219
@@ -897,9 +897,9 @@ Reddit,"Engineering Manager, Machine Learning","San Francisco, CA",greenhouse,ht
 Reddit,"iOS Software Engineer, Ad Formats",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7415041
 Reddit,"iOS Software Engineer, Ad Formats","Chicago, IL",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7414842
 Reddit,"iOS Software Engineer, Ad Formats","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7414849
-Reddit,"iOS Software Engineer, i18n: Grow Global and Local Communities","Los Angeles, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7512048
 Reddit,"iOS Software Engineer, i18n: Grow Global and Local Communities","Chicago, IL",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7512046
 Reddit,"iOS Software Engineer, i18n: Grow Global and Local Communities","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7414834
+Reddit,"iOS Software Engineer, i18n: Grow Global and Local Communities","Los Angeles, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7512048
 Reddit,Machine Learning Engineer,"San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7580374
 Reddit,"Machine Learning Engineer, Ads","Remote - Ontario, Canada",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7131934
 Reddit,"Machine Learning Engineer, Ads",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7131932
@@ -911,8 +911,8 @@ Reddit,"Principal Software Engineer, Ads Product",Remote - United States,greenho
 Reddit, Senior Accounts Receivable Analyst - International     ,Remote - United Kingdom,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7421219
 Reddit,Senior Analytics Engineer,Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7445224
 Reddit,"Senior Android Engineer, Apps Platform (Performance)","Chicago, IL",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7370708
-Reddit,"Senior Android Engineer, Apps Platform (Performance)","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7370711
 Reddit,"Senior Android Engineer, Apps Platform (Performance)",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7370704
+Reddit,"Senior Android Engineer, Apps Platform (Performance)","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7370711
 Reddit,"Senior Client Partner, Large Customer Sales (Retail Beauty)","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7454499
 Reddit,"Senior Counsel, Regulatory Affairs ",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7568190
 Reddit,"Senior Data Scientist, Ads",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6042236
@@ -921,26 +921,26 @@ Reddit,"Senior Engineering Manager, Unified Embeddings Platform ",Remote - Unite
 Reddit,"Senior Front End Engineer, Experimentation",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7342470
 Reddit,"Senior Fullstack Engineer, Notifications Engagement",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7398537
 Reddit,Senior iOS Engineer - Compliance Engineering,Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7023832
-Reddit,"Senior iOS Software Engineer, iOS Platform","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7348120
 Reddit,"Senior iOS Software Engineer, iOS Platform",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7380919
 Reddit,"Senior iOS Software Engineer, iOS Platform","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7348117
+Reddit,"Senior iOS Software Engineer, iOS Platform","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7348120
 Reddit,"Senior iOS Software Engineer, iOS Platform","Los Angeles, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7348119
 Reddit,"Senior IT Support Engineer, Snoo Operations & Support (SOS)","Chicago, IL",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7413993
-Reddit,"Senior Machine Learning Engineer, Ads",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6960831
 Reddit,"Senior Machine Learning Engineer, Ads","Remote - Ontario, Canada",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6960833
+Reddit,"Senior Machine Learning Engineer, Ads",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6960831
 Reddit,"Senior Machine Learning Engineer, Core Experience and Growth",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7391392
 Reddit,"Senior Machine Learning Engineer, Dev Platform Data and Discovery",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7377109
 Reddit,"Senior  Machine Learning Engineer, ML Training Platform ",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7074776
 Reddit,"Senior Software Engineer, Ads",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6909091
-Reddit,"Senior Software Engineer, Android Test Engineering","Los Angeles, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7488988
 Reddit,"Senior Software Engineer, Android Test Engineering",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7488862
-Reddit,"Senior Software Engineer, Android Test Engineering","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7488986
 Reddit,"Senior Software Engineer, Android Test Engineering","Chicago, IL",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7488991
 Reddit,"Senior Software Engineer, Android Test Engineering","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7488992
-Reddit,"Senior Software Engineer, Site Defense","Seattle, WA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7558457
-Reddit,"Senior Software Engineer, Site Defense","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7558455
-Reddit,"Senior Software Engineer, Site Defense",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7542751
+Reddit,"Senior Software Engineer, Android Test Engineering","Los Angeles, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7488988
+Reddit,"Senior Software Engineer, Android Test Engineering","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7488986
 Reddit,"Senior Software Engineer, Site Defense","New York City, NY",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7542779
+Reddit,"Senior Software Engineer, Site Defense",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7542751
+Reddit,"Senior Software Engineer, Site Defense","San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7558455
+Reddit,"Senior Software Engineer, Site Defense","Seattle, WA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7558457
 Reddit,Senior Staff Machine Learning Engineer,Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6409611
 Reddit,"Senior Staff Machine Learning Engineer, Ads Ranking",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7517045
 Reddit,"Senior Staff Machine Learning Engineer, Ads Targeting and Retrieval",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7561553
@@ -948,10 +948,10 @@ Reddit,"Senior Staff Machine Learning Engineer, Feed Relevance",Remote - United 
 Reddit,"Senior Staff ML Infra Engineer, Ads Ranking",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7517876
 Reddit,"Senior Staff Software Engineer, Search Platform",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7341457
 Reddit,"Senior UX Engineer, Prototyping Platforms",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7408979
-Reddit,Software Engineer,"Remote - Ontario, Canada",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6909093
 Reddit,Software Engineer,"San Francisco, CA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7579681
-Reddit,"Software Engineer, Ads","Remote - Ontario, Canada",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6512458
+Reddit,Software Engineer,"Remote - Ontario, Canada",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6909093
 Reddit,"Software Engineer, Ads",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6469397
+Reddit,"Software Engineer, Ads","Remote - Ontario, Canada",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6512458
 Reddit,"Software Engineering Manager, Ads Creative Management",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7280423
 Reddit,Sr Technology FP&A Manager - Cloud Hosting,Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7363444
 Reddit,"Staff Data Scientist, Ads",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6706371
@@ -966,8 +966,8 @@ Reddit,"Staff Research Engineer, Pre-training Data",Remote - United States,green
 Reddit,"Staff Research Engineer, Pre-training Science",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7554999
 Reddit,"Staff Software Engineer - Continuous Integration, Developer Experience",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7342078
 Reddit,"Staff Software Engineer, ML Search ",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/6666410
-Reddit,"Staff Software Engineer, Storage","Seattle, WA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7511698
 Reddit,"Staff Software Engineer, Storage",Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7511679
+Reddit,"Staff Software Engineer, Storage","Seattle, WA",greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7511698
 Reddit,Trust & Safety Policy - User Data Policy Senior Specialist,Remote - United States,greenhouse,https://job-boards.greenhouse.io/reddit/jobs/7515845
 Pinterest,"Data Scientist II, Growth Marketing","San Francisco, CA, US; Remote, US",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=6483005
 Pinterest,"Director, Machine Learning Engineering, Programmatic Ads","San Francisco, CA, US; Palo Alto, CA, US; Seattle, WA, US; Los Angeles, CA, US",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=7354745
@@ -1020,9 +1020,9 @@ Pinterest,Sr. Site Reliability Engineer,"Toronto, ON, CA",greenhouse,https://www
 Pinterest,Sr Software Engineer,"Zurich, CH",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=7316265
 Pinterest,Sr. Software Engineer,"Dublin, IE",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=7335888
 Pinterest,"Sr. Software Engineer, Android","Toronto, ON, CA",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=5773689
+Pinterest,"Sr. Software Engineer, Backend","Toronto, ON, CA",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=5572858
 Pinterest,"Sr. Software Engineer, Backend","San Francisco, CA, US; Seattle, WA; Remote, US",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=4902175
 Pinterest,"Sr. Software Engineer, Backend","Mexico City, MX; Remote, MX",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=6087228
-Pinterest,"Sr. Software Engineer, Backend","Toronto, ON, CA",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=5572858
 Pinterest,"Sr. Software Engineer, Full Stack","Mexico City, MX; Remote, MX",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=6142105
 Pinterest,"Sr. Software Engineer, iOS","Mexico City, MX; Remote, MX",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=6705763
 Pinterest,"Sr. Staff Machine Learning Engineer, Homefeed","San Francisco, CA, US; Remote, US",greenhouse,https://www.pinterestcareers.com/jobs/?gh_jid=6908633
@@ -1048,31 +1048,31 @@ Pinterest,UX Engineer Intern,"San Francisco, CA, US",greenhouse,https://www.pint
 Brex,Data Engineer,"San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8366850002?gh_jid=8366850002
 Brex,"Engineering Manager, AI — Brex Assistant","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8393583002?gh_jid=8393583002
 Brex,"Engineering Manager, AI — Brex Assistant","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8395068002?gh_jid=8395068002
-Brex,"Engineering Manager, GTM Engineering ","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8339037002?gh_jid=8339037002
-Brex,"Engineering Manager, GTM Engineering ","New York, New York, United States",greenhouse,https://www.brex.com/careers/8367549002?gh_jid=8367549002
 Brex,"Engineering Manager, GTM Engineering ","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8367552002?gh_jid=8367552002
+Brex,"Engineering Manager, GTM Engineering ","New York, New York, United States",greenhouse,https://www.brex.com/careers/8367549002?gh_jid=8367549002
+Brex,"Engineering Manager, GTM Engineering ","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8339037002?gh_jid=8339037002
 Brex,"Engineering Manager, Salesforce","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8339005002?gh_jid=8339005002
 Brex,"Engineering Manager, Salesforce","New York, New York, United States",greenhouse,https://www.brex.com/careers/8367554002?gh_jid=8367554002
 Brex,"Engineering Manager, Security Engineering ","New York, New York, United States",greenhouse,https://www.brex.com/careers/8330465002?gh_jid=8330465002
 Brex,"Engineering Manager, Security Engineering ","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8330477002?gh_jid=8330477002
-Brex,Senior Application Security Engineer,"San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8249658002?gh_jid=8249658002
 Brex,Senior Application Security Engineer,"New York, New York, United States",greenhouse,https://www.brex.com/careers/8249885002?gh_jid=8249885002
 Brex,Senior Application Security Engineer,"Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8249884002?gh_jid=8249884002
+Brex,Senior Application Security Engineer,"San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8249658002?gh_jid=8249658002
 Brex,"Senior Data Scientist, Finance ","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/7892186002?gh_jid=7892186002
-Brex,"Senior Engineer, AI — Brex Assistant","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8398916002?gh_jid=8398916002
 Brex,"Senior Engineer, AI — Brex Assistant","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8399014002?gh_jid=8399014002
+Brex,"Senior Engineer, AI — Brex Assistant","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8398916002?gh_jid=8398916002
 Brex,"Senior Engineering Manager, Acquisition","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8299931002?gh_jid=8299931002
 Brex,"Senior Engineering Manager, Acquisition","New York, New York, United States",greenhouse,https://www.brex.com/careers/8299930002?gh_jid=8299930002
 Brex,"Senior Engineering Manager, Acquisition","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8299907002?gh_jid=8299907002
-Brex,"Senior Engineering Manager, Activation","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8330495002?gh_jid=8330495002
-Brex,"Senior Engineering Manager, Activation","New York, New York, United States",greenhouse,https://www.brex.com/careers/8330492002?gh_jid=8330492002
 Brex,"Senior Engineering Manager, Activation","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8330487002?gh_jid=8330487002
+Brex,"Senior Engineering Manager, Activation","New York, New York, United States",greenhouse,https://www.brex.com/careers/8330492002?gh_jid=8330492002
+Brex,"Senior Engineering Manager, Activation","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8330495002?gh_jid=8330495002
 Brex,"Senior Engineering Manager, Risk Management","New York, New York, United States",greenhouse,https://www.brex.com/careers/8184122002?gh_jid=8184122002
 Brex,"Senior Engineering Manager, Risk Management ","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8184695002?gh_jid=8184695002
 Brex,"Senior Engineering Manager, Risk Management ","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8184694002?gh_jid=8184694002
+Brex,Senior Security Operations Engineer ,"Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8339283002?gh_jid=8339283002
 Brex,Senior Security Operations Engineer ,"San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8339252002?gh_jid=8339252002
 Brex,Senior Security Operations Engineer ,"New York, New York, United States",greenhouse,https://www.brex.com/careers/8339277002?gh_jid=8339277002
-Brex,Senior Security Operations Engineer ,"Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8339283002?gh_jid=8339283002
 Brex,"Senior Software Engineer, Full-Stack","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8213577002?gh_jid=8213577002
 Brex,"Senior Software Engineer, Full-Stack","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8381523002?gh_jid=8381523002
 Brex,"Senior Software Engineer, Product ","New York, New York, United States",greenhouse,https://www.brex.com/careers/7521386002?gh_jid=7521386002
@@ -1082,10 +1082,10 @@ Brex,"Software Engineer II, Frontend","São Paulo, São Paulo, Brazil",greenhous
 Brex,"Software Engineer II, Frontend Platform","São Paulo, São Paulo, Brazil",greenhouse,https://www.brex.com/careers/8359908002?gh_jid=8359908002
 Brex,"Software Engineer II, Frontend Platform ","New York, New York, United States",greenhouse,https://www.brex.com/careers/8353867002?gh_jid=8353867002
 Brex,"Software Engineer II, Operational AI","São Paulo, São Paulo, Brazil",greenhouse,https://www.brex.com/careers/8398641002?gh_jid=8398641002
-Brex,"Software Engineer II, Product ","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8318333002?gh_jid=8318333002
-Brex,"Software Engineer II, Product ","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8318332002?gh_jid=8318332002
-Brex,"Software Engineer II, Product ","New York, New York, United States",greenhouse,https://www.brex.com/careers/8318331002?gh_jid=8318331002
 Brex,"Software Engineer II, Product ","São Paulo, São Paulo, Brazil",greenhouse,https://www.brex.com/careers/7467124002?gh_jid=7467124002
+Brex,"Software Engineer II, Product ","New York, New York, United States",greenhouse,https://www.brex.com/careers/8318331002?gh_jid=8318331002
+Brex,"Software Engineer II, Product ","San Francisco, California, United States",greenhouse,https://www.brex.com/careers/8318332002?gh_jid=8318332002
+Brex,"Software Engineer II, Product ","Seattle, Washington, United States",greenhouse,https://www.brex.com/careers/8318333002?gh_jid=8318333002
 Robinhood,Android Engineer,"Menlo Park, CA",greenhouse,https://boards.greenhouse.io/robinhood/jobs/7350823?t=gh_src=&gh_jid=7350823
 Robinhood,Android Engineer,"New York, NY",greenhouse,https://boards.greenhouse.io/robinhood/jobs/6669758?t=gh_src=&gh_jid=6669758
 Robinhood,Compliance Analyst,"Luxembourg, Luxembourg",greenhouse,https://boards.greenhouse.io/robinhood/jobs/7473852?t=gh_src=&gh_jid=7473852
@@ -1200,7 +1200,6 @@ Coinbase,Senior Product Manager - Security Platform,Remote - USA,greenhouse,http
 Coinbase,Senior Risk Analyst,Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7542630?gh_jid=7542630
 Coinbase,"Senior Site Reliability Engineer, Identity Platform",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7516971?gh_jid=7516971
 Coinbase,"Senior Smart Contract Engineer, Tokenization",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7426373?gh_jid=7426373
-Coinbase,Senior Software Engineer,Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7255761?gh_jid=7255761
 Coinbase,Senior Software Engineer - AI Platform  (AI Acceleration),Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/7575167?gh_jid=7575167
 Coinbase,Senior Software Engineer - AI Platform (AI Acceleration),Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7575142?gh_jid=7575142
 Coinbase," Senior Software Engineer, Backend - Blockchain Platform (Blockchain Data Processing) ",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7558592?gh_jid=7558592
@@ -1214,6 +1213,7 @@ Coinbase,"Senior Software Engineer, Backend (Consumer - Growth & App Infra)",Rem
 Coinbase,"Senior Software Engineer, Backend (Consumer -  International)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/7012102?gh_jid=7012102
 Coinbase,"Senior Software Engineer, Backend (Consumer Products)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/5961458?gh_jid=5961458
 Coinbase,"Senior Software Engineer, Backend (Consumer - Stablecoin)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/6570384?gh_jid=6570384
+Coinbase,"Senior Software Engineer, Backend - Finhub",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7255761?gh_jid=7255761
 Coinbase,"Senior Software Engineer, Backend - FinHub",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/6855597?gh_jid=6855597
 Coinbase,"Senior Software Engineer, Backend (Institutional - Markets)",Remote - Netherlands,greenhouse,https://www.coinbase.com/careers/positions/7364719?gh_jid=7364719
 Coinbase,"Senior Software Engineer, Backend (Institutional - Markets, Exchange)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7543285?gh_jid=7543285
@@ -1227,8 +1227,8 @@ Coinbase,"Senior Software Engineer, Data Platform ",Remote - India,greenhouse,ht
 Coinbase,Senior Software Engineer (EAA),Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7483221?gh_jid=7483221
 Coinbase,"Senior Software Engineer, Echo",Remote - UK,greenhouse,https://www.coinbase.com/careers/positions/7392110?gh_jid=7392110
 Coinbase,Senior Software Engineer - Financial Hub (Transfers),Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7579121?gh_jid=7579121
-Coinbase,"Senior Software Engineer, Frontend (Consumer - Growth)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961
 Coinbase,"Senior Software Engineer, Frontend (Consumer - Growth)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/7261976?gh_jid=7261976
+Coinbase,"Senior Software Engineer, Frontend (Consumer - Growth)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961
 Coinbase,"Senior Software Engineer, Frontend (Consumer - Growth & App Infra)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7260887?gh_jid=7260887
 Coinbase,"Senior Software Engineer, Frontend (Consumer - Trading)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/6946526?gh_jid=6946526
 Coinbase,"Senior Software Engineer, Frontend - Developer Experience",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7576385?gh_jid=7576385
@@ -1238,13 +1238,12 @@ Coinbase,"Senior Software Engineer, Frontend - Risk Platform",Remote - USA,green
 Coinbase,"Senior Software Engineer, Frontend - Risk Platform",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7558027?gh_jid=7558027
 Coinbase,Senior Software Engineer - Infrastructure Enablement,Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7576748?gh_jid=7576748
 Coinbase,"Senior Software Engineer, Infrastructure - Platform Compute",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7576764?gh_jid=7576764
-Coinbase,"Senior Staff Machine Learning Engineer, Risk AI/ML",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7580263?gh_jid=7580263
 Coinbase,Senior Staff Product Designer - Platform ,Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7357049?gh_jid=7357049
 Coinbase,Senior Staff Product Designer - Platform ,Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/7357050?gh_jid=7357050
 Coinbase,"Senior Staff Software Engineer, Backend (Consumer) ",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7565860?gh_jid=7565860
 Coinbase,"Senior Staff Software Engineer, Backend (Consumer - Financial Services and Loyalty)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7260606?gh_jid=7260606
-Coinbase,"Senior Staff Software Engineer, Backend (Consumer - Growth)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/7262059?gh_jid=7262059
 Coinbase,"Senior Staff Software Engineer, Backend (Consumer - Growth)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955
+Coinbase,"Senior Staff Software Engineer, Backend (Consumer - Growth)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/7262059?gh_jid=7262059
 Coinbase,"Senior Staff Software Engineer, Backend (Consumer - Growth & App Infra) ",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7260614?gh_jid=7260614
 Coinbase,"Senior Staff Software Engineer, Backend - Platform (Core Automation)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7580292?gh_jid=7580292
 Coinbase,"Senior Staff Software Engineer, Backend (Platform - Onboarding)",Remote - India,greenhouse,https://www.coinbase.com/careers/positions/5804305?gh_jid=5804305
@@ -1297,15 +1296,15 @@ Coinbase,"Staff Software Engineer, Backend (Consumer - Financial Services & Loya
 Coinbase,"Staff Software Engineer, Backend (Consumer - Growth)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/6650948?gh_jid=6650948
 Coinbase,"Staff Software Engineer, Backend (Consumer - Growth)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/6650942?gh_jid=6650942
 Coinbase,"Staff Software Engineer, Backend (Consumer - Growth & App Infra)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7258523?gh_jid=7258523
-Coinbase,"Staff Software Engineer, Backend (Consumer - International)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/7292997?gh_jid=7292997
 Coinbase,"Staff Software Engineer, Backend (Consumer - International)",Remote - Brazil,greenhouse,https://www.coinbase.com/careers/positions/6377946?gh_jid=6377946
+Coinbase,"Staff Software Engineer, Backend (Consumer - International)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/7292997?gh_jid=7292997
 Coinbase,"Staff Software Engineer, Backend - Consumer Product Group",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/5968428?gh_jid=5968428
 Coinbase,"Staff Software Engineer, Backend (Consumer - Trading)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7309097?gh_jid=7309097
 Coinbase,"Staff Software Engineer, Backend - Customer Experience Team",Remote - India,greenhouse,https://www.coinbase.com/careers/positions/4969310?gh_jid=4969310
-Coinbase,"Staff Software Engineer, Backend - Financial Hub",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/6855515?gh_jid=6855515
 Coinbase,"Staff Software Engineer, Backend - Financial Hub",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7482196?gh_jid=7482196
-Coinbase,"Staff Software Engineer, Backend (Institutional - Foundations)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033
+Coinbase,"Staff Software Engineer, Backend - Financial Hub",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/6855515?gh_jid=6855515
 Coinbase,"Staff Software Engineer, Backend (Institutional - Foundations)",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/7395303?gh_jid=7395303
+Coinbase,"Staff Software Engineer, Backend (Institutional - Foundations)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033
 Coinbase,"Staff Software Engineer, Backend - Platform (Core Automation)",Remote - USA,greenhouse,https://www.coinbase.com/careers/positions/7462710?gh_jid=7462710
 Coinbase,"Staff Software Engineer,  Backend (Platform - Onboarding)",Remote - India,greenhouse,https://www.coinbase.com/careers/positions/4969309?gh_jid=4969309
 Coinbase,"Staff Software Engineer, Backend - Platform (Relocate to India)",Remote - India,greenhouse,https://www.coinbase.com/careers/positions/4969312?gh_jid=4969312
@@ -1315,8 +1314,8 @@ Coinbase,"Staff Software Engineer, Frontend (Consumer - Financial Services & Loy
 Coinbase,"Staff Software Engineer, Frontend - Consumer Products",Remote - Canada,greenhouse,https://www.coinbase.com/careers/positions/5961307?gh_jid=5961307
 Coinbase,"Staff Software Engineer, Trading",Remote - Singapore,greenhouse,https://www.coinbase.com/careers/positions/7010523?gh_jid=7010523
 Coinbase,"Supervisor, Customer Success Team (Onsite - Relocation Assistance Available)","Charlotte, NC",greenhouse,https://www.coinbase.com/careers/positions/7156049?gh_jid=7156049
-Coinbase,"Tax Analyst, Global Indirect Tax",Remote - UK,greenhouse,https://www.coinbase.com/careers/positions/7391727?gh_jid=7391727
 Coinbase,"Tax Analyst, Global Indirect Tax",Remote - Ireland,greenhouse,https://www.coinbase.com/careers/positions/7393692?gh_jid=7393692
+Coinbase,"Tax Analyst, Global Indirect Tax",Remote - UK,greenhouse,https://www.coinbase.com/careers/positions/7391727?gh_jid=7391727
 Coinbase,Technical Account Manager Analyst II ,Remote - EMEA,greenhouse,https://www.coinbase.com/careers/positions/7379659?gh_jid=7379659
 Coinbase,TMS Compliance Analyst III,"Charlotte, NC",greenhouse,https://www.coinbase.com/careers/positions/6675542?gh_jid=6675542
 Coinbase,TMS Compliance Lead Analyst,Hybrid - Luxembourg,greenhouse,https://www.coinbase.com/careers/positions/7013044?gh_jid=7013044
@@ -1414,8 +1413,8 @@ Instacart,"Engineering Manager, FoodStorm",Australia - Remote,greenhouse,https:/
 Instacart,"Engineering Manager, Marketing Enablement & Technology",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7450594
 Instacart,Financial Systems Senior Project Manager ,United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7384000
 Instacart,Financial Systems Senior Project Manager ,"Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7540293
-Instacart,"Growth Media Marketing Manager, Off Platform","Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7444435
 Instacart,"Growth Media Marketing Manager, Off Platform",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7444433
+Instacart,"Growth Media Marketing Manager, Off Platform","Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7444435
 Instacart,iOS Engineer II,United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7555605
 Instacart,"iOS Engineer II, Marketing Enablement & Technology","Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7562382
 Instacart,"iOS Engineer II, Transaction Platform ","Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7545699
@@ -1423,8 +1422,8 @@ Instacart,"Machine Learning Engineer II, Economics",United States - Remote,green
 Instacart,"Machine Learning Engineer, PhD Intern",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=5917202
 Instacart,"Machine Learning PhD Intern, Economics",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7532267
 Instacart,"Principal Software Engineer, Catalog & Real-Time Serving Systems",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7066216
-Instacart,"Product Manager, Caper - Retailer Tooling","Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7525136
 Instacart,"Product Manager, Caper - Retailer Tooling",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7525134
+Instacart,"Product Manager, Caper - Retailer Tooling","Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7525136
 Instacart,Sales Systems & Tools Manager II,United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7558809
 Instacart,Sales Systems & Tools Manager II,"Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7558811
 Instacart,Senior Corporate Security Engineer,United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7335572
@@ -1444,8 +1443,8 @@ Instacart,Senior Machine Learning Engineer II - AI Special Projects,"Canada - Re
 Instacart,"Senior Machine Learning Engineer II,  AI Special Projects",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7561665
 Instacart,"Senior Machine Learning Engineer II, Growth Modeling",USA - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7566001
 Instacart,"Senior Machine Learning Engineer II, Search & Personalization","Canada - Remote (AB, BC, ON, NS ONLY)",greenhouse,https://instacart.careers/job/?gh_jid=6716788
-Instacart,"Senior Manager, Design Systems & Foundations",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7347308
 Instacart,"Senior Manager, Design Systems & Foundations","Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7347349
+Instacart,"Senior Manager, Design Systems & Foundations",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7347308
 Instacart,"Senior Manager, Finance Data Analytics",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7473576
 Instacart,"Senior Manager, Paid Social Lead",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7288566
 Instacart,Senior Marketing Analyst (Multiple Levels),"Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7562843
@@ -1480,8 +1479,8 @@ Instacart,Senior Threat Hunting Engineer,United States - Remote,greenhouse,https
 Instacart,Software Developer in Test II,"Canada - Remote (ON, AB, BC, or NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7431196
 Instacart,"Software Engineer II, Marketing Enablement & Technology",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7450259
 Instacart,"Software Engineering Manager, Catalog Interfaces","Canada - Remote (ON, AB, BC, NS Only)",greenhouse,https://instacart.careers/job/?gh_jid=7484748
-Instacart,"Software Engineering Manager, Database Platform",USA - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7559011
 Instacart,"Software Engineering Manager, Database Platform","Canada - Remote (ON, AB, BC, NS)",greenhouse,https://instacart.careers/job/?gh_jid=7559018
+Instacart,"Software Engineering Manager, Database Platform",USA - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7559011
 Instacart,"Software Engineering Manager, Enterprise Platform",USA - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7524952
 Instacart,Staff Machine Learning Engineer  - Inventory Intelligence,United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7411487
 Instacart,"Staff Software Engineer, Core Shopping",United States - Remote,greenhouse,https://instacart.careers/job/?gh_jid=7387658
@@ -1490,8 +1489,8 @@ Instacart,"Staff Software Engineer, FoodStorm",United States - Remote,greenhouse
 Instacart,"Staff Software Engineer, Membership & Benefits","Canada - Remote (ON, AB, BC, NS only)",greenhouse,https://instacart.careers/job/?gh_jid=7523820
 Cloudflare,AI Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7560306?gh_jid=7560306
 Cloudflare,"Analyst, GTM (6-month contract)",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7493107?gh_jid=7493107
-Cloudflare,Application Security Engineer,Distributed; Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7345819?gh_jid=7345819
 Cloudflare,Application Security Engineer,Hybrid; In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7185996?gh_jid=7185996
+Cloudflare,Application Security Engineer,Distributed; Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7345819?gh_jid=7345819
 Cloudflare,Billing Systems Analyst ,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6819455?gh_jid=6819455
 Cloudflare,Business Analyst,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7567116?gh_jid=7567116
 Cloudflare,Cloud and AI Strategic Negotiator,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7435489?gh_jid=7435489
@@ -1500,8 +1499,9 @@ Cloudflare,"Consultant, Developer Platform",Hybrid,greenhouse,https://boards.gre
 Cloudflare,"Consultant, Developer Platform",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7383013?gh_jid=7383013
 Cloudflare,CRM Data Governance Analyst (6-month contract),Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7491097?gh_jid=7491097
 Cloudflare,Customer Education Instructional Designer and Trainer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7507084?gh_jid=7507084
-Cloudflare,Customer Solutions Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7339081?gh_jid=7339081
 Cloudflare,Customer Solutions Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6853439?gh_jid=6853439
+Cloudflare,Customer Solutions Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7339081?gh_jid=7339081
+Cloudflare,Customer Solutions Engineer ,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7547552?gh_jid=7547552
 Cloudflare," Customer Solutions Engineer, Bilingual in Spanish and Portuguese",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7507077?gh_jid=7507077
 Cloudflare,Customer Solutions Engineer - Mandarin or Cantonese Speaking (2026 Graduate) ,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7495512?gh_jid=7495512
 Cloudflare,"Customer Success Manager (Thai speaking, Singapore based)",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7508525?gh_jid=7508525
@@ -1518,8 +1518,8 @@ Cloudflare,DCIM Analyst - Infrastructure Operations,Hybrid,greenhouse,https://bo
 Cloudflare,"Design Engineer, Radar",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7449149?gh_jid=7449149
 Cloudflare,Detection & Mitigation Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7489019?gh_jid=7489019
 Cloudflare,"Developer Educator, Pages/Workers",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7354868?gh_jid=7354868
-Cloudflare,Developer Solutions Strategist,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7422363?gh_jid=7422363
 Cloudflare,Developer Solutions Strategist,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7427840?gh_jid=7427840
+Cloudflare,Developer Solutions Strategist,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7422363?gh_jid=7422363
 Cloudflare,"Director, Cloud & Platform Partners",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7527298?gh_jid=7527298
 Cloudflare,"Director, Developer Go-To-Market, APAC",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7431356?gh_jid=7431356
 Cloudflare,"Director, Developer Partner Strategy ",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7424189?gh_jid=7424189
@@ -1527,8 +1527,8 @@ Cloudflare,"Director, Developer Solutions Strategist",Hybrid,greenhouse,https://
 Cloudflare,Director of Network Deployment Engineering & Infrastructure Operations,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7241754?gh_jid=7241754
 Cloudflare,"Director, Partner Solutions Engineering EMEA",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7547171?gh_jid=7547171
 Cloudflare,"Director Solutions Engineering, Public Sector",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7480370?gh_jid=7480370
-Cloudflare,"Distributed Systems Engineer, Analytical Database Platform",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
 Cloudflare,"Distributed Systems Engineer, Analytical Database Platform",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/4886734?gh_jid=4886734
+Cloudflare,"Distributed Systems Engineer, Analytical Database Platform",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801
 Cloudflare,Distributed Systems Engineer - Data Platform - Analytics and Alerts,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7340474?gh_jid=7340474
 Cloudflare,"Distributed Systems Engineer - Data Platform (Delivery, Database, Retrieval)",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7267602?gh_jid=7267602
 Cloudflare,Distributed Systems Engineer - Data Platform - Logs and Audit Logs,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7340469?gh_jid=7340469
@@ -1563,12 +1563,12 @@ Cloudflare,Legal Operations Analyst,Hybrid,greenhouse,https://boards.greenhouse.
 Cloudflare,"Majors Account Solutions Engineer,  Italy  ",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6362485?gh_jid=6362485
 Cloudflare,"Mid Market Senior Solutions Engineer, London",In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7378049?gh_jid=7378049
 Cloudflare,Network & Datacenter Deployment Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7406128?gh_jid=7406128
+Cloudflare,Network Deployment Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7538006?gh_jid=7538006
 Cloudflare,Network Deployment Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7559311?gh_jid=7559311
 Cloudflare,Network Deployment Engineer,In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6887813?gh_jid=6887813
-Cloudflare,Network Deployment Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7538006?gh_jid=7538006
 Cloudflare,Network Deployment Engineer - Data Center Operations,In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7421872?gh_jid=7421872
-Cloudflare,Network Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7563486?gh_jid=7563486
 Cloudflare,Network Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7410012?gh_jid=7410012
+Cloudflare,Network Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7563486?gh_jid=7563486
 Cloudflare,Network Security Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7532928?gh_jid=7532928
 Cloudflare,Network Software Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7343755?gh_jid=7343755
 Cloudflare,"Partner Solutions Engineer, UK&I",Hybrid; In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7210482?gh_jid=7210482
@@ -1593,15 +1593,15 @@ Cloudflare,"Product Manager, AI Agent (Cloudy)",Hybrid,greenhouse,https://boards
 Cloudflare,"Product Manager, Cloudflare Radar",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7374853?gh_jid=7374853
 Cloudflare,"Product Manager, Developer Tools",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7462773?gh_jid=7462773
 Cloudflare,"Product Manager, Workers for Platforms",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7403148?gh_jid=7403148
-Cloudflare,Research Engineer Intern (Summer 2026),In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147
 Cloudflare,Research Engineer Intern (Summer 2026),In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7359136?gh_jid=7359136
+Cloudflare,Research Engineer Intern (Summer 2026),In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147
 Cloudflare,Research Engineer Intern (Summer 2026),In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7358525?gh_jid=7358525
 Cloudflare,Security Engineer - Security Technology Delivery,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7412507?gh_jid=7412507
 Cloudflare,Security Engineer - Third party Assurance,Hybrid; In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7487259?gh_jid=7487259
 Cloudflare,Security Researcher & Analyst,In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7435980?gh_jid=7435980
 Cloudflare,Security Researcher & Analyst - Application Security,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7016431?gh_jid=7016431
-Cloudflare,Senior Cloudflare One GTM Specialist,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7534033?gh_jid=7534033
 Cloudflare,Senior Cloudflare One GTM Specialist,In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7547985?gh_jid=7547985
+Cloudflare,Senior Cloudflare One GTM Specialist,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7534033?gh_jid=7534033
 Cloudflare,"Senior CloudFlare One GTM Specialist, India",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7518811?gh_jid=7518811
 Cloudflare,"Senior Cloudflare One Specialist Solutions Engineer, US East",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7542636?gh_jid=7542636
 Cloudflare,Senior Customer Solutions Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7412807?gh_jid=7412807
@@ -1621,6 +1621,7 @@ Cloudflare,Senior Enterprise Integration Developer - Oracle Cloud,Hybrid,greenho
 Cloudflare,Senior Infrastructure Tooling Software Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6257148?gh_jid=6257148
 Cloudflare,Senior Majors Accounts Solutions Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6393993?gh_jid=6393993
 Cloudflare,Senior Majors Solutions Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7378442?gh_jid=7378442
+Cloudflare,"Senior Manager, Solutions Architect (Developer Platform), APAC",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7559655?gh_jid=7559655
 Cloudflare,"Senior Manager, Solutions Architecture , AI & Developer Platform",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7469508?gh_jid=7469508
 Cloudflare,Senior Manager Solutions Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7553460?gh_jid=7553460
 Cloudflare,"Senior Named Account Executive, Mumbai",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7543760?gh_jid=7543760
@@ -1645,8 +1646,8 @@ Cloudflare,"Senior Software Engineer, Analytics and Reporting",Hybrid,greenhouse
 Cloudflare,Senior Software Engineer - Backend,Hybrid; In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7244991?gh_jid=7244991
 Cloudflare,Senior Software Engineer - Billing,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7282689?gh_jid=7282689
 Cloudflare,Senior Software Engineer —  Client Mobile and Desktop Apps,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7243935?gh_jid=7243935
-Cloudflare,Senior Software Engineer - Cloudflare One,In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7116731?gh_jid=7116731
 Cloudflare,Senior Software Engineer - Cloudflare One,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7427939?gh_jid=7427939
+Cloudflare,Senior Software Engineer - Cloudflare One,In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7116731?gh_jid=7116731
 Cloudflare,"Senior Software Engineer, Data Localization",In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7340151?gh_jid=7340151
 Cloudflare,"Senior Software Engineer, Durable Objects (DO)",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/5390243?gh_jid=5390243
 Cloudflare,"Senior Software Engineer, Enterprise Readiness",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7521014?gh_jid=7521014
@@ -1661,8 +1662,8 @@ Cloudflare,Senior Software Engineer - WARP Edge Service,Hybrid,greenhouse,https:
 Cloudflare,"Senior Software Engineer, Workers Runtime",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6578726?gh_jid=6578726
 Cloudflare,Senior  Solutions Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7443698?gh_jid=7443698
 Cloudflare,Senior Solutions Engineer,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7341019?gh_jid=7341019
-Cloudflare,Senior Solutions Engineer,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7404585?gh_jid=7404585
 Cloudflare,Senior Solutions Engineer,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7518672?gh_jid=7518672
+Cloudflare,Senior Solutions Engineer,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7404585?gh_jid=7404585
 Cloudflare,"Senior Solutions Engineer, Benelux",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7515330?gh_jid=7515330
 Cloudflare,Senior Solutions Engineer - Calgary ,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7435457?gh_jid=7435457
 Cloudflare,"Senior Solutions Engineer, Delhi NCR",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7203676?gh_jid=7203676
@@ -1676,16 +1677,16 @@ Cloudflare,Senior Solutions Engineer - Enterprise - Denver,Distributed,greenhous
 Cloudflare,Senior Solutions Engineer - Enterprise - San Francisco,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7537262?gh_jid=7537262
 Cloudflare,"Senior Solutions Engineer, GCR Named Accounts",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7562955?gh_jid=7562955
 Cloudflare,"Senior Solutions Engineer, GiG",In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7526134?gh_jid=7526134
-Cloudflare,Senior Solutions Engineering Manager,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7507142?gh_jid=7507142
 Cloudflare,Senior Solutions Engineering Manager,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7549312?gh_jid=7549312
+Cloudflare,Senior Solutions Engineering Manager,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7507142?gh_jid=7507142
 Cloudflare,Senior Solutions Engineering Manager - Mid Atlantic,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7522105?gh_jid=7522105
 Cloudflare,"Senior Solutions Engineering Manager, Southeastern States ",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7562152?gh_jid=7562152
 Cloudflare,"Senior Solutions Engineering Manager, West",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7528276?gh_jid=7528276
 Cloudflare,"Senior Solutions Engineer,  Japan",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7421854?gh_jid=7421854
 Cloudflare,"Senior Solutions Engineer, Majors",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7505995?gh_jid=7505995
 Cloudflare,"Senior Solutions Engineer, Majors",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7374554?gh_jid=7374554
-Cloudflare,"Senior Solutions Engineer, Majors - Chicago, IL",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7522025?gh_jid=7522025
 Cloudflare,"Senior Solutions Engineer, Majors - Chicago, IL",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7522063?gh_jid=7522063
+Cloudflare,"Senior Solutions Engineer, Majors - Chicago, IL",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7522025?gh_jid=7522025
 Cloudflare,"Senior Solutions Engineer, Majors - Cincinatti, OH",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7522071?gh_jid=7522071
 Cloudflare,"Senior Solutions Engineer, Majors - Columbus OH",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7522014?gh_jid=7522014
 Cloudflare,"Senior Solutions Engineer, Majors - Houston, TX",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7522065?gh_jid=7522065
@@ -1696,9 +1697,9 @@ Cloudflare,"Senior Solutions Engineer, Majors, San Diego",Distributed,greenhouse
 Cloudflare,"Senior Solutions Engineer, Majors, San Francisco",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7551589?gh_jid=7551589
 Cloudflare,"Senior Solutions Engineer, Majors, Seattle ",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7551587?gh_jid=7551587
 Cloudflare,Senior Solutions Engineer - Mid Atlantic,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7435384?gh_jid=7435384
+Cloudflare,Senior Solutions Engineer - Mid-Market,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7486373?gh_jid=7486373
 Cloudflare,Senior Solutions Engineer - Mid-Market,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7162948?gh_jid=7162948
 Cloudflare,Senior Solutions Engineer - Mid-Market,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7406531?gh_jid=7406531
-Cloudflare,Senior Solutions Engineer - Mid-Market,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7486373?gh_jid=7486373
 Cloudflare,Senior Solutions Engineer - Mid-Market - Austin,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7520499?gh_jid=7520499
 Cloudflare,Senior Solutions Engineer - Mid-Market - Dallas,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7558268?gh_jid=7558268
 Cloudflare,Senior Solutions Engineer - Mid Market - San Francisco,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7521551?gh_jid=7521551
@@ -1708,8 +1709,8 @@ Cloudflare,Senior Solutions Engineer - NYC Tri-State,Distributed,greenhouse,http
 Cloudflare,"Senior Solutions Engineer, Public Sector Federal",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475
 Cloudflare,Senior Solutions Engineer - Russian Speaking,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7275868?gh_jid=7275868
 Cloudflare,"Senior Solutions Engineer, Saudi Arabia",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7380540?gh_jid=7380540
-Cloudflare,"Senior Solutions Engineer, SLED",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7530553?gh_jid=7530553
 Cloudflare,"Senior Solutions Engineer, SLED",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7374309?gh_jid=7374309
+Cloudflare,"Senior Solutions Engineer, SLED",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7530553?gh_jid=7530553
 Cloudflare,Senior Solutions Engineer Specialist,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7490367?gh_jid=7490367
 Cloudflare,Senior Solutions Engineer - Vancouver,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7518666?gh_jid=7518666
 Cloudflare,"Senior Specialist Solutions Engineer, Zero Trust - Japan",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7261894?gh_jid=7261894
@@ -1721,10 +1722,10 @@ Cloudflare,"Senior Systems Engineer, Durable Objects DevEx",Hybrid,greenhouse,ht
 Cloudflare,"Senior Systems Engineer, Edge",In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7068271?gh_jid=7068271
 Cloudflare,"Senior Systems Engineer, Pipelines",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7093840?gh_jid=7093840
 Cloudflare,"Senior Systems Engineer, Platform",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7340134?gh_jid=7340134
-Cloudflare,"Senior Technical Support Engineer, Developer Platform",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7396942?gh_jid=7396942
+Cloudflare,"Senior Technical Support Engineer, Developer Platform",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7394502?gh_jid=7394502
 Cloudflare,"Senior Technical Support Engineer, Developer Platform",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7506182?gh_jid=7506182
 Cloudflare,"Senior Technical Support Engineer, Developer Platform",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7268796?gh_jid=7268796
-Cloudflare,"Senior Technical Support Engineer, Developer Platform",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7394502?gh_jid=7394502
+Cloudflare,"Senior Technical Support Engineer, Developer Platform",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7396942?gh_jid=7396942
 Cloudflare,"Senior Territory Account Executive, AI / Developer",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7405387?gh_jid=7405387
 Cloudflare,"Senior Territory Account Executive, Shanghai",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7525180?gh_jid=7525180
 Cloudflare,"Senior Territory Account Executive, Ukraine",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6447148?gh_jid=6447148
@@ -1745,8 +1746,8 @@ Cloudflare,"Software Engineer, Enterprise Integrations",Hybrid,greenhouse,https:
 Cloudflare,"Software Engineer, Enterprise Readiness",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6467350?gh_jid=6467350
 Cloudflare,Software Engineer - Growth Engineering,In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6972995?gh_jid=6972995
 Cloudflare,"Software Engineer, Identity Access Management",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6621615?gh_jid=6621615
-Cloudflare,"Software Engineering Manager, AI Agents",In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7256632?gh_jid=7256632
 Cloudflare,"Software Engineering Manager, AI Agents",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7275172?gh_jid=7275172
+Cloudflare,"Software Engineering Manager, AI Agents",In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7256632?gh_jid=7256632
 Cloudflare,Software Engineer Intern (Summer 2026),In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7296923?gh_jid=7296923
 Cloudflare,Software Engineer Intern (Summer 2026),In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7296929?gh_jid=7296929
 Cloudflare,"Software Engineer Intern (Summer 2026) - Austin, TX",In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7206269?gh_jid=7206269
@@ -1770,8 +1771,8 @@ Cloudflare,"Software Engineer, Workers Deploy & Config",Hybrid,greenhouse,https:
 Cloudflare,"Software Engineer, Workers Observability",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7505637?gh_jid=7505637
 Cloudflare,"Solution Architect, AI / Cloudflare Developer Platform",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7529800?gh_jid=7529800
 Cloudflare,"Solutions Architect, AI/Cloudflare Developer Platform ",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7505582?gh_jid=7505582
-Cloudflare,Solutions Engineer,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7242541?gh_jid=7242541
 Cloudflare,Solutions Engineer,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7242551?gh_jid=7242551
+Cloudflare,Solutions Engineer,Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7242541?gh_jid=7242541
 Cloudflare,"Solutions Engineer, Benelux",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7515259?gh_jid=7515259
 Cloudflare,"Solutions Engineer, Central & Eastern Europe - Hebrew Speaking",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6530077?gh_jid=6530077
 Cloudflare,"Solutions Engineering Manager, ",Distributed,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7562159?gh_jid=7562159
@@ -1805,8 +1806,8 @@ Cloudflare,"Systems Engineer, Workflows",Hybrid,greenhouse,https://boards.greenh
 Cloudflare,Systems Reliability Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7453074?gh_jid=7453074
 Cloudflare,"Systems Reliability Engineer (SRE), Edge",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7370630?gh_jid=7370630
 Cloudflare,Systems Reliability (SRE) / Platform Engineer - Edge,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7144320?gh_jid=7144320
-Cloudflare,Technical Support Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7075269?gh_jid=7075269
 Cloudflare,Technical Support Engineer,Hybrid; In-Office,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7429443?gh_jid=7429443
+Cloudflare,Technical Support Engineer,Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7075269?gh_jid=7075269
 Cloudflare,"Technical Support Engineer, Zero Trust",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7235735?gh_jid=7235735
 Cloudflare,Technology and Data Specialist (Marketing),Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/7299368?gh_jid=7299368
 Cloudflare,"Threat Advisory Engineer, Solutions Engineering",Hybrid,greenhouse,https://boards.greenhouse.io/cloudflare/jobs/6874151?gh_jid=6874151
@@ -1855,8 +1856,8 @@ Datadog,"Manager 2, Premier Support Engineering -  Boston","Boston, Massachusett
 Datadog,"Manager, Commercial Sales Engineering (AMER - East)","Boston, Massachusetts, USA",greenhouse,https://careers.datadoghq.com/detail/7512337/?gh_jid=7512337
 Datadog,"Manager, Commercial Sales Engineering (AMER - West)","Denver, Colorado, USA",greenhouse,https://careers.datadoghq.com/detail/7456376/?gh_jid=7456376
 Datadog,"Manager, Commercial Sales Engineering (EMEA - North)","Dublin, Ireland",greenhouse,https://careers.datadoghq.com/detail/7496493/?gh_jid=7496493
-Datadog,"Manager I, Developer Advocacy","Canada, Remote",greenhouse,https://careers.datadoghq.com/detail/7440560/?gh_jid=7440560
 Datadog,"Manager I, Developer Advocacy","California, USA, Remote; Colorado, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",greenhouse,https://careers.datadoghq.com/detail/7414003/?gh_jid=7414003
+Datadog,"Manager I, Developer Advocacy","Canada, Remote",greenhouse,https://careers.datadoghq.com/detail/7440560/?gh_jid=7440560
 Datadog,"Manager I, Engineering - Alerting Platform","New York, New York, USA",greenhouse,https://careers.datadoghq.com/detail/7578962/?gh_jid=7578962
 Datadog,"Manager I, Engineering - APM SDK Capabilities","Lisbon, Portugal",greenhouse,https://careers.datadoghq.com/detail/7248773/?gh_jid=7248773
 Datadog,"Manager I, Engineering - Applied AI - Natural Language & Conversational Interfaces","New York, New York, USA",greenhouse,https://careers.datadoghq.com/detail/7560494/?gh_jid=7560494
@@ -1911,9 +1912,9 @@ Datadog,Senior Software Engineer (Frontend) - Platform & Developer Experience (L
 Datadog,Senior Software Engineer (Frontend) - Product Engineering (Lisbon),"Lisbon, Portugal",greenhouse,https://careers.datadoghq.com/detail/7557122/?gh_jid=7557122
 Datadog,Senior Software Engineer (Fullstack) - Product (Lisbon),"Lisbon, Portugal",greenhouse,https://careers.datadoghq.com/detail/7557217/?gh_jid=7557217
 Datadog,Senior Software Engineer - IDE AI Experiences - LLM Engineer,"Boston, Massachusetts, USA",greenhouse,https://careers.datadoghq.com/detail/7107873/?gh_jid=7107873
-Datadog,Senior Software Engineer – IDE Integrations (VS Code & Cursor),"Portugal, Remote",greenhouse,https://careers.datadoghq.com/detail/7391295/?gh_jid=7391295
 Datadog,Senior Software Engineer – IDE Integrations (VS Code & Cursor),"Lisbon, Portugal",greenhouse,https://careers.datadoghq.com/detail/7391291/?gh_jid=7391291
 Datadog,Senior Software Engineer – IDE Integrations (VS Code & Cursor),"Denmark, Remote; France, Remote; Germany, Remote; Ireland, Remote; Italy, Remote; Poland, Remote; Spain, Remote; Sweden, Remote; Switzerland, Remote; The Netherlands, Remote; United Kingdom, Remote",greenhouse,https://careers.datadoghq.com/detail/7391302/?gh_jid=7391302
+Datadog,Senior Software Engineer – IDE Integrations (VS Code & Cursor),"Portugal, Remote",greenhouse,https://careers.datadoghq.com/detail/7391295/?gh_jid=7391295
 Datadog,Senior Staff GenAI Engineer - Application Performance Monitoring (APM),"New York, New York, USA",greenhouse,https://careers.datadoghq.com/detail/6960503/?gh_jid=6960503
 Datadog,Senior Staff Software Engineer ,"New York, New York, USA",greenhouse,https://careers.datadoghq.com/detail/5608424/?gh_jid=5608424
 Datadog,"Senior Technical Program Manager, Knowledge Systems","Boston, Massachusetts, USA; New York, New York, USA; San Francisco, California, USA",greenhouse,https://careers.datadoghq.com/detail/7446392/?gh_jid=7446392
@@ -1955,8 +1956,8 @@ MongoDB,"Lead Engineer, Catalog & Routing",Dublin,greenhouse,https://www.mongodb
 MongoDB,"Lead Engineer, Inference Platform",Palo Alto; Seattle,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7195895
 MongoDB,"Lead, Engineering",Gurugram,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7541875
 MongoDB,"Lead Engineer, Online Archive Storage Systems",New York City; San Francisco; Seattle,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7316445
-MongoDB,"Lead Engineer, Query",Alberta; British Columbia; Calgary; Edmonton; Manitoba; Nova Scotia; Ontario; Quebec; Toronto; Vancouver,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7481204
 MongoDB,"Lead Engineer, Query",New York City; Palo Alto; Seattle; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7465177
+MongoDB,"Lead Engineer, Query",Alberta; British Columbia; Calgary; Edmonton; Manitoba; Nova Scotia; Ontario; Quebec; Toronto; Vancouver,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7481204
 MongoDB,"Lead Engineer, Server Programmability",Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7201999
 MongoDB,"Lead Engineer, Server Programmability",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7201997
 MongoDB,"Lead, Strategic Core Analyst, Competitive Intelligence",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7477065
@@ -1967,37 +1968,37 @@ MongoDB,Principal Staff Developer Advocate,APAC,greenhouse,https://www.mongodb.c
 MongoDB,"Product Manager 3, Internal AI",Palo Alto; San Francisco,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7276451
 MongoDB,"Product Manager, Developer Tools",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7369344
 MongoDB,"SDET Engineer, Query",Dublin; Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7571255
-MongoDB,"Security Software Engineer,  Infrastructure Security (Staff or Senior)",Austin; Boston; Chicago; New York City; Pittsburgh; Raleigh; United States; Washington DC,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6982487
 MongoDB,"Security Software Engineer,  Infrastructure Security (Staff or Senior)",British Columbia; Montreal; Ontario; Quebec; Toronto; Vancouver,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6982489
 MongoDB,"Security Software Engineer,  Infrastructure Security (Staff or Senior)",Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7536053
+MongoDB,"Security Software Engineer,  Infrastructure Security (Staff or Senior)",Austin; Boston; Chicago; New York City; Pittsburgh; Raleigh; United States; Washington DC,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6982487
 MongoDB,"Senior Business Analyst, Technical Services",New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6841436
 MongoDB,Senior Business Operations & Strategy Analyst,New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7128879
 MongoDB,Senior Business Operation & Strategy Analyst,Austin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7521325
 MongoDB,(Senior) Consulting Engineer,Seoul,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7538397
 MongoDB,Senior Consulting Engineer,Sydney,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7573532
 MongoDB,"Senior Data Product Manager, GTM",Austin; Boston; Chicago; New York City; Pittsburgh,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7187739
-MongoDB,Senior Developer Advocate,United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7490333
 MongoDB,Senior Developer Advocate,Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7571308
 MongoDB,Senior Developer Advocate,Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7241758
 MongoDB,Senior Developer Advocate,Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7495485
+MongoDB,Senior Developer Advocate,United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7490333
 MongoDB,"Senior Engineer, Coupa & P2P Processes",Bengaluru; Gurugram,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7257748
 MongoDB,"Senior Engineer, Internal Engineering",Gurugram,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7557673
 MongoDB,"Senior Engineer, Netsuite",Gurugram,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7484841
 MongoDB,Senior Financial Analyst,New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7550357
 MongoDB,Senior Financial Analyst,New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7435574
-MongoDB,"Senior Fullstack Developer, Developer Productivity (Backstage)",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7549155
 MongoDB,"Senior Fullstack Developer, Developer Productivity (Backstage)",Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7549157
+MongoDB,"Senior Fullstack Developer, Developer Productivity (Backstage)",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7549155
 MongoDB,Senior Fullstack Engineer - Atlas Growth,New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7093030
 MongoDB,"Senior Java Software Engineer, Client Libraries",Toronto; Vancouver,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7194687
 MongoDB,"Senior Manager, Technical Services Engineering",Austin; New York City; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7337511
-MongoDB,Senior Market Intelligence Analyst,Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7477059
 MongoDB,Senior Market Intelligence Analyst,Dublin; Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7477062
+MongoDB,Senior Market Intelligence Analyst,Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7477059
 MongoDB,"Senior Practice Engineer, AMP",Bengaluru; Gurugram,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7471427
 MongoDB,"Senior Product Manager, Growth & Developer Experience",Austin; Boston; Chicago; Dallas; Houston; Miami; New York City; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7280325
-MongoDB,"Senior Product Manager, Python Developer Experience",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7378931
 MongoDB,"Senior Product Manager, Python Developer Experience",Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7388900
-MongoDB,"Senior Product Manager, Search Platform",New York City; Palo Alto; San Francisco; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7409201
+MongoDB,"Senior Product Manager, Python Developer Experience",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7378931
 MongoDB,"Senior Product Manager, Search Platform",Alberta; British Columbia; Calgary; Toronto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7409203
+MongoDB,"Senior Product Manager, Search Platform",New York City; Palo Alto; San Francisco; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7409201
 MongoDB,Senior Product Security Engineer,Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7484919
 MongoDB,"Senior Product Security Engineer, Server",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7484912
 MongoDB,"Senior Research Scientist, Voyage AI",Palo Alto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7365646
@@ -2012,8 +2013,8 @@ MongoDB,"Senior Software Engineer, Atlas Search Systems",New York City,greenhous
 MongoDB,"Senior Software Engineer, C2C Services",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7378959
 MongoDB,"Senior Software Engineer, C2C Tooling",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7380085
 MongoDB,"Senior Software Engineer, Cloud Alerts Platform",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7411030
-MongoDB,"Senior Software Engineer, Data Migration",California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7449128
 MongoDB,"Senior Software Engineer, Data Migration",Alberta; British Columbia; Edmonton; Manitoba; Nova Scotia; Ontario; Quebec,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7449831
+MongoDB,"Senior Software Engineer, Data Migration",California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7449128
 MongoDB,"Senior Software Engineer, DevTools",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7541590
 MongoDB,"Senior Software Engineer, Education AI",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7388640
 MongoDB,"Senior Software Engineer, Education AI",Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7427702
@@ -2022,30 +2023,30 @@ MongoDB,"Senior Software Engineer, Frontend and AI",New York City,greenhouse,htt
 MongoDB,"Senior Software Engineer, Frontend Platform",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7283434
 MongoDB,"Senior Software Engineer, Identity and Access Management",Toronto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7059646
 MongoDB,"Senior Software Engineer, Inference Platform",Palo Alto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7467701
-MongoDB,"Senior Software Engineer, MongoDB Server Clusters and Interfaces",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6749138
 MongoDB,"Senior Software Engineer, MongoDB Server Clusters and Interfaces",Toronto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6749360
+MongoDB,"Senior Software Engineer, MongoDB Server Clusters and Interfaces",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6749138
 MongoDB,"Senior Software Engineer, Private Cloud Backup",Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7557847
 MongoDB,"Senior Software Engineer, Private Cloud Backup",Dublin; Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7553999
 MongoDB,"Senior Software Engineer, Query Execution",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7484657
 MongoDB,"Senior Software Engineer, Search Systems",Toronto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7345260
 MongoDB,"Senior Software Engineer, Storage Engines",Sydney,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7253410
-MongoDB,"Senior Staff Engineer, Server Networking & Observability",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6713492
 MongoDB,"Senior Staff Engineer, Server Networking & Observability",Toronto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6659382
 MongoDB,"Senior Staff Engineer, Server Networking & Observability",New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6659380
-MongoDB,"Senior Staff Engineer, Server Networking & Observability",Palo Alto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6661887
 MongoDB,"Senior Staff Engineer, Server Networking & Observability",Seattle,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6661893
+MongoDB,"Senior Staff Engineer, Server Networking & Observability",Palo Alto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6661887
+MongoDB,"Senior Staff Engineer, Server Networking & Observability",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6713492
 MongoDB,Senior Technical Services Engineer- Weekends,Palo Alto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7368213
 MongoDB,Senior Win/Loss & Customer Insights Analyst,Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7477055
 MongoDB,Site Reliability Engineer 3,New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7145126
 MongoDB,"Site Reliability Engineer (Senior or Staff), Atlas",Austin; Boston; Chicago; New York City; Pittsburgh; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6984809
 MongoDB,"Site Reliability Engineer (Senior or Staff), Infrastructure Security",Ontario; Quebec,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6864997
-MongoDB,"Site Reliability Engineer (Senior or Staff), Infrastructure Security",Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6865004
 MongoDB,"Site Reliability Engineer (Senior or Staff), Infrastructure Security",Austin; Chicago; New York City; San Francisco; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6601882
-MongoDB,"Site Reliability Engineer (Senior or Staff), Observability",Austin; Boston; Chicago; New York City; Pittsburgh; United States; Washington DC,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6711349
+MongoDB,"Site Reliability Engineer (Senior or Staff), Infrastructure Security",Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6865004
 MongoDB,"Site Reliability Engineer (Senior or Staff), Observability",Ireland,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7192648
-MongoDB,Software Engineer 3,Toronto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7522856
-MongoDB,Software Engineer 3,Palo Alto; Seattle,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7523911
+MongoDB,"Site Reliability Engineer (Senior or Staff), Observability",Austin; Boston; Chicago; New York City; Pittsburgh; United States; Washington DC,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6711349
 MongoDB,Software Engineer 3,Toronto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7523928
+MongoDB,Software Engineer 3,Palo Alto; Seattle,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7523911
+MongoDB,Software Engineer 3,Toronto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7522856
 MongoDB," Software Engineer 3, Atlas Data Federation Customer Experience",New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7551186
 MongoDB,"Software Engineer 3, Atlas Growth",New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7460387
 MongoDB,"Software Engineer 3, Internal Engineering",Gurugram,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7543827
@@ -2056,25 +2057,25 @@ MongoDB,"Software Engineer 3, Search Systems Replication & Routing",San Francisc
 MongoDB,"Software Engineer 3, Storage Engines",Sydney,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7253772
 MongoDB,"Software Engineer, Atlas Clusters",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7579042
 MongoDB,"Software Engineer, Catalog and Routing",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=6677731
-MongoDB,"Software Engineer, Data Migration",British Columbia; Calgary,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7311708
 MongoDB,"Software Engineer, Data Migration",California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7311666
+MongoDB,"Software Engineer, Data Migration",British Columbia; Calgary,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7311708
 MongoDB,"Staff Data Analyst, Growth",New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7218663
 MongoDB,"Staff Engineer, C2C",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7409529
 MongoDB,"Staff Engineer, Search Systems",Toronto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7094786
 MongoDB,Staff NetSuite Engineer,Palo Alto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7274598
 MongoDB,"Staff Research Scientist, Voyage AI",Palo Alto; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7280132
 MongoDB,"Staff Software Engineer, Atlas Growth",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7411430
-MongoDB,"Staff Software Engineer, Networking & Observability",Seattle; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7264736
 MongoDB,"Staff Software Engineer, Networking & Observability",Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7264738
+MongoDB,"Staff Software Engineer, Networking & Observability",Seattle; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7264736
 MongoDB,"Staff Software Engineer, Query",Calgary; Edmonton; Montreal; Ontario; Toronto; Vancouver,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7221904
 MongoDB,"Staff Software Engineer, Query",New York City; United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7221902
 MongoDB,"Staff Software Engineer, Replicated Storage Services (Replication)",New York City,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7456085
-MongoDB,"Staff Software Engineer, Replicated Storage Services (Replication)",Alberta; British Columbia; Calgary; Ontario; Quebec,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7477378
 MongoDB,"Staff Software Engineer, Replicated Storage Services (Replication)",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7477375
-MongoDB,"Staff Software Engineer, Server Security",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7557589
+MongoDB,"Staff Software Engineer, Replicated Storage Services (Replication)",Alberta; British Columbia; Calgary; Ontario; Quebec,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7477378
 MongoDB,"Staff Software Engineer, Server Security",Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7565038
-MongoDB,Technical Services Engineer,Vancouver,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7566221
+MongoDB,"Staff Software Engineer, Server Security",United States,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7557589
 MongoDB,Technical Services Engineer,Tel Aviv,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7459085
+MongoDB,Technical Services Engineer,Vancouver,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7566221
 MongoDB,"Technical Services Engineer, Infrastructure - Weekend",Palo Alto,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7460019
 MongoDB,"Technical Services Engineer, Tuesday-Saturday",Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7547561
 MongoDB,Win/Loss & Customer Insight Analyst,Dublin,greenhouse,https://www.mongodb.com/careers/job/?gh_jid=7477073
@@ -2087,12 +2088,12 @@ Elastic,Control Plane - Serverless Core - Software Engineering Manager,United Ki
 Elastic,Customer Architect - Self-Service Cloud,Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=6827412&gh_jid=6827412
 Elastic,"Elasticsearch - Principal Java Engineer – Core Infrastructure, JVM Internals",United Kingdom,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7360675&gh_jid=7360675
 Elastic,Elasticsearch - Principal Java Engineer II - ML Core,United Kingdom,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7440363&gh_jid=7440363
-Elastic,Elasticsearch - Principal Software Engineer I - Distributed Systems,United Kingdom,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7367128&gh_jid=7367128
 Elastic,Elasticsearch - Principal Software Engineer I - Distributed Systems,United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7366822&gh_jid=7366822
-Elastic,Elasticsearch - Principal Software Engineer II - Distributed Systems,United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7360686&gh_jid=7360686
+Elastic,Elasticsearch - Principal Software Engineer I - Distributed Systems,United Kingdom,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7367128&gh_jid=7367128
 Elastic,Elasticsearch - Principal Software Engineer II - Distributed Systems,United Kingdom,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7367131&gh_jid=7367131
-Elastic,Elasticsearch - Principal Software Engineer II - Storage Engine,Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7508491&gh_jid=7508491
+Elastic,Elasticsearch - Principal Software Engineer II - Distributed Systems,United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7360686&gh_jid=7360686
 Elastic,Elasticsearch - Principal Software Engineer II - Storage Engine,United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7508360&gh_jid=7508360
+Elastic,Elasticsearch - Principal Software Engineer II - Storage Engine,Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7508491&gh_jid=7508491
 Elastic,Elasticsearch - Search Relevance - Principal Software Engineer I ,Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7544081&gh_jid=7544081
 Elastic,Elasticsearch - Senior Java Engineer - Distributed Systems,United Kingdom,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7447209&gh_jid=7447209
 Elastic,Elasticsearch - Senior Java Engineer - Distributed Systems,United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7447210&gh_jid=7447210
@@ -2108,17 +2109,15 @@ Elastic,Join Elastic's Engineering Global Talent Community,"Distributed, EMEA",g
 Elastic,"Manager, Salesforce Revenue Cloud",United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7550487&gh_jid=7550487
 Elastic,Observability - Senior Software Engineer (Go/CI),Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7525644&gh_jid=7525644
 Elastic,Platform Billing - Engineering Manager,United Kingdom,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7445228&gh_jid=7445228
-Elastic,Platform - Elasticsearch - Senior Director of Product Management,Portugal,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7276119&gh_jid=7276119
 Elastic,Platform - Elasticsearch - Senior Director of Product Management,United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7276108&gh_jid=7276108
+Elastic,Platform - Elasticsearch - Senior Director of Product Management,Portugal,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7276119&gh_jid=7276119
 Elastic,Platform - Engineering Productivity -  Engineering Manager ,Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7129934&gh_jid=7129934
-Elastic,"Platform Observability - Senior Manager, Software Engineering",United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7477434&gh_jid=7477434
-Elastic,"Platform Observability - Senior Manager, Software Engineering",Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7550814&gh_jid=7550814
 Elastic,Platform - Principal Software Engineer (Billing Team),Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7386030&gh_jid=7386030
 Elastic,Platform Resilience - Senior Site Reliability Engineer,Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7517615&gh_jid=7517615
 Elastic,Platform Security - Site Reliability Engineer II,Spain,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7434535&gh_jid=7434535
 Elastic,Platform - Senior Product Manager (Elastic Cloud Platform),Greece,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7279498&gh_jid=7279498
-Elastic,Platform - Site Reliability Engineer II (Networking),United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=6950250&gh_jid=6950250
 Elastic,Platform - Site Reliability Engineer II (Networking),Greece,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7480990&gh_jid=7480990
+Elastic,Platform - Site Reliability Engineer II (Networking),United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=6950250&gh_jid=6950250
 Elastic,Principal Backend Engineer (Node.js),United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7440383&gh_jid=7440383
 Elastic,"Principal, Platform Specialization",United States,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7345236&gh_jid=7345236
 Elastic,Revenue Tech Engineering - Software Engineer II - AI Experiences,Brazil,greenhouse,https://jobs.elastic.co/jobs?gh_jid=7584107&gh_jid=7584107
@@ -2215,8 +2214,8 @@ Roblox,Principal Software Engineer - WebRTC,"San Mateo, CA, United States",green
 Roblox,Principal Systems Software Engineer - Game Engine (C++),"San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7561749?gh_jid=7561749
 Roblox,"Product Designer, Visual Systems ","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7173171?gh_jid=7173171
 Roblox,"Senior Counsel, AI ","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7482104?gh_jid=7482104
-Roblox,Senior Data Center Engineer,United States,greenhouse,https://careers.roblox.com/jobs/7559237?gh_jid=7559237
 Roblox,Senior Data Center Engineer,"Chicago, Illinois, United States",greenhouse,https://careers.roblox.com/jobs/7559232?gh_jid=7559232
+Roblox,Senior Data Center Engineer,United States,greenhouse,https://careers.roblox.com/jobs/7559237?gh_jid=7559237
 Roblox,"Senior Data Scientist, Analytical Data Product - Engine","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7539739?gh_jid=7539739
 Roblox,"Senior Data Scientist, Analytical Data Product - Safety","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7078601?gh_jid=7078601
 Roblox,Senior Data Scientist - Ecosystem and Learning Platform,"San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7435395?gh_jid=7435395
@@ -2310,8 +2309,6 @@ Roblox,Senior Software Engineer - Video Rendering (Windows),"San Mateo, CA, Unit
 Roblox,Senior Treasury Analyst,"San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7450331?gh_jid=7450331
 Roblox,"Senior Web Engineer, Marketing","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7557811?gh_jid=7557811
 Roblox,"Software Engineer, Ads & Brands","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7535750?gh_jid=7535750
-Roblox,"Software Engineer, Creator Knowledge ","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7514717?gh_jid=7514717
-Roblox,"Software Engineer, Interoperability","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7417005?gh_jid=7417005
 Roblox,"Software Engineer, Reliability ","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7269377?gh_jid=7269377
 Roblox,Sr Machine Learning Engineer - Safety Experience,"San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7292063?gh_jid=7292063
 Roblox,"Sr. Product Designer, Design Systems ","San Mateo, CA, United States",greenhouse,https://careers.roblox.com/jobs/7173189?gh_jid=7173189
@@ -2364,15 +2361,15 @@ Vercel,"Senior Manager, People Systems","Hybrid - San Francisco, New York City",
 Vercel,Senior Partner Solutions Engineer,"Hybrid - San Francisco, New York City, Austin",greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5553789004
 Vercel,"Senior Software Engineer, Trust & Safety",Remote - United States,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5788954004
 Vercel,Site Engineer,Remote - United States,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5732855004
-Vercel,"Software Engineer, Accounts",Hybrid - Berlin,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5430088004
 Vercel,"Software Engineer, Accounts",Hybrid - Berlin,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5431123004
+Vercel,"Software Engineer, Accounts",Hybrid - Berlin,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5430088004
 Vercel,"Software Engineer, AI SDK","Hybrid - San Francisco, New York City",greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5474915004
 Vercel,"Software Engineer, Build Compute","Remote - United Kingdom, Germany",greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5727182004
 Vercel,"Software Engineer, Builds","Remote - United Kingdom, Germany",greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5648078004
 Vercel,"Software Engineer, CDN","Hybrid - San Francisco, New York City",greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5179639004
 Vercel,"Software Engineer, CDN Security",Remote - United States,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5473266004
-Vercel,"Software Engineer, CI/CD",Hybrid - New York City,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5532030004
 Vercel,"Software Engineer, CI/CD",Remote - United States,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5532019004
+Vercel,"Software Engineer, CI/CD",Hybrid - New York City,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5532030004
 Vercel,"Software Engineer, Compute",Remote - United States,greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5551619004
 Vercel,"Software Engineer, Deployment Infrastructure","Hybrid - San Francisco, New York City",greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5633880004
 Vercel,"Software Engineer, Growth","Hybrid - San Francisco, New York City",greenhouse,https://job-boards.greenhouse.io/vercel/jobs/5613601004
@@ -2400,16 +2397,16 @@ Grammarly,"Software Engineer, Android",Berlin; Hybrid,greenhouse,https://job-boa
 Grammarly,"Software Engineer, Back-End",San Francisco; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/5856122
 Grammarly,"Software Engineer, Back-End",Kyiv; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/6467233
 Grammarly,"Software Engineer, Backend (Superhuman Mail)","San Francisco or Remote (US, Canada, Argentina, Brazil, Mexico)",greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7339557
-Grammarly,"Software Engineer, Data Engineering",New York City; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7336882
 Grammarly,"Software Engineer, Data Engineering",San Francisco; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/6259939
+Grammarly,"Software Engineer, Data Engineering",New York City; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7336882
 Grammarly,"Software Engineer, Frontend","San Francisco or Remote (US, Canada, Argentina, Brazil, Mexico)",greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7271992
-Grammarly,"Software Engineer, Front-End",Kyiv; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/6590260
 Grammarly,"Software Engineer, Front-End",Berlin; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/5856195
+Grammarly,"Software Engineer, Front-End",Kyiv; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/6590260
 Grammarly,"Software Engineer, Frontend (Latin America)",LATAM; Remote,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7339850
 Grammarly," Software Engineer, Full-Stack",NA; Remote,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7308798
+Grammarly,"Software Engineer, Full-Stack",Seattle; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7333571
 Grammarly,"Software Engineer, Full-Stack",San Francisco; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/6356355
 Grammarly,"Software Engineer, Full-Stack",Kyiv; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/6928720
-Grammarly,"Software Engineer, Full-Stack",Seattle; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7333571
 Grammarly,"Software Engineer, Full-Stack - Platform Team",Berlin; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/6429372
 Grammarly,Software Engineer Intern (Summer 2026),Berlin; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7491439
 Grammarly,Superhuman Mail Head of Product,San Francisco; Hybrid,greenhouse,https://job-boards.greenhouse.io/grammarly/jobs/7308929
@@ -2421,8 +2418,8 @@ Duolingo,Head of Brand Campaigns,"New York, NY",greenhouse,https://careers.duoli
 Duolingo,"Learning Scientist, Efficacy Research","Pittsburgh, PA",greenhouse,https://careers.duolingo.com/jobs/8359434002?gh_jid=8359434002
 Duolingo,Senior AI Engineering Manager,"Pittsburgh, PA",greenhouse,https://careers.duolingo.com/jobs/8322039002?gh_jid=8322039002
 Duolingo,Senior AI Engineering Manager,"New York, NY",greenhouse,https://careers.duolingo.com/jobs/8322062002?gh_jid=8322062002
-Duolingo,Senior Android Engineer,"Pittsburgh, PA",greenhouse,https://careers.duolingo.com/jobs/8215862002?gh_jid=8215862002
 Duolingo,Senior Android Engineer,"New York, NY",greenhouse,https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002
+Duolingo,Senior Android Engineer,"Pittsburgh, PA",greenhouse,https://careers.duolingo.com/jobs/8215862002?gh_jid=8215862002
 Duolingo,"Senior iOS Engineer, App Builds","New York, NY",greenhouse,https://careers.duolingo.com/jobs/8054750002?gh_jid=8054750002
 Duolingo,"Senior iOS Engineer, Application Stability & Performance","New York, NY",greenhouse,https://careers.duolingo.com/jobs/8369151002?gh_jid=8369151002
 Duolingo,Senior iOS Software Engineer,"Pittsburgh, PA",greenhouse,https://careers.duolingo.com/jobs/8393272002?gh_jid=8393272002

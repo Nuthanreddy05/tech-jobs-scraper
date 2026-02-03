@@ -1,9 +1,9 @@
-Job: Software Engineer, R2 Storage
+Job: Software Engineer - Platforms & Productivity
 Company: Cloudflare
-Location: Hybrid
+Location: In-Office
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7104127?gh_jid=7104127
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6972536?gh_jid=6972536
 
 Description:
 

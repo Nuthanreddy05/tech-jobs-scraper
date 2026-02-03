@@ -1,9 +1,9 @@
-Job: Staff Engineer, C2C
+Job: Staff Data Analyst, Growth
 Company: MongoDB
-Location: Dublin
+Location: New York City
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7409529
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7218663
 
 Description:
 

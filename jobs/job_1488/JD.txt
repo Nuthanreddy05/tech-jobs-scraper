@@ -1,9 +1,9 @@
-Job: Staff Software Engineer, FoodStorm
+Job: Staff Software Engineer, Membership & Benefits
 Company: Instacart
-Location: United States - Remote
+Location: Canada - Remote (ON, AB, BC, NS only)
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7361224
+Apply: https://instacart.careers/job/?gh_jid=7523820
 
 Description:
 

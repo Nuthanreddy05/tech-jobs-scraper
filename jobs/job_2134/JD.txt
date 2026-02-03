@@ -1,9 +1,9 @@
-Job: Sr. Manager, Global Partner and AI Ecosystem Communications
+Job: Support Engineer
 Company: Elastic
-Location: United States
+Location: Mexico
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7378571&gh_jid=7378571
+Apply: https://jobs.elastic.co/jobs?gh_jid=7466241&gh_jid=7466241
 
 Description:
 

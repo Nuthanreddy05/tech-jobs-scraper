@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Revenue Products
+Job: Senior Software Engineer, Safety Data / ML Infra
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7057790?gh_jid=7057790
+Apply: https://careers.roblox.com/jobs/7376093?gh_jid=7376093
 
 Description:
 

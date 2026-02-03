@@ -1,9 +1,9 @@
-Job: Senior Manager, Machine Learning Engineering - GenAI
+Job: Senior Machine Learning Engineer, Listing Integrity
 Company: Airbnb
-Location: United Stated
+Location: Remote-USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/6760488?gh_jid=6760488
+Apply: https://careers.airbnb.com/positions/7551019?gh_jid=7551019
 
 Description:
 

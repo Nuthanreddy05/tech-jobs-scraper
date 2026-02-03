@@ -1,9 +1,9 @@
-Job: AI Engineer
+Job: Design Engineer
 Company: Vercel
-Location: Hybrid - San Francisco, New York City
+Location: Remote - United States
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5517523004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5709080004
 
 Description:
 

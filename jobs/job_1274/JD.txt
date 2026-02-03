@@ -1,9 +1,9 @@
-Job: Software Engineer, EAA Integrations
+Job: Software Engineer, Frontend (Coinbase One)
 Company: Coinbase
-Location: Remote - India
+Location: Remote - Canada
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/7558051?gh_jid=7558051
+Apply: https://www.coinbase.com/careers/positions/6222470?gh_jid=6222470
 
 Description:
 

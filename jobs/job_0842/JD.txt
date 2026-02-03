@@ -1,9 +1,9 @@
 Job: Senior Fullstack Product Software Engineer, Corporate IT
 Company: Dropbox
-Location: Remote - US: Select locations
+Location: Remote - Canada: Select locations
 Portal: greenhouse
 
-Apply: https://jobs.dropbox.com/listing/7244914?gh_jid=7244914
+Apply: https://jobs.dropbox.com/listing/7244917?gh_jid=7244917
 
 Description:
 

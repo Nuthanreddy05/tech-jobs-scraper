@@ -1,9 +1,9 @@
-Job: Customer Architect - Self-Service Cloud
+Job: Control Plane - Serverless Core - Software Engineering Manager
 Company: Elastic
-Location: Spain
+Location: United Kingdom
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=6827412&gh_jid=6827412
+Apply: https://jobs.elastic.co/jobs?gh_jid=7582648&gh_jid=7582648
 
 Description:
 

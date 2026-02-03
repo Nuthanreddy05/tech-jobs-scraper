@@ -1,9 +1,9 @@
 Job: iOS Software Engineer, i18n: Grow Global and Local Communities
 Company: Reddit
-Location: Los Angeles, CA
+Location: Chicago, IL
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/reddit/jobs/7512048
+Apply: https://job-boards.greenhouse.io/reddit/jobs/7512046
 
 Description:
 

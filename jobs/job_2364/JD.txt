@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Trust & Safety
+Job: Software Engineer, Accounts
 Company: Vercel
-Location: Remote - United States
+Location: Hybrid - Berlin
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5788954004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5430088004
 
 Description:
 

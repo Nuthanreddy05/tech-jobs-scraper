@@ -1,9 +1,9 @@
-Job: AI Research Engineer – Datadog AI Research (DAIR)
-Company: Datadog
-Location: New York, New York, USA
+Job: VP,  Developer Adoption
+Company: Cloudflare
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7183013/?gh_jid=7183013
+Apply: https://boards.greenhouse.io/cloudflare/jobs/6589672?gh_jid=6589672
 
 Description:
 

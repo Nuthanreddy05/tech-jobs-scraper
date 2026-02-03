@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Majors
+Job: Senior Solutions Engineer,  Japan
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7505995?gh_jid=7505995
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7421854?gh_jid=7421854
 
 Description:
 

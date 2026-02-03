@@ -1,9 +1,9 @@
-Job: Senior Customer Data Scientist
+Job: Senior AI Engineer - CD Visibility
 Company: Datadog
-Location: New York, New York, USA
+Location: Madrid, Spain
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7406998/?gh_jid=7406998
+Apply: https://careers.datadoghq.com/detail/7566827/?gh_jid=7566827
 
 Description:
 

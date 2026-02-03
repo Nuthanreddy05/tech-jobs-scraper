@@ -1,9 +1,9 @@
-Job: Solutions Engineer
+Job: Solutions Architect, AI/Cloudflare Developer Platform 
 Company: Cloudflare
-Location: Distributed
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7242541?gh_jid=7242541
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7505582?gh_jid=7505582
 
 Description:
 

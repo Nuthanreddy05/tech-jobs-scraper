@@ -1,9 +1,9 @@
-Job: Senior Product Marketing Manager, Platform and Ecosystem
+Job: Software Engineer, Back-End
 Company: Grammarly
-Location: United States; Remote
+Location: San Francisco; Hybrid
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/grammarly/jobs/7356812
+Apply: https://job-boards.greenhouse.io/grammarly/jobs/5856122
 
 Description:
 

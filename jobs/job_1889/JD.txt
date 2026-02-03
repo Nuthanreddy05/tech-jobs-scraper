@@ -1,9 +1,9 @@
-Job: Senior AI Engineer - APM Experiences
+Job: Security Sales Engineer - US East
 Company: Datadog
-Location: New York, New York, USA
+Location: Georgia, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7415266/?gh_jid=7415266
+Apply: https://careers.datadoghq.com/detail/7554877/?gh_jid=7554877
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Information Security Analyst II
+Job: GTM Strategy and Operations Analyst - Channels & Alliances
 Company: Datadog
 Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7397939/?gh_jid=7397939
+Apply: https://careers.datadoghq.com/detail/7450692/?gh_jid=7450692
 
 Description:
 

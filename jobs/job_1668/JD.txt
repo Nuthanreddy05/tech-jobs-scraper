@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer Digital Native Business
+Job: Senior Solutions Engineer, Delhi NCR
 Company: Cloudflare
-Location: In-Office
+Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7526029?gh_jid=7526029
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7203676?gh_jid=7203676
 
 Description:
 

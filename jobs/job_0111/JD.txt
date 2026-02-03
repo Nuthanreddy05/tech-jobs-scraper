@@ -1,9 +1,9 @@
-Job: Senior Security Engineer, Detection & Response
+Job: Senior Research Scientist, Reward Models
 Company: Anthropic
-Location: Zürich, CH
+Location: Remote-Friendly (Travel Required) | San Francisco, CA
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5068288008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5024835008
 
 Description:
 

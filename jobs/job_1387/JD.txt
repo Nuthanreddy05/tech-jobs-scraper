@@ -1,9 +1,9 @@
-Job: Data Scientist, Product Analytics
+Job: Engineering Manager, AI Platform 
 Company: Airtable
-Location: San Francisco, CA; New York City, NY; Austin, TX
+Location: San Francisco, CA; New York City, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/airtable/jobs/8170306002
+Apply: https://job-boards.greenhouse.io/airtable/jobs/8293251002
 
 Description:
 

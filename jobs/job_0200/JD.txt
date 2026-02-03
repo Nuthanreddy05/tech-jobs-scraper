@@ -1,9 +1,9 @@
-Job: ML Research Engineer, ML Systems
+Job: Mission Software Engineering Manager, Public Sector
 Company: Scale AI
-Location: San Francisco, CA; Seattle, WA; New York, NY
+Location: San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4534631005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4631039005
 
 Description:
 

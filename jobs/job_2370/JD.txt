@@ -1,9 +1,9 @@
-Job: Software Engineer, Builds
+Job: Software Engineer, CI/CD
 Company: Vercel
-Location: Remote - United Kingdom, Germany
+Location: Remote - United States
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5648078004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5532019004
 
 Description:
 

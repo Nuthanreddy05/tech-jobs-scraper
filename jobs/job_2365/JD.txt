@@ -1,9 +1,9 @@
-Job: Site Engineer
+Job: Software Engineer, AI SDK
 Company: Vercel
-Location: Remote - United States
+Location: Hybrid - San Francisco, New York City
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5732855004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5474915004
 
 Description:
 

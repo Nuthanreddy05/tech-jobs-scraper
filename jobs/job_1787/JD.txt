@@ -1,9 +1,9 @@
-Job: Sr. Website Analyst - Web Analytics
+Job: Sr. Developer Solutions Strategist
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7260763?gh_jid=7260763
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7422358?gh_jid=7422358
 
 Description:
 

@@ -1,9 +1,9 @@
 Job: Full Stack Engineer, Revenue and Finance Automation
 Company: Stripe
-Location: Barcelona 
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://stripe.com/jobs/search?gh_jid=6719642
+Apply: https://stripe.com/jobs/search?gh_jid=5995109
 
 Description:
 

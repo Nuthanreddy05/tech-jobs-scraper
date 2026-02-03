@@ -1,9 +1,9 @@
 Job: Senior Software Engineer, Android Test Engineering
 Company: Reddit
-Location: Los Angeles, CA
+Location: Remote - United States
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/reddit/jobs/7488988
+Apply: https://job-boards.greenhouse.io/reddit/jobs/7488862
 
 Description:
 

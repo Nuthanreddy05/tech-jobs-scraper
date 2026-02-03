@@ -1,9 +1,9 @@
 Job: Senior Software Engineer - Distributed Data Systems
 Company: Databricks
-Location: Belgrade, Serbia
+Location: San Francisco, California
 Portal: greenhouse
 
-Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002
+Apply: https://databricks.com/company/careers/open-positions/job?gh_jid=4513122002
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Search - Distinguished Engineer I 
+Job: Senior Developer Advocate
 Company: Elastic
-Location: United States
+Location: The Netherlands
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7520115&gh_jid=7520115
+Apply: https://jobs.elastic.co/jobs?gh_jid=7445210&gh_jid=7445210
 
 Description:
 

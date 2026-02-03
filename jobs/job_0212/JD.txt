@@ -1,9 +1,9 @@
-Job:  Senior Software Engineer,  Full-Stack – Scale GP
+Job: Senior Software Engineer, Connectivity
 Company: Scale AI
 Location: San Francisco, CA; New York, NY
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4637484005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4654275005
 
 Description:
 

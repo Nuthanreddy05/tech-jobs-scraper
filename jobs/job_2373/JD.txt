@@ -1,9 +1,9 @@
-Job: Software Engineer, CI/CD
+Job: Software Engineer, Deployment Infrastructure
 Company: Vercel
-Location: Hybrid - New York City
+Location: Hybrid - San Francisco, New York City
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/vercel/jobs/5532030004
+Apply: https://job-boards.greenhouse.io/vercel/jobs/5633880004
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Business Analyst, Technical Services
+Job: Security Software Engineer,  Infrastructure Security (Staff or Senior)
 Company: MongoDB
-Location: New York City
+Location: Austin; Boston; Chicago; New York City; Pittsburgh; Raleigh; United States; Washington DC
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=6841436
+Apply: https://www.mongodb.com/careers/job/?gh_jid=6982487
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Software Engineer , AI Agents Tooling & Platforms 
+Job: SOC Analyst
 Company: Cloudflare
 Location: Hybrid
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/5879768?gh_jid=5879768
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7528097?gh_jid=7528097
 
 Description:
 

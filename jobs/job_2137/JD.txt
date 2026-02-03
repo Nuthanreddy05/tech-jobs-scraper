@@ -1,9 +1,9 @@
-Job: Support Engineer 
+Job: Support Engineer (German speaking)
 Company: Elastic
-Location: Romania
+Location: Barcelona, Spain
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7546232&gh_jid=7546232
+Apply: https://jobs.elastic.co/jobs?gh_jid=7550821&gh_jid=7550821
 
 Description:
 

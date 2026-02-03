@@ -1,9 +1,9 @@
-Job: Forward Deployed AI Engineer, Enterprise 
+Job: Engineering Manager, Public Sector 
 Company: Scale AI
-Location: San Francisco, CA; New York, NY
+Location: New York, NY; San Francisco, CA; St. Louis, MO; Washington, DC
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4597399005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4586116005
 
 Description:
 

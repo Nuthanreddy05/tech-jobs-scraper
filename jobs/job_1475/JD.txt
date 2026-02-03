@@ -1,9 +1,9 @@
-Job: Senior Staff Machine Learning Engineer, Ads Quality
+Job: Senior Staff Software Engineer, Ads Infrastructure & Systems
 Company: Instacart
 Location: United States - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=6967732
+Apply: https://instacart.careers/job/?gh_jid=7066269
 
 Description:
 

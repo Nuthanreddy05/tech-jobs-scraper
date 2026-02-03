@@ -1,9 +1,9 @@
-Job: Senior Sales Engineer
+Job: Senior Product Marketing Manager (Cloud Cost Management)
 Company: Datadog
-Location: Chicago, Illinois, USA; Minnesota, USA, Remote
+Location: New York, New York, USA; San Francisco, California, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7460368/?gh_jid=7460368
+Apply: https://careers.datadoghq.com/detail/7329541/?gh_jid=7329541
 
 Description:
 

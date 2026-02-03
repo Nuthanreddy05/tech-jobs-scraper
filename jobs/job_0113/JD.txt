@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Build Systems
+Job: Senior Security Software Engineer, D&R Platform
 Company: Anthropic
-Location: San Francisco, CA | New York City, NY
+Location: Zürich, CH
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/anthropic/jobs/5103176008
+Apply: https://job-boards.greenhouse.io/anthropic/jobs/5068313008
 
 Description:
 

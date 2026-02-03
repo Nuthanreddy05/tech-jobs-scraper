@@ -1,9 +1,9 @@
-Job: Senior Fullstack Developer, Developer Productivity (Backstage)
+Job: Senior Financial Analyst
 Company: MongoDB
-Location: United States
+Location: New York City
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7549155
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7435574
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, Atlas Search Systems
+Job: Senior Software Engineer, Atlas Growth
 Company: MongoDB
-Location: New York City
+Location: Dublin
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7488010
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7411433
 
 Description:
 

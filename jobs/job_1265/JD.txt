@@ -1,9 +1,9 @@
-Job: Software Engineer, Backend (Consumer - Stablecoin)
+Job: Software Engineer, Backend  (Consumer - Trading)
 Company: Coinbase
-Location: Remote - Canada
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://www.coinbase.com/careers/positions/6570379?gh_jid=6570379
+Apply: https://www.coinbase.com/careers/positions/6812261?gh_jid=6812261
 
 Description:
 

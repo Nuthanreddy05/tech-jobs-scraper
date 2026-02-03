@@ -1,9 +1,9 @@
-Job: Senior Machine Learning Engineer II,  AI Special Projects
+Job: Senior Machine Learning Engineer II, Growth Modeling
 Company: Instacart
-Location: United States - Remote
+Location: USA - Remote
 Portal: greenhouse
 
-Apply: https://instacart.careers/job/?gh_jid=7561665
+Apply: https://instacart.careers/job/?gh_jid=7566001
 
 Description:
 

@@ -1123,6 +1123,17 @@
   },
   {
     "company": "Anthropic",
+    "title": "Research Scientist, Frontier Red Team (Emerging Risks)",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5103788008",
+    "job_id": "5103788008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5103788008"
+  },
+  {
+    "company": "Anthropic",
     "title": "Research Scientist, Interpretability",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/4980427008",
@@ -1542,7 +1553,7 @@
   {
     "company": "Anthropic",
     "title": "Software Engineer, Windows - Claude Code",
-    "location": "San Francisco, CA | New York City, NY",
+    "location": "San Francisco, CA | Seattle, WA",
     "url": "https://job-boards.greenhouse.io/anthropic/jobs/5098506008",
     "job_id": "5098506008",
     "departments": [],
@@ -2213,17 +2224,6 @@
   {
     "company": "Scale AI",
     "title": "Product Manager of AI Applications, International Public Sector",
-    "location": "Riyadh, Saudi Arabia",
-    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
-    "job_id": "4650514005",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "4650514005"
-  },
-  {
-    "company": "Scale AI",
-    "title": "Product Manager of AI Applications, International Public Sector",
     "location": "Doha, Qatar ; Dubai, UAE",
     "url": "https://job-boards.greenhouse.io/scaleai/jobs/4589749005",
     "job_id": "4589749005",
@@ -2231,6 +2231,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "4589749005"
+  },
+  {
+    "company": "Scale AI",
+    "title": "Product Manager of AI Applications, International Public Sector",
+    "location": "Riyadh, Saudi Arabia",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4650514005",
+    "job_id": "4650514005",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4650514005"
   },
   {
     "company": "Scale AI",
@@ -3082,17 +3093,6 @@
   {
     "company": "Airbnb",
     "title": "Senior Software Engineer, Guest & Host",
-    "location": "Remote, USA",
-    "url": "https://careers.airbnb.com/positions/7430121?gh_jid=7430121",
-    "job_id": "7430121",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7430121"
-  },
-  {
-    "company": "Airbnb",
-    "title": "Senior Software Engineer, Guest & Host",
     "location": "United States",
     "url": "https://careers.airbnb.com/positions/7383965?gh_jid=7383965",
     "job_id": "7383965",
@@ -3100,6 +3100,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7383965"
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Software Engineer, Guest & Host",
+    "location": "Remote, USA",
+    "url": "https://careers.airbnb.com/positions/7430121?gh_jid=7430121",
+    "job_id": "7430121",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7430121"
   },
   {
     "company": "Airbnb",
@@ -3543,17 +3554,6 @@
   },
   {
     "company": "Airbnb",
-    "title": "Strategy and Business Growth Lead, Airbnb Experiences",
-    "location": "Sydney, Australia",
-    "url": "https://careers.airbnb.com/positions/7582121?gh_jid=7582121",
-    "job_id": "7582121",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7582121"
-  },
-  {
-    "company": "Airbnb",
     "title": "Tech Lead Manager, Cloud Networking (Brazil)",
     "location": "Brazil",
     "url": "https://careers.airbnb.com/positions/7381450?gh_jid=7381450",
@@ -3907,17 +3907,6 @@
   {
     "company": "Stripe",
     "title": "Business Partner Analyst",
-    "location": "Chicago- New York City- San Francisco or Seattle",
-    "url": "https://stripe.com/jobs/search?gh_jid=5986232",
-    "job_id": "5986232",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "5986232"
-  },
-  {
-    "company": "Stripe",
-    "title": "Business Partner Analyst",
     "location": "Dublin, Ireland",
     "url": "https://stripe.com/jobs/search?gh_jid=7558195",
     "job_id": "7558195",
@@ -3925,6 +3914,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7558195"
+  },
+  {
+    "company": "Stripe",
+    "title": "Business Partner Analyst",
+    "location": "Chicago- New York City- San Francisco or Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=5986232",
+    "job_id": "5986232",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5986232"
   },
   {
     "company": "Stripe",
@@ -4326,23 +4326,23 @@
     "company": "Stripe",
     "title": "Full Stack Engineer, Collaboration",
     "location": "N/A",
-    "url": "https://stripe.com/jobs/search?gh_jid=7488253",
-    "job_id": "7488253",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7488253"
-  },
-  {
-    "company": "Stripe",
-    "title": "Full Stack Engineer, Collaboration",
-    "location": "N/A",
     "url": "https://stripe.com/jobs/search?gh_jid=7532806",
     "job_id": "7532806",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7532806"
+  },
+  {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Collaboration",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7488253",
+    "job_id": "7488253",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7488253"
   },
   {
     "company": "Stripe",
@@ -4413,17 +4413,6 @@
   {
     "company": "Stripe",
     "title": "Full Stack Engineer, Revenue and Finance Automation",
-    "location": "Barcelona ",
-    "url": "https://stripe.com/jobs/search?gh_jid=6719642",
-    "job_id": "6719642",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6719642"
-  },
-  {
-    "company": "Stripe",
-    "title": "Full Stack Engineer, Revenue and Finance Automation",
     "location": "Dublin",
     "url": "https://stripe.com/jobs/search?gh_jid=5995109",
     "job_id": "5995109",
@@ -4431,6 +4420,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "5995109"
+  },
+  {
+    "company": "Stripe",
+    "title": "Full Stack Engineer, Revenue and Finance Automation",
+    "location": "Barcelona ",
+    "url": "https://stripe.com/jobs/search?gh_jid=6719642",
+    "job_id": "6719642",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6719642"
   },
   {
     "company": "Stripe",
@@ -4886,13 +4886,13 @@
   {
     "company": "Stripe",
     "title": "Sales Manager, Platforms (Existing Business)",
-    "location": "US-NYC",
-    "url": "https://stripe.com/jobs/search?gh_jid=7522069",
-    "job_id": "7522069",
+    "location": "US-SF",
+    "url": "https://stripe.com/jobs/search?gh_jid=7375100",
+    "job_id": "7375100",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7522069"
+    "company_slug": "7375100"
   },
   {
     "company": "Stripe",
@@ -4908,13 +4908,13 @@
   {
     "company": "Stripe",
     "title": "Sales Manager, Platforms (Existing Business)",
-    "location": "US-SF",
-    "url": "https://stripe.com/jobs/search?gh_jid=7375100",
-    "job_id": "7375100",
+    "location": "US-NYC",
+    "url": "https://stripe.com/jobs/search?gh_jid=7522069",
+    "job_id": "7522069",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7375100"
+    "company_slug": "7522069"
   },
   {
     "company": "Stripe",
@@ -5084,17 +5084,6 @@
   {
     "company": "Stripe",
     "title": "Software Engineer, New Grad",
-    "location": "Toronto",
-    "url": "https://stripe.com/jobs/search?gh_jid=7206505",
-    "job_id": "7206505",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7206505"
-  },
-  {
-    "company": "Stripe",
-    "title": "Software Engineer, New Grad",
     "location": "Dublin",
     "url": "https://stripe.com/jobs/search?gh_jid=7206515",
     "job_id": "7206515",
@@ -5106,13 +5095,13 @@
   {
     "company": "Stripe",
     "title": "Software Engineer, New Grad",
-    "location": "Barcelona",
-    "url": "https://stripe.com/jobs/search?gh_jid=7213871",
-    "job_id": "7213871",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=7206505",
+    "job_id": "7206505",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7213871"
+    "company_slug": "7206505"
   },
   {
     "company": "Stripe",
@@ -5124,6 +5113,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7210112"
+  },
+  {
+    "company": "Stripe",
+    "title": "Software Engineer, New Grad",
+    "location": "Barcelona",
+    "url": "https://stripe.com/jobs/search?gh_jid=7213871",
+    "job_id": "7213871",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7213871"
   },
   {
     "company": "Stripe",
@@ -5590,39 +5590,6 @@
   {
     "company": "Databricks",
     "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "location": "Remote - India",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
-    "job_id": "8099751002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8099751002"
-  },
-  {
-    "company": "Databricks",
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "location": "United States",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002",
-    "job_id": "8024010002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8024010002"
-  },
-  {
-    "company": "Databricks",
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
-    "location": "Sydney, Australia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
-    "job_id": "8298792002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8298792002"
-  },
-  {
-    "company": "Databricks",
-    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
     "location": "Melbourne, Australia",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8330188002",
     "job_id": "8330188002",
@@ -5641,6 +5608,39 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8189900002"
+  },
+  {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Sydney, Australia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8298792002",
+    "job_id": "8298792002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8298792002"
+  },
+  {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8024010002",
+    "job_id": "8024010002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8024010002"
+  },
+  {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer)",
+    "location": "Remote - India",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8099751002",
+    "job_id": "8099751002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8099751002"
   },
   {
     "company": "Databricks",
@@ -5986,24 +5986,24 @@
   {
     "company": "Databricks",
     "title": "Manager, Field Engineering",
-    "location": "Mexico City",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8360069002",
-    "job_id": "8360069002",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8391857002",
+    "job_id": "8391857002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8360069002"
+    "company_slug": "8391857002"
   },
   {
     "company": "Databricks",
     "title": "Manager, Field Engineering",
-    "location": "Sao Paulo, Brazil",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8360067002",
-    "job_id": "8360067002",
+    "location": "Melbourne, Australia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8316258002",
+    "job_id": "8316258002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8360067002"
+    "company_slug": "8316258002"
   },
   {
     "company": "Databricks",
@@ -6041,24 +6041,24 @@
   {
     "company": "Databricks",
     "title": "Manager, Field Engineering",
-    "location": "Melbourne, Australia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8316258002",
-    "job_id": "8316258002",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8360067002",
+    "job_id": "8360067002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8316258002"
+    "company_slug": "8360067002"
   },
   {
     "company": "Databricks",
     "title": "Manager, Field Engineering",
-    "location": "United States",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8391857002",
-    "job_id": "8391857002",
+    "location": "Mexico City",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8360069002",
+    "job_id": "8360069002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8391857002"
+    "company_slug": "8360069002"
   },
   {
     "company": "Databricks",
@@ -6195,17 +6195,6 @@
   {
     "company": "Databricks",
     "title": "Principal Engineer - Privacy",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002",
-    "job_id": "8224828002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8224828002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Principal Engineer - Privacy",
     "location": "Amsterdam, Netherlands",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274875002",
     "job_id": "7274875002",
@@ -6217,13 +6206,13 @@
   {
     "company": "Databricks",
     "title": "Principal Engineer - Privacy",
-    "location": "Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002",
-    "job_id": "7274619002",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8224828002",
+    "job_id": "8224828002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7274619002"
+    "company_slug": "8224828002"
   },
   {
     "company": "Databricks",
@@ -6235,6 +6224,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7274488002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Principal Engineer - Privacy",
+    "location": "Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274619002",
+    "job_id": "7274619002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7274619002"
   },
   {
     "company": "Databricks",
@@ -6349,13 +6349,13 @@
   {
     "company": "Databricks",
     "title": "Senior Engineering Manager - Trust and Safety",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8374884002",
-    "job_id": "8374884002",
+    "location": "Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8374883002",
+    "job_id": "8374883002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8374884002"
+    "company_slug": "8374883002"
   },
   {
     "company": "Databricks",
@@ -6371,13 +6371,13 @@
   {
     "company": "Databricks",
     "title": "Senior Engineering Manager - Trust and Safety",
-    "location": "Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8374883002",
-    "job_id": "8374883002",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8374884002",
+    "job_id": "8374884002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8374883002"
+    "company_slug": "8374884002"
   },
   {
     "company": "Databricks",
@@ -6481,17 +6481,6 @@
   {
     "company": "Databricks",
     "title": "Senior Software Engineer - Backend",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002",
-    "job_id": "6779084002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6779084002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Backend",
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=4799387002",
     "job_id": "4799387002",
@@ -6499,6 +6488,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "4799387002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Backend",
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002",
+    "job_id": "8012803002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8012803002"
   },
   {
     "company": "Databricks",
@@ -6514,13 +6514,13 @@
   {
     "company": "Databricks",
     "title": "Senior Software Engineer - Backend",
-    "location": "Belgrade, Serbia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012803002",
-    "job_id": "8012803002",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779084002",
+    "job_id": "6779084002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8012803002"
+    "company_slug": "6779084002"
   },
   {
     "company": "Databricks",
@@ -6547,17 +6547,6 @@
   {
     "company": "Databricks",
     "title": "Senior Software Engineer - Database Engine Internals",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002",
-    "job_id": "5048461002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "5048461002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Database Engine Internals",
     "location": "Belgrade, Serbia",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012809002",
     "job_id": "8012809002",
@@ -6565,6 +6554,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8012809002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Database Engine Internals",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5048461002",
+    "job_id": "5048461002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5048461002"
   },
   {
     "company": "Databricks",
@@ -6591,6 +6591,17 @@
   {
     "company": "Databricks",
     "title": "Senior Software Engineer - Distributed Data Systems",
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002",
+    "job_id": "8012800002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8012800002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Distributed Data Systems",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544325002",
     "job_id": "6544325002",
@@ -6609,28 +6620,6 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "4513122002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Distributed Data Systems",
-    "location": "Belgrade, Serbia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012800002",
-    "job_id": "8012800002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8012800002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Senior Software Engineer - Fullstack",
-    "location": "Amsterdam, Netherlands",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
-    "job_id": "8029679002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8029679002"
   },
   {
     "company": "Databricks",
@@ -6664,6 +6653,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "5445641002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Software Engineer - Fullstack",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8029679002",
+    "job_id": "8029679002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8029679002"
   },
   {
     "company": "Databricks",
@@ -6778,17 +6778,6 @@
   {
     "company": "Databricks",
     "title": "Senior Solutions Engineer",
-    "location": "Remote - Denmark",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8239195002",
-    "job_id": "8239195002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8239195002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Senior Solutions Engineer",
     "location": "Finland",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8325452002",
     "job_id": "8325452002",
@@ -6796,6 +6785,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8325452002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Solutions Engineer",
+    "location": "Remote - Denmark",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8239195002",
+    "job_id": "8239195002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8239195002"
   },
   {
     "company": "Databricks",
@@ -6888,17 +6888,6 @@
   {
     "company": "Databricks",
     "title": "Senior Staff Software Engineer - IAM",
-    "location": "Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002",
-    "job_id": "7274557002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7274557002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Senior Staff Software Engineer - IAM",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274563002",
     "job_id": "7274563002",
@@ -6909,14 +6898,14 @@
   },
   {
     "company": "Databricks",
-    "title": "Senior Staff Software Engineer - Security Infrastructure",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002",
-    "job_id": "7274902002",
+    "title": "Senior Staff Software Engineer - IAM",
+    "location": "Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274557002",
+    "job_id": "7274557002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7274902002"
+    "company_slug": "7274557002"
   },
   {
     "company": "Databricks",
@@ -6928,6 +6917,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7274908002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Staff Software Engineer - Security Infrastructure",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7274902002",
+    "job_id": "7274902002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7274902002"
   },
   {
     "company": "Databricks",
@@ -7185,17 +7185,6 @@
   {
     "company": "Databricks",
     "title": "Solutions Architect, Retail - CPG",
-    "location": "Northeast - United States",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002",
-    "job_id": "8221491002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8221491002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Solutions Architect, Retail - CPG",
     "location": "Central - United States",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6649865002",
     "job_id": "6649865002",
@@ -7203,6 +7192,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6649865002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Solutions Architect, Retail - CPG",
+    "location": "Northeast - United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8221491002",
+    "job_id": "8221491002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8221491002"
   },
   {
     "company": "Databricks",
@@ -7548,17 +7548,6 @@
   {
     "company": "Databricks",
     "title": "Sr. Product Manager, Databricks AI",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
-    "job_id": "8136071002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8136071002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Sr. Product Manager, Databricks AI",
     "location": "Seattle, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136204002",
     "job_id": "8136204002",
@@ -7566,6 +7555,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8136204002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Product Manager, Databricks AI",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8136071002",
+    "job_id": "8136071002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8136071002"
   },
   {
     "company": "Databricks",
@@ -7658,17 +7658,6 @@
   {
     "company": "Databricks",
     "title": "Sr. Program Manager, Data for Good",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8385177002",
-    "job_id": "8385177002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8385177002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Sr. Program Manager, Data for Good",
     "location": "Seattle, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8389535002",
     "job_id": "8389535002",
@@ -7676,6 +7665,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8389535002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Program Manager, Data for Good",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8385177002",
+    "job_id": "8385177002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8385177002"
   },
   {
     "company": "Databricks",
@@ -7779,17 +7779,6 @@
   {
     "company": "Databricks",
     "title": "Sr. Solutions Engineer",
-    "location": "Melbourne, Australia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8059387002",
-    "job_id": "8059387002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8059387002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Sr. Solutions Engineer",
     "location": "Z\u00fcrich, Switzerland",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8351105002",
     "job_id": "8351105002",
@@ -7797,6 +7786,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8351105002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Solutions Engineer",
+    "location": "Melbourne, Australia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8059387002",
+    "job_id": "8059387002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8059387002"
   },
   {
     "company": "Databricks",
@@ -8076,17 +8076,6 @@
   {
     "company": "Databricks",
     "title": "Staff GenAI Research Scientist",
-    "location": "New York City, New York",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7434541002",
-    "job_id": "7434541002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7434541002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Staff GenAI Research Scientist",
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7434532002",
     "job_id": "7434532002",
@@ -8094,6 +8083,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7434532002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Staff GenAI Research Scientist",
+    "location": "New York City, New York",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7434541002",
+    "job_id": "7434541002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7434541002"
   },
   {
     "company": "Databricks",
@@ -8109,17 +8109,6 @@
   {
     "company": "Databricks",
     "title": "Staff Partner Engineer, Data Collaboration & Industry",
-    "location": "San Francisco, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8375583002",
-    "job_id": "8375583002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8375583002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Staff Partner Engineer, Data Collaboration & Industry",
     "location": "Seattle, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8389608002",
     "job_id": "8389608002",
@@ -8127,6 +8116,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8389608002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Staff Partner Engineer, Data Collaboration & Industry",
+    "location": "San Francisco, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8375583002",
+    "job_id": "8375583002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8375583002"
   },
   {
     "company": "Databricks",
@@ -8164,17 +8164,6 @@
   {
     "company": "Databricks",
     "title": "Staff Product Security Engineer",
-    "location": "Remote - United Kingdom",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8148273002",
-    "job_id": "8148273002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8148273002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Staff Product Security Engineer",
     "location": "Remote - Germany",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8148278002",
     "job_id": "8148278002",
@@ -8182,6 +8171,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8148278002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Staff Product Security Engineer",
+    "location": "Remote - United Kingdom",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8148273002",
+    "job_id": "8148273002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8148273002"
   },
   {
     "company": "Databricks",
@@ -8219,13 +8219,13 @@
   {
     "company": "Databricks",
     "title": "Staff Software Engineer - Backend",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
-    "job_id": "6544443002",
+    "location": "Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002",
+    "job_id": "6779232002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "6544443002"
+    "company_slug": "6779232002"
   },
   {
     "company": "Databricks",
@@ -8241,17 +8241,6 @@
   {
     "company": "Databricks",
     "title": "Staff Software Engineer - Backend",
-    "location": "Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779232002",
-    "job_id": "6779232002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6779232002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Backend",
     "location": "Bellevue, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6779233002",
     "job_id": "6779233002",
@@ -8259,6 +8248,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6779233002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Backend",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544443002",
+    "job_id": "6544443002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6544443002"
   },
   {
     "company": "Databricks",
@@ -8307,17 +8307,6 @@
   {
     "company": "Databricks",
     "title": "Staff Software Engineer - Database Engine Internals",
-    "location": "Belgrade, Serbia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002",
-    "job_id": "8012818002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8012818002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Database Engine Internals",
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=5646866002",
     "job_id": "5646866002",
@@ -8325,6 +8314,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "5646866002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Database Engine Internals",
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012818002",
+    "job_id": "8012818002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8012818002"
   },
   {
     "company": "Databricks",
@@ -8340,13 +8340,13 @@
   {
     "company": "Databricks",
     "title": "Staff Software Engineer - Distributed Data Systems",
-    "location": "Belgrade, Serbia",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002",
-    "job_id": "8012831002",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002",
+    "job_id": "6544364002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8012831002"
+    "company_slug": "6544364002"
   },
   {
     "company": "Databricks",
@@ -8362,13 +8362,13 @@
   {
     "company": "Databricks",
     "title": "Staff Software Engineer - Distributed Data Systems",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6544364002",
-    "job_id": "6544364002",
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8012831002",
+    "job_id": "8012831002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "6544364002"
+    "company_slug": "8012831002"
   },
   {
     "company": "Databricks",
@@ -8494,17 +8494,6 @@
   {
     "company": "Databricks",
     "title": "Staff Software Engineer - Security Infrastructure",
-    "location": "Bellevue, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002",
-    "job_id": "7994759002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7994759002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Staff Software Engineer - Security Infrastructure",
     "location": "Mountain View, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994770002",
     "job_id": "7994770002",
@@ -8512,6 +8501,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7994770002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Staff Software Engineer - Security Infrastructure",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=7994759002",
+    "job_id": "7994759002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7994759002"
   },
   {
     "company": "Databricks",
@@ -8538,17 +8538,6 @@
   {
     "company": "Databricks",
     "title": "Staff Technical Program Manager \u2013 GenAI Ops & Capacity Planning",
-    "location": "Mountain View, California",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8381772002",
-    "job_id": "8381772002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8381772002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Staff Technical Program Manager \u2013 GenAI Ops & Capacity Planning",
     "location": "Seattle, Washington",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8381771002",
     "job_id": "8381771002",
@@ -8556,6 +8545,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8381771002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Staff Technical Program Manager \u2013 GenAI Ops & Capacity Planning",
+    "location": "Mountain View, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8381772002",
+    "job_id": "8381772002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8381772002"
   },
   {
     "company": "Databricks",
@@ -8582,17 +8582,6 @@
   {
     "company": "Databricks",
     "title": "Staff Technical Writer, Platform",
-    "location": "Seattle, Washington",
-    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8026857002",
-    "job_id": "8026857002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8026857002"
-  },
-  {
-    "company": "Databricks",
-    "title": "Staff Technical Writer, Platform",
     "location": "San Francisco, California",
     "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8025165002",
     "job_id": "8025165002",
@@ -8600,6 +8589,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8025165002"
+  },
+  {
+    "company": "Databricks",
+    "title": "Staff Technical Writer, Platform",
+    "location": "Seattle, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8026857002",
+    "job_id": "8026857002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8026857002"
   },
   {
     "company": "Databricks",
@@ -8726,6 +8726,17 @@
     "company": "Dropbox",
     "title": "Data Scientist",
     "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7543836?gh_jid=7543836",
+    "job_id": "7543836",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7543836"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Data Scientist",
+    "location": "Remote - US: Select locations",
     "url": "https://jobs.dropbox.com/listing/7486226?gh_jid=7486226",
     "job_id": "7486226",
     "departments": [],
@@ -8743,17 +8754,6 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7543839"
-  },
-  {
-    "company": "Dropbox",
-    "title": "Data Scientist",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7543836?gh_jid=7543836",
-    "job_id": "7543836",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7543836"
   },
   {
     "company": "Dropbox",
@@ -8824,17 +8824,6 @@
   {
     "company": "Dropbox",
     "title": "Fullstack Product Software Engineer, Growth Monetization",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7344952?gh_jid=7344952",
-    "job_id": "7344952",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7344952"
-  },
-  {
-    "company": "Dropbox",
-    "title": "Fullstack Product Software Engineer, Growth Monetization",
     "location": "Remote - Canada: Select locations",
     "url": "https://jobs.dropbox.com/listing/7344955?gh_jid=7344955",
     "job_id": "7344955",
@@ -8845,14 +8834,14 @@
   },
   {
     "company": "Dropbox",
-    "title": "Full-Stack Product Software Engineer, Search Platform",
+    "title": "Fullstack Product Software Engineer, Growth Monetization",
     "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7491860?gh_jid=7491860",
-    "job_id": "7491860",
+    "url": "https://jobs.dropbox.com/listing/7344952?gh_jid=7344952",
+    "job_id": "7344952",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7491860"
+    "company_slug": "7344952"
   },
   {
     "company": "Dropbox",
@@ -8864,6 +8853,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7491863"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Full-Stack Product Software Engineer, Search Platform",
+    "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7491860?gh_jid=7491860",
+    "job_id": "7491860",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7491860"
   },
   {
     "company": "Dropbox",
@@ -9011,17 +9011,6 @@
   {
     "company": "Dropbox",
     "title": "People Team Data Analyst, Talent Acquisition",
-    "location": "Remote - Canada: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7536374?gh_jid=7536374",
-    "job_id": "7536374",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7536374"
-  },
-  {
-    "company": "Dropbox",
-    "title": "People Team Data Analyst, Talent Acquisition",
     "location": "Remote - US: Select locations",
     "url": "https://jobs.dropbox.com/listing/7536371?gh_jid=7536371",
     "job_id": "7536371",
@@ -9029,6 +9018,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7536371"
+  },
+  {
+    "company": "Dropbox",
+    "title": "People Team Data Analyst, Talent Acquisition",
+    "location": "Remote - Canada: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7536374?gh_jid=7536374",
+    "job_id": "7536374",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7536374"
   },
   {
     "company": "Dropbox",
@@ -9099,17 +9099,6 @@
   {
     "company": "Dropbox",
     "title": "Senior Backend Product Software Engineer",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/6330345?gh_jid=6330345",
-    "job_id": "6330345",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6330345"
-  },
-  {
-    "company": "Dropbox",
-    "title": "Senior Backend Product Software Engineer",
     "location": "Remote - Canada: Select locations",
     "url": "https://jobs.dropbox.com/listing/6330339?gh_jid=6330339",
     "job_id": "6330339",
@@ -9117,6 +9106,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6330339"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Senior Backend Product Software Engineer",
+    "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/6330345?gh_jid=6330345",
+    "job_id": "6330345",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6330345"
   },
   {
     "company": "Dropbox",
@@ -9144,12 +9144,12 @@
     "company": "Dropbox",
     "title": "Senior Data Scientist",
     "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7543844?gh_jid=7543844",
-    "job_id": "7543844",
+    "url": "https://jobs.dropbox.com/listing/7294188?gh_jid=7294188",
+    "job_id": "7294188",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7543844"
+    "company_slug": "7294188"
   },
   {
     "company": "Dropbox",
@@ -9165,6 +9165,17 @@
   {
     "company": "Dropbox",
     "title": "Senior Data Scientist",
+    "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7543844?gh_jid=7543844",
+    "job_id": "7543844",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7543844"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Senior Data Scientist",
     "location": "Remote - Canada: Select locations",
     "url": "https://jobs.dropbox.com/listing/7294189?gh_jid=7294189",
     "job_id": "7294189",
@@ -9172,28 +9183,6 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7294189"
-  },
-  {
-    "company": "Dropbox",
-    "title": "Senior Data Scientist",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7294188?gh_jid=7294188",
-    "job_id": "7294188",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7294188"
-  },
-  {
-    "company": "Dropbox",
-    "title": "Senior Engineering Manager, Core AI Platform",
-    "location": "Remote - US: All locations",
-    "url": "https://jobs.dropbox.com/listing/7344918?gh_jid=7344918",
-    "job_id": "7344918",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7344918"
   },
   {
     "company": "Dropbox",
@@ -9208,14 +9197,14 @@
   },
   {
     "company": "Dropbox",
-    "title": "Senior Engineering Manager, Core Mobile Experience",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7558697?gh_jid=7558697",
-    "job_id": "7558697",
+    "title": "Senior Engineering Manager, Core AI Platform",
+    "location": "Remote - US: All locations",
+    "url": "https://jobs.dropbox.com/listing/7344918?gh_jid=7344918",
+    "job_id": "7344918",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7558697"
+    "company_slug": "7344918"
   },
   {
     "company": "Dropbox",
@@ -9230,14 +9219,14 @@
   },
   {
     "company": "Dropbox",
-    "title": "Senior Full Stack Product Software Engineer",
-    "location": "Remote - Canada: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7536345?gh_jid=7536345",
-    "job_id": "7536345",
+    "title": "Senior Engineering Manager, Core Mobile Experience",
+    "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7558697?gh_jid=7558697",
+    "job_id": "7558697",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7536345"
+    "company_slug": "7558697"
   },
   {
     "company": "Dropbox",
@@ -9252,14 +9241,14 @@
   },
   {
     "company": "Dropbox",
-    "title": "Senior Fullstack Product Software Engineer, Corporate IT",
-    "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7244914?gh_jid=7244914",
-    "job_id": "7244914",
+    "title": "Senior Full Stack Product Software Engineer",
+    "location": "Remote - Canada: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7536345?gh_jid=7536345",
+    "job_id": "7536345",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7244914"
+    "company_slug": "7536345"
   },
   {
     "company": "Dropbox",
@@ -9274,14 +9263,14 @@
   },
   {
     "company": "Dropbox",
-    "title": "Senior Fullstack Product Software Engineer, DocSend",
+    "title": "Senior Fullstack Product Software Engineer, Corporate IT",
     "location": "Remote - US: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7469396?gh_jid=7469396",
-    "job_id": "7469396",
+    "url": "https://jobs.dropbox.com/listing/7244914?gh_jid=7244914",
+    "job_id": "7244914",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7469396"
+    "company_slug": "7244914"
   },
   {
     "company": "Dropbox",
@@ -9293,6 +9282,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7469399"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Senior Fullstack Product Software Engineer, DocSend",
+    "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7469396?gh_jid=7469396",
+    "job_id": "7469396",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7469396"
   },
   {
     "company": "Dropbox",
@@ -9319,17 +9319,6 @@
   {
     "company": "Dropbox",
     "title": "Senior Infrastructure Software Engineer, Storage",
-    "location": "Remote - Canada: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7336428?gh_jid=7336428",
-    "job_id": "7336428",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7336428"
-  },
-  {
-    "company": "Dropbox",
-    "title": "Senior Infrastructure Software Engineer, Storage",
     "location": "Remote - US: Select locations",
     "url": "https://jobs.dropbox.com/listing/7336425?gh_jid=7336425",
     "job_id": "7336425",
@@ -9337,6 +9326,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7336425"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Senior Infrastructure Software Engineer, Storage",
+    "location": "Remote - Canada: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7336428?gh_jid=7336428",
+    "job_id": "7336428",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7336428"
   },
   {
     "company": "Dropbox",
@@ -9385,17 +9385,6 @@
   {
     "company": "Dropbox",
     "title": "Senior Product Designer, Mobile Design Systems",
-    "location": "Remote - Canada: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7274140?gh_jid=7274140",
-    "job_id": "7274140",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7274140"
-  },
-  {
-    "company": "Dropbox",
-    "title": "Senior Product Designer, Mobile Design Systems",
     "location": "Remote - US: Select locations",
     "url": "https://jobs.dropbox.com/listing/7274137?gh_jid=7274137",
     "job_id": "7274137",
@@ -9403,6 +9392,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7274137"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Senior Product Designer, Mobile Design Systems",
+    "location": "Remote - Canada: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7274140?gh_jid=7274140",
+    "job_id": "7274140",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7274140"
   },
   {
     "company": "Dropbox",
@@ -9429,17 +9429,6 @@
   {
     "company": "Dropbox",
     "title": "ServiceNow Engineer",
-    "location": "Remote - Mexico",
-    "url": "https://jobs.dropbox.com/listing/7529808?gh_jid=7529808",
-    "job_id": "7529808",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7529808"
-  },
-  {
-    "company": "Dropbox",
-    "title": "ServiceNow Engineer",
     "location": "Remote - Poland",
     "url": "https://jobs.dropbox.com/listing/7525099?gh_jid=7525099",
     "job_id": "7525099",
@@ -9447,6 +9436,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7525099"
+  },
+  {
+    "company": "Dropbox",
+    "title": "ServiceNow Engineer",
+    "location": "Remote - Mexico",
+    "url": "https://jobs.dropbox.com/listing/7529808?gh_jid=7529808",
+    "job_id": "7529808",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7529808"
   },
   {
     "company": "Dropbox",
@@ -9473,17 +9473,6 @@
   {
     "company": "Dropbox",
     "title": "Sr. Sales Compensation Analyst",
-    "location": "Remote - Canada: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7524793?gh_jid=7524793",
-    "job_id": "7524793",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7524793"
-  },
-  {
-    "company": "Dropbox",
-    "title": "Sr. Sales Compensation Analyst",
     "location": "Remote - US: Select locations",
     "url": "https://jobs.dropbox.com/listing/7524792?gh_jid=7524792",
     "job_id": "7524792",
@@ -9494,14 +9483,14 @@
   },
   {
     "company": "Dropbox",
-    "title": "Staff Backend Product Software Engineer, Core",
-    "location": "Remote - US: All locations",
-    "url": "https://jobs.dropbox.com/listing/7466493?gh_jid=7466493",
-    "job_id": "7466493",
+    "title": "Sr. Sales Compensation Analyst",
+    "location": "Remote - Canada: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7524793?gh_jid=7524793",
+    "job_id": "7524793",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7466493"
+    "company_slug": "7524793"
   },
   {
     "company": "Dropbox",
@@ -9513,6 +9502,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7466497"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Staff Backend Product Software Engineer, Core",
+    "location": "Remote - US: All locations",
+    "url": "https://jobs.dropbox.com/listing/7466493?gh_jid=7466493",
+    "job_id": "7466493",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7466493"
   },
   {
     "company": "Dropbox",
@@ -9627,17 +9627,6 @@
   {
     "company": "Dropbox",
     "title": "Staff Fullstack Software Engineer, Growth Monetization",
-    "location": "Remote - Canada: Select locations",
-    "url": "https://jobs.dropbox.com/listing/7421153?gh_jid=7421153",
-    "job_id": "7421153",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7421153"
-  },
-  {
-    "company": "Dropbox",
-    "title": "Staff Fullstack Software Engineer, Growth Monetization",
     "location": "Remote - US: Select locations",
     "url": "https://jobs.dropbox.com/listing/7421150?gh_jid=7421150",
     "job_id": "7421150",
@@ -9645,6 +9634,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7421150"
+  },
+  {
+    "company": "Dropbox",
+    "title": "Staff Fullstack Software Engineer, Growth Monetization",
+    "location": "Remote - Canada: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7421153?gh_jid=7421153",
+    "job_id": "7421153",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7421153"
   },
   {
     "company": "Dropbox",
@@ -9726,17 +9726,6 @@
   {
     "company": "Reddit",
     "title": "Android Software Engineer, Ad Formats",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7415013",
-    "job_id": "7415013",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7415013"
-  },
-  {
-    "company": "Reddit",
-    "title": "Android Software Engineer, Ad Formats",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7414993",
     "job_id": "7414993",
@@ -9744,6 +9733,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7414993"
+  },
+  {
+    "company": "Reddit",
+    "title": "Android Software Engineer, Ad Formats",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7415013",
+    "job_id": "7415013",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7415013"
   },
   {
     "company": "Reddit",
@@ -9880,17 +9880,6 @@
   {
     "company": "Reddit",
     "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
-    "location": "Los Angeles, CA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7512048",
-    "job_id": "7512048",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7512048"
-  },
-  {
-    "company": "Reddit",
-    "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
     "location": "Chicago, IL",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7512046",
     "job_id": "7512046",
@@ -9909,6 +9898,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7414834"
+  },
+  {
+    "company": "Reddit",
+    "title": "iOS Software Engineer, i18n: Grow Global and Local Communities",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7512048",
+    "job_id": "7512048",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7512048"
   },
   {
     "company": "Reddit",
@@ -10034,17 +10034,6 @@
   {
     "company": "Reddit",
     "title": "Senior Android Engineer, Apps Platform (Performance)",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7370711",
-    "job_id": "7370711",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7370711"
-  },
-  {
-    "company": "Reddit",
-    "title": "Senior Android Engineer, Apps Platform (Performance)",
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7370704",
     "job_id": "7370704",
@@ -10052,6 +10041,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7370704"
+  },
+  {
+    "company": "Reddit",
+    "title": "Senior Android Engineer, Apps Platform (Performance)",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7370711",
+    "job_id": "7370711",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7370711"
   },
   {
     "company": "Reddit",
@@ -10144,17 +10144,6 @@
   {
     "company": "Reddit",
     "title": "Senior iOS Software Engineer, iOS Platform",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7348120",
-    "job_id": "7348120",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7348120"
-  },
-  {
-    "company": "Reddit",
-    "title": "Senior iOS Software Engineer, iOS Platform",
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7380919",
     "job_id": "7380919",
@@ -10173,6 +10162,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7348117"
+  },
+  {
+    "company": "Reddit",
+    "title": "Senior iOS Software Engineer, iOS Platform",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7348120",
+    "job_id": "7348120",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7348120"
   },
   {
     "company": "Reddit",
@@ -10199,17 +10199,6 @@
   {
     "company": "Reddit",
     "title": "Senior Machine Learning Engineer, Ads",
-    "location": "Remote - United States",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/6960831",
-    "job_id": "6960831",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6960831"
-  },
-  {
-    "company": "Reddit",
-    "title": "Senior Machine Learning Engineer, Ads",
     "location": "Remote - Ontario, Canada",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/6960833",
     "job_id": "6960833",
@@ -10217,6 +10206,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6960833"
+  },
+  {
+    "company": "Reddit",
+    "title": "Senior Machine Learning Engineer, Ads",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6960831",
+    "job_id": "6960831",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6960831"
   },
   {
     "company": "Reddit",
@@ -10265,17 +10265,6 @@
   {
     "company": "Reddit",
     "title": "Senior Software Engineer, Android Test Engineering",
-    "location": "Los Angeles, CA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7488988",
-    "job_id": "7488988",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7488988"
-  },
-  {
-    "company": "Reddit",
-    "title": "Senior Software Engineer, Android Test Engineering",
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7488862",
     "job_id": "7488862",
@@ -10283,17 +10272,6 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7488862"
-  },
-  {
-    "company": "Reddit",
-    "title": "Senior Software Engineer, Android Test Engineering",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7488986",
-    "job_id": "7488986",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7488986"
   },
   {
     "company": "Reddit",
@@ -10319,25 +10297,36 @@
   },
   {
     "company": "Reddit",
-    "title": "Senior Software Engineer, Site Defense",
-    "location": "Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7558457",
-    "job_id": "7558457",
+    "title": "Senior Software Engineer, Android Test Engineering",
+    "location": "Los Angeles, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7488988",
+    "job_id": "7488988",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7558457"
+    "company_slug": "7488988"
+  },
+  {
+    "company": "Reddit",
+    "title": "Senior Software Engineer, Android Test Engineering",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7488986",
+    "job_id": "7488986",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7488986"
   },
   {
     "company": "Reddit",
     "title": "Senior Software Engineer, Site Defense",
-    "location": "San Francisco, CA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7558455",
-    "job_id": "7558455",
+    "location": "New York City, NY",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7542779",
+    "job_id": "7542779",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7558455"
+    "company_slug": "7542779"
   },
   {
     "company": "Reddit",
@@ -10353,13 +10342,24 @@
   {
     "company": "Reddit",
     "title": "Senior Software Engineer, Site Defense",
-    "location": "New York City, NY",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7542779",
-    "job_id": "7542779",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7558455",
+    "job_id": "7558455",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7542779"
+    "company_slug": "7558455"
+  },
+  {
+    "company": "Reddit",
+    "title": "Senior Software Engineer, Site Defense",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7558457",
+    "job_id": "7558457",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7558457"
   },
   {
     "company": "Reddit",
@@ -10441,17 +10441,6 @@
   {
     "company": "Reddit",
     "title": "Software Engineer",
-    "location": "Remote - Ontario, Canada",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
-    "job_id": "6909093",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6909093"
-  },
-  {
-    "company": "Reddit",
-    "title": "Software Engineer",
     "location": "San Francisco, CA",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7579681",
     "job_id": "7579681",
@@ -10462,14 +10451,14 @@
   },
   {
     "company": "Reddit",
-    "title": "Software Engineer, Ads",
+    "title": "Software Engineer",
     "location": "Remote - Ontario, Canada",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
-    "job_id": "6512458",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6909093",
+    "job_id": "6909093",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "6512458"
+    "company_slug": "6909093"
   },
   {
     "company": "Reddit",
@@ -10481,6 +10470,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6469397"
+  },
+  {
+    "company": "Reddit",
+    "title": "Software Engineer, Ads",
+    "location": "Remote - Ontario, Canada",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/6512458",
+    "job_id": "6512458",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6512458"
   },
   {
     "company": "Reddit",
@@ -10639,17 +10639,6 @@
   {
     "company": "Reddit",
     "title": "Staff Software Engineer, Storage",
-    "location": "Seattle, WA",
-    "url": "https://job-boards.greenhouse.io/reddit/jobs/7511698",
-    "job_id": "7511698",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7511698"
-  },
-  {
-    "company": "Reddit",
-    "title": "Staff Software Engineer, Storage",
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/reddit/jobs/7511679",
     "job_id": "7511679",
@@ -10657,6 +10646,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7511679"
+  },
+  {
+    "company": "Reddit",
+    "title": "Staff Software Engineer, Storage",
+    "location": "Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7511698",
+    "job_id": "7511698",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7511698"
   },
   {
     "company": "Reddit",
@@ -11233,6 +11233,17 @@
   {
     "company": "Pinterest",
     "title": "Sr. Software Engineer, Backend",
+    "location": "Toronto, ON, CA",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5572858",
+    "job_id": "5572858",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5572858"
+  },
+  {
+    "company": "Pinterest",
+    "title": "Sr. Software Engineer, Backend",
     "location": "San Francisco, CA, US; Seattle, WA; Remote, US",
     "url": "https://www.pinterestcareers.com/jobs/?gh_jid=4902175",
     "job_id": "4902175",
@@ -11251,17 +11262,6 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6087228"
-  },
-  {
-    "company": "Pinterest",
-    "title": "Sr. Software Engineer, Backend",
-    "location": "Toronto, ON, CA",
-    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=5572858",
-    "job_id": "5572858",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "5572858"
   },
   {
     "company": "Pinterest",
@@ -11541,13 +11541,13 @@
   {
     "company": "Brex",
     "title": "Engineering Manager, GTM Engineering ",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8339037002?gh_jid=8339037002",
-    "job_id": "8339037002",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8367552002?gh_jid=8367552002",
+    "job_id": "8367552002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8339037002"
+    "company_slug": "8367552002"
   },
   {
     "company": "Brex",
@@ -11563,13 +11563,13 @@
   {
     "company": "Brex",
     "title": "Engineering Manager, GTM Engineering ",
-    "location": "Seattle, Washington, United States",
-    "url": "https://www.brex.com/careers/8367552002?gh_jid=8367552002",
-    "job_id": "8367552002",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8339037002?gh_jid=8339037002",
+    "job_id": "8339037002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8367552002"
+    "company_slug": "8339037002"
   },
   {
     "company": "Brex",
@@ -11618,17 +11618,6 @@
   {
     "company": "Brex",
     "title": "Senior Application Security Engineer",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8249658002?gh_jid=8249658002",
-    "job_id": "8249658002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8249658002"
-  },
-  {
-    "company": "Brex",
-    "title": "Senior Application Security Engineer",
     "location": "New York, New York, United States",
     "url": "https://www.brex.com/careers/8249885002?gh_jid=8249885002",
     "job_id": "8249885002",
@@ -11650,6 +11639,17 @@
   },
   {
     "company": "Brex",
+    "title": "Senior Application Security Engineer",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8249658002?gh_jid=8249658002",
+    "job_id": "8249658002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8249658002"
+  },
+  {
+    "company": "Brex",
     "title": "Senior Data Scientist, Finance ",
     "location": "San Francisco, California, United States",
     "url": "https://www.brex.com/careers/7892186002?gh_jid=7892186002",
@@ -11662,17 +11662,6 @@
   {
     "company": "Brex",
     "title": "Senior Engineer, AI \u2014 Brex Assistant",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8398916002?gh_jid=8398916002",
-    "job_id": "8398916002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8398916002"
-  },
-  {
-    "company": "Brex",
-    "title": "Senior Engineer, AI \u2014 Brex Assistant",
     "location": "Seattle, Washington, United States",
     "url": "https://www.brex.com/careers/8399014002?gh_jid=8399014002",
     "job_id": "8399014002",
@@ -11680,6 +11669,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8399014002"
+  },
+  {
+    "company": "Brex",
+    "title": "Senior Engineer, AI \u2014 Brex Assistant",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8398916002?gh_jid=8398916002",
+    "job_id": "8398916002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8398916002"
   },
   {
     "company": "Brex",
@@ -11717,13 +11717,13 @@
   {
     "company": "Brex",
     "title": "Senior Engineering Manager, Activation",
-    "location": "Seattle, Washington, United States",
-    "url": "https://www.brex.com/careers/8330495002?gh_jid=8330495002",
-    "job_id": "8330495002",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8330487002?gh_jid=8330487002",
+    "job_id": "8330487002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8330495002"
+    "company_slug": "8330487002"
   },
   {
     "company": "Brex",
@@ -11739,13 +11739,13 @@
   {
     "company": "Brex",
     "title": "Senior Engineering Manager, Activation",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8330487002?gh_jid=8330487002",
-    "job_id": "8330487002",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8330495002?gh_jid=8330495002",
+    "job_id": "8330495002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8330487002"
+    "company_slug": "8330495002"
   },
   {
     "company": "Brex",
@@ -11783,6 +11783,17 @@
   {
     "company": "Brex",
     "title": "Senior Security Operations Engineer ",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8339283002?gh_jid=8339283002",
+    "job_id": "8339283002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8339283002"
+  },
+  {
+    "company": "Brex",
+    "title": "Senior Security Operations Engineer ",
     "location": "San Francisco, California, United States",
     "url": "https://www.brex.com/careers/8339252002?gh_jid=8339252002",
     "job_id": "8339252002",
@@ -11801,17 +11812,6 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8339277002"
-  },
-  {
-    "company": "Brex",
-    "title": "Senior Security Operations Engineer ",
-    "location": "Seattle, Washington, United States",
-    "url": "https://www.brex.com/careers/8339283002?gh_jid=8339283002",
-    "job_id": "8339283002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8339283002"
   },
   {
     "company": "Brex",
@@ -11915,24 +11915,13 @@
   {
     "company": "Brex",
     "title": "Software Engineer II, Product ",
-    "location": "Seattle, Washington, United States",
-    "url": "https://www.brex.com/careers/8318333002?gh_jid=8318333002",
-    "job_id": "8318333002",
+    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
+    "url": "https://www.brex.com/careers/7467124002?gh_jid=7467124002",
+    "job_id": "7467124002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "8318333002"
-  },
-  {
-    "company": "Brex",
-    "title": "Software Engineer II, Product ",
-    "location": "San Francisco, California, United States",
-    "url": "https://www.brex.com/careers/8318332002?gh_jid=8318332002",
-    "job_id": "8318332002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8318332002"
+    "company_slug": "7467124002"
   },
   {
     "company": "Brex",
@@ -11948,13 +11937,24 @@
   {
     "company": "Brex",
     "title": "Software Engineer II, Product ",
-    "location": "S\u00e3o Paulo, S\u00e3o Paulo, Brazil",
-    "url": "https://www.brex.com/careers/7467124002?gh_jid=7467124002",
-    "job_id": "7467124002",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8318332002?gh_jid=8318332002",
+    "job_id": "8318332002",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7467124002"
+    "company_slug": "8318332002"
+  },
+  {
+    "company": "Brex",
+    "title": "Software Engineer II, Product ",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8318333002?gh_jid=8318333002",
+    "job_id": "8318333002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8318333002"
   },
   {
     "company": "Robinhood",
@@ -13212,17 +13212,6 @@
   },
   {
     "company": "Coinbase",
-    "title": "Senior Software Engineer",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/7255761?gh_jid=7255761",
-    "job_id": "7255761",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7255761"
-  },
-  {
-    "company": "Coinbase",
     "title": "Senior Software Engineer - AI Platform  (AI Acceleration)",
     "location": "Remote - Canada",
     "url": "https://www.coinbase.com/careers/positions/7575167?gh_jid=7575167",
@@ -13363,6 +13352,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6570384"
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Backend - Finhub",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7255761?gh_jid=7255761",
+    "job_id": "7255761",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7255761"
   },
   {
     "company": "Coinbase",
@@ -13510,17 +13510,6 @@
   {
     "company": "Coinbase",
     "title": "Senior Software Engineer, Frontend (Consumer - Growth)",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961",
-    "job_id": "7261961",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7261961"
-  },
-  {
-    "company": "Coinbase",
-    "title": "Senior Software Engineer, Frontend (Consumer - Growth)",
     "location": "Remote - Canada",
     "url": "https://www.coinbase.com/careers/positions/7261976?gh_jid=7261976",
     "job_id": "7261976",
@@ -13528,6 +13517,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7261976"
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Frontend (Consumer - Growth)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7261961?gh_jid=7261961",
+    "job_id": "7261961",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7261961"
   },
   {
     "company": "Coinbase",
@@ -13630,17 +13630,6 @@
   },
   {
     "company": "Coinbase",
-    "title": "Senior Staff Machine Learning Engineer, Risk AI/ML",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/7580263?gh_jid=7580263",
-    "job_id": "7580263",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7580263"
-  },
-  {
-    "company": "Coinbase",
     "title": "Senior Staff Product Designer - Platform ",
     "location": "Remote - USA",
     "url": "https://www.coinbase.com/careers/positions/7357049?gh_jid=7357049",
@@ -13686,17 +13675,6 @@
   {
     "company": "Coinbase",
     "title": "Senior Staff Software Engineer, Backend (Consumer - Growth)",
-    "location": "Remote - Canada",
-    "url": "https://www.coinbase.com/careers/positions/7262059?gh_jid=7262059",
-    "job_id": "7262059",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7262059"
-  },
-  {
-    "company": "Coinbase",
-    "title": "Senior Staff Software Engineer, Backend (Consumer - Growth)",
     "location": "Remote - USA",
     "url": "https://www.coinbase.com/careers/positions/6947955?gh_jid=6947955",
     "job_id": "6947955",
@@ -13704,6 +13682,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6947955"
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Staff Software Engineer, Backend (Consumer - Growth)",
+    "location": "Remote - Canada",
+    "url": "https://www.coinbase.com/careers/positions/7262059?gh_jid=7262059",
+    "job_id": "7262059",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7262059"
   },
   {
     "company": "Coinbase",
@@ -14280,17 +14269,6 @@
   {
     "company": "Coinbase",
     "title": "Staff Software Engineer, Backend (Consumer - International)",
-    "location": "Remote - Canada",
-    "url": "https://www.coinbase.com/careers/positions/7292997?gh_jid=7292997",
-    "job_id": "7292997",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7292997"
-  },
-  {
-    "company": "Coinbase",
-    "title": "Staff Software Engineer, Backend (Consumer - International)",
     "location": "Remote - Brazil",
     "url": "https://www.coinbase.com/careers/positions/6377946?gh_jid=6377946",
     "job_id": "6377946",
@@ -14298,6 +14276,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6377946"
+  },
+  {
+    "company": "Coinbase",
+    "title": "Staff Software Engineer, Backend (Consumer - International)",
+    "location": "Remote - Canada",
+    "url": "https://www.coinbase.com/careers/positions/7292997?gh_jid=7292997",
+    "job_id": "7292997",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7292997"
   },
   {
     "company": "Coinbase",
@@ -14335,17 +14324,6 @@
   {
     "company": "Coinbase",
     "title": "Staff Software Engineer, Backend - Financial Hub",
-    "location": "Remote - Canada",
-    "url": "https://www.coinbase.com/careers/positions/6855515?gh_jid=6855515",
-    "job_id": "6855515",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6855515"
-  },
-  {
-    "company": "Coinbase",
-    "title": "Staff Software Engineer, Backend - Financial Hub",
     "location": "Remote - USA",
     "url": "https://www.coinbase.com/careers/positions/7482196?gh_jid=7482196",
     "job_id": "7482196",
@@ -14356,14 +14334,14 @@
   },
   {
     "company": "Coinbase",
-    "title": "Staff Software Engineer, Backend (Institutional - Foundations)",
-    "location": "Remote - USA",
-    "url": "https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033",
-    "job_id": "6628033",
+    "title": "Staff Software Engineer, Backend - Financial Hub",
+    "location": "Remote - Canada",
+    "url": "https://www.coinbase.com/careers/positions/6855515?gh_jid=6855515",
+    "job_id": "6855515",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "6628033"
+    "company_slug": "6855515"
   },
   {
     "company": "Coinbase",
@@ -14375,6 +14353,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7395303"
+  },
+  {
+    "company": "Coinbase",
+    "title": "Staff Software Engineer, Backend (Institutional - Foundations)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/6628033?gh_jid=6628033",
+    "job_id": "6628033",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6628033"
   },
   {
     "company": "Coinbase",
@@ -14478,17 +14467,6 @@
   {
     "company": "Coinbase",
     "title": "Tax Analyst, Global Indirect Tax",
-    "location": "Remote - UK",
-    "url": "https://www.coinbase.com/careers/positions/7391727?gh_jid=7391727",
-    "job_id": "7391727",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7391727"
-  },
-  {
-    "company": "Coinbase",
-    "title": "Tax Analyst, Global Indirect Tax",
     "location": "Remote - Ireland",
     "url": "https://www.coinbase.com/careers/positions/7393692?gh_jid=7393692",
     "job_id": "7393692",
@@ -14496,6 +14474,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7393692"
+  },
+  {
+    "company": "Coinbase",
+    "title": "Tax Analyst, Global Indirect Tax",
+    "location": "Remote - UK",
+    "url": "https://www.coinbase.com/careers/positions/7391727?gh_jid=7391727",
+    "job_id": "7391727",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7391727"
   },
   {
     "company": "Coinbase",
@@ -15567,17 +15556,6 @@
   {
     "company": "Instacart",
     "title": "Growth Media Marketing Manager, Off Platform",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "url": "https://instacart.careers/job/?gh_jid=7444435",
-    "job_id": "7444435",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7444435"
-  },
-  {
-    "company": "Instacart",
-    "title": "Growth Media Marketing Manager, Off Platform",
     "location": "United States - Remote",
     "url": "https://instacart.careers/job/?gh_jid=7444433",
     "job_id": "7444433",
@@ -15585,6 +15563,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7444433"
+  },
+  {
+    "company": "Instacart",
+    "title": "Growth Media Marketing Manager, Off Platform",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "url": "https://instacart.careers/job/?gh_jid=7444435",
+    "job_id": "7444435",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7444435"
   },
   {
     "company": "Instacart",
@@ -15666,17 +15655,6 @@
   {
     "company": "Instacart",
     "title": "Product Manager, Caper - Retailer Tooling",
-    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
-    "url": "https://instacart.careers/job/?gh_jid=7525136",
-    "job_id": "7525136",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7525136"
-  },
-  {
-    "company": "Instacart",
-    "title": "Product Manager, Caper - Retailer Tooling",
     "location": "United States - Remote",
     "url": "https://instacart.careers/job/?gh_jid=7525134",
     "job_id": "7525134",
@@ -15684,6 +15662,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7525134"
+  },
+  {
+    "company": "Instacart",
+    "title": "Product Manager, Caper - Retailer Tooling",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "url": "https://instacart.careers/job/?gh_jid=7525136",
+    "job_id": "7525136",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7525136"
   },
   {
     "company": "Instacart",
@@ -15897,17 +15886,6 @@
   {
     "company": "Instacart",
     "title": "Senior Manager, Design Systems & Foundations",
-    "location": "United States - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=7347308",
-    "job_id": "7347308",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7347308"
-  },
-  {
-    "company": "Instacart",
-    "title": "Senior Manager, Design Systems & Foundations",
     "location": "Canada - Remote (ON, AB, BC, or NS Only)",
     "url": "https://instacart.careers/job/?gh_jid=7347349",
     "job_id": "7347349",
@@ -15915,6 +15893,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7347349"
+  },
+  {
+    "company": "Instacart",
+    "title": "Senior Manager, Design Systems & Foundations",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7347308",
+    "job_id": "7347308",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7347308"
   },
   {
     "company": "Instacart",
@@ -16293,17 +16282,6 @@
   {
     "company": "Instacart",
     "title": "Software Engineering Manager, Database Platform",
-    "location": "USA - Remote",
-    "url": "https://instacart.careers/job/?gh_jid=7559011",
-    "job_id": "7559011",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7559011"
-  },
-  {
-    "company": "Instacart",
-    "title": "Software Engineering Manager, Database Platform",
     "location": "Canada - Remote (ON, AB, BC, NS)",
     "url": "https://instacart.careers/job/?gh_jid=7559018",
     "job_id": "7559018",
@@ -16311,6 +16289,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7559018"
+  },
+  {
+    "company": "Instacart",
+    "title": "Software Engineering Manager, Database Platform",
+    "location": "USA - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7559011",
+    "job_id": "7559011",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7559011"
   },
   {
     "company": "Instacart",
@@ -16403,17 +16392,6 @@
   {
     "company": "Cloudflare",
     "title": "Application Security Engineer",
-    "location": "Distributed; Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7345819?gh_jid=7345819",
-    "job_id": "7345819",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7345819"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Application Security Engineer",
     "location": "Hybrid; In-Office",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7185996?gh_jid=7185996",
     "job_id": "7185996",
@@ -16421,6 +16399,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7185996"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Application Security Engineer",
+    "location": "Distributed; Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7345819?gh_jid=7345819",
+    "job_id": "7345819",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7345819"
   },
   {
     "company": "Cloudflare",
@@ -16514,6 +16503,17 @@
     "company": "Cloudflare",
     "title": "Customer Solutions Engineer",
     "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6853439?gh_jid=6853439",
+    "job_id": "6853439",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6853439"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Customer Solutions Engineer",
+    "location": "Hybrid",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7339081?gh_jid=7339081",
     "job_id": "7339081",
     "departments": [],
@@ -16523,14 +16523,14 @@
   },
   {
     "company": "Cloudflare",
-    "title": "Customer Solutions Engineer",
+    "title": "Customer Solutions Engineer ",
     "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/6853439?gh_jid=6853439",
-    "job_id": "6853439",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7547552?gh_jid=7547552",
+    "job_id": "7547552",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "6853439"
+    "company_slug": "7547552"
   },
   {
     "company": "Cloudflare",
@@ -16711,17 +16711,6 @@
   {
     "company": "Cloudflare",
     "title": "Developer Solutions Strategist",
-    "location": "Distributed",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7422363?gh_jid=7422363",
-    "job_id": "7422363",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7422363"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Developer Solutions Strategist",
     "location": "Hybrid",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7427840?gh_jid=7427840",
     "job_id": "7427840",
@@ -16729,6 +16718,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7427840"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Developer Solutions Strategist",
+    "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7422363?gh_jid=7422363",
+    "job_id": "7422363",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7422363"
   },
   {
     "company": "Cloudflare",
@@ -16811,23 +16811,23 @@
     "company": "Cloudflare",
     "title": "Distributed Systems Engineer, Analytical Database Platform",
     "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801",
-    "job_id": "7462801",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7462801"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Distributed Systems Engineer, Analytical Database Platform",
-    "location": "Hybrid",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/4886734?gh_jid=4886734",
     "job_id": "4886734",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "4886734"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Distributed Systems Engineer, Analytical Database Platform",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7462801?gh_jid=7462801",
+    "job_id": "7462801",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7462801"
   },
   {
     "company": "Cloudflare",
@@ -17207,6 +17207,17 @@
     "company": "Cloudflare",
     "title": "Network Deployment Engineer",
     "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7538006?gh_jid=7538006",
+    "job_id": "7538006",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7538006"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Network Deployment Engineer",
+    "location": "Hybrid",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7559311?gh_jid=7559311",
     "job_id": "7559311",
     "departments": [],
@@ -17227,17 +17238,6 @@
   },
   {
     "company": "Cloudflare",
-    "title": "Network Deployment Engineer",
-    "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7538006?gh_jid=7538006",
-    "job_id": "7538006",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7538006"
-  },
-  {
-    "company": "Cloudflare",
     "title": "Network Deployment Engineer - Data Center Operations",
     "location": "In-Office",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7421872?gh_jid=7421872",
@@ -17251,23 +17251,23 @@
     "company": "Cloudflare",
     "title": "Network Engineer",
     "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7563486?gh_jid=7563486",
-    "job_id": "7563486",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7563486"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Network Engineer",
-    "location": "Hybrid",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7410012?gh_jid=7410012",
     "job_id": "7410012",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7410012"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Network Engineer",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7563486?gh_jid=7563486",
+    "job_id": "7563486",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7563486"
   },
   {
     "company": "Cloudflare",
@@ -17537,23 +17537,23 @@
     "company": "Cloudflare",
     "title": "Research Engineer Intern (Summer 2026)",
     "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147",
-    "job_id": "7359147",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7359147"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Research Engineer Intern (Summer 2026)",
-    "location": "In-Office",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7359136?gh_jid=7359136",
     "job_id": "7359136",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7359136"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Research Engineer Intern (Summer 2026)",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7359147?gh_jid=7359147",
+    "job_id": "7359147",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7359147"
   },
   {
     "company": "Cloudflare",
@@ -17613,17 +17613,6 @@
   {
     "company": "Cloudflare",
     "title": "Senior Cloudflare One GTM Specialist",
-    "location": "Distributed",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7534033?gh_jid=7534033",
-    "job_id": "7534033",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7534033"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Senior Cloudflare One GTM Specialist",
     "location": "In-Office",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7547985?gh_jid=7547985",
     "job_id": "7547985",
@@ -17631,6 +17620,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7547985"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Cloudflare One GTM Specialist",
+    "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7534033?gh_jid=7534033",
+    "job_id": "7534033",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7534033"
   },
   {
     "company": "Cloudflare",
@@ -17840,6 +17840,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7378442"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Manager, Solutions Architect (Developer Platform), APAC",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7559655?gh_jid=7559655",
+    "job_id": "7559655",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7559655"
   },
   {
     "company": "Cloudflare",
@@ -18108,17 +18119,6 @@
   {
     "company": "Cloudflare",
     "title": "Senior Software Engineer - Cloudflare One",
-    "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7116731?gh_jid=7116731",
-    "job_id": "7116731",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7116731"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Senior Software Engineer - Cloudflare One",
     "location": "Hybrid",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7427939?gh_jid=7427939",
     "job_id": "7427939",
@@ -18126,6 +18126,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7427939"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Software Engineer - Cloudflare One",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7116731?gh_jid=7116731",
+    "job_id": "7116731",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7116731"
   },
   {
     "company": "Cloudflare",
@@ -18285,23 +18296,23 @@
     "company": "Cloudflare",
     "title": "Senior Solutions Engineer",
     "location": "Distributed",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7404585?gh_jid=7404585",
-    "job_id": "7404585",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7404585"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Senior Solutions Engineer",
-    "location": "Distributed",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7518672?gh_jid=7518672",
     "job_id": "7518672",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7518672"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Solutions Engineer",
+    "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7404585?gh_jid=7404585",
+    "job_id": "7404585",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7404585"
   },
   {
     "company": "Cloudflare",
@@ -18450,23 +18461,23 @@
     "company": "Cloudflare",
     "title": "Senior Solutions Engineering Manager",
     "location": "Distributed",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7507142?gh_jid=7507142",
-    "job_id": "7507142",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7507142"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Senior Solutions Engineering Manager",
-    "location": "Distributed",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7549312?gh_jid=7549312",
     "job_id": "7549312",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7549312"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Solutions Engineering Manager",
+    "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7507142?gh_jid=7507142",
+    "job_id": "7507142",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7507142"
   },
   {
     "company": "Cloudflare",
@@ -18538,23 +18549,23 @@
     "company": "Cloudflare",
     "title": "Senior Solutions Engineer, Majors - Chicago, IL",
     "location": "Distributed",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7522025?gh_jid=7522025",
-    "job_id": "7522025",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7522025"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Senior Solutions Engineer, Majors - Chicago, IL",
-    "location": "Distributed",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7522063?gh_jid=7522063",
     "job_id": "7522063",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7522063"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Solutions Engineer, Majors - Chicago, IL",
+    "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7522025?gh_jid=7522025",
+    "job_id": "7522025",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7522025"
   },
   {
     "company": "Cloudflare",
@@ -18670,6 +18681,17 @@
     "company": "Cloudflare",
     "title": "Senior Solutions Engineer - Mid-Market",
     "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7486373?gh_jid=7486373",
+    "job_id": "7486373",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7486373"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Solutions Engineer - Mid-Market",
+    "location": "Distributed",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7162948?gh_jid=7162948",
     "job_id": "7162948",
     "departments": [],
@@ -18687,17 +18709,6 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7406531"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Senior Solutions Engineer - Mid-Market",
-    "location": "Distributed",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7486373?gh_jid=7486373",
-    "job_id": "7486373",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7486373"
   },
   {
     "company": "Cloudflare",
@@ -18802,23 +18813,23 @@
     "company": "Cloudflare",
     "title": "Senior Solutions Engineer, SLED",
     "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7530553?gh_jid=7530553",
-    "job_id": "7530553",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7530553"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Senior Solutions Engineer, SLED",
-    "location": "Hybrid",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7374309?gh_jid=7374309",
     "job_id": "7374309",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7374309"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Solutions Engineer, SLED",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7530553?gh_jid=7530553",
+    "job_id": "7530553",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7530553"
   },
   {
     "company": "Cloudflare",
@@ -18944,13 +18955,13 @@
   {
     "company": "Cloudflare",
     "title": "Senior Technical Support Engineer, Developer Platform",
-    "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7396942?gh_jid=7396942",
-    "job_id": "7396942",
+    "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7394502?gh_jid=7394502",
+    "job_id": "7394502",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7396942"
+    "company_slug": "7394502"
   },
   {
     "company": "Cloudflare",
@@ -18977,13 +18988,13 @@
   {
     "company": "Cloudflare",
     "title": "Senior Technical Support Engineer, Developer Platform",
-    "location": "Distributed",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7394502?gh_jid=7394502",
-    "job_id": "7394502",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7396942?gh_jid=7396942",
+    "job_id": "7396942",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7394502"
+    "company_slug": "7396942"
   },
   {
     "company": "Cloudflare",
@@ -19208,17 +19219,6 @@
   {
     "company": "Cloudflare",
     "title": "Software Engineering Manager, AI Agents",
-    "location": "In-Office",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7256632?gh_jid=7256632",
-    "job_id": "7256632",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7256632"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Software Engineering Manager, AI Agents",
     "location": "Hybrid",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7275172?gh_jid=7275172",
     "job_id": "7275172",
@@ -19226,6 +19226,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7275172"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Software Engineering Manager, AI Agents",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7256632?gh_jid=7256632",
+    "job_id": "7256632",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7256632"
   },
   {
     "company": "Cloudflare",
@@ -19484,23 +19495,23 @@
     "company": "Cloudflare",
     "title": "Solutions Engineer",
     "location": "Distributed",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7242541?gh_jid=7242541",
-    "job_id": "7242541",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7242541"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Solutions Engineer",
-    "location": "Distributed",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7242551?gh_jid=7242551",
     "job_id": "7242551",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7242551"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Solutions Engineer",
+    "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7242541?gh_jid=7242541",
+    "job_id": "7242541",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7242541"
   },
   {
     "company": "Cloudflare",
@@ -19868,17 +19879,6 @@
   {
     "company": "Cloudflare",
     "title": "Technical Support Engineer",
-    "location": "Hybrid",
-    "url": "https://boards.greenhouse.io/cloudflare/jobs/7075269?gh_jid=7075269",
-    "job_id": "7075269",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7075269"
-  },
-  {
-    "company": "Cloudflare",
-    "title": "Technical Support Engineer",
     "location": "Hybrid; In-Office",
     "url": "https://boards.greenhouse.io/cloudflare/jobs/7429443?gh_jid=7429443",
     "job_id": "7429443",
@@ -19886,6 +19886,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7429443"
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Technical Support Engineer",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7075269?gh_jid=7075269",
+    "job_id": "7075269",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7075269"
   },
   {
     "company": "Cloudflare",
@@ -20418,17 +20429,6 @@
   {
     "company": "Datadog",
     "title": "Manager I, Developer Advocacy",
-    "location": "Canada, Remote",
-    "url": "https://careers.datadoghq.com/detail/7440560/?gh_jid=7440560",
-    "job_id": "7440560",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7440560"
-  },
-  {
-    "company": "Datadog",
-    "title": "Manager I, Developer Advocacy",
     "location": "California, USA, Remote; Colorado, USA, Remote; Massachusetts, USA, Remote; New York, USA, Remote",
     "url": "https://careers.datadoghq.com/detail/7414003/?gh_jid=7414003",
     "job_id": "7414003",
@@ -20436,6 +20436,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7414003"
+  },
+  {
+    "company": "Datadog",
+    "title": "Manager I, Developer Advocacy",
+    "location": "Canada, Remote",
+    "url": "https://careers.datadoghq.com/detail/7440560/?gh_jid=7440560",
+    "job_id": "7440560",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7440560"
   },
   {
     "company": "Datadog",
@@ -21034,17 +21045,6 @@
   {
     "company": "Datadog",
     "title": "Senior Software Engineer \u2013 IDE Integrations (VS Code & Cursor)",
-    "location": "Portugal, Remote",
-    "url": "https://careers.datadoghq.com/detail/7391295/?gh_jid=7391295",
-    "job_id": "7391295",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7391295"
-  },
-  {
-    "company": "Datadog",
-    "title": "Senior Software Engineer \u2013 IDE Integrations (VS Code & Cursor)",
     "location": "Lisbon, Portugal",
     "url": "https://careers.datadoghq.com/detail/7391291/?gh_jid=7391291",
     "job_id": "7391291",
@@ -21063,6 +21063,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7391302"
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer \u2013 IDE Integrations (VS Code & Cursor)",
+    "location": "Portugal, Remote",
+    "url": "https://careers.datadoghq.com/detail/7391295/?gh_jid=7391295",
+    "job_id": "7391295",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7391295"
   },
   {
     "company": "Datadog",
@@ -21518,17 +21529,6 @@
   {
     "company": "MongoDB",
     "title": "Lead Engineer, Query",
-    "location": "Alberta; British Columbia; Calgary; Edmonton; Manitoba; Nova Scotia; Ontario; Quebec; Toronto; Vancouver",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7481204",
-    "job_id": "7481204",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7481204"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Lead Engineer, Query",
     "location": "New York City; Palo Alto; Seattle; United States",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7465177",
     "job_id": "7465177",
@@ -21536,6 +21536,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7465177"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Lead Engineer, Query",
+    "location": "Alberta; British Columbia; Calgary; Edmonton; Manitoba; Nova Scotia; Ontario; Quebec; Toronto; Vancouver",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7481204",
+    "job_id": "7481204",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7481204"
   },
   {
     "company": "MongoDB",
@@ -21650,17 +21661,6 @@
   {
     "company": "MongoDB",
     "title": "Security Software Engineer,  Infrastructure Security (Staff or Senior)",
-    "location": "Austin; Boston; Chicago; New York City; Pittsburgh; Raleigh; United States; Washington DC",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=6982487",
-    "job_id": "6982487",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6982487"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Security Software Engineer,  Infrastructure Security (Staff or Senior)",
     "location": "British Columbia; Montreal; Ontario; Quebec; Toronto; Vancouver",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=6982489",
     "job_id": "6982489",
@@ -21679,6 +21679,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7536053"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Security Software Engineer,  Infrastructure Security (Staff or Senior)",
+    "location": "Austin; Boston; Chicago; New York City; Pittsburgh; Raleigh; United States; Washington DC",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6982487",
+    "job_id": "6982487",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6982487"
   },
   {
     "company": "MongoDB",
@@ -21749,17 +21760,6 @@
   {
     "company": "MongoDB",
     "title": "Senior Developer Advocate",
-    "location": "United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7490333",
-    "job_id": "7490333",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7490333"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Senior Developer Advocate",
     "location": "Dublin",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7571308",
     "job_id": "7571308",
@@ -21789,6 +21789,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7495485"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Developer Advocate",
+    "location": "United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7490333",
+    "job_id": "7490333",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7490333"
   },
   {
     "company": "MongoDB",
@@ -21848,17 +21859,6 @@
   {
     "company": "MongoDB",
     "title": "Senior Fullstack Developer, Developer Productivity (Backstage)",
-    "location": "United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7549155",
-    "job_id": "7549155",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7549155"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Senior Fullstack Developer, Developer Productivity (Backstage)",
     "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7549157",
     "job_id": "7549157",
@@ -21866,6 +21866,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7549157"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Fullstack Developer, Developer Productivity (Backstage)",
+    "location": "United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7549155",
+    "job_id": "7549155",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7549155"
   },
   {
     "company": "MongoDB",
@@ -21903,17 +21914,6 @@
   {
     "company": "MongoDB",
     "title": "Senior Market Intelligence Analyst",
-    "location": "Dublin",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7477059",
-    "job_id": "7477059",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7477059"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Senior Market Intelligence Analyst",
     "location": "Dublin; Ireland",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7477062",
     "job_id": "7477062",
@@ -21921,6 +21921,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7477062"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Market Intelligence Analyst",
+    "location": "Dublin",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7477059",
+    "job_id": "7477059",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7477059"
   },
   {
     "company": "MongoDB",
@@ -21947,17 +21958,6 @@
   {
     "company": "MongoDB",
     "title": "Senior Product Manager, Python Developer Experience",
-    "location": "Dublin",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7378931",
-    "job_id": "7378931",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7378931"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Senior Product Manager, Python Developer Experience",
     "location": "Ireland",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7388900",
     "job_id": "7388900",
@@ -21968,14 +21968,14 @@
   },
   {
     "company": "MongoDB",
-    "title": "Senior Product Manager, Search Platform",
-    "location": "New York City; Palo Alto; San Francisco; United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7409201",
-    "job_id": "7409201",
+    "title": "Senior Product Manager, Python Developer Experience",
+    "location": "Dublin",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7378931",
+    "job_id": "7378931",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7409201"
+    "company_slug": "7378931"
   },
   {
     "company": "MongoDB",
@@ -21987,6 +21987,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7409203"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Product Manager, Search Platform",
+    "location": "New York City; Palo Alto; San Francisco; United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7409201",
+    "job_id": "7409201",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7409201"
   },
   {
     "company": "MongoDB",
@@ -22145,17 +22156,6 @@
   {
     "company": "MongoDB",
     "title": "Senior Software Engineer, Data Migration",
-    "location": "California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7449128",
-    "job_id": "7449128",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7449128"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Senior Software Engineer, Data Migration",
     "location": "Alberta; British Columbia; Edmonton; Manitoba; Nova Scotia; Ontario; Quebec",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7449831",
     "job_id": "7449831",
@@ -22163,6 +22163,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7449831"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Software Engineer, Data Migration",
+    "location": "California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7449128",
+    "job_id": "7449128",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7449128"
   },
   {
     "company": "MongoDB",
@@ -22255,17 +22266,6 @@
   {
     "company": "MongoDB",
     "title": "Senior Software Engineer, MongoDB Server Clusters and Interfaces",
-    "location": "United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=6749138",
-    "job_id": "6749138",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6749138"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Senior Software Engineer, MongoDB Server Clusters and Interfaces",
     "location": "Toronto",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=6749360",
     "job_id": "6749360",
@@ -22273,6 +22273,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6749360"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Software Engineer, MongoDB Server Clusters and Interfaces",
+    "location": "United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6749138",
+    "job_id": "6749138",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6749138"
   },
   {
     "company": "MongoDB",
@@ -22332,17 +22343,6 @@
   {
     "company": "MongoDB",
     "title": "Senior Staff Engineer, Server Networking & Observability",
-    "location": "United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=6713492",
-    "job_id": "6713492",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6713492"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Senior Staff Engineer, Server Networking & Observability",
     "location": "Toronto",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=6659382",
     "job_id": "6659382",
@@ -22365,6 +22365,17 @@
   {
     "company": "MongoDB",
     "title": "Senior Staff Engineer, Server Networking & Observability",
+    "location": "Seattle",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6661893",
+    "job_id": "6661893",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6661893"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Staff Engineer, Server Networking & Observability",
     "location": "Palo Alto",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=6661887",
     "job_id": "6661887",
@@ -22376,13 +22387,13 @@
   {
     "company": "MongoDB",
     "title": "Senior Staff Engineer, Server Networking & Observability",
-    "location": "Seattle",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=6661893",
-    "job_id": "6661893",
+    "location": "United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6713492",
+    "job_id": "6713492",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "6661893"
+    "company_slug": "6713492"
   },
   {
     "company": "MongoDB",
@@ -22442,17 +22453,6 @@
   {
     "company": "MongoDB",
     "title": "Site Reliability Engineer (Senior or Staff), Infrastructure Security",
-    "location": "Ireland",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=6865004",
-    "job_id": "6865004",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6865004"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Site Reliability Engineer (Senior or Staff), Infrastructure Security",
     "location": "Austin; Chicago; New York City; San Francisco; United States",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=6601882",
     "job_id": "6601882",
@@ -22463,14 +22463,14 @@
   },
   {
     "company": "MongoDB",
-    "title": "Site Reliability Engineer (Senior or Staff), Observability",
-    "location": "Austin; Boston; Chicago; New York City; Pittsburgh; United States; Washington DC",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=6711349",
-    "job_id": "6711349",
+    "title": "Site Reliability Engineer (Senior or Staff), Infrastructure Security",
+    "location": "Ireland",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6865004",
+    "job_id": "6865004",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "6711349"
+    "company_slug": "6865004"
   },
   {
     "company": "MongoDB",
@@ -22485,14 +22485,25 @@
   },
   {
     "company": "MongoDB",
-    "title": "Software Engineer 3",
-    "location": "Toronto",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7522856",
-    "job_id": "7522856",
+    "title": "Site Reliability Engineer (Senior or Staff), Observability",
+    "location": "Austin; Boston; Chicago; New York City; Pittsburgh; United States; Washington DC",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=6711349",
+    "job_id": "6711349",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7522856"
+    "company_slug": "6711349"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Software Engineer 3",
+    "location": "Toronto",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7523928",
+    "job_id": "7523928",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7523928"
   },
   {
     "company": "MongoDB",
@@ -22509,12 +22520,12 @@
     "company": "MongoDB",
     "title": "Software Engineer 3",
     "location": "Toronto",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7523928",
-    "job_id": "7523928",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7522856",
+    "job_id": "7522856",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7523928"
+    "company_slug": "7522856"
   },
   {
     "company": "MongoDB",
@@ -22629,17 +22640,6 @@
   {
     "company": "MongoDB",
     "title": "Software Engineer, Data Migration",
-    "location": "British Columbia; Calgary",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7311708",
-    "job_id": "7311708",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7311708"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Software Engineer, Data Migration",
     "location": "California; Colorado; Montana; Nevada; New Mexico; Oregon; Utah; Washington",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7311666",
     "job_id": "7311666",
@@ -22647,6 +22647,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7311666"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Software Engineer, Data Migration",
+    "location": "British Columbia; Calgary",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7311708",
+    "job_id": "7311708",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7311708"
   },
   {
     "company": "MongoDB",
@@ -22717,17 +22728,6 @@
   {
     "company": "MongoDB",
     "title": "Staff Software Engineer, Networking & Observability",
-    "location": "Seattle; United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7264736",
-    "job_id": "7264736",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7264736"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Staff Software Engineer, Networking & Observability",
     "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7264738",
     "job_id": "7264738",
@@ -22735,6 +22735,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7264738"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Staff Software Engineer, Networking & Observability",
+    "location": "Seattle; United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7264736",
+    "job_id": "7264736",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7264736"
   },
   {
     "company": "MongoDB",
@@ -22772,17 +22783,6 @@
   {
     "company": "MongoDB",
     "title": "Staff Software Engineer, Replicated Storage Services (Replication)",
-    "location": "Alberta; British Columbia; Calgary; Ontario; Quebec",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7477378",
-    "job_id": "7477378",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7477378"
-  },
-  {
-    "company": "MongoDB",
-    "title": "Staff Software Engineer, Replicated Storage Services (Replication)",
     "location": "United States",
     "url": "https://www.mongodb.com/careers/job/?gh_jid=7477375",
     "job_id": "7477375",
@@ -22793,14 +22793,14 @@
   },
   {
     "company": "MongoDB",
-    "title": "Staff Software Engineer, Server Security",
-    "location": "United States",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7557589",
-    "job_id": "7557589",
+    "title": "Staff Software Engineer, Replicated Storage Services (Replication)",
+    "location": "Alberta; British Columbia; Calgary; Ontario; Quebec",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7477378",
+    "job_id": "7477378",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7557589"
+    "company_slug": "7477378"
   },
   {
     "company": "MongoDB",
@@ -22815,14 +22815,14 @@
   },
   {
     "company": "MongoDB",
-    "title": "Technical Services Engineer",
-    "location": "Vancouver",
-    "url": "https://www.mongodb.com/careers/job/?gh_jid=7566221",
-    "job_id": "7566221",
+    "title": "Staff Software Engineer, Server Security",
+    "location": "United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7557589",
+    "job_id": "7557589",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7566221"
+    "company_slug": "7557589"
   },
   {
     "company": "MongoDB",
@@ -22834,6 +22834,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7459085"
+  },
+  {
+    "company": "MongoDB",
+    "title": "Technical Services Engineer",
+    "location": "Vancouver",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7566221",
+    "job_id": "7566221",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7566221"
   },
   {
     "company": "MongoDB",
@@ -22970,17 +22981,6 @@
   {
     "company": "Elastic",
     "title": "Elasticsearch - Principal Software Engineer I - Distributed Systems",
-    "location": "United Kingdom",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7367128&gh_jid=7367128",
-    "job_id": "7367128",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7367128"
-  },
-  {
-    "company": "Elastic",
-    "title": "Elasticsearch - Principal Software Engineer I - Distributed Systems",
     "location": "United States",
     "url": "https://jobs.elastic.co/jobs?gh_jid=7366822&gh_jid=7366822",
     "job_id": "7366822",
@@ -22991,14 +22991,14 @@
   },
   {
     "company": "Elastic",
-    "title": "Elasticsearch - Principal Software Engineer II - Distributed Systems",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7360686&gh_jid=7360686",
-    "job_id": "7360686",
+    "title": "Elasticsearch - Principal Software Engineer I - Distributed Systems",
+    "location": "United Kingdom",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7367128&gh_jid=7367128",
+    "job_id": "7367128",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7360686"
+    "company_slug": "7367128"
   },
   {
     "company": "Elastic",
@@ -23013,14 +23013,14 @@
   },
   {
     "company": "Elastic",
-    "title": "Elasticsearch - Principal Software Engineer II - Storage Engine",
-    "location": "Spain",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7508491&gh_jid=7508491",
-    "job_id": "7508491",
+    "title": "Elasticsearch - Principal Software Engineer II - Distributed Systems",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7360686&gh_jid=7360686",
+    "job_id": "7360686",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
-    "company_slug": "7508491"
+    "company_slug": "7360686"
   },
   {
     "company": "Elastic",
@@ -23032,6 +23032,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7508360"
+  },
+  {
+    "company": "Elastic",
+    "title": "Elasticsearch - Principal Software Engineer II - Storage Engine",
+    "location": "Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7508491&gh_jid=7508491",
+    "job_id": "7508491",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7508491"
   },
   {
     "company": "Elastic",
@@ -23201,17 +23212,6 @@
   {
     "company": "Elastic",
     "title": "Platform - Elasticsearch - Senior Director of Product Management",
-    "location": "Portugal",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7276119&gh_jid=7276119",
-    "job_id": "7276119",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7276119"
-  },
-  {
-    "company": "Elastic",
-    "title": "Platform - Elasticsearch - Senior Director of Product Management",
     "location": "United States",
     "url": "https://jobs.elastic.co/jobs?gh_jid=7276108&gh_jid=7276108",
     "job_id": "7276108",
@@ -23219,6 +23219,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7276108"
+  },
+  {
+    "company": "Elastic",
+    "title": "Platform - Elasticsearch - Senior Director of Product Management",
+    "location": "Portugal",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7276119&gh_jid=7276119",
+    "job_id": "7276119",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7276119"
   },
   {
     "company": "Elastic",
@@ -23230,28 +23241,6 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7129934"
-  },
-  {
-    "company": "Elastic",
-    "title": "Platform Observability - Senior Manager, Software Engineering",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7477434&gh_jid=7477434",
-    "job_id": "7477434",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7477434"
-  },
-  {
-    "company": "Elastic",
-    "title": "Platform Observability - Senior Manager, Software Engineering",
-    "location": "Spain",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=7550814&gh_jid=7550814",
-    "job_id": "7550814",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7550814"
   },
   {
     "company": "Elastic",
@@ -23300,17 +23289,6 @@
   {
     "company": "Elastic",
     "title": "Platform - Site Reliability Engineer II (Networking)",
-    "location": "United States",
-    "url": "https://jobs.elastic.co/jobs?gh_jid=6950250&gh_jid=6950250",
-    "job_id": "6950250",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6950250"
-  },
-  {
-    "company": "Elastic",
-    "title": "Platform - Site Reliability Engineer II (Networking)",
     "location": "Greece",
     "url": "https://jobs.elastic.co/jobs?gh_jid=7480990&gh_jid=7480990",
     "job_id": "7480990",
@@ -23318,6 +23296,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7480990"
+  },
+  {
+    "company": "Elastic",
+    "title": "Platform - Site Reliability Engineer II (Networking)",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=6950250&gh_jid=6950250",
+    "job_id": "6950250",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6950250"
   },
   {
     "company": "Elastic",
@@ -24378,17 +24367,6 @@
   {
     "company": "Roblox",
     "title": "Senior Data Center Engineer",
-    "location": "United States",
-    "url": "https://careers.roblox.com/jobs/7559237?gh_jid=7559237",
-    "job_id": "7559237",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7559237"
-  },
-  {
-    "company": "Roblox",
-    "title": "Senior Data Center Engineer",
     "location": "Chicago, Illinois, United States",
     "url": "https://careers.roblox.com/jobs/7559232?gh_jid=7559232",
     "job_id": "7559232",
@@ -24396,6 +24374,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "7559232"
+  },
+  {
+    "company": "Roblox",
+    "title": "Senior Data Center Engineer",
+    "location": "United States",
+    "url": "https://careers.roblox.com/jobs/7559237?gh_jid=7559237",
+    "job_id": "7559237",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7559237"
   },
   {
     "company": "Roblox",
@@ -25422,28 +25411,6 @@
   },
   {
     "company": "Roblox",
-    "title": "Software Engineer, Creator Knowledge ",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/7514717?gh_jid=7514717",
-    "job_id": "7514717",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7514717"
-  },
-  {
-    "company": "Roblox",
-    "title": "Software Engineer, Interoperability",
-    "location": "San Mateo, CA, United States",
-    "url": "https://careers.roblox.com/jobs/7417005?gh_jid=7417005",
-    "job_id": "7417005",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7417005"
-  },
-  {
-    "company": "Roblox",
     "title": "Software Engineer, Reliability ",
     "location": "San Mateo, CA, United States",
     "url": "https://careers.roblox.com/jobs/7269377?gh_jid=7269377",
@@ -26018,23 +25985,23 @@
     "company": "Vercel",
     "title": "Software Engineer, Accounts",
     "location": "Hybrid - Berlin",
-    "url": "https://job-boards.greenhouse.io/vercel/jobs/5430088004",
-    "job_id": "5430088004",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "5430088004"
-  },
-  {
-    "company": "Vercel",
-    "title": "Software Engineer, Accounts",
-    "location": "Hybrid - Berlin",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/5431123004",
     "job_id": "5431123004",
     "departments": [],
     "description": "",
     "portal": "greenhouse",
     "company_slug": "5431123004"
+  },
+  {
+    "company": "Vercel",
+    "title": "Software Engineer, Accounts",
+    "location": "Hybrid - Berlin",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5430088004",
+    "job_id": "5430088004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5430088004"
   },
   {
     "company": "Vercel",
@@ -26094,17 +26061,6 @@
   {
     "company": "Vercel",
     "title": "Software Engineer, CI/CD",
-    "location": "Hybrid - New York City",
-    "url": "https://job-boards.greenhouse.io/vercel/jobs/5532030004",
-    "job_id": "5532030004",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "5532030004"
-  },
-  {
-    "company": "Vercel",
-    "title": "Software Engineer, CI/CD",
     "location": "Remote - United States",
     "url": "https://job-boards.greenhouse.io/vercel/jobs/5532019004",
     "job_id": "5532019004",
@@ -26112,6 +26068,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "5532019004"
+  },
+  {
+    "company": "Vercel",
+    "title": "Software Engineer, CI/CD",
+    "location": "Hybrid - New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5532030004",
+    "job_id": "5532030004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5532030004"
   },
   {
     "company": "Vercel",
@@ -26413,17 +26380,6 @@
   {
     "company": "Grammarly",
     "title": "Software Engineer, Data Engineering",
-    "location": "New York City; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7336882",
-    "job_id": "7336882",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7336882"
-  },
-  {
-    "company": "Grammarly",
-    "title": "Software Engineer, Data Engineering",
     "location": "San Francisco; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/6259939",
     "job_id": "6259939",
@@ -26431,6 +26387,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6259939"
+  },
+  {
+    "company": "Grammarly",
+    "title": "Software Engineer, Data Engineering",
+    "location": "New York City; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7336882",
+    "job_id": "7336882",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7336882"
   },
   {
     "company": "Grammarly",
@@ -26446,17 +26413,6 @@
   {
     "company": "Grammarly",
     "title": "Software Engineer, Front-End",
-    "location": "Kyiv; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6590260",
-    "job_id": "6590260",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "6590260"
-  },
-  {
-    "company": "Grammarly",
-    "title": "Software Engineer, Front-End",
     "location": "Berlin; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/5856195",
     "job_id": "5856195",
@@ -26464,6 +26420,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "5856195"
+  },
+  {
+    "company": "Grammarly",
+    "title": "Software Engineer, Front-End",
+    "location": "Kyiv; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/6590260",
+    "job_id": "6590260",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6590260"
   },
   {
     "company": "Grammarly",
@@ -26490,6 +26457,17 @@
   {
     "company": "Grammarly",
     "title": "Software Engineer, Full-Stack",
+    "location": "Seattle; Hybrid",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7333571",
+    "job_id": "7333571",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7333571"
+  },
+  {
+    "company": "Grammarly",
+    "title": "Software Engineer, Full-Stack",
     "location": "San Francisco; Hybrid",
     "url": "https://job-boards.greenhouse.io/grammarly/jobs/6356355",
     "job_id": "6356355",
@@ -26508,17 +26486,6 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "6928720"
-  },
-  {
-    "company": "Grammarly",
-    "title": "Software Engineer, Full-Stack",
-    "location": "Seattle; Hybrid",
-    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7333571",
-    "job_id": "7333571",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "7333571"
   },
   {
     "company": "Grammarly",
@@ -26644,17 +26611,6 @@
   {
     "company": "Duolingo",
     "title": "Senior Android Engineer",
-    "location": "Pittsburgh, PA",
-    "url": "https://careers.duolingo.com/jobs/8215862002?gh_jid=8215862002",
-    "job_id": "8215862002",
-    "departments": [],
-    "description": "",
-    "portal": "greenhouse",
-    "company_slug": "8215862002"
-  },
-  {
-    "company": "Duolingo",
-    "title": "Senior Android Engineer",
     "location": "New York, NY",
     "url": "https://careers.duolingo.com/jobs/8217266002?gh_jid=8217266002",
     "job_id": "8217266002",
@@ -26662,6 +26618,17 @@
     "description": "",
     "portal": "greenhouse",
     "company_slug": "8217266002"
+  },
+  {
+    "company": "Duolingo",
+    "title": "Senior Android Engineer",
+    "location": "Pittsburgh, PA",
+    "url": "https://careers.duolingo.com/jobs/8215862002?gh_jid=8215862002",
+    "job_id": "8215862002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8215862002"
   },
   {
     "company": "Duolingo",

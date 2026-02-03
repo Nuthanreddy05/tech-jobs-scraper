@@ -1,9 +1,9 @@
-Job: Technical Escalations Engineer 2 (Monitors Alerting)
+Job: Staff Statistics Engineer - Feature Flagging and Experimentation
 Company: Datadog
-Location: Sydney, Australia
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7561471/?gh_jid=7561471
+Apply: https://careers.datadoghq.com/detail/7144531/?gh_jid=7144531
 
 Description:
 

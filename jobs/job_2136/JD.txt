@@ -1,9 +1,9 @@
-Job: Support Engineer
+Job: Support Engineer 
 Company: Elastic
-Location: Costa Rica
+Location: Romania
 Portal: greenhouse
 
-Apply: https://jobs.elastic.co/jobs?gh_jid=7493072&gh_jid=7493072
+Apply: https://jobs.elastic.co/jobs?gh_jid=7546232&gh_jid=7546232
 
 Description:
 

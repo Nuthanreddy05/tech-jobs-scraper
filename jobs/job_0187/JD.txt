@@ -1,9 +1,9 @@
-Job: Machine Learning Engineering Manager, Public Sector 
+Job: IT Support Engineer
 Company: Scale AI
-Location: San Francisco, CA; New York, NY; Washington, DC
+Location: Washington, DC
 Portal: greenhouse
 
-Apply: https://job-boards.greenhouse.io/scaleai/jobs/4610811005
+Apply: https://job-boards.greenhouse.io/scaleai/jobs/4633127005
 
 Description:
 

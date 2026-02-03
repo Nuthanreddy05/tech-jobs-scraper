@@ -1,9 +1,9 @@
-Job: Product Manager, Internal AI
+Job: Product Security Engineer
 Company: Chime
-Location: San Francisco, CA; New York, NY; Chicago, IL
+Location: San Francisco, CA
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/chime/jobs/8332735002?gh_jid=8332735002
+Apply: https://boards.greenhouse.io/chime/jobs/8141068002?gh_jid=8141068002
 
 Description:
 

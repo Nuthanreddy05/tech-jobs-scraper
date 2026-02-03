@@ -1,9 +1,9 @@
-Job: Senior Software Engineer, BizTech
+Job: Senior Software Engineer, AI Compute
 Company: Airbnb
-Location: United States
+Location: Remote - USA
 Portal: greenhouse
 
-Apply: https://careers.airbnb.com/positions/7175614?gh_jid=7175614
+Apply: https://careers.airbnb.com/positions/7568919?gh_jid=7568919
 
 Description:
 

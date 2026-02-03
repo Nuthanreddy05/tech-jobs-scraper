@@ -1,9 +1,9 @@
-Job: Senior Machine Learning Engineer, Home Modeling
+Job: Senior Machine Learning Engineer, Safety Core Data
 Company: Roblox
 Location: San Mateo, CA, United States
 Portal: greenhouse
 
-Apply: https://careers.roblox.com/jobs/7562965?gh_jid=7562965
+Apply: https://careers.roblox.com/jobs/7543090?gh_jid=7543090
 
 Description:
 

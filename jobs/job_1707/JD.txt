@@ -1,9 +1,9 @@
-Job: Senior Solutions Engineer, Public Sector Federal
+Job: Senior Solutions Engineer - NYC Tri-State
 Company: Cloudflare
-Location: Hybrid
+Location: Distributed
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/cloudflare/jobs/7530475?gh_jid=7530475
+Apply: https://boards.greenhouse.io/cloudflare/jobs/7518699?gh_jid=7518699
 
 Description:
 

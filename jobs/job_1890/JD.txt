@@ -1,9 +1,9 @@
-Job: Senior AI Engineer - APM Integrations
+Job: Senior AI Engineer - APM Experiences
 Company: Datadog
-Location: Portugal, Remote
+Location: New York, New York, USA
 Portal: greenhouse
 
-Apply: https://careers.datadoghq.com/detail/7582802/?gh_jid=7582802
+Apply: https://careers.datadoghq.com/detail/7415266/?gh_jid=7415266
 
 Description:
 

@@ -1,9 +1,9 @@
-Job: Manager, Software Engineering - Design Systems Management 
+Job: Manager, Software Engineering - Expressive AI
 Company: Figma
-Location: San Francisco, CA • New York, NY • United States
+Location: New York, NY • United States
 Portal: greenhouse
 
-Apply: https://boards.greenhouse.io/figma/jobs/5787320004?gh_jid=5787320004
+Apply: https://boards.greenhouse.io/figma/jobs/5678196004?gh_jid=5678196004
 
 Description:
 

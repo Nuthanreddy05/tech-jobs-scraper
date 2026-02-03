@@ -1,9 +1,9 @@
-Job: Consulting Engineer, Remote Services
+Job: Consulting Engineer
 Company: MongoDB
-Location: Gurugram
+Location: Atlanta; Austin; Boston; Chicago
 Portal: greenhouse
 
-Apply: https://www.mongodb.com/careers/job/?gh_jid=7361346
+Apply: https://www.mongodb.com/careers/job/?gh_jid=7405852
 
 Description:
 
