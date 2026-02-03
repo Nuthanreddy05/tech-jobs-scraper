@@ -27,7 +27,7 @@ jobs:
 
       - name: Scrape jobs from career pages (API-based)
         run: |
-          python scraper_v2.py
+          python scraper_v3.py
 
       - name: Commit and push results
         run: |
