@@ -12,6 +12,7 @@ API: https://boards-api.greenhouse.io/v1/boards/{company}/jobs
 
 import requests
 import time
+from datetime import datetime
 from typing import List, Dict, Optional
 
 
@@ -78,7 +79,9 @@ class GreenhouseScraper:
                 "departments": [d.get("name", "") for d in job.get("departments", [])],
                 "description": job.get("content", ""),
                 "portal": "greenhouse",
-                "company_slug": str(job.get("id", "")).split("-")[0] if job.get("id") else ""
+                "company_slug": str(job.get("id", "")).split("-")[0] if job.get("id") else "",
+                "posted_at": job.get("updated_at", ""),
+                "scraped_at": datetime.utcnow().isoformat() + "Z"
             }
         except Exception as e:
             print(f"      ⚠️  Parse error: {str(e)[:50]}")
@@ -202,6 +205,84 @@ class GreenhouseScraper:
             "vercel": "Vercel",
             "grammarly": "Grammarly",
             "duolingo": "Duolingo",
+
+            # Additional Top Tech Companies
+            "twilio": "Twilio",
+            "okta": "Okta",
+            "zendesk": "Zendesk",
+            "gitlab": "GitLab",
+            "hashicorp": "HashiCorp",
+            "confluent": "Confluent",
+            "cockroachlabs": "Cockroach Labs",
+            "splice": "Splice",
+
+            # Cloud & DevOps
+            "fastly": "Fastly",
+            "splunk": "Splunk",
+            "newrelic": "New Relic",
+            "pagerduty": "PagerDuty",
+            "launchdarkly": "LaunchDarkly",
+
+            # Security
+            "paloaltonetworks": "Palo Alto Networks",
+            "crowdstrike": "CrowdStrike",
+            "zscaler": "Zscaler",
+            "cloudflare": "Cloudflare",
+            "lacework": "Lacework",
+            "orca": "Orca Security",
+
+            # Data & Analytics
+            "census": "Census",
+            "fivetran": "Fivetran",
+            "dbt": "dbt Labs",
+            "hex": "Hex",
+            "preset": "Preset",
+            "hightouch": "Hightouch",
+
+            # More Fintech
+            "affirm": "Affirm",
+            "sofi": "SoFi",
+            "mercury": "Mercury",
+            "ramp": "Ramp",
+            "divvy": "Divvy",
+            "circle": "Circle",
+
+            # Developer Tools
+            "sourcegraph": "Sourcegraph",
+            "snyk": "Snyk",
+            "sentry": "Sentry",
+            "buildkite": "Buildkite",
+
+            # Communication & Collaboration
+            "slack": "Slack",
+            "asana": "Asana",
+            "monday": "Monday.com",
+            "linear": "Linear",
+
+            # E-learning & EdTech
+            "coursera": "Coursera",
+            "udemy": "Udemy",
+            "masterclass": "MasterClass",
+
+            # Healthcare Tech
+            "oscar": "Oscar Health",
+            "zocdoc": "Zocdoc",
+            "onemed": "OneMed",
+
+            # Transportation & Logistics
+            "lyft": "Lyft",
+            "convoy": "Convoy",
+            "flexport": "Flexport",
+
+            # Real Estate Tech
+            "opendoor": "Opendoor",
+            "zillow": "Zillow",
+            "redfin": "Redfin",
+
+            # Entertainment & Media
+            "spotify": "Spotify",
+            "soundcloud": "SoundCloud",
+            "vimeo": "Vimeo",
         }
 
         all_jobs = []

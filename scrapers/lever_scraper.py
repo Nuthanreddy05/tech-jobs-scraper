@@ -11,6 +11,7 @@ API: https://api.lever.co/v0/postings/{company}
 
 import requests
 import time
+from datetime import datetime
 from typing import List, Dict
 
 
@@ -87,7 +88,9 @@ class LeverScraper:
                 "team": job.get("categories", {}).get("team", ""),
                 "commitment": job.get("categories", {}).get("commitment", ""),
                 "description": job.get("description", ""),
-                "portal": "lever"
+                "portal": "lever",
+                "posted_at": str(job.get("createdAt", "")),
+                "scraped_at": datetime.utcnow().isoformat() + "Z"
             }
         except Exception as e:
             print(f"      ⚠️  Parse error: {str(e)[:50]}")
@@ -144,6 +147,18 @@ class LeverScraper:
             "gusto": "Gusto",
             "niantic": "Niantic",
             "peloton": "Peloton",
+
+            # Additional Lever companies
+            "rippling": "Rippling",
+            "retool": "Retool",
+            "benchling": "Benchling",
+            "plaid": "Plaid",
+            "faire": "Faire",
+            "scale": "Scale AI",
+            "amplitude": "Amplitude",
+            "benchling": "Benchling",
+            "ginkgobioworks": "Ginkgo Bioworks",
+            "rigetti": "Rigetti Computing",
         }
 
         all_jobs = []
