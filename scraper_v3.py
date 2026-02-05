@@ -114,13 +114,20 @@ class ProductionScraperV3:
 
             # Calculate age - handle multiple timestamp formats
             timestamp_str = job['first_discovered']
-            # Normalize timestamp: remove 'Z' or fix duplicate timezone suffixes
-            if timestamp_str.endswith('Z'):
-                timestamp_str = timestamp_str[:-1] + '+00:00'
-            elif '+00:00+00:00' in timestamp_str:
-                # Fix malformed timestamps from previous bug
-                timestamp_str = timestamp_str.replace('+00:00+00:00', '+00:00')
-            first_discovered = datetime.fromisoformat(timestamp_str)
+            # Robust timestamp parsing with multiple fallbacks
+            try:
+                # Normalize timestamp: remove 'Z' or fix duplicate timezone suffixes
+                if timestamp_str.endswith('Z'):
+                    timestamp_str = timestamp_str[:-1] + '+00:00'
+                elif '+00:00+00:00' in timestamp_str:
+                    # Fix malformed timestamps from previous bug
+                    timestamp_str = timestamp_str.replace('+00:00+00:00', '+00:00')
+                first_discovered = datetime.fromisoformat(timestamp_str)
+            except ValueError:
+                # Aggressive cleanup for any malformed timestamps
+                # Remove all timezone info and add clean UTC
+                timestamp_str = timestamp_str.split('+')[0].split('Z')[0] + '+00:00'
+                first_discovered = datetime.fromisoformat(timestamp_str)
             age_delta = now - first_discovered
             hours_old = age_delta.total_seconds() / 3600
             days_old = age_delta.days
