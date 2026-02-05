@@ -1062,5 +1062,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Manager, Software Engineering (L5)",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/6849274",
+    "job_id": "6849274",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6849274",
+    "posted_at": "2026-02-05T07:02:47-05:00",
+    "scraped_at": "2026-02-05T13:20:33.855753Z",
+    "first_discovered": "2026-02-05T13:24:45.979606+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
