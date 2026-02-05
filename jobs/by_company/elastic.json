@@ -93,5 +93,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Elasticsearch - Principal Software Engineer II - Query Engine, Database Internals",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7565180&gh_jid=7565180",
+    "job_id": "7565180",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7565180",
+    "posted_at": "2026-02-05T10:13:49-05:00",
+    "scraped_at": "2026-02-05T15:51:26.656974Z",
+    "first_discovered": "2026-02-05T15:55:56.052178+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Elasticsearch - Principal Software Engineer I - Query Engine, Database Internals",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7591585&gh_jid=7591585",
+    "job_id": "7591585",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7591585",
+    "posted_at": "2026-02-05T10:13:50-05:00",
+    "scraped_at": "2026-02-05T15:51:26.657000Z",
+    "first_discovered": "2026-02-05T15:55:56.052178+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
