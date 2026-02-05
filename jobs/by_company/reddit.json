@@ -55,5 +55,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Reddit",
+    "title": "Staff Backend Software Engineer, Ads Business Manager",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7590453",
+    "job_id": "7590453",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7590453",
+    "posted_at": "2026-02-04T22:32:07-05:00",
+    "scraped_at": "2026-02-05T04:54:53.869517Z",
+    "first_discovered": "2026-02-05T05:00:56.176082+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Reddit",
+    "title": "Staff Software Engineer, Ads Business Manager",
+    "location": "Remote - British Columbia, Canada",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7590460",
+    "job_id": "7590460",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7590460",
+    "posted_at": "2026-02-04T22:02:21-05:00",
+    "scraped_at": "2026-02-05T04:54:53.869574Z",
+    "first_discovered": "2026-02-05T05:00:56.176082+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
