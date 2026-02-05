@@ -55,5 +55,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Technical Services Engineer",
+    "location": "Belgrade, Serbia",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8341839002",
+    "job_id": "8341839002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8341839002",
+    "posted_at": "2026-02-05T04:18:49-05:00",
+    "scraped_at": "2026-02-05T09:55:30.338745Z",
+    "first_discovered": "2026-02-05T10:01:04.177913+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
