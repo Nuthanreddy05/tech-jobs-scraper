@@ -49846,5 +49846,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Principal Software Development Engineer",
+    "location": "Bangalore, IND",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4896916007",
+    "job_id": "4896916007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4896916007",
+    "posted_at": "2026-02-05T01:13:24-05:00",
+    "scraped_at": "2026-02-05T07:55:11.909158Z",
+    "first_discovered": "2026-02-05T07:58:52.278832+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
