@@ -17,5 +17,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Data Science PhD Intern",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "url": "https://instacart.careers/job/?gh_jid=7592471",
+    "job_id": "7592471",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7592471",
+    "posted_at": "2026-02-05T16:39:18-05:00",
+    "scraped_at": "2026-02-05T22:37:06.834847Z",
+    "first_discovered": "2026-02-05T22:42:10.713455+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Data Science PhD Intern",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7592056",
+    "job_id": "7592056",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7592056",
+    "posted_at": "2026-02-05T16:39:16-05:00",
+    "scraped_at": "2026-02-05T22:37:06.834853Z",
+    "first_discovered": "2026-02-05T22:42:10.713455+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
