@@ -1404,5 +1404,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Data Scientist, Data & Member Behavior",
+    "location": "Tempe, Arizona, United States",
+    "url": "http://www.hioscar.com/careers/7592202?gh_jid=7592202",
+    "job_id": "7592202",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7592202",
+    "posted_at": "2026-02-05T14:01:23-05:00",
+    "scraped_at": "2026-02-05T19:04:43.908545Z",
+    "first_discovered": "2026-02-05T19:07:36.352596+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Data Scientist, Data & Member Behavior",
+    "location": "Los Angeles, California, United States",
+    "url": "http://www.hioscar.com/careers/7592191?gh_jid=7592191",
+    "job_id": "7592191",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7592191",
+    "posted_at": "2026-02-05T14:01:05-05:00",
+    "scraped_at": "2026-02-05T19:04:43.908550Z",
+    "first_discovered": "2026-02-05T19:07:36.352596+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

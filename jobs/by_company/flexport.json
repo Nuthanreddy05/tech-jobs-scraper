@@ -492,5 +492,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Flexport",
+    "title": "Software Engineer I (Generalist)",
+    "location": "Bellevue, Washington, United States",
+    "url": "https://boards.greenhouse.io/flexport/jobs/7580661?gh_jid=7580661",
+    "job_id": "7580661",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7580661",
+    "posted_at": "2026-02-05T13:15:47-05:00",
+    "scraped_at": "2026-02-05T19:04:54.108333Z",
+    "first_discovered": "2026-02-05T19:07:36.352596+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
