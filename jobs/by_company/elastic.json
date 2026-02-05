@@ -55,5 +55,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Elasticsearch - Principal Software Engineer I (Performance Team)",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7561869&gh_jid=7561869",
+    "job_id": "7561869",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7561869",
+    "posted_at": "2026-02-05T06:40:25-05:00",
+    "scraped_at": "2026-02-05T11:41:53.914892Z",
+    "first_discovered": "2026-02-05T11:46:32.594616+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
