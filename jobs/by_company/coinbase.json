@@ -207,5 +207,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend - (Consumer - Country Growth)",
+    "location": "Remote - Canada",
+    "url": "https://www.coinbase.com/careers/positions/7396637?gh_jid=7396637",
+    "job_id": "7396637",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7396637",
+    "posted_at": "2026-02-05T11:30:14-05:00",
+    "scraped_at": "2026-02-05T17:00:19.154800Z",
+    "first_discovered": "2026-02-05T17:05:16.773309+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
