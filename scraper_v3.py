@@ -90,7 +90,7 @@ class ProductionScraperV3:
     def _enrich_with_freshness(self, new_jobs):
         """Add freshness tracking: first_discovered, hours_old, apply_priority."""
         enriched_jobs = []
-        now = datetime.now(datetime.timezone.utc)
+        now = datetime.now(timezone.utc)
 
         # Build lookup of existing jobs
         existing_lookup = {}
