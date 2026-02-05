@@ -321,5 +321,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Vulnerability Management Engineer",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7579269?gh_jid=7579269",
+    "job_id": "7579269",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7579269",
+    "posted_at": "2026-02-05T16:31:40-05:00",
+    "scraped_at": "2026-02-05T21:38:12.074378Z",
+    "first_discovered": "2026-02-05T21:43:01.867175+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
