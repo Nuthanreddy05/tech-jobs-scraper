@@ -50093,5 +50093,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Software Engineer, Atlas Clusters",
+    "location": "Dublin",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7588895",
+    "job_id": "7588895",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7588895",
+    "posted_at": "2026-02-05T09:14:26-05:00",
+    "scraped_at": "2026-02-05T14:53:46.874830Z",
+    "first_discovered": "2026-02-05T14:58:37.656168+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Elasticsearch - Senior Software Engineer - Query Engine, Database Internals",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7574112&gh_jid=7574112",
+    "job_id": "7574112",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7574112",
+    "posted_at": "2026-02-05T09:48:34-05:00",
+    "scraped_at": "2026-02-05T14:53:48.920502Z",
+    "first_discovered": "2026-02-05T14:58:37.656168+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
