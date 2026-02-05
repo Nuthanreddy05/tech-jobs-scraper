@@ -1,0 +1,40 @@
+[
+  {
+    "company": "Pinterest",
+    "title": "Engineering Manager II, Machine Learning \u2013 User Understanding",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494658",
+    "job_id": "7494658",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7494658",
+    "posted_at": "2026-02-04T17:07:04-05:00",
+    "scraped_at": "2026-02-05T02:59:39.730134Z",
+    "first_discovered": "2026-02-05T03:05:09.991016+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Pinterest",
+    "title": "Tax Analyst II",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494540",
+    "job_id": "7494540",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7494540",
+    "posted_at": "2026-02-04T16:18:21-05:00",
+    "scraped_at": "2026-02-05T02:59:39.730692Z",
+    "first_discovered": "2026-02-05T03:05:09.991016+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  }
+]

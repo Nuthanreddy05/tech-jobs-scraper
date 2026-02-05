@@ -1,0 +1,40 @@
+[
+  {
+    "company": "Brex",
+    "title": "Senior Engineer, AI - Brex Assistant",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8402322002?gh_jid=8402322002",
+    "job_id": "8402322002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8402322002",
+    "posted_at": "2026-02-03T12:23:55-05:00",
+    "scraped_at": "2026-02-05T02:59:49.966899Z",
+    "first_discovered": "2026-02-05T03:05:09.991016+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Brex",
+    "title": "Senior Engineer, AI - Brex Assistant",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8402318002?gh_jid=8402318002",
+    "job_id": "8402318002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8402318002",
+    "posted_at": "2026-02-03T12:23:54-05:00",
+    "scraped_at": "2026-02-05T02:59:49.966904Z",
+    "first_discovered": "2026-02-05T03:05:09.991016+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  }
+]
