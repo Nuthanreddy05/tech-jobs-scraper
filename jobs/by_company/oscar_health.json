@@ -1442,5 +1442,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Lead Data Scientist",
+    "location": "Los Angeles, California, United States",
+    "url": "http://www.hioscar.com/careers/7592258?gh_jid=7592258",
+    "job_id": "7592258",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7592258",
+    "posted_at": "2026-02-05T14:08:49-05:00",
+    "scraped_at": "2026-02-05T20:44:50.584954Z",
+    "first_discovered": "2026-02-05T20:47:40.568899+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Lead Data Scientist",
+    "location": "Tempe, Arizona, United States",
+    "url": "http://www.hioscar.com/careers/7592270?gh_jid=7592270",
+    "job_id": "7592270",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7592270",
+    "posted_at": "2026-02-05T14:08:50-05:00",
+    "scraped_at": "2026-02-05T20:44:50.584963Z",
+    "first_discovered": "2026-02-05T20:47:40.568899+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

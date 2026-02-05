@@ -321,5 +321,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Software Engineer, Encoding Libraries",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5110474008",
+    "job_id": "5110474008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5110474008",
+    "posted_at": "2026-02-05T15:29:05-05:00",
+    "scraped_at": "2026-02-05T20:41:58.293109Z",
+    "first_discovered": "2026-02-05T20:47:40.568899+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

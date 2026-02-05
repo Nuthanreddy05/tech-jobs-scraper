@@ -245,5 +245,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Payments Risk Analyst II",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7569161?gh_jid=7569161",
+    "job_id": "7569161",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7569161",
+    "posted_at": "2026-02-05T14:44:04-05:00",
+    "scraped_at": "2026-02-05T20:42:39.022936Z",
+    "first_discovered": "2026-02-05T20:47:40.568899+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

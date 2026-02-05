@@ -1024,5 +1024,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Corporate Security Engineer",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/7539899?gh_jid=7539899",
+    "job_id": "7539899",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7539899",
+    "posted_at": "2026-02-05T14:50:49-05:00",
+    "scraped_at": "2026-02-05T20:44:38.377156Z",
+    "first_discovered": "2026-02-05T20:47:40.568899+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

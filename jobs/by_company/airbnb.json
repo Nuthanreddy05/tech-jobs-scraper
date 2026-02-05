@@ -55,5 +55,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Android Engineer, Guest & Host ",
+    "location": "Remote, USA",
+    "url": "https://careers.airbnb.com/positions/7592267?gh_jid=7592267",
+    "job_id": "7592267",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7592267",
+    "posted_at": "2026-02-05T14:08:18-05:00",
+    "scraped_at": "2026-02-05T20:42:12.527777Z",
+    "first_discovered": "2026-02-05T20:47:40.568899+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Staff Machine Learning Engineer, Trust",
+    "location": "Remote - USA",
+    "url": "https://careers.airbnb.com/positions/7592146?gh_jid=7592146",
+    "job_id": "7592146",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7592146",
+    "posted_at": "2026-02-05T14:21:33-05:00",
+    "scraped_at": "2026-02-05T20:42:12.528666Z",
+    "first_discovered": "2026-02-05T20:47:40.568899+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
