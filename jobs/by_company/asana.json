@@ -1081,5 +1081,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Staff Software Engineer, AI Agent Orchestration",
+    "location": "Vancouver, BC",
+    "url": "https://www.asana.com/jobs/apply/7596486?gh_jid=7596486",
+    "job_id": "7596486",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7596486",
+    "posted_at": "2026-02-06T17:06:03-05:00",
+    "scraped_at": "2026-02-06T22:35:56.007173Z",
+    "first_discovered": "2026-02-06T22:39:10.876724+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
