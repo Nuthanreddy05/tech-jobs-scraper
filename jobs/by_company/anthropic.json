@@ -511,5 +511,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Applied AI Security Architect ",
+    "location": "New York City, NY; New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5101433008",
+    "job_id": "5101433008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5101433008",
+    "posted_at": "2026-02-06T15:39:46-05:00",
+    "scraped_at": "2026-02-06T20:41:54.807274Z",
+    "first_discovered": "2026-02-06T20:47:31.726830+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -17,5 +17,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Chime",
+    "title": "Backend Engineer (Chicago)",
+    "location": "Chicago, IL",
+    "url": "https://boards.greenhouse.io/chime/jobs/8376910002?gh_jid=8376910002",
+    "job_id": "8376910002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8376910002",
+    "posted_at": "2026-02-06T14:12:14-05:00",
+    "scraped_at": "2026-02-06T20:42:41.869986Z",
+    "first_discovered": "2026-02-06T20:47:31.726830+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

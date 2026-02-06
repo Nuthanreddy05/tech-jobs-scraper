@@ -948,5 +948,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Data Scientist - Decisions, Lyft Urban Solutions",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8402782002?gh_jid=8402782002",
+    "job_id": "8402782002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8402782002",
+    "posted_at": "2026-02-06T15:03:05-05:00",
+    "scraped_at": "2026-02-06T20:44:55.704849Z",
+    "first_discovered": "2026-02-06T20:47:31.726830+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Senior Software Engineer, Driver XP ",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8399274002?gh_jid=8399274002",
+    "job_id": "8399274002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8399274002",
+    "posted_at": "2026-02-06T14:40:35-05:00",
+    "scraped_at": "2026-02-06T20:44:55.705311Z",
+    "first_discovered": "2026-02-06T20:47:31.726830+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

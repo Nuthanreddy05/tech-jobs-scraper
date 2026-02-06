@@ -1043,5 +1043,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Software Engineer, CI/CD",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7595104?gh_jid=7595104",
+    "job_id": "7595104",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7595104",
+    "posted_at": "2026-02-06T14:11:01-05:00",
+    "scraped_at": "2026-02-06T20:44:37.270536Z",
+    "first_discovered": "2026-02-06T20:47:31.726830+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Staff Software Engineer, Infrastructure",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7595196?gh_jid=7595196",
+    "job_id": "7595196",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7595196",
+    "posted_at": "2026-02-06T14:39:25-05:00",
+    "scraped_at": "2026-02-06T20:44:37.270609Z",
+    "first_discovered": "2026-02-06T20:47:31.726830+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
