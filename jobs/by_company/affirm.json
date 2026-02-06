@@ -2373,5 +2373,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Consumer Engineering)",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7615040003",
+    "job_id": "7615040003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7615040003",
+    "posted_at": "2026-02-06T09:42:35-05:00",
+    "scraped_at": "2026-02-06T14:50:34.509686Z",
+    "first_discovered": "2026-02-06T14:53:49.284573+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Consumer Engineering) ",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7615042003",
+    "job_id": "7615042003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7615042003",
+    "posted_at": "2026-02-06T09:42:36-05:00",
+    "scraped_at": "2026-02-06T14:50:34.509691Z",
+    "first_discovered": "2026-02-06T14:53:49.284573+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
