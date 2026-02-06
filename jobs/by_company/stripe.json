@@ -283,5 +283,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Partner Solutions Architect, Spain",
+    "location": "LOCATION",
+    "url": "https://stripe.com/jobs/search?gh_jid=7582653",
+    "job_id": "7582653",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7582653",
+    "posted_at": "2026-02-06T05:11:47-05:00",
+    "scraped_at": "2026-02-06T10:51:02.283733Z",
+    "first_discovered": "2026-02-06T10:56:23.404782+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
