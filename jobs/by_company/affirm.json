@@ -2354,5 +2354,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Senior IAM Engineer (Enterprise)",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7621664003",
+    "job_id": "7621664003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7621664003",
+    "posted_at": "2026-02-06T06:26:09-05:00",
+    "scraped_at": "2026-02-06T11:42:31.510257Z",
+    "first_discovered": "2026-02-06T11:46:00.418399+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
