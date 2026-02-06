@@ -207,5 +207,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Cloud Finance, R&D",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7593487/?gh_jid=7593487",
+    "job_id": "7593487",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7593487",
+    "posted_at": "2026-02-06T12:59:04-05:00",
+    "scraped_at": "2026-02-06T19:02:04.424573Z",
+    "first_discovered": "2026-02-06T19:07:02.448423+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

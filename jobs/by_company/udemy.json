@@ -454,5 +454,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Udemy",
+    "title": "Support Documentation and Training Specialist",
+    "location": "Denver, CO",
+    "url": "https://app.careerpuck.com/job-board/udemy/job/5778874004?gh_jid=5778874004",
+    "job_id": "5778874004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5778874004",
+    "posted_at": "2026-02-06T13:38:23-05:00",
+    "scraped_at": "2026-02-06T19:03:53.043794Z",
+    "first_discovered": "2026-02-06T19:07:02.448423+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

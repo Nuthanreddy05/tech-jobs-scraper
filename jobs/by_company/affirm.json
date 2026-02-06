@@ -2449,5 +2449,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Senior Manager, GTM Business Systems",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7619189003",
+    "job_id": "7619189003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7619189003",
+    "posted_at": "2026-02-06T13:58:01-05:00",
+    "scraped_at": "2026-02-06T19:03:21.174659Z",
+    "first_discovered": "2026-02-06T19:07:02.448423+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Senior Manager, GTM Business Systems",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7619187003",
+    "job_id": "7619187003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7619187003",
+    "posted_at": "2026-02-06T13:58:00-05:00",
+    "scraped_at": "2026-02-06T19:03:21.174666Z",
+    "first_discovered": "2026-02-06T19:07:02.448423+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
