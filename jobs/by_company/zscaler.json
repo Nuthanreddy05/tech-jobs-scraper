@@ -3038,5 +3038,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Site Reliability Engineer Federal- SkillBridge Intern",
+    "location": "Remote - Virginia, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5046050007",
+    "job_id": "5046050007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5046050007",
+    "posted_at": "2026-02-06T18:11:25-05:00",
+    "scraped_at": "2026-02-06T23:35:49.140741Z",
+    "first_discovered": "2026-02-06T23:39:38.702372+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Site Reliability Engineer-SkillBridge Intern",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5045817007",
+    "job_id": "5045817007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5045817007",
+    "posted_at": "2026-02-06T18:06:05-05:00",
+    "scraped_at": "2026-02-06T23:35:49.140746Z",
+    "first_discovered": "2026-02-06T23:39:38.702372+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
