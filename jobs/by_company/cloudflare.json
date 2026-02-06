@@ -340,5 +340,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Digital Customer Solutions Engineer (AMER / EMEA)",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7591836?gh_jid=7591836",
+    "job_id": "7591836",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7591836",
+    "posted_at": "2026-02-06T10:22:39-05:00",
+    "scraped_at": "2026-02-06T15:50:55.172769Z",
+    "first_discovered": "2026-02-06T15:55:38.726958+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

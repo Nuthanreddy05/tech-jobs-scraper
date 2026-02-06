@@ -2411,5 +2411,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Analytics Lead, Full Stack",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7612261003",
+    "job_id": "7612261003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7612261003",
+    "posted_at": "2026-02-06T10:10:22-05:00",
+    "scraped_at": "2026-02-06T15:52:10.911783Z",
+    "first_discovered": "2026-02-06T15:55:38.726958+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Analytics Lead, Full Stack",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7612259003",
+    "job_id": "7612259003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7612259003",
+    "posted_at": "2026-02-06T10:10:21-05:00",
+    "scraped_at": "2026-02-06T15:52:10.911787Z",
+    "first_discovered": "2026-02-06T15:55:38.726958+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

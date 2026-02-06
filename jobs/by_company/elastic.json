@@ -169,5 +169,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Engineering Manager - Search Scaling - Elasticsearch",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7590702&gh_jid=7590702",
+    "job_id": "7590702",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7590702",
+    "posted_at": "2026-02-06T10:31:42-05:00",
+    "scraped_at": "2026-02-06T15:51:01.373461Z",
+    "first_discovered": "2026-02-06T15:55:38.726958+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
