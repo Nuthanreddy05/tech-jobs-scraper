@@ -51499,5 +51499,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Staff Software Engineer",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7617857003",
+    "job_id": "7617857003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7617857003",
+    "posted_at": "2026-02-06T04:33:20-05:00",
+    "scraped_at": "2026-02-06T09:56:22.582883Z",
+    "first_discovered": "2026-02-06T09:59:47.141827+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
