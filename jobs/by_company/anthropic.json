@@ -625,5 +625,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Software Engineer, AI Reliability",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5113224008",
+    "job_id": "5113224008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5113224008",
+    "posted_at": "2026-02-07T08:47:14-05:00",
+    "scraped_at": "2026-02-07T14:34:00.264461Z",
+    "first_discovered": "2026-02-07T14:39:53.247873+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
