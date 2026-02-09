@@ -340,5 +340,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Engineering Manager, Data Engineering",
+    "location": "Toronto",
+    "url": "https://stripe.com/jobs/search?gh_jid=7551832",
+    "job_id": "7551832",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7551832",
+    "posted_at": "2026-02-09T14:23:33-05:00",
+    "scraped_at": "2026-02-09T19:26:23.738933Z",
+    "first_discovered": "2026-02-09T19:31:51.024532+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Product Manager,  Fraud Risk / AML, Bridge",
+    "location": "San Francisco or New York or Seattle",
+    "url": "https://stripe.com/jobs/search?gh_jid=7599875",
+    "job_id": "7599875",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7599875",
+    "posted_at": "2026-02-09T14:13:44-05:00",
+    "scraped_at": "2026-02-09T19:26:23.739954Z",
+    "first_discovered": "2026-02-09T19:31:51.024532+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
