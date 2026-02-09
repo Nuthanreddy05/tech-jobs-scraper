@@ -644,5 +644,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Backend (Developer - Foundations)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7476676?gh_jid=7476676",
+    "job_id": "7476676",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7476676",
+    "posted_at": "2026-02-09T14:36:55-05:00",
+    "scraped_at": "2026-02-09T20:52:32.897526Z",
+    "first_discovered": "2026-02-09T20:57:38.976575+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Fullstack (Developer - Onramp)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/6599408?gh_jid=6599408",
+    "job_id": "6599408",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6599408",
+    "posted_at": "2026-02-09T14:40:12-05:00",
+    "scraped_at": "2026-02-09T20:52:32.897629Z",
+    "first_discovered": "2026-02-09T20:57:38.976575+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

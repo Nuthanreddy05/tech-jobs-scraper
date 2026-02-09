@@ -302,5 +302,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "LaunchDarkly",
+    "title": "AI Specialist",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7619877003",
+    "job_id": "7619877003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7619877003",
+    "posted_at": "2026-02-09T15:18:12-05:00",
+    "scraped_at": "2026-02-09T20:53:42.294974Z",
+    "first_discovered": "2026-02-09T20:57:38.976575+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
