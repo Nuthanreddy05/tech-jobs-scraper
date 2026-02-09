@@ -1100,5 +1100,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Salesforce Developer",
+    "location": "Vancouver, BC",
+    "url": "https://www.asana.com/jobs/apply/7587511?gh_jid=7587511",
+    "job_id": "7587511",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7587511",
+    "posted_at": "2026-02-09T12:20:02-05:00",
+    "scraped_at": "2026-02-09T17:57:55.312536Z",
+    "first_discovered": "2026-02-09T18:00:58.087853+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

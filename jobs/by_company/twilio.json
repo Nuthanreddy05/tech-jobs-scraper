@@ -1157,5 +1157,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer Intern - Canada",
+    "location": "Remote - Canada",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7560248",
+    "job_id": "7560248",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7560248",
+    "posted_at": "2026-02-09T11:59:06-05:00",
+    "scraped_at": "2026-02-09T17:56:42.281975Z",
+    "first_discovered": "2026-02-09T18:00:58.087853+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer Intern - United States",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7560246",
+    "job_id": "7560246",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7560246",
+    "posted_at": "2026-02-09T12:05:58-05:00",
+    "scraped_at": "2026-02-09T17:56:42.281990Z",
+    "first_discovered": "2026-02-09T18:00:58.087853+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

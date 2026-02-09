@@ -416,5 +416,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Opendoor",
+    "title": "Infrastructure Engineer",
+    "location": "Toronto",
+    "url": "https://www.opendoor.com/careers/open-positions?gh_jid=4643093006",
+    "job_id": "4643093006",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4643093006",
+    "posted_at": "2026-02-09T12:37:07-05:00",
+    "scraped_at": "2026-02-09T17:58:20.073928Z",
+    "first_discovered": "2026-02-09T18:00:58.087853+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
