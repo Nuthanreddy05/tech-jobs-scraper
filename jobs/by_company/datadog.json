@@ -226,5 +226,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Security Researcher - GenAI",
+    "location": "Portugal, Remote",
+    "url": "https://careers.datadoghq.com/detail/7598914/?gh_jid=7598914",
+    "job_id": "7598914",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7598914",
+    "posted_at": "2026-02-09T09:37:01-05:00",
+    "scraped_at": "2026-02-09T15:01:13.140210Z",
+    "first_discovered": "2026-02-09T15:05:54.635032+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Security Researcher - GenAI",
+    "location": "France, Remote; Ireland, Remote; Spain, Remote; United Kingdom, Remote",
+    "url": "https://careers.datadoghq.com/detail/7598899/?gh_jid=7598899",
+    "job_id": "7598899",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7598899",
+    "posted_at": "2026-02-09T09:35:29-05:00",
+    "scraped_at": "2026-02-09T15:01:13.140231Z",
+    "first_discovered": "2026-02-09T15:05:54.635032+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
