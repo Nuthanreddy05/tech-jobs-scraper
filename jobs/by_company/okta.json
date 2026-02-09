@@ -1822,5 +1822,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Solutions Engineer",
+    "location": "Sydney, Australia",
+    "url": "https://www.okta.com/company/careers/opportunity/7600340?gh_jid=7600340",
+    "job_id": "7600340",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7600340",
+    "posted_at": "2026-02-09T17:46:15-05:00",
+    "scraped_at": "2026-02-09T22:48:13.370361Z",
+    "first_discovered": "2026-02-09T22:52:42.549328+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

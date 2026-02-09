@@ -55,5 +55,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airtable",
+    "title": "Software Engineer, New Grad (2026)",
+    "location": "San Francisco, CA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/airtable/jobs/8409376002",
+    "job_id": "8409376002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8409376002",
+    "posted_at": "2026-02-09T17:45:14-05:00",
+    "scraped_at": "2026-02-09T22:47:36.725428Z",
+    "first_discovered": "2026-02-09T22:52:42.549328+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
