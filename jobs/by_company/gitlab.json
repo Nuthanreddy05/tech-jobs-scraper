@@ -1176,5 +1176,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "GitLab",
+    "title": "Product Design Manager, Platforms & Plan",
+    "location": "Remote, Canada; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom; Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8406836002",
+    "job_id": "8406836002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8406836002",
+    "posted_at": "2026-02-09T16:06:51-05:00",
+    "scraped_at": "2026-02-09T21:49:38.863980Z",
+    "first_discovered": "2026-02-09T21:53:46.229673+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
