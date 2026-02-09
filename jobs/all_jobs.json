@@ -53247,5 +53247,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Software Development Engineer",
+    "location": "Bangalore, IND",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5020701007",
+    "job_id": "5020701007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5020701007",
+    "posted_at": "2026-02-08T21:10:44-05:00",
+    "scraped_at": "2026-02-09T02:53:01.600465Z",
+    "first_discovered": "2026-02-09T02:56:41.511200+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
