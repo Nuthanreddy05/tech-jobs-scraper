@@ -1119,5 +1119,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Legal Operations Analyst",
+    "location": "Chicago",
+    "url": "https://www.asana.com/jobs/apply/7584602?gh_jid=7584602",
+    "job_id": "7584602",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7584602",
+    "posted_at": "2026-02-10T14:45:18-05:00",
+    "scraped_at": "2026-02-10T20:56:34.814615Z",
+    "first_discovered": "2026-02-10T20:59:36.261551+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -74,5 +74,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Frontend Product Software Engineer",
+    "location": "Remote - Mexico",
+    "url": "https://jobs.dropbox.com/listing/7172768?gh_jid=7172768",
+    "job_id": "7172768",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7172768",
+    "posted_at": "2026-02-10T15:51:43-05:00",
+    "scraped_at": "2026-02-10T20:54:15.723733Z",
+    "first_discovered": "2026-02-10T20:59:36.261551+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
