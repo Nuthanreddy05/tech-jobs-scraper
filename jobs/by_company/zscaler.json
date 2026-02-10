@@ -3209,5 +3209,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Staff Technical Program Manager -Supply chain and Logistics (APAC)",
+    "location": "Bangalore, IND",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5006484007",
+    "job_id": "5006484007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5006484007",
+    "posted_at": "2026-02-10T00:17:43-05:00",
+    "scraped_at": "2026-02-10T05:42:55.992032Z",
+    "first_discovered": "2026-02-10T05:46:28.985145+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -112,5 +112,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Robinhood",
+    "title": "Android Engineer",
+    "location": "Bellevue, WA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7600764?t=gh_src=&gh_jid=7600764",
+    "job_id": "7600764",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7600764",
+    "posted_at": "2026-02-09T23:00:19-05:00",
+    "scraped_at": "2026-02-10T05:41:36.714084Z",
+    "first_discovered": "2026-02-10T05:46:28.985145+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
