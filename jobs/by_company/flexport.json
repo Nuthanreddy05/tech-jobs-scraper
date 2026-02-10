@@ -530,5 +530,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Flexport",
+    "title": "Software Engineer I, Finance",
+    "location": "San Francisco, California, United States",
+    "url": "https://boards.greenhouse.io/flexport/jobs/7354795?gh_jid=7354795",
+    "job_id": "7354795",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7354795",
+    "posted_at": "2026-02-09T19:12:08-05:00",
+    "scraped_at": "2026-02-10T03:18:45.608041Z",
+    "first_discovered": "2026-02-10T03:21:18.643103+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
