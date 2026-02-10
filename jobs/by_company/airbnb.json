@@ -207,5 +207,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Analyst, Revenue Forecasting",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7540205?gh_jid=7540205",
+    "job_id": "7540205",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7540205",
+    "posted_at": "2026-02-10T13:14:57-05:00",
+    "scraped_at": "2026-02-10T19:16:42.840877Z",
+    "first_discovered": "2026-02-10T19:22:18.336499+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

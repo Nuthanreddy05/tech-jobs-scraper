@@ -3247,5 +3247,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Senior Technical Support Engineer",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5037954007",
+    "job_id": "5037954007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5037954007",
+    "posted_at": "2026-02-10T12:30:09-05:00",
+    "scraped_at": "2026-02-10T19:18:31.977956Z",
+    "first_discovered": "2026-02-10T19:22:18.336499+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

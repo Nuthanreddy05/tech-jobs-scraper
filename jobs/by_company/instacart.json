@@ -131,5 +131,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Analytics Engineer, Lifecycle Efficiency",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "url": "https://instacart.careers/job/?gh_jid=7603074",
+    "job_id": "7603074",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7603074",
+    "posted_at": "2026-02-10T13:46:38-05:00",
+    "scraped_at": "2026-02-10T19:17:25.393674Z",
+    "first_discovered": "2026-02-10T19:22:18.336499+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Analytics Engineer, Lifecycle Efficiency",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7603076",
+    "job_id": "7603076",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7603076",
+    "posted_at": "2026-02-10T13:46:39-05:00",
+    "scraped_at": "2026-02-10T19:17:25.393679Z",
+    "first_discovered": "2026-02-10T19:22:18.336499+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

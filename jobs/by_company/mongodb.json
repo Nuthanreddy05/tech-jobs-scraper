@@ -492,5 +492,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Lead, Engineering",
+    "location": "Toronto",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7523899",
+    "job_id": "7523899",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7523899",
+    "posted_at": "2026-02-10T12:26:28-05:00",
+    "scraped_at": "2026-02-10T19:17:35.723013Z",
+    "first_discovered": "2026-02-10T19:22:18.336499+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Data Analyst II, Growth",
+    "location": "Atlanta; Boston; Chicago; Conshohocken; Miami; Philadelphia; United States; Washington DC",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7532424",
+    "job_id": "7532424",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7532424",
+    "posted_at": "2026-02-10T13:01:32-05:00",
+    "scraped_at": "2026-02-10T19:17:35.723405Z",
+    "first_discovered": "2026-02-10T19:22:18.336499+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -796,5 +796,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Plaid",
+    "title": "Customer Engineering and Support (CES) Operations Leader",
+    "location": "United States",
+    "url": "https://jobs.lever.co/plaid/7b9db23f-8687-4bdc-bd75-170f6d8d622f",
+    "job_id": "7b9db23f-8687-4bdc-bd75-170f6d8d622f",
+    "team": "Business Operations",
+    "commitment": "Full-time",
+    "description": "<div><span style=\"font-size: 16px\">We believe that the way people interact with their finances will drastically improve in the next few years. We\u2019re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid\u2019s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Washington D.C., London and Amsterdam.</span></div><div><br></div><div>The Customer Engineering &amp; Support (CES) Operations team sits at the center of how we scale world-class customer experiences. As the CES Operations Leader, you will own the strategy and execution of CES Ops globally. You\u2019ll lead a team that spans across product operations, customer experience engineering, technical enablement, and org development. You\u2019ll partner closely with leaders in CES, Product, Engineering, and GTM to improve customer outcomes, efficiency, and quality across our customer-facing teams.</div><div><br></div>",
+    "portal": "lever",
+    "posted_at": "1770329028282",
+    "scraped_at": "2026-02-10T19:20:18.931620Z",
+    "first_discovered": "2026-02-10T19:22:18.336499+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
