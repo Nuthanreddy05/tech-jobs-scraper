@@ -1005,5 +1005,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Data Engineer, Corporate Data & Analytics",
+    "location": "Ukraine Anywhere",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8414150002?gh_jid=8414150002",
+    "job_id": "8414150002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8414150002",
+    "posted_at": "2026-02-10T03:26:07-05:00",
+    "scraped_at": "2026-02-10T09:07:31.831976Z",
+    "first_discovered": "2026-02-10T09:10:13.858759+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
