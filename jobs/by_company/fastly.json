@@ -321,5 +321,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Fastly",
+    "title": "Staff Engineer - PKI Systems",
+    "location": "Denver, CO; New York City, NY; San Francisco, CA",
+    "url": "https://www.fastly.com/about/jobs/apply?gh_jid=7586879",
+    "job_id": "7586879",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7586879",
+    "posted_at": "2026-02-10T11:36:54-05:00",
+    "scraped_at": "2026-02-10T17:13:24.681016Z",
+    "first_discovered": "2026-02-10T17:17:36.635597+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
