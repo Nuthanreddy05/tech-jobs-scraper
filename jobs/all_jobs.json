@@ -54653,5 +54653,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Customer Solutions Engineer",
+    "location": "Hybrid; In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7504381?gh_jid=7504381",
+    "job_id": "7504381",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7504381",
+    "posted_at": "2026-02-10T06:17:19-05:00",
+    "scraped_at": "2026-02-10T13:42:58.554823Z",
+    "first_discovered": "2026-02-10T13:47:48.995734+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Frontend Engineer, AI Crawl Control ",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7591586?gh_jid=7591586",
+    "job_id": "7591586",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7591586",
+    "posted_at": "2026-02-10T06:10:49-05:00",
+    "scraped_at": "2026-02-10T13:42:58.555266Z",
+    "first_discovered": "2026-02-10T13:47:48.995734+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
