@@ -150,5 +150,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Robinhood",
+    "title": "Engineering Manager, Capacity and Efficiency",
+    "location": "Bellevue, WA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7603848?t=gh_src=&gh_jid=7603848",
+    "job_id": "7603848",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7603848",
+    "posted_at": "2026-02-10T16:30:34-05:00",
+    "scraped_at": "2026-02-10T21:53:15.086941Z",
+    "first_discovered": "2026-02-10T21:58:22.985895+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
