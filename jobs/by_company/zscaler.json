@@ -3361,5 +3361,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Senior Intelligence Analyst (Capabilities Developer)",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5012363007",
+    "job_id": "5012363007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5012363007",
+    "posted_at": "2026-02-11T11:48:12-05:00",
+    "scraped_at": "2026-02-11T17:13:24.723558Z",
+    "first_discovered": "2026-02-11T17:17:01.936684+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Staff DevOps Engineer- Federal",
+    "location": "Bellevue, Washington, USA; San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5049847007",
+    "job_id": "5049847007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5049847007",
+    "posted_at": "2026-02-11T11:33:28-05:00",
+    "scraped_at": "2026-02-11T17:13:24.724090Z",
+    "first_discovered": "2026-02-11T17:17:01.936684+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -283,5 +283,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Engineering Manager - Workplace AI - Search",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7607123&gh_jid=7607123",
+    "job_id": "7607123",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7607123",
+    "posted_at": "2026-02-11T10:43:38-05:00",
+    "scraped_at": "2026-02-11T17:12:34.383048Z",
+    "first_discovered": "2026-02-11T17:17:01.936684+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

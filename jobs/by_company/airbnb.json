@@ -264,5 +264,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Data Science, Algorithms - Customer Support",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7606783?gh_jid=7606783",
+    "job_id": "7606783",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7606783",
+    "posted_at": "2026-02-11T11:21:02-05:00",
+    "scraped_at": "2026-02-11T17:11:36.397633Z",
+    "first_discovered": "2026-02-11T17:17:01.936684+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Staff Machine Learning Engineer, Community Support Engineering",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/6757302?gh_jid=6757302",
+    "job_id": "6757302",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6757302",
+    "posted_at": "2026-02-11T11:29:52-05:00",
+    "scraped_at": "2026-02-11T17:11:36.398457Z",
+    "first_discovered": "2026-02-11T17:17:01.936684+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
