@@ -1233,5 +1233,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "GitLab",
+    "title": "Customer Success Engineer - APJ",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8415074002",
+    "job_id": "8415074002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8415074002",
+    "posted_at": "2026-02-11T01:39:13-05:00",
+    "scraped_at": "2026-02-11T07:14:52.447590Z",
+    "first_discovered": "2026-02-11T07:18:57.756185+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
