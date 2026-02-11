@@ -302,5 +302,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Machine Learning Engineer, Relevance and Personalization",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7258033?gh_jid=7258033",
+    "job_id": "7258033",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7258033",
+    "posted_at": "2026-02-11T13:04:12-05:00",
+    "scraped_at": "2026-02-11T19:13:29.073042Z",
+    "first_discovered": "2026-02-11T19:19:01.575026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Staff Machine Learning Engineer, Relevance and Personalization",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7450356?gh_jid=7450356",
+    "job_id": "7450356",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7450356",
+    "posted_at": "2026-02-11T13:04:47-05:00",
+    "scraped_at": "2026-02-11T19:13:29.073483Z",
+    "first_discovered": "2026-02-11T19:19:01.575026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

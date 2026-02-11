@@ -2810,5 +2810,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Mobile Engineer, Member Growth",
+    "location": "WA - Seattle; CA - San Francisco HQ",
+    "url": "https://sofi.com/careers/job/7583518003?gh_jid=7583518003",
+    "job_id": "7583518003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7583518003",
+    "posted_at": "2026-02-11T12:40:56-05:00",
+    "scraped_at": "2026-02-11T19:15:33.249353Z",
+    "first_discovered": "2026-02-11T19:19:01.575026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Software Engineer, Loans Originations",
+    "location": "Helena, Montana",
+    "url": "https://sofi.com/careers/job/7616182003?gh_jid=7616182003",
+    "job_id": "7616182003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7616182003",
+    "posted_at": "2026-02-11T13:24:28-05:00",
+    "scraped_at": "2026-02-11T19:15:33.250003Z",
+    "first_discovered": "2026-02-11T19:19:01.575026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

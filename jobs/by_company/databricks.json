@@ -226,5 +226,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Analyst, Business Operations",
+    "location": "Costa Rica",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8397499002",
+    "job_id": "8397499002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8397499002",
+    "posted_at": "2026-02-11T13:40:18-05:00",
+    "scraped_at": "2026-02-11T19:13:33.267770Z",
+    "first_discovered": "2026-02-11T19:19:01.575026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

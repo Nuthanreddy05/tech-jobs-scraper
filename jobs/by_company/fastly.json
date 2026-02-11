@@ -340,5 +340,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Fastly",
+    "title": "Staff Engineer - API Services",
+    "location": "Denver, CO; New York City, NY; San Francisco, CA",
+    "url": "https://www.fastly.com/about/jobs/apply?gh_jid=7595468",
+    "job_id": "7595468",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7595468",
+    "posted_at": "2026-02-11T12:17:53-05:00",
+    "scraped_at": "2026-02-11T19:14:58.309656Z",
+    "first_discovered": "2026-02-11T19:19:01.575026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
