@@ -3285,5 +3285,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Principal Sales Engineer - SecOps",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5030571007",
+    "job_id": "5030571007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5030571007",
+    "posted_at": "2026-02-10T20:09:31-05:00",
+    "scraped_at": "2026-02-11T02:59:26.031751Z",
+    "first_discovered": "2026-02-11T03:03:43.046914+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Senior Sales Engineer - Healthcare, Chicago",
+    "location": "Remote - Illinois, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5043546007",
+    "job_id": "5043546007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5043546007",
+    "posted_at": "2026-02-10T21:55:12-05:00",
+    "scraped_at": "2026-02-11T02:59:26.032190Z",
+    "first_discovered": "2026-02-11T03:03:43.046914+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

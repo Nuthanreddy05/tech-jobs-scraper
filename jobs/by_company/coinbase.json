@@ -872,5 +872,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend - Platform (FinHub - Transfers)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7482100?gh_jid=7482100",
+    "job_id": "7482100",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7482100",
+    "posted_at": "2026-02-10T19:35:17-05:00",
+    "scraped_at": "2026-02-11T02:58:08.085092Z",
+    "first_discovered": "2026-02-11T03:03:43.046914+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "U.S. Compliance Manager and Deputy BSA/AML Officer",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7597086?gh_jid=7597086",
+    "job_id": "7597086",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7597086",
+    "posted_at": "2026-02-10T19:20:08-05:00",
+    "scraped_at": "2026-02-11T02:58:08.085347Z",
+    "first_discovered": "2026-02-11T03:03:43.046914+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

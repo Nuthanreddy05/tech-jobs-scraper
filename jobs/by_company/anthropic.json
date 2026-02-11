@@ -663,5 +663,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Engineering Manager - Data Warehouse Infrastructure",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5095627008",
+    "job_id": "5095627008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5095627008",
+    "posted_at": "2026-02-10T20:27:47-05:00",
+    "scraped_at": "2026-02-11T02:57:23.604981Z",
+    "first_discovered": "2026-02-11T03:03:43.046914+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Protective Intelligence Analyst",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5114931008",
+    "job_id": "5114931008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5114931008",
+    "posted_at": "2026-02-10T19:46:39-05:00",
+    "scraped_at": "2026-02-11T02:57:23.605846Z",
+    "first_discovered": "2026-02-11T03:03:43.046914+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -245,5 +245,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Software Engineer, Booking Orchestration",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7387936?gh_jid=7387936",
+    "job_id": "7387936",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7387936",
+    "posted_at": "2026-02-10T19:00:49-05:00",
+    "scraped_at": "2026-02-11T02:57:38.742652Z",
+    "first_discovered": "2026-02-11T03:03:43.046914+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
