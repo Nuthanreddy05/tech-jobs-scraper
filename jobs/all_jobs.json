@@ -56021,5 +56021,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Lead, Engineering",
+    "location": "Dublin",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7597269",
+    "job_id": "7597269",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7597269",
+    "posted_at": "2026-02-11T09:49:09-05:00",
+    "scraped_at": "2026-02-11T15:02:46.099092Z",
+    "first_discovered": "2026-02-11T15:07:45.421196+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
