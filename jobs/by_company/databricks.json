@@ -283,5 +283,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Specialist Solutions Architect - AI Tooling & System Management",
+    "location": "Northeast - United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8409019002",
+    "job_id": "8409019002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8409019002",
+    "posted_at": "2026-02-11T18:15:49-05:00",
+    "scraped_at": "2026-02-11T23:40:22.487366Z",
+    "first_discovered": "2026-02-11T23:45:56.847162+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
