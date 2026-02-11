@@ -245,5 +245,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8419271002",
+    "job_id": "8419271002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8419271002",
+    "posted_at": "2026-02-11T15:18:55-05:00",
+    "scraped_at": "2026-02-11T20:49:04.892682Z",
+    "first_discovered": "2026-02-11T20:54:40.942641+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Forward Deployed Engineer (FDE)",
+    "location": "United States; USCA",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8251094002",
+    "job_id": "8251094002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8251094002",
+    "posted_at": "2026-02-11T15:25:28-05:00",
+    "scraped_at": "2026-02-11T20:49:04.893411Z",
+    "first_discovered": "2026-02-11T20:54:40.942641+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

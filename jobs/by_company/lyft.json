@@ -1024,5 +1024,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8403370002?gh_jid=8403370002",
+    "job_id": "8403370002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8403370002",
+    "posted_at": "2026-02-11T14:44:32-05:00",
+    "scraped_at": "2026-02-11T20:51:43.458239Z",
+    "first_discovered": "2026-02-11T20:54:40.942641+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Applied Scientist- Pricing, Dynamic Pricing & Offer Selection",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8402813002?gh_jid=8402813002",
+    "job_id": "8402813002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8402813002",
+    "posted_at": "2026-02-11T14:44:31-05:00",
+    "scraped_at": "2026-02-11T20:51:43.458244Z",
+    "first_discovered": "2026-02-11T20:54:40.942641+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

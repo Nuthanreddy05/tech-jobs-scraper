@@ -1917,5 +1917,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Paid Media Intern (Summer 2026)",
+    "location": "Chicago, Illinois; San Francisco, California",
+    "url": "https://www.okta.com/company/careers/opportunity/7607650?gh_jid=7607650",
+    "job_id": "7607650",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7607650",
+    "posted_at": "2026-02-11T15:21:43-05:00",
+    "scraped_at": "2026-02-11T20:50:14.688248Z",
+    "first_discovered": "2026-02-11T20:54:40.942641+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

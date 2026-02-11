@@ -1271,5 +1271,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7605743",
+    "job_id": "7605743",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7605743",
+    "posted_at": "2026-02-11T14:21:18-05:00",
+    "scraped_at": "2026-02-11T20:50:12.643920Z",
+    "first_discovered": "2026-02-11T20:54:40.942641+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
