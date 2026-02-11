@@ -359,5 +359,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Staff Backend Engineer - Hosting Services",
+    "location": "Remote - USA",
+    "url": "https://careers.airbnb.com/positions/7609100?gh_jid=7609100",
+    "job_id": "7609100",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7609100",
+    "posted_at": "2026-02-11T17:21:01-05:00",
+    "scraped_at": "2026-02-11T22:38:02.017025Z",
+    "first_discovered": "2026-02-11T22:43:22.175932+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

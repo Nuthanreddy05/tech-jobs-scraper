@@ -1138,5 +1138,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Revenue Strategy Analyst",
+    "location": "Chicago",
+    "url": "https://www.asana.com/jobs/apply/7587490?gh_jid=7587490",
+    "job_id": "7587490",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7587490",
+    "posted_at": "2026-02-11T17:31:07-05:00",
+    "scraped_at": "2026-02-11T22:40:25.889676Z",
+    "first_discovered": "2026-02-11T22:43:22.175932+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
