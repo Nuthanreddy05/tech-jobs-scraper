@@ -1062,5 +1062,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Staff Software Engineer, Backend (Institutional - Foundations)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7584265?gh_jid=7584265",
+    "job_id": "7584265",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7584265",
+    "posted_at": "2026-02-12T17:45:21-05:00",
+    "scraped_at": "2026-02-12T23:37:53.290206Z",
+    "first_discovered": "2026-02-12T23:43:26.022470+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

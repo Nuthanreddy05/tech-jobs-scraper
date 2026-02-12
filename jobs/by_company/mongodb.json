@@ -625,5 +625,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Staff Software Engineer, Query (Optimization)",
+    "location": "Boston",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7602834",
+    "job_id": "7602834",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7602834",
+    "posted_at": "2026-02-12T18:06:13-05:00",
+    "scraped_at": "2026-02-12T23:38:22.988138Z",
+    "first_discovered": "2026-02-12T23:43:26.022470+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

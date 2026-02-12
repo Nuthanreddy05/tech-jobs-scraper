@@ -777,5 +777,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Machine Learning Engineer",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7603839?gh_jid=7603839",
+    "job_id": "7603839",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7603839",
+    "posted_at": "2026-02-12T17:49:52-05:00",
+    "scraped_at": "2026-02-12T23:38:18.735796Z",
+    "first_discovered": "2026-02-12T23:43:26.022470+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

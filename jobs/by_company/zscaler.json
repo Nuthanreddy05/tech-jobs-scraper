@@ -3437,5 +3437,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Salesforce Developer",
+    "location": "San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5033203007",
+    "job_id": "5033203007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5033203007",
+    "posted_at": "2026-02-12T17:57:46-05:00",
+    "scraped_at": "2026-02-12T23:39:15.844346Z",
+    "first_discovered": "2026-02-12T23:43:26.022470+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
