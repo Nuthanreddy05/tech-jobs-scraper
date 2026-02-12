@@ -397,5 +397,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Customer Success Manager - Dubai",
+    "location": "Dubai, United Arab Emirates",
+    "url": "https://careers.datadoghq.com/detail/7594803/?gh_jid=7594803",
+    "job_id": "7594803",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7594803",
+    "posted_at": "2026-02-12T17:38:51-05:00",
+    "scraped_at": "2026-02-12T22:40:06.671592Z",
+    "first_discovered": "2026-02-12T22:44:47.516740+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -226,5 +226,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Roblox",
+    "title": "Senior Rendering Engineer",
+    "location": "San Mateo, CA, United States; Vancouver, British Columbia, Canada",
+    "url": "https://careers.roblox.com/jobs/7595020?gh_jid=7595020",
+    "job_id": "7595020",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7595020",
+    "posted_at": "2026-02-12T16:59:39-05:00",
+    "scraped_at": "2026-02-12T22:40:18.373974Z",
+    "first_discovered": "2026-02-12T22:44:47.516740+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
