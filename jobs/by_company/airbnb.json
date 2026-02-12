@@ -435,5 +435,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Software Engineer, Network Infrastructure",
+    "location": "Remote - USA",
+    "url": "https://careers.airbnb.com/positions/7609564?gh_jid=7609564",
+    "job_id": "7609564",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7609564",
+    "posted_at": "2026-02-12T12:31:03-05:00",
+    "scraped_at": "2026-02-12T17:59:31.688812Z",
+    "first_discovered": "2026-02-12T18:05:08.889854+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

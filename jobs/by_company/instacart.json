@@ -245,5 +245,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Software Engineering Manager, Ads Manager",
+    "location": "Canada - Remote (ON, AB, BC and NS Only) ",
+    "url": "https://instacart.careers/job/?gh_jid=7611257",
+    "job_id": "7611257",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7611257",
+    "posted_at": "2026-02-12T12:16:41-05:00",
+    "scraped_at": "2026-02-12T18:00:16.794565Z",
+    "first_discovered": "2026-02-12T18:05:08.889854+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
