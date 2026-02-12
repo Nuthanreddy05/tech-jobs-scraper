@@ -302,5 +302,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Senior Enablement Program Manager, AI Transformation",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8399570002",
+    "job_id": "8399570002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8399570002",
+    "posted_at": "2026-02-12T13:43:24-05:00",
+    "scraped_at": "2026-02-12T19:17:21.712992Z",
+    "first_discovered": "2026-02-12T19:22:58.276825+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

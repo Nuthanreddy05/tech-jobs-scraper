@@ -1157,5 +1157,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Staff Data Scientist, Marketing",
+    "location": "New York City",
+    "url": "https://www.asana.com/jobs/apply/7612064?gh_jid=7612064",
+    "job_id": "7612064",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7612064",
+    "posted_at": "2026-02-12T14:12:18-05:00",
+    "scraped_at": "2026-02-12T19:19:53.638238Z",
+    "first_discovered": "2026-02-12T19:22:58.276825+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

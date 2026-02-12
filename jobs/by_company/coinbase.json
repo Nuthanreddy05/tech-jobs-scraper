@@ -1005,5 +1005,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "CCO & MLRO, Bermuda",
+    "location": "Remote - Bermuda; Remote - Ireland; Remote - UK; Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7609636?gh_jid=7609636",
+    "job_id": "7609636",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7609636",
+    "posted_at": "2026-02-12T13:59:14-05:00",
+    "scraped_at": "2026-02-12T19:17:57.583559Z",
+    "first_discovered": "2026-02-12T19:22:58.276825+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
