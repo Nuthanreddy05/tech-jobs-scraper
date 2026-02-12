@@ -340,5 +340,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Security Analyst - Customer Trust",
+    "location": "New York, New York, USA; New York, USA, Remote",
+    "url": "https://careers.datadoghq.com/detail/7607669/?gh_jid=7607669",
+    "job_id": "7607669",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7607669",
+    "posted_at": "2026-02-12T10:16:18-05:00",
+    "scraped_at": "2026-02-12T16:02:27.876944Z",
+    "first_discovered": "2026-02-12T16:07:06.337650+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Software Engineer \u2013 Feature Flags (Rust) (Lisbon)",
+    "location": "Lisbon, Portugal",
+    "url": "https://careers.datadoghq.com/detail/7610638/?gh_jid=7610638",
+    "job_id": "7610638",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7610638",
+    "posted_at": "2026-02-12T10:28:18-05:00",
+    "scraped_at": "2026-02-12T16:02:27.877076Z",
+    "first_discovered": "2026-02-12T16:07:06.337650+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
