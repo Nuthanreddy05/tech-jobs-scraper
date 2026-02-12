@@ -58074,5 +58074,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Manager, Field Engineering",
+    "location": "Central - United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8417699002",
+    "job_id": "8417699002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8417699002",
+    "posted_at": "2026-02-12T16:27:07-05:00",
+    "scraped_at": "2026-02-12T21:41:37.464695Z",
+    "first_discovered": "2026-02-12T21:46:49.921752+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "PagerDuty",
+    "title": "Site Reliability Engineer II",
+    "location": "Toronto",
+    "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5792400004",
+    "job_id": "5792400004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5792400004",
+    "posted_at": "2026-02-12T15:58:34-05:00",
+    "scraped_at": "2026-02-12T21:43:08.597545Z",
+    "first_discovered": "2026-02-12T21:46:49.921752+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
