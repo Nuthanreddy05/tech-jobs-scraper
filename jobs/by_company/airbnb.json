@@ -454,5 +454,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Software Engineer, Trust ",
+    "location": "Remote, USA ",
+    "url": "https://careers.airbnb.com/positions/7612127?gh_jid=7612127",
+    "job_id": "7612127",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7612127",
+    "posted_at": "2026-02-12T14:59:20-05:00",
+    "scraped_at": "2026-02-12T20:43:30.504776Z",
+    "first_discovered": "2026-02-12T20:48:46.987833+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

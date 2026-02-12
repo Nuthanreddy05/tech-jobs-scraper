@@ -530,5 +530,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Engineering Program Manager, Operations",
+    "location": "Dublin",
+    "url": "https://stripe.com/jobs/search?gh_jid=7571207",
+    "job_id": "7571207",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7571207",
+    "posted_at": "2026-02-12T15:11:15-05:00",
+    "scraped_at": "2026-02-12T20:43:32.563545Z",
+    "first_discovered": "2026-02-12T20:48:46.987833+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -1024,5 +1024,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Product Designer (AI Advisor) ",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7611090?gh_jid=7611090",
+    "job_id": "7611090",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7611090",
+    "posted_at": "2026-02-12T14:22:25-05:00",
+    "scraped_at": "2026-02-12T20:43:58.405541Z",
+    "first_discovered": "2026-02-12T20:48:46.987833+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

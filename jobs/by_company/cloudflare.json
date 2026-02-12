@@ -758,5 +758,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "GTM Financial Analyst",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7538183?gh_jid=7538183",
+    "job_id": "7538183",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7538183",
+    "posted_at": "2026-02-12T15:00:11-05:00",
+    "scraped_at": "2026-02-12T20:44:19.269335Z",
+    "first_discovered": "2026-02-12T20:48:46.987833+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
