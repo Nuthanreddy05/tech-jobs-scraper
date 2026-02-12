@@ -57199,5 +57199,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Staff Software Engineer, Network Infrastructure",
+    "location": "Remote - USA",
+    "url": "https://careers.airbnb.com/positions/7600470?gh_jid=7600470",
+    "job_id": "7600470",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7600470",
+    "posted_at": "2026-02-11T23:37:22-05:00",
+    "scraped_at": "2026-02-12T05:04:39.301401Z",
+    "first_discovered": "2026-02-12T05:10:04.978281+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
