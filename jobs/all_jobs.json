@@ -57161,5 +57161,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior iOS Automation Engineer, Quality Engineering",
+    "location": "Brazil - Remote",
+    "url": "https://careers.airbnb.com/positions/7453190?gh_jid=7453190",
+    "job_id": "7453190",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7453190",
+    "posted_at": "2026-02-11T19:06:24-05:00",
+    "scraped_at": "2026-02-12T02:53:11.597029Z",
+    "first_discovered": "2026-02-12T02:58:37.952765+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Machine Learning Platform Engineer (Platform)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7604203?gh_jid=7604203",
+    "job_id": "7604203",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7604203",
+    "posted_at": "2026-02-11T20:26:38-05:00",
+    "scraped_at": "2026-02-12T02:53:41.189064Z",
+    "first_discovered": "2026-02-12T02:58:37.952765+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
