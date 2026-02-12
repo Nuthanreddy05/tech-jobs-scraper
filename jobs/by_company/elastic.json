@@ -340,5 +340,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Full Stack Technical Developer",
+    "location": "Costa Rica",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7607150&gh_jid=7607150",
+    "job_id": "7607150",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7607150",
+    "posted_at": "2026-02-12T09:21:56-05:00",
+    "scraped_at": "2026-02-12T14:56:51.371350Z",
+    "first_discovered": "2026-02-12T15:01:23.503732+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Sr. Application Engineer",
+    "location": "Costa Rica",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7607172&gh_jid=7607172",
+    "job_id": "7607172",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7607172",
+    "posted_at": "2026-02-12T09:25:35-05:00",
+    "scraped_at": "2026-02-12T14:56:51.372101Z",
+    "first_discovered": "2026-02-12T15:01:23.503732+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

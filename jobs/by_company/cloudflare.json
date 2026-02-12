@@ -701,5 +701,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Software Engineer (Backend)",
+    "location": "In-Office",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7603643?gh_jid=7603643",
+    "job_id": "7603643",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7603643",
+    "posted_at": "2026-02-12T08:43:14-05:00",
+    "scraped_at": "2026-02-12T14:56:45.227726Z",
+    "first_discovered": "2026-02-12T15:01:23.503732+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
