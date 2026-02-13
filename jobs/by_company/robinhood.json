@@ -169,5 +169,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Robinhood",
+    "title": "Software Engineer, Cloud Engineering",
+    "location": "Ljubljana, Slovenia",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7589432?t=gh_src=&gh_jid=7589432",
+    "job_id": "7589432",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7589432",
+    "posted_at": "2026-02-13T14:50:23-05:00",
+    "scraped_at": "2026-02-13T20:50:09.105370Z",
+    "first_discovered": "2026-02-13T20:55:16.104600+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

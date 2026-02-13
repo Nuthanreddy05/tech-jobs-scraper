@@ -435,5 +435,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Engineering Manager - Compute Infra",
+    "location": "Bellevue, Washington",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8422918002",
+    "job_id": "8422918002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8422918002",
+    "posted_at": "2026-02-13T14:33:06-05:00",
+    "scraped_at": "2026-02-13T20:49:48.656927Z",
+    "first_discovered": "2026-02-13T20:55:16.104600+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr Technical Solutions Engineer, Platform",
+    "location": "Amsterdam, Netherlands",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8421122002",
+    "job_id": "8421122002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8421122002",
+    "posted_at": "2026-02-13T14:36:39-05:00",
+    "scraped_at": "2026-02-13T20:49:48.659463Z",
+    "first_discovered": "2026-02-13T20:55:16.104600+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
