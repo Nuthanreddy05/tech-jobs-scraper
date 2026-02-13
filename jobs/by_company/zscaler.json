@@ -3456,5 +3456,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Sr. Staff Platform Engineer-DevOps",
+    "location": "Bellevue, Washington, USA; San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5052627007",
+    "job_id": "5052627007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5052627007",
+    "posted_at": "2026-02-13T13:56:38-05:00",
+    "scraped_at": "2026-02-13T19:03:05.747500Z",
+    "first_discovered": "2026-02-13T19:06:49.062164+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Sr. Staff Platform Engineer- Kubernetes",
+    "location": "Bellevue, Washington, USA; San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5042245007",
+    "job_id": "5042245007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5042245007",
+    "posted_at": "2026-02-13T13:55:15-05:00",
+    "scraped_at": "2026-02-13T19:03:05.747504Z",
+    "first_discovered": "2026-02-13T19:06:49.062164+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

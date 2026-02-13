@@ -872,5 +872,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Technical Support Engineer, Application Performance",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7612087?gh_jid=7612087",
+    "job_id": "7612087",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7612087",
+    "posted_at": "2026-02-13T13:16:46-05:00",
+    "scraped_at": "2026-02-13T19:02:09.057944Z",
+    "first_discovered": "2026-02-13T19:06:49.062164+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Technical Support Engineer, Application Performance",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7612030?gh_jid=7612030",
+    "job_id": "7612030",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7612030",
+    "posted_at": "2026-02-13T13:12:02-05:00",
+    "scraped_at": "2026-02-13T19:02:09.058626Z",
+    "first_discovered": "2026-02-13T19:06:49.062164+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

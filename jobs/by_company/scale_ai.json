@@ -207,5 +207,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Scale AI",
+    "title": "Software Engineer, Platform",
+    "location": "San Francisco, CA; Seattle, WA; New York, NY",
+    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4594879005",
+    "job_id": "4594879005",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4594879005",
+    "posted_at": "2026-02-13T13:11:01-05:00",
+    "scraped_at": "2026-02-13T19:01:09.060824Z",
+    "first_discovered": "2026-02-13T19:06:49.062164+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
