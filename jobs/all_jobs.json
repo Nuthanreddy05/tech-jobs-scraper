@@ -58530,5 +58530,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "F&S COE Analyst",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7597613",
+    "job_id": "7597613",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7597613",
+    "posted_at": "2026-02-13T03:18:35-05:00",
+    "scraped_at": "2026-02-13T08:54:23.056447Z",
+    "first_discovered": "2026-02-13T08:59:44.007728+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Solutions Engineer, Nordics",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7610071?gh_jid=7610071",
+    "job_id": "7610071",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7610071",
+    "posted_at": "2026-02-13T03:44:07-05:00",
+    "scraped_at": "2026-02-13T08:55:07.842912Z",
+    "first_discovered": "2026-02-13T08:59:44.007728+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
