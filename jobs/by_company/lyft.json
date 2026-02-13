@@ -1062,5 +1062,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Security Engineer, CorpSec",
+    "location": "Mexico City, Mexico",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8421525002?gh_jid=8421525002",
+    "job_id": "8421525002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8421525002",
+    "posted_at": "2026-02-13T09:49:25-05:00",
+    "scraped_at": "2026-02-13T14:53:55.505311Z",
+    "first_discovered": "2026-02-13T14:56:38.894605+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

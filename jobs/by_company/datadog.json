@@ -416,5 +416,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Enterprise Sales Engineer - Poland",
+    "location": "Poland, Remote",
+    "url": "https://careers.datadoghq.com/detail/7610352/?gh_jid=7610352",
+    "job_id": "7610352",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7610352",
+    "posted_at": "2026-02-13T09:32:52-05:00",
+    "scraped_at": "2026-02-13T14:51:59.265685Z",
+    "first_discovered": "2026-02-13T14:56:38.894605+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Manager I, Engineering - AI Platform - Annotation & Evaluation",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7613808/?gh_jid=7613808",
+    "job_id": "7613808",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7613808",
+    "posted_at": "2026-02-13T09:06:25-05:00",
+    "scraped_at": "2026-02-13T14:51:59.266060Z",
+    "first_discovered": "2026-02-13T14:56:38.894605+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

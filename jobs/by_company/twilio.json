@@ -1309,5 +1309,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Government, Policy & Regulatory Affairs Manager, EMEA",
+    "location": "Remote - United Kingdom",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7611343",
+    "job_id": "7611343",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7611343",
+    "posted_at": "2026-02-13T09:34:08-05:00",
+    "scraped_at": "2026-02-13T14:52:23.576771Z",
+    "first_discovered": "2026-02-13T14:56:38.894605+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
