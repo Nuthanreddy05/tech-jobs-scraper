@@ -549,5 +549,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Opendoor",
+    "title": "Agentic Analytics Engineer",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.opendoor.com/careers/open-positions?gh_jid=4653291006",
+    "job_id": "4653291006",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4653291006",
+    "posted_at": "2026-02-12T19:49:26-05:00",
+    "scraped_at": "2026-02-13T02:56:18.199370Z",
+    "first_discovered": "2026-02-13T02:58:54.303544+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
