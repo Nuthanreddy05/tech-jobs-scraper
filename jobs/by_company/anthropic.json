@@ -1081,5 +1081,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "[Pipeline] Senior Software Engineer, Systems\u00a0",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5110532008",
+    "job_id": "5110532008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5110532008",
+    "posted_at": "2026-02-13T17:39:17-05:00",
+    "scraped_at": "2026-02-13T22:40:50.186520Z",
+    "first_discovered": "2026-02-13T22:46:33.681916+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "[Pipeline] Staff+ Software Engineer, Systems",
+    "location": "San Francisco, CA | New York City, NY | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5108817008",
+    "job_id": "5108817008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5108817008",
+    "posted_at": "2026-02-13T17:36:57-05:00",
+    "scraped_at": "2026-02-13T22:40:50.186526Z",
+    "first_discovered": "2026-02-13T22:46:33.681916+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
