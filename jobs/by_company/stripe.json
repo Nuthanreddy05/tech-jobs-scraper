@@ -606,5 +606,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Account Executive, AI Sales",
+    "location": "San Francisco, CA",
+    "url": "https://stripe.com/jobs/search?gh_jid=7546284",
+    "job_id": "7546284",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7546284",
+    "posted_at": "2026-02-13T12:39:30-05:00",
+    "scraped_at": "2026-02-13T17:49:48.085486Z",
+    "first_discovered": "2026-02-13T17:55:09.658764+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
