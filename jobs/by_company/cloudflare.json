@@ -815,5 +815,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Customer Solutions Engineer",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7612243?gh_jid=7612243",
+    "job_id": "7612243",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7612243",
+    "posted_at": "2026-02-13T06:48:00-05:00",
+    "scraped_at": "2026-02-13T13:18:40.791490Z",
+    "first_discovered": "2026-02-13T13:23:17.277542+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
