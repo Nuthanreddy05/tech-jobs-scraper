@@ -359,5 +359,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "LaunchDarkly",
+    "title": "Fullstack Software Engineer Intern",
+    "location": "Oakland, California, United States",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7632240003",
+    "job_id": "7632240003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7632240003",
+    "posted_at": "2026-02-13T18:02:03-05:00",
+    "scraped_at": "2026-02-13T23:39:43.002218Z",
+    "first_discovered": "2026-02-13T23:43:24.583027+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

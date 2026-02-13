@@ -321,5 +321,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Roblox",
+    "title": "Senior Talent Business Partner, Early Career - AI/ML PhD",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7616745?gh_jid=7616745",
+    "job_id": "7616745",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7616745",
+    "posted_at": "2026-02-13T18:37:21-05:00",
+    "scraped_at": "2026-02-13T23:39:06.147185Z",
+    "first_discovered": "2026-02-13T23:43:24.583027+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -36,5 +36,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Webflow",
+    "title": "AI Product Owner",
+    "location": "U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/7590400",
+    "job_id": "7590400",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7590400",
+    "posted_at": "2026-02-13T18:29:06-05:00",
+    "scraped_at": "2026-02-13T23:39:10.232140Z",
+    "first_discovered": "2026-02-13T23:43:24.583027+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

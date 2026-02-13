@@ -2525,5 +2525,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Senior Product Manager, Card Platform",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7624640003",
+    "job_id": "7624640003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7624640003",
+    "posted_at": "2026-02-13T18:16:23-05:00",
+    "scraped_at": "2026-02-13T23:40:07.549414Z",
+    "first_discovered": "2026-02-13T23:43:24.583027+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Senior Product Manager, Card Platform",
+    "location": "Remote US",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7624638003",
+    "job_id": "7624638003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7624638003",
+    "posted_at": "2026-02-13T18:16:13-05:00",
+    "scraped_at": "2026-02-13T23:40:07.549419Z",
+    "first_discovered": "2026-02-13T23:43:24.583027+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
