@@ -1119,5 +1119,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Design Engineer, Web",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5116525008",
+    "job_id": "5116525008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5116525008",
+    "posted_at": "2026-02-13T19:26:58-05:00",
+    "scraped_at": "2026-02-14T02:40:58.920053Z",
+    "first_discovered": "2026-02-14T02:46:35.973336+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

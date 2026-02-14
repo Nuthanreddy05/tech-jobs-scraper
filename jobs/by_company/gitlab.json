@@ -1252,5 +1252,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "GitLab",
+    "title": "VP of Engineering, Architecture and Transformation",
+    "location": "Remote",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8403472002",
+    "job_id": "8403472002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8403472002",
+    "posted_at": "2026-02-13T19:20:26-05:00",
+    "scraped_at": "2026-02-14T02:42:31.373591Z",
+    "first_discovered": "2026-02-14T02:46:35.973336+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

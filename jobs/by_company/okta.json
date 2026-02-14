@@ -2069,5 +2069,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Business Analyst Intern (Summer 2026)",
+    "location": "Chicago, Illinois",
+    "url": "https://www.okta.com/company/careers/opportunity/7617090?gh_jid=7617090",
+    "job_id": "7617090",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7617090",
+    "posted_at": "2026-02-13T18:48:37-05:00",
+    "scraped_at": "2026-02-14T02:42:27.280170Z",
+    "first_discovered": "2026-02-14T02:46:35.973336+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
