@@ -55,5 +55,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Grammarly",
+    "title": "IT Helpdesk Engineer",
+    "location": "Warsaw; Poland",
+    "url": "https://job-boards.greenhouse.io/grammarly/jobs/7618746",
+    "job_id": "7618746",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7618746",
+    "posted_at": "2026-02-16T07:42:43-05:00",
+    "scraped_at": "2026-02-16T13:21:36.616136Z",
+    "first_discovered": "2026-02-16T13:26:06.568436+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

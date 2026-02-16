@@ -1366,5 +1366,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Associate Application Engineer, Finance\u2028",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7594444",
+    "job_id": "7594444",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7594444",
+    "posted_at": "2026-02-16T08:12:18-05:00",
+    "scraped_at": "2026-02-16T13:21:40.769830Z",
+    "first_discovered": "2026-02-16T13:26:06.568436+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
