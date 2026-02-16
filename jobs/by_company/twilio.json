@@ -1347,5 +1347,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Personalized Support Engineer 2",
+    "location": "Bengaluru, India; Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7594682",
+    "job_id": "7594682",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7594682",
+    "posted_at": "2026-02-16T03:18:24-05:00",
+    "scraped_at": "2026-02-16T09:00:26.012699Z",
+    "first_discovered": "2026-02-16T09:04:32.085003+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
