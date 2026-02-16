@@ -169,5 +169,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Full Stack Product Software Engineer",
+    "location": "Remote - Mexico",
+    "url": "https://jobs.dropbox.com/listing/7172839?gh_jid=7172839",
+    "job_id": "7172839",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7172839",
+    "posted_at": "2026-02-16T06:32:34-05:00",
+    "scraped_at": "2026-02-16T11:45:11.911653Z",
+    "first_discovered": "2026-02-16T11:50:43.464059+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
