@@ -150,5 +150,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Network Engineer",
+    "location": "Passive Posting",
+    "url": "https://jobs.dropbox.com/listing/7536993?gh_jid=7536993",
+    "job_id": "7536993",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7536993",
+    "posted_at": "2026-02-16T04:29:50-05:00",
+    "scraped_at": "2026-02-16T10:06:28.090215Z",
+    "first_discovered": "2026-02-16T10:11:46.554077+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
