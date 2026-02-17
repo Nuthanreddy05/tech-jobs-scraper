@@ -245,5 +245,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer, Data Platform",
+    "location": "Remote - Canada: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7580466?gh_jid=7580466",
+    "job_id": "7580466",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7580466",
+    "posted_at": "2026-02-17T16:41:53-05:00",
+    "scraped_at": "2026-02-17T21:42:39.758861Z",
+    "first_discovered": "2026-02-17T21:48:18.638334+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer, Data Platform",
+    "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7580463?gh_jid=7580463",
+    "job_id": "7580463",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7580463",
+    "posted_at": "2026-02-17T16:41:54-05:00",
+    "scraped_at": "2026-02-17T21:42:39.758866Z",
+    "first_discovered": "2026-02-17T21:48:18.638334+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
