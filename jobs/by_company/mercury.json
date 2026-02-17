@@ -397,5 +397,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Mercury",
+    "title": "Revenue Technology - Data Strategy & Operations Lead",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5806201004",
+    "job_id": "5806201004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5806201004",
+    "posted_at": "2026-02-17T15:48:20-05:00",
+    "scraped_at": "2026-02-17T20:50:35.554132Z",
+    "first_discovered": "2026-02-17T20:54:08.586492+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

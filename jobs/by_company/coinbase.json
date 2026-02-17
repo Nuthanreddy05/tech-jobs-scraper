@@ -1176,5 +1176,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Staff Software Engineer, Onboarding",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7366552?gh_jid=7366552",
+    "job_id": "7366552",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7366552",
+    "posted_at": "2026-02-17T14:48:56-05:00",
+    "scraped_at": "2026-02-17T20:48:55.136235Z",
+    "first_discovered": "2026-02-17T20:54:08.586492+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

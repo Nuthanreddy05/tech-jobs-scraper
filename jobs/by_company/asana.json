@@ -1214,5 +1214,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Planning Analyst",
+    "location": "Dublin",
+    "url": "https://www.asana.com/jobs/apply/7327378?gh_jid=7327378",
+    "job_id": "7327378",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7327378",
+    "posted_at": "2026-02-17T15:23:36-05:00",
+    "scraped_at": "2026-02-17T20:51:09.084947Z",
+    "first_discovered": "2026-02-17T20:54:08.586492+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Principal Security Engineer",
+    "location": "San Francisco",
+    "url": "https://www.asana.com/jobs/apply/7615659?gh_jid=7615659",
+    "job_id": "7615659",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7615659",
+    "posted_at": "2026-02-17T14:55:51-05:00",
+    "scraped_at": "2026-02-17T20:51:09.084968Z",
+    "first_discovered": "2026-02-17T20:54:08.586492+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
