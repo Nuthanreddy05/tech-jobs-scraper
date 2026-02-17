@@ -3000,5 +3000,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Staff Analyst, Business Banking",
+    "location": "CA - San Francisco; NY - New York City; WA - Seattle; TX - Frisco; US-Remote",
+    "url": "https://sofi.com/careers/job/7632105003?gh_jid=7632105003",
+    "job_id": "7632105003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7632105003",
+    "posted_at": "2026-02-17T09:16:35-05:00",
+    "scraped_at": "2026-02-17T14:57:10.107893Z",
+    "first_discovered": "2026-02-17T15:00:34.567368+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
