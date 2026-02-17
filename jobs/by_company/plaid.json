@@ -834,5 +834,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Plaid",
+    "title": "Experienced Developer Relations Engineer - Customer Growth and Experience",
+    "location": "San Francisco",
+    "url": "https://jobs.lever.co/plaid/6d510dc8-2e7b-48e6-b8e8-601ca5777fa8",
+    "job_id": "6d510dc8-2e7b-48e6-b8e8-601ca5777fa8",
+    "team": "Engineering",
+    "commitment": "Full-time",
+    "description": "<div><span style=\"font-size: 16px\">We believe that the way people interact with their finances will drastically improve in the next few years. We\u2019re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid\u2019s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Washington D.C., London and Amsterdam.</span></div><div><br></div><div>The mission of the Developer Relations team is to empower developers to easily use and understand Plaid\u2019s products, delivering a supportive, industry-leading developer experience via scalable, broad-reaching methods. The scope of this role covers all of Plaid's commercially available, customer-facing products.</div><div><br></div><div>We\u2019re looking for an experienced Developer Relations Engineer to help the world\u2019s fintech companies (and we believe every company is a fintech company, even if they don't know it yet) integrate with Plaid's APIs. In this role, you\u2019ll create best-in-class developer experiences, cementing Plaid's reputation as the most trustworthy, developer-friendly financial services API. This is a highly technical, highly visible role with direct impact on Plaid\u2019s product, brand, and developer experience.</div>",
+    "portal": "lever",
+    "posted_at": "1771345124333",
+    "scraped_at": "2026-02-17T19:10:57.493608Z",
+    "first_discovered": "2026-02-17T19:13:02.821542+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

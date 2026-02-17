@@ -226,5 +226,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Network Engineer",
+    "location": "Remote - Poland",
+    "url": "https://jobs.dropbox.com/listing/7536991?gh_jid=7536991",
+    "job_id": "7536991",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7536991",
+    "posted_at": "2026-02-17T13:57:21-05:00",
+    "scraped_at": "2026-02-17T19:07:27.035942Z",
+    "first_discovered": "2026-02-17T19:13:02.821542+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
