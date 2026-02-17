@@ -60582,5 +60582,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Staff Threat Researcher - Malware Analysis, Reverse Engineering",
+    "location": "Bangalore, IND; Hyderabad, IND; Mohali, IND; Pune, IND",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4976069007",
+    "job_id": "4976069007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4976069007",
+    "posted_at": "2026-02-17T04:56:19-05:00",
+    "scraped_at": "2026-02-17T10:01:43.335686Z",
+    "first_discovered": "2026-02-17T10:05:21.393115+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
