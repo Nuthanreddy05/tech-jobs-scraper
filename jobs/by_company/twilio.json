@@ -1385,5 +1385,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Manager, Machine Learning",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7066029",
+    "job_id": "7066029",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7066029",
+    "posted_at": "2026-02-17T18:27:46-05:00",
+    "scraped_at": "2026-02-17T23:38:34.123986Z",
+    "first_discovered": "2026-02-17T23:42:44.054435+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
