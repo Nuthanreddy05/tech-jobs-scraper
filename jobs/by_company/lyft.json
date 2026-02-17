@@ -1119,5 +1119,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Security Engineer, Detection Engineering",
+    "location": "Mexico City, Mexico",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8421652002?gh_jid=8421652002",
+    "job_id": "8421652002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8421652002",
+    "posted_at": "2026-02-17T10:57:09-05:00",
+    "scraped_at": "2026-02-17T16:02:57.772269Z",
+    "first_discovered": "2026-02-17T16:06:01.927827+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

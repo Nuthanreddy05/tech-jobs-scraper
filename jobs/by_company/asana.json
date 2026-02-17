@@ -1195,5 +1195,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "iOS Engineer, Mobile",
+    "location": "Warsaw",
+    "url": "https://www.asana.com/jobs/apply/6806231?gh_jid=6806231",
+    "job_id": "6806231",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6806231",
+    "posted_at": "2026-02-17T10:15:28-05:00",
+    "scraped_at": "2026-02-17T16:02:35.628992Z",
+    "first_discovered": "2026-02-17T16:06:01.927827+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
