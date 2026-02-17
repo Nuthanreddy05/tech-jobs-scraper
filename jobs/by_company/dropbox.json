@@ -188,5 +188,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Fullstack Product Software Engineer",
+    "location": "Remote - Canada: Select locations",
+    "url": "https://jobs.dropbox.com/listing/6330405?gh_jid=6330405",
+    "job_id": "6330405",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6330405",
+    "posted_at": "2026-02-17T12:07:55-05:00",
+    "scraped_at": "2026-02-17T17:12:15.712890Z",
+    "first_discovered": "2026-02-17T17:18:07.094584+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Fullstack Product Software Engineer",
+    "location": "Remote - US: Select locations",
+    "url": "https://jobs.dropbox.com/listing/6330409?gh_jid=6330409",
+    "job_id": "6330409",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6330409",
+    "posted_at": "2026-02-17T12:07:56-05:00",
+    "scraped_at": "2026-02-17T17:12:15.712894Z",
+    "first_discovered": "2026-02-17T17:18:07.094584+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

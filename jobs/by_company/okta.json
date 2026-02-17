@@ -2107,5 +2107,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Principal Classified Systems Architect, Okta Federal",
+    "location": "Washington, DC",
+    "url": "https://www.okta.com/company/careers/opportunity/7607491?gh_jid=7607491",
+    "job_id": "7607491",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7607491",
+    "posted_at": "2026-02-17T11:55:38-05:00",
+    "scraped_at": "2026-02-17T17:13:24.832591Z",
+    "first_discovered": "2026-02-17T17:18:07.094584+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -1290,5 +1290,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "GitLab",
+    "title": "Principal Product Manager, AI Governance",
+    "location": "Remote, Canada; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom; Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8422119002",
+    "job_id": "8422119002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8422119002",
+    "posted_at": "2026-02-17T11:24:42-05:00",
+    "scraped_at": "2026-02-17T17:13:28.893110Z",
+    "first_discovered": "2026-02-17T17:18:07.094584+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "GitLab",
+    "title": "Staff Product Manager, AI Developer Tools",
+    "location": "Remote, Canada; Remote, France; Remote, Germany; Remote, Ireland; Remote, Netherlands; Remote, Spain; Remote, United Kingdom; Remote, US",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8422132002",
+    "job_id": "8422132002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8422132002",
+    "posted_at": "2026-02-17T11:23:09-05:00",
+    "scraped_at": "2026-02-17T17:13:28.893432Z",
+    "first_discovered": "2026-02-17T17:18:07.094584+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
