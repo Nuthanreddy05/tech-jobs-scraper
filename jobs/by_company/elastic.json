@@ -416,5 +416,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Data Analyst \u2013 Insights & Analytics (Revenue Operations)",
+    "location": "Barcelona, Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7601880&gh_jid=7601880",
+    "job_id": "7601880",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7601880",
+    "posted_at": "2026-02-18T05:29:01-05:00",
+    "scraped_at": "2026-02-18T11:01:04.252031Z",
+    "first_discovered": "2026-02-18T11:05:37.154940+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
