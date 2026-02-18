@@ -1271,5 +1271,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Asana",
+    "title": "Data Science Manager",
+    "location": "New York City",
+    "url": "https://www.asana.com/jobs/apply/7584394?gh_jid=7584394",
+    "job_id": "7584394",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7584394",
+    "posted_at": "2026-02-18T16:00:46-05:00",
+    "scraped_at": "2026-02-18T21:47:22.244113Z",
+    "first_discovered": "2026-02-18T21:50:28.312384+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
