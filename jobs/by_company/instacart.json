@@ -435,5 +435,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Financial Analyst II \u2014 Strategic Finance (Fulfillment)",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7630211",
+    "job_id": "7630211",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7630211",
+    "posted_at": "2026-02-18T17:32:59-05:00",
+    "scraped_at": "2026-02-18T22:41:24.811017Z",
+    "first_discovered": "2026-02-18T22:46:15.541224+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

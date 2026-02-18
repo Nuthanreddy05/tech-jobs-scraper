@@ -1157,5 +1157,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Financial Analyst",
+    "location": "Mexico City, Mexico",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8425652002?gh_jid=8425652002",
+    "job_id": "8425652002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8425652002",
+    "posted_at": "2026-02-18T17:38:19-05:00",
+    "scraped_at": "2026-02-18T22:43:25.868309Z",
+    "first_discovered": "2026-02-18T22:46:15.541224+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
