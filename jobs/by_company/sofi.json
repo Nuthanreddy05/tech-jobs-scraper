@@ -3038,5 +3038,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Staff Data Scientist, Member Insights - Subscriptions",
+    "location": "CA - San Francisco; WA - Seattle",
+    "url": "https://sofi.com/careers/job/7634890003?gh_jid=7634890003",
+    "job_id": "7634890003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7634890003",
+    "posted_at": "2026-02-18T13:24:51-05:00",
+    "scraped_at": "2026-02-18T19:07:50.331486Z",
+    "first_discovered": "2026-02-18T19:11:12.759221+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

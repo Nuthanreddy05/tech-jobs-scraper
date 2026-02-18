@@ -701,5 +701,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Lead Specialist Solutions Architect - AI/BI",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407192002",
+    "job_id": "8407192002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8407192002",
+    "posted_at": "2026-02-18T12:36:58-05:00",
+    "scraped_at": "2026-02-18T19:05:49.404903Z",
+    "first_discovered": "2026-02-18T19:11:12.759221+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Specialist Solutions Architect - AI/BI",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8407195002",
+    "job_id": "8407195002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8407195002",
+    "posted_at": "2026-02-18T12:42:40-05:00",
+    "scraped_at": "2026-02-18T19:05:49.407052Z",
+    "first_discovered": "2026-02-18T19:11:12.759221+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
