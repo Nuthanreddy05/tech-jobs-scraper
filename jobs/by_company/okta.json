@@ -2183,5 +2183,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "AI Trainer",
+    "location": "Bellevue, Washington; Chicago, Illinois; Toronto, Ontario, Canada",
+    "url": "https://www.okta.com/company/careers/opportunity/7277891?gh_jid=7277891",
+    "job_id": "7277891",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7277891",
+    "posted_at": "2026-02-18T14:37:30-05:00",
+    "scraped_at": "2026-02-18T20:51:37.798254Z",
+    "first_discovered": "2026-02-18T20:55:44.363766+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

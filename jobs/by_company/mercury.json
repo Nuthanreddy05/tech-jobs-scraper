@@ -416,5 +416,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Mercury",
+    "title": "Data Science Intern",
+    "location": "San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States",
+    "url": "https://job-boards.greenhouse.io/mercury/jobs/5807251004",
+    "job_id": "5807251004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5807251004",
+    "posted_at": "2026-02-18T15:07:13-05:00",
+    "scraped_at": "2026-02-18T20:52:29.030097Z",
+    "first_discovered": "2026-02-18T20:55:44.363766+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

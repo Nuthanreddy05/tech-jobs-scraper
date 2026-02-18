@@ -1594,5 +1594,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Director, Public Affairs",
+    "location": "New York, New York, United States",
+    "url": "http://www.hioscar.com/careers/7600156?gh_jid=7600156",
+    "job_id": "7600156",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7600156",
+    "posted_at": "2026-02-18T14:43:45-05:00",
+    "scraped_at": "2026-02-18T20:53:00.160436Z",
+    "first_discovered": "2026-02-18T20:55:44.363766+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Senior Analyst, Data Analytics, SIU ",
+    "location": "New York, New York, United States",
+    "url": "http://www.hioscar.com/careers/7600182?gh_jid=7600182",
+    "job_id": "7600182",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7600182",
+    "posted_at": "2026-02-18T15:50:28-05:00",
+    "scraped_at": "2026-02-18T20:53:00.160862Z",
+    "first_discovered": "2026-02-18T20:55:44.363766+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -283,5 +283,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Software Engineer (T)",
+    "location": "US: SF, California",
+    "url": "https://jobs.dropbox.com/listing/7610995?gh_jid=7610995",
+    "job_id": "7610995",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7610995",
+    "posted_at": "2026-02-18T15:17:14-05:00",
+    "scraped_at": "2026-02-18T20:50:28.534994Z",
+    "first_discovered": "2026-02-18T20:55:44.363766+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

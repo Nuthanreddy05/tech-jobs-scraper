@@ -3057,5 +3057,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Staff Software Engineer, Loans Platform",
+    "location": "MT - Helena",
+    "url": "https://sofi.com/careers/job/7630267003?gh_jid=7630267003",
+    "job_id": "7630267003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7630267003",
+    "posted_at": "2026-02-18T14:52:54-05:00",
+    "scraped_at": "2026-02-18T20:52:26.981950Z",
+    "first_discovered": "2026-02-18T20:55:44.363766+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

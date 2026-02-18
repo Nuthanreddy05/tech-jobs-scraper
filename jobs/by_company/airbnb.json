@@ -530,5 +530,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Machine Learning Engineer, Guest & Host",
+    "location": "Remote-USA",
+    "url": "https://careers.airbnb.com/positions/7527451?gh_jid=7527451",
+    "job_id": "7527451",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7527451",
+    "posted_at": "2026-02-18T15:42:51-05:00",
+    "scraped_at": "2026-02-18T20:50:22.269163Z",
+    "first_discovered": "2026-02-18T20:55:44.363766+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Software Engineer, Search Input",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7541927?gh_jid=7541927",
+    "job_id": "7541927",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7541927",
+    "posted_at": "2026-02-18T15:42:07-05:00",
+    "scraped_at": "2026-02-18T20:50:22.269347Z",
+    "first_discovered": "2026-02-18T20:55:44.363766+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

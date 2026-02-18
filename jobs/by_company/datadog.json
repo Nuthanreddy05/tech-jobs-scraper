@@ -701,5 +701,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Manager I, Engineering - CodeGen",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7629758/?gh_jid=7629758",
+    "job_id": "7629758",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7629758",
+    "posted_at": "2026-02-18T15:08:42-05:00",
+    "scraped_at": "2026-02-18T20:51:11.607348Z",
+    "first_discovered": "2026-02-18T20:55:44.363766+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
