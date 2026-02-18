@@ -397,5 +397,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Roblox",
+    "title": "Senior Frontend Engineer - Discovery ",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7623438?gh_jid=7623438",
+    "job_id": "7623438",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7623438",
+    "posted_at": "2026-02-17T21:01:44-05:00",
+    "scraped_at": "2026-02-18T02:50:34.464201Z",
+    "first_discovered": "2026-02-18T02:54:59.822395+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

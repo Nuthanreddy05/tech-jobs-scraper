@@ -378,5 +378,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "(Associate - Senior) Analytics Engineer, Caper",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "url": "https://instacart.careers/job/?gh_jid=7625053",
+    "job_id": "7625053",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7625053",
+    "posted_at": "2026-02-17T20:14:18-05:00",
+    "scraped_at": "2026-02-18T02:50:15.675054Z",
+    "first_discovered": "2026-02-18T02:54:59.822395+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Finance Analyst (Strategic Finance - Ads)",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7624684",
+    "job_id": "7624684",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7624684",
+    "posted_at": "2026-02-17T19:19:46-05:00",
+    "scraped_at": "2026-02-18T02:50:15.675178Z",
+    "first_discovered": "2026-02-18T02:54:59.822395+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

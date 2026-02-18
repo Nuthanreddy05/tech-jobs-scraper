@@ -150,5 +150,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Pinterest",
+    "title": "Director, Machine Learning Engineering \u2013 Growth ",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7586364",
+    "job_id": "7586364",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7586364",
+    "posted_at": "2026-02-17T18:48:47-05:00",
+    "scraped_at": "2026-02-18T02:49:46.505137Z",
+    "first_discovered": "2026-02-18T02:54:59.822395+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

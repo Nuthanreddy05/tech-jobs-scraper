@@ -568,5 +568,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zocdoc",
+    "title": "Staff Software Engineer, Search",
+    "location": "New York, NY, United States; USA Remote",
+    "url": "https://job-boards.greenhouse.io/zocdoc/jobs/7512161",
+    "job_id": "7512161",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7512161",
+    "posted_at": "2026-02-17T18:45:20-05:00",
+    "scraped_at": "2026-02-18T02:52:14.056086Z",
+    "first_discovered": "2026-02-18T02:54:59.822395+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
