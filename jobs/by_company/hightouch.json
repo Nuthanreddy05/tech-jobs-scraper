@@ -435,5 +435,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Hightouch",
+    "title": "Partner Solutions Engineer",
+    "location": "Remote (North America)",
+    "url": "https://job-boards.greenhouse.io/hightouch/jobs/5807949004",
+    "job_id": "5807949004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5807949004",
+    "posted_at": "2026-02-18T19:53:37-05:00",
+    "scraped_at": "2026-02-19T02:50:35.727332Z",
+    "first_discovered": "2026-02-19T02:53:56.511924+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
