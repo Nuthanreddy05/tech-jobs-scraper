@@ -150,5 +150,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Vercel",
+    "title": "Product Manager - Agent Platform",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5808590004",
+    "job_id": "5808590004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5808590004",
+    "posted_at": "2026-02-19T14:11:25-05:00",
+    "scraped_at": "2026-02-19T20:41:25.705732Z",
+    "first_discovered": "2026-02-19T20:45:45.082797+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

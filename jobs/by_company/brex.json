@@ -55,5 +55,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Brex",
+    "title": "Senior Software Engineer, Product Data Platform",
+    "location": "San Francisco, California, United States",
+    "url": "https://www.brex.com/careers/8430182002?gh_jid=8430182002",
+    "job_id": "8430182002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8430182002",
+    "posted_at": "2026-02-19T15:09:46-05:00",
+    "scraped_at": "2026-02-19T20:40:41.972713Z",
+    "first_discovered": "2026-02-19T20:45:45.082797+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Brex",
+    "title": "Senior Software Engineer, Product Data Platform",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.brex.com/careers/8430197002?gh_jid=8430197002",
+    "job_id": "8430197002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8430197002",
+    "posted_at": "2026-02-19T15:09:46-05:00",
+    "scraped_at": "2026-02-19T20:40:41.972724Z",
+    "first_discovered": "2026-02-19T20:45:45.082797+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
