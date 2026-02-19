@@ -1784,5 +1784,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Director, Public Affairs",
+    "location": "Washington, D.C., United States",
+    "url": "http://www.hioscar.com/careers/7637145?gh_jid=7637145",
+    "job_id": "7637145",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7637145",
+    "posted_at": "2026-02-19T13:56:54-05:00",
+    "scraped_at": "2026-02-19T19:03:37.486367Z",
+    "first_discovered": "2026-02-19T19:07:18.166915+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

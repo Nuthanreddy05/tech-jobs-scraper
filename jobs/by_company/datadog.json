@@ -739,5 +739,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Open Source Program Developer",
+    "location": "California, USA, Remote; Colorado, USA, Remote; Illinois, USA, Remote; New York, USA, Remote; Washington, USA, Remote",
+    "url": "https://careers.datadoghq.com/detail/7636202/?gh_jid=7636202",
+    "job_id": "7636202",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7636202",
+    "posted_at": "2026-02-19T12:07:13-05:00",
+    "scraped_at": "2026-02-19T19:01:51.118937Z",
+    "first_discovered": "2026-02-19T19:07:18.166915+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -2639,5 +2639,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Software Engineer II, Backend (Fraud)",
+    "location": "Remote Canada",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7624379003",
+    "job_id": "7624379003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7624379003",
+    "posted_at": "2026-02-19T12:22:22-05:00",
+    "scraped_at": "2026-02-19T19:03:02.271060Z",
+    "first_discovered": "2026-02-19T19:07:18.166915+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

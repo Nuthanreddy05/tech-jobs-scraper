@@ -1461,5 +1461,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Senior Software Engineer",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7595407",
+    "job_id": "7595407",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7595407",
+    "posted_at": "2026-02-19T13:50:01-05:00",
+    "scraped_at": "2026-02-19T19:02:13.521420Z",
+    "first_discovered": "2026-02-19T19:07:18.166915+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer (L3)",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7362957",
+    "job_id": "7362957",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7362957",
+    "posted_at": "2026-02-19T12:43:32-05:00",
+    "scraped_at": "2026-02-19T19:02:13.521516Z",
+    "first_discovered": "2026-02-19T19:07:18.166915+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
