@@ -606,5 +606,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Engineering Manager, Core Foundation",
+    "location": "San Francisco, CA",
+    "url": "https://careers.airbnb.com/positions/7630719?gh_jid=7630719",
+    "job_id": "7630719",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7630719",
+    "posted_at": "2026-02-19T16:15:04-05:00",
+    "scraped_at": "2026-02-19T21:40:55.122183Z",
+    "first_discovered": "2026-02-19T21:46:37.248895+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

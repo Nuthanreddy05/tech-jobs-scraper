@@ -435,5 +435,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Infrastructure Software Engineer, Identity & Auth Platform",
+    "location": "Remote - Canada: Select locations",
+    "url": "https://jobs.dropbox.com/listing/7409357?gh_jid=7409357",
+    "job_id": "7409357",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7409357",
+    "posted_at": "2026-02-19T16:10:15-05:00",
+    "scraped_at": "2026-02-19T21:41:03.538465Z",
+    "first_discovered": "2026-02-19T21:46:37.248895+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
