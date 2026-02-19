@@ -1328,5 +1328,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Staff Software Engineer, Backend (Consumer - International)",
+    "location": "Remote - Brazil",
+    "url": "https://www.coinbase.com/careers/positions/7635523?gh_jid=7635523",
+    "job_id": "7635523",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7635523",
+    "posted_at": "2026-02-19T10:15:55-05:00",
+    "scraped_at": "2026-02-19T15:58:09.622088Z",
+    "first_discovered": "2026-02-19T16:03:13.503687+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
