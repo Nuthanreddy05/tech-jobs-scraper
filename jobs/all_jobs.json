@@ -63470,5 +63470,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Expansion",
+    "location": "Barcelona, Madrid",
+    "url": "https://stripe.com/jobs/search?gh_jid=7531155",
+    "job_id": "7531155",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7531155",
+    "posted_at": "2026-02-19T05:30:35-05:00",
+    "scraped_at": "2026-02-19T10:58:19.865324Z",
+    "first_discovered": "2026-02-19T11:03:52.365478+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Escalation Engineer",
+    "location": "Bangalore, IND",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5047711007",
+    "job_id": "5047711007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5047711007",
+    "posted_at": "2026-02-19T05:06:04-05:00",
+    "scraped_at": "2026-02-19T11:00:00.324400Z",
+    "first_discovered": "2026-02-19T11:03:52.365478+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
