@@ -245,5 +245,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Reddit",
+    "title": "Platform Regulatory Assurance Manager ",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7634813",
+    "job_id": "7634813",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7634813",
+    "posted_at": "2026-02-19T12:01:52-05:00",
+    "scraped_at": "2026-02-19T17:05:50.161424Z",
+    "first_discovered": "2026-02-19T17:11:08.062178+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

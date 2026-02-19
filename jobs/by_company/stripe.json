@@ -758,5 +758,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Payments and Risk",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=6786210",
+    "job_id": "6786210",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6786210",
+    "posted_at": "2026-02-19T12:05:00-05:00",
+    "scraped_at": "2026-02-19T17:05:41.880165Z",
+    "first_discovered": "2026-02-19T17:11:08.062178+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Sales Compensation Analyst",
+    "location": "Bengaluru",
+    "url": "https://stripe.com/jobs/search?gh_jid=7633559",
+    "job_id": "7633559",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7633559",
+    "posted_at": "2026-02-19T11:39:01-05:00",
+    "scraped_at": "2026-02-19T17:05:41.881330Z",
+    "first_discovered": "2026-02-19T17:11:08.062178+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
