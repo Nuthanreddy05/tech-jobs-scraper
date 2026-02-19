@@ -264,5 +264,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Reddit",
+    "title": "Senior Web Engineer, Web Platform ",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7638826",
+    "job_id": "7638826",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7638826",
+    "posted_at": "2026-02-19T18:37:48-05:00",
+    "scraped_at": "2026-02-19T23:37:53.847152Z",
+    "first_discovered": "2026-02-19T23:43:00.924182+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

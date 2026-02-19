@@ -530,5 +530,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Roblox",
+    "title": "Principal Software Engineer - Cluster Lifecyle",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7605764?gh_jid=7605764",
+    "job_id": "7605764",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7605764",
+    "posted_at": "2026-02-19T18:31:44-05:00",
+    "scraped_at": "2026-02-19T23:38:43.680427Z",
+    "first_discovered": "2026-02-19T23:43:00.924182+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
