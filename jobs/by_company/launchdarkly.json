@@ -378,5 +378,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "LaunchDarkly",
+    "title": "Vice President, IT and Internal AI",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7638793003",
+    "job_id": "7638793003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7638793003",
+    "posted_at": "2026-02-20T16:24:26-05:00",
+    "scraped_at": "2026-02-20T21:34:53.827633Z",
+    "first_discovered": "2026-02-20T21:38:39.143216+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

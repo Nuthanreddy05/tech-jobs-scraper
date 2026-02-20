@@ -1233,5 +1233,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Senior ML Software Engineer, Recommendations",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8430552002?gh_jid=8430552002",
+    "job_id": "8430552002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8430552002",
+    "posted_at": "2026-02-20T15:55:27-05:00",
+    "scraped_at": "2026-02-20T21:35:59.338156Z",
+    "first_discovered": "2026-02-20T21:38:39.143216+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

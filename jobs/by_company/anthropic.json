@@ -1366,5 +1366,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Developer Education Lead",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5126762008",
+    "job_id": "5126762008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5126762008",
+    "posted_at": "2026-02-20T15:48:41-05:00",
+    "scraped_at": "2026-02-20T21:33:03.152442Z",
+    "first_discovered": "2026-02-20T21:38:39.143216+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
