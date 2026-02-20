@@ -1195,5 +1195,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Senior ML Software Engineer",
+    "location": "Seattle, WA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8430589002?gh_jid=8430589002",
+    "job_id": "8430589002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8430589002",
+    "posted_at": "2026-02-19T23:05:59-05:00",
+    "scraped_at": "2026-02-20T04:56:17.189729Z",
+    "first_discovered": "2026-02-20T04:58:57.747109+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Senior ML Software Engineer",
+    "location": "San Francisco, CA",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8430550002?gh_jid=8430550002",
+    "job_id": "8430550002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8430550002",
+    "posted_at": "2026-02-19T23:05:19-05:00",
+    "scraped_at": "2026-02-20T04:56:17.189734Z",
+    "first_discovered": "2026-02-20T04:58:57.747109+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
