@@ -65104,5 +65104,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Machine Learning Engineer, Dash",
+    "location": "Remote - Germany",
+    "url": "https://jobs.dropbox.com/listing/7621678?gh_jid=7621678",
+    "job_id": "7621678",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7621678",
+    "posted_at": "2026-02-20T05:22:46-05:00",
+    "scraped_at": "2026-02-20T10:47:45.532684Z",
+    "first_discovered": "2026-02-20T10:52:59.891692+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
