@@ -65123,5 +65123,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Campaigns Specialist",
+    "location": "Ireland",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7618591&gh_jid=7618591",
+    "job_id": "7618591",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7618591",
+    "posted_at": "2026-02-20T06:01:03-05:00",
+    "scraped_at": "2026-02-20T11:39:18.029674Z",
+    "first_discovered": "2026-02-20T11:44:05.289710+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Sr. Business Analyst, IT Transformation",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7621572&gh_jid=7621572",
+    "job_id": "7621572",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7621572",
+    "posted_at": "2026-02-20T05:52:55-05:00",
+    "scraped_at": "2026-02-20T11:39:18.030729Z",
+    "first_discovered": "2026-02-20T11:44:05.289710+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
