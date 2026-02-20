@@ -188,5 +188,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Chime",
+    "title": "Sr. Marketing Financial Analyst",
+    "location": "San Francisco, CA",
+    "url": "https://boards.greenhouse.io/chime/jobs/8407777002?gh_jid=8407777002",
+    "job_id": "8407777002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8407777002",
+    "posted_at": "2026-02-20T18:09:10-05:00",
+    "scraped_at": "2026-02-20T23:36:29.391693Z",
+    "first_discovered": "2026-02-20T23:41:24.681282+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

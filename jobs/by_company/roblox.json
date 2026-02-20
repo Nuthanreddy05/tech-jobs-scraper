@@ -663,5 +663,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Roblox",
+    "title": "Senior Security Software Engineer, Infrastructure Security",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7639742?gh_jid=7639742",
+    "job_id": "7639742",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7639742",
+    "posted_at": "2026-02-20T17:58:54-05:00",
+    "scraped_at": "2026-02-20T23:37:01.902190Z",
+    "first_discovered": "2026-02-20T23:41:24.681282+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

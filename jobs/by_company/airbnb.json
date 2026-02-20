@@ -663,5 +663,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Software Engineer, Community Support Engineering ",
+    "location": "Remote, USA ",
+    "url": "https://careers.airbnb.com/positions/7643974?gh_jid=7643974",
+    "job_id": "7643974",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7643974",
+    "posted_at": "2026-02-20T18:19:42-05:00",
+    "scraped_at": "2026-02-20T23:36:00.413014Z",
+    "first_discovered": "2026-02-20T23:41:24.681282+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
