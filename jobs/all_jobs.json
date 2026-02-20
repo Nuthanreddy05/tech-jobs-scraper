@@ -65047,5 +65047,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend - Platform (FinHub - Transfers)",
+    "location": "Remote - Canada",
+    "url": "https://www.coinbase.com/careers/positions/7640718?gh_jid=7640718",
+    "job_id": "7640718",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7640718",
+    "posted_at": "2026-02-20T00:40:23-05:00",
+    "scraped_at": "2026-02-20T05:59:54.321694Z",
+    "first_discovered": "2026-02-20T06:05:02.055516+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
