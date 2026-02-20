@@ -3760,5 +3760,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Sr. Software Development Engineer",
+    "location": "Bangalore, IND; Mohali, IND",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4972338007",
+    "job_id": "4972338007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4972338007",
+    "posted_at": "2026-02-20T03:40:38-05:00",
+    "scraped_at": "2026-02-20T08:54:03.579021Z",
+    "first_discovered": "2026-02-20T08:57:36.937835+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
