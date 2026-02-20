@@ -1461,5 +1461,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Staff Software Engineer",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7629141?gh_jid=7629141",
+    "job_id": "7629141",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7629141",
+    "posted_at": "2026-02-20T10:57:36-05:00",
+    "scraped_at": "2026-02-20T16:51:59.690821Z",
+    "first_discovered": "2026-02-20T16:57:18.299369+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
