@@ -3779,5 +3779,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Principal AI and Data Architect",
+    "location": "Remote - USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4890764007",
+    "job_id": "4890764007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4890764007",
+    "posted_at": "2026-02-20T15:12:37-05:00",
+    "scraped_at": "2026-02-20T20:43:05.846149Z",
+    "first_discovered": "2026-02-20T20:47:04.033512+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
