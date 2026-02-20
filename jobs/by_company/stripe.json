@@ -853,5 +853,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Credit Risk Analyst, North American Underwriter",
+    "location": "Toronto, Remote-Canada ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7612192",
+    "job_id": "7612192",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7612192",
+    "posted_at": "2026-02-20T13:00:18-05:00",
+    "scraped_at": "2026-02-20T18:58:51.524883Z",
+    "first_discovered": "2026-02-20T19:04:30.028026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

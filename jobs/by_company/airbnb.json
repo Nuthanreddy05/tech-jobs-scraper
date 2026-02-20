@@ -644,5 +644,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Program Manager, AirCover for Host",
+    "location": "United States",
+    "url": "https://careers.airbnb.com/positions/7590364?gh_jid=7590364",
+    "job_id": "7590364",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7590364",
+    "posted_at": "2026-02-20T12:53:34-05:00",
+    "scraped_at": "2026-02-20T18:58:49.461666Z",
+    "first_discovered": "2026-02-20T19:04:30.028026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

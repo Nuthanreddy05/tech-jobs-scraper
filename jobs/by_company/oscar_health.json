@@ -1917,5 +1917,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Oscar Health",
+    "title": "Analyst, Coordination of Benefits",
+    "location": "Remote",
+    "url": "http://www.hioscar.com/careers/7619692?gh_jid=7619692",
+    "job_id": "7619692",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7619692",
+    "posted_at": "2026-02-20T14:01:07-05:00",
+    "scraped_at": "2026-02-20T19:01:32.104880Z",
+    "first_discovered": "2026-02-20T19:04:30.028026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

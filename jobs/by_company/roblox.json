@@ -644,5 +644,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Roblox",
+    "title": "Developer Engagement Representative - Events (Part-time, Contract) ",
+    "location": "Remote",
+    "url": "https://careers.roblox.com/jobs/7594281?gh_jid=7594281",
+    "job_id": "7594281",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7594281",
+    "posted_at": "2026-02-20T13:06:36-05:00",
+    "scraped_at": "2026-02-20T18:59:50.717988Z",
+    "first_discovered": "2026-02-20T19:04:30.028026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

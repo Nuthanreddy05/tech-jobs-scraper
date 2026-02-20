@@ -245,5 +245,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Robinhood",
+    "title": "Software Engineering Manager, Growth",
+    "location": "Menlo Park, CA",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7489695?t=gh_src=&gh_jid=7489695",
+    "job_id": "7489695",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7489695",
+    "posted_at": "2026-02-20T13:53:49-05:00",
+    "scraped_at": "2026-02-20T18:59:14.111668Z",
+    "first_discovered": "2026-02-20T19:04:30.028026+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
