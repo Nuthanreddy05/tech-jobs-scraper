@@ -65731,5 +65731,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Manager, Commercial Sales Engineering (Sao Paolo)",
+    "location": "Sao Paulo, Brazil",
+    "url": "https://careers.datadoghq.com/detail/7641414/?gh_jid=7641414",
+    "job_id": "7641414",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7641414",
+    "posted_at": "2026-02-20T16:35:50-05:00",
+    "scraped_at": "2026-02-20T22:36:06.692077Z",
+    "first_discovered": "2026-02-20T22:40:53.029786+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
