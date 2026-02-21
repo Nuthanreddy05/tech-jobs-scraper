@@ -1385,5 +1385,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Research Engineer, AI Observability",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5125083008",
+    "job_id": "5125083008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5125083008",
+    "posted_at": "2026-02-20T18:55:26-05:00",
+    "scraped_at": "2026-02-21T02:36:53.028377Z",
+    "first_discovered": "2026-02-21T02:42:42.182014+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

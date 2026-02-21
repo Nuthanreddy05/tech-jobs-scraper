@@ -55,5 +55,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Webflow",
+    "title": "Front-End Engineer, Subscriptions & Payments",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/7644949",
+    "job_id": "7644949",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7644949",
+    "posted_at": "2026-02-20T20:47:16-05:00",
+    "scraped_at": "2026-02-21T02:38:11.582799Z",
+    "first_discovered": "2026-02-21T02:42:42.182014+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Webflow",
+    "title": "Partner Solutions Engineer",
+    "location": "CA Remote (BC & ON only); U.S. Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/7644879",
+    "job_id": "7644879",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7644879",
+    "posted_at": "2026-02-20T19:44:34-05:00",
+    "scraped_at": "2026-02-21T02:38:11.582864Z",
+    "first_discovered": "2026-02-21T02:42:42.182014+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

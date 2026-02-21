@@ -511,5 +511,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Senior Tax Technology Analyst",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7644431",
+    "job_id": "7644431",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7644431",
+    "posted_at": "2026-02-20T19:00:27-05:00",
+    "scraped_at": "2026-02-21T02:37:48.829556Z",
+    "first_discovered": "2026-02-21T02:42:42.182014+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Senior Tax Technology Analyst",
+    "location": "Canada - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7644475",
+    "job_id": "7644475",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7644475",
+    "posted_at": "2026-02-20T19:00:28-05:00",
+    "scraped_at": "2026-02-21T02:37:48.829561Z",
+    "first_discovered": "2026-02-21T02:42:42.182014+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
