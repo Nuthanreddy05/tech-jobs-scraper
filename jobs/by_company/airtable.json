@@ -150,5 +150,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airtable",
+    "title": "Lead Forward Deployed Engineer",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/airtable/jobs/8430112002",
+    "job_id": "8430112002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8430112002",
+    "posted_at": "2026-02-23T17:40:03-05:00",
+    "scraped_at": "2026-02-23T22:52:16.764787Z",
+    "first_discovered": "2026-02-23T22:57:03.770909+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -872,5 +872,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Plaid",
+    "title": "Engineering Manager - Consumer",
+    "location": "San Francisco",
+    "url": "https://jobs.lever.co/plaid/b2d4d105-9183-4982-8065-58126093c02d",
+    "job_id": "b2d4d105-9183-4982-8065-58126093c02d",
+    "team": "Engineering",
+    "commitment": "Full-time",
+    "description": "<div><span style=\"font-size: 16px;\">The Remember Me - Consumer team is building Plaid\u2019s next generation of direct-to-consumer products. Our mission is to help people feel more confident and secure in managing their financial lives through intuitive, high-trust experiences powered by Plaid\u2019s network.</span></div><div><br></div><div><span style=\"font-size: 16px;\">This team is developing a new consumer-facing security and bank account monitoring product focused on proactive fraud detection and financial account visibility. It represents an important step in expanding Plaid\u2019s direct-to-consumer offerings. We are a small, fast-moving team focused on 0\u21921 development, owning the experience end-to-end from backend systems to user-facing flows.</span></div><div><br></div><div><span style=\"font-size: 16px;\">As the TLM for the Consumer team, you will split your time between hands-on technical leadership and people management.</span></div><div><br></div><div><span style=\"font-size: 16px;\">You will be accountable for the technical foundation of the product, leading the design and evolution of systems that monitor financial accounts and power user-facing experiences. You will drive key architectural decisions, raise engineering standards through design reviews and mentorship, and help the team balance rapid iteration with long-term system health.</span></div><div><br></div><div><span style=\"font-size: 16px;\">At the same time, you will build and lead a strong engineering team. You will create clarity around goals, support individual growth, and hold a high bar for ownership and delivery. You will work closely with Product and Design to take complex, ambiguous problems and turn them into simple, trustworthy experiences for users.</span></div>",
+    "portal": "lever",
+    "posted_at": "1765386690343",
+    "scraped_at": "2026-02-23T22:54:58.141776Z",
+    "first_discovered": "2026-02-23T22:57:03.770909+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
