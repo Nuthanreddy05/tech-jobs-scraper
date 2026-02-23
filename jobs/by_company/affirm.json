@@ -2677,5 +2677,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Senior Software Engineer, Backend (Repayment UX Engineering) ",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7636979003",
+    "job_id": "7636979003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7636979003",
+    "posted_at": "2026-02-23T08:03:54-05:00",
+    "scraped_at": "2026-02-23T13:24:12.711347Z",
+    "first_discovered": "2026-02-23T13:27:39.961047+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Senior Software Engineer, Backend (Repayment UX Engineering) ",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7636981003",
+    "job_id": "7636981003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7636981003",
+    "posted_at": "2026-02-23T08:03:55-05:00",
+    "scraped_at": "2026-02-23T13:24:12.711352Z",
+    "first_discovered": "2026-02-23T13:27:39.961047+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
