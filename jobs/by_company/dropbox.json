@@ -473,5 +473,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Staff Backend Product Software Engineer, Core Intelligence & Media",
+    "location": "Remote - US: All locations",
+    "url": "https://jobs.dropbox.com/listing/6936182?gh_jid=6936182",
+    "job_id": "6936182",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6936182",
+    "posted_at": "2026-02-23T16:22:31-05:00",
+    "scraped_at": "2026-02-23T21:54:30.673153Z",
+    "first_discovered": "2026-02-23T22:00:35.668771+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

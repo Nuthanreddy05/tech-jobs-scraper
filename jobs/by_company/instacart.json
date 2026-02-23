@@ -549,5 +549,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Senior Machine Learning Engineer II, Economist ",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7647987",
+    "job_id": "7647987",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7647987",
+    "posted_at": "2026-02-23T16:43:56-05:00",
+    "scraped_at": "2026-02-23T21:55:06.100891Z",
+    "first_discovered": "2026-02-23T22:00:35.668771+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
