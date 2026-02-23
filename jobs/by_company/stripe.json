@@ -891,5 +891,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Marketing Operations & AI Lead, Bridge",
+    "location": "San Francisco or New York",
+    "url": "https://stripe.com/jobs/search?gh_jid=7609448",
+    "job_id": "7609448",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7609448",
+    "posted_at": "2026-02-23T09:35:38-05:00",
+    "scraped_at": "2026-02-23T14:56:07.645047Z",
+    "first_discovered": "2026-02-23T15:01:34.491493+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
