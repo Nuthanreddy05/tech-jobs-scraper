@@ -207,5 +207,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Pinterest",
+    "title": "Principal Engineer, Compute Platform",
+    "location": "San Francisco, CA, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7623786",
+    "job_id": "7623786",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7623786",
+    "posted_at": "2026-02-23T14:21:24-05:00",
+    "scraped_at": "2026-02-23T20:55:24.477871Z",
+    "first_discovered": "2026-02-23T21:01:02.811212+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

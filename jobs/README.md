@@ -1,16 +1,16 @@
 # Job Scraping Results
 
-**Last Updated:** 2026-02-23 19:21:10 UTC
+**Last Updated:** 2026-02-23 21:01:02 UTC
 
 ## 📊 Stats
 
-- **Total Unique Jobs:** 4529
-- **New Jobs This Run:** 6
-- **Companies Tracked:** 6
+- **Total Unique Jobs:** 4538
+- **New Jobs This Run:** 9
+- **Companies Tracked:** 8
 
 ## 🔥 Freshness Breakdown (Apply Priority)
 
-- **HIGH (<24h):** 2096 jobs 🎯 **APPLY NOW!**
+- **HIGH (<24h):** 2105 jobs 🎯 **APPLY NOW!**
 - **MEDIUM (24-48h):** 0 jobs ⚡ Apply today
 - **LOW (2-7 days):** 0 jobs 📋 Lower priority
 

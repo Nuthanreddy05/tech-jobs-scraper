@@ -910,5 +910,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Engineering Manager, Link Consumer",
+    "location": "Toronto ",
+    "url": "https://stripe.com/jobs/search?gh_jid=7348218",
+    "job_id": "7348218",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7348218",
+    "posted_at": "2026-02-23T14:20:54-05:00",
+    "scraped_at": "2026-02-23T20:54:59.135643Z",
+    "first_discovered": "2026-02-23T21:01:02.811212+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

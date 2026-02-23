@@ -18,5 +18,25 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Adobe",
+    "title": "Digital Strategist AI Adoption",
+    "location": "New York",
+    "url": "https://adobe.wd5.myworkdayjobs.com/external_experienced/job/New-York/Digital-Strategist-AI-Adoption_R165797",
+    "job_id": "Digital-Strategist-AI-Adoption_R165797",
+    "description": "",
+    "portal": "workday",
+    "posted_at": "Posted Today",
+    "scraped_at": "2026-02-23T20:59:43.138857Z",
+    "time_type": "",
+    "tenant": "adobe",
+    "site": "external_experienced",
+    "first_discovered": "2026-02-23T21:01:02.811212+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
