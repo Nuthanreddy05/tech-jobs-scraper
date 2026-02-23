@@ -834,5 +834,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Product Manager II - Cloud Detection & Response",
+    "location": "New York, New York, USA",
+    "url": "https://careers.datadoghq.com/detail/7646496/?gh_jid=7646496",
+    "job_id": "7646496",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7646496",
+    "posted_at": "2026-02-23T11:38:44-05:00",
+    "scraped_at": "2026-02-23T17:10:36.928346Z",
+    "first_discovered": "2026-02-23T17:15:37.230006+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

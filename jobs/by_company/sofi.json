@@ -3133,5 +3133,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Senior Staff Software Engineer, Credit Card",
+    "location": "WA - Seattle",
+    "url": "https://sofi.com/careers/job/7639010003?gh_jid=7639010003",
+    "job_id": "7639010003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7639010003",
+    "posted_at": "2026-02-23T11:04:34-05:00",
+    "scraped_at": "2026-02-23T17:11:57.197431Z",
+    "first_discovered": "2026-02-23T17:15:37.230006+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
