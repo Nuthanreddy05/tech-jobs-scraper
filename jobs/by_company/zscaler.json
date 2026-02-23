@@ -3874,5 +3874,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Senior Sales Engineer - Alberta",
+    "location": "Remote - Alberta, Canada",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5053938007",
+    "job_id": "5053938007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5053938007",
+    "posted_at": "2026-02-23T13:37:40-05:00",
+    "scraped_at": "2026-02-23T19:17:20.045003Z",
+    "first_discovered": "2026-02-23T19:21:10.721830+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

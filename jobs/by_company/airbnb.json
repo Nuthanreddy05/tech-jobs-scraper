@@ -682,5 +682,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Senior Staff Engineer, Security Compliance",
+    "location": "Remote - US",
+    "url": "https://careers.airbnb.com/positions/7644728?gh_jid=7644728",
+    "job_id": "7644728",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7644728",
+    "posted_at": "2026-02-23T13:10:57-05:00",
+    "scraped_at": "2026-02-23T19:15:35.750841Z",
+    "first_discovered": "2026-02-23T19:21:10.721830+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
