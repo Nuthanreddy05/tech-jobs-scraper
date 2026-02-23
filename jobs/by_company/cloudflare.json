@@ -1138,5 +1138,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Software Engineer- Resiliency",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6980179?gh_jid=6980179",
+    "job_id": "6980179",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6980179",
+    "posted_at": "2026-02-23T04:05:33-05:00",
+    "scraped_at": "2026-02-23T10:08:19.138852Z",
+    "first_discovered": "2026-02-23T10:12:58.056054+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
