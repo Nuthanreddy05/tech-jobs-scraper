@@ -66892,5 +66892,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Product and Design Engineer",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7360900?gh_jid=7360900",
+    "job_id": "7360900",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7360900",
+    "posted_at": "2026-02-23T18:37:59-05:00",
+    "scraped_at": "2026-02-23T23:40:15.834758Z",
+    "first_discovered": "2026-02-23T23:45:20.205914+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Sr Product Manager, Talent Systems",
+    "location": "Remote - Canada",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7643551",
+    "job_id": "7643551",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7643551",
+    "posted_at": "2026-02-23T17:58:11-05:00",
+    "scraped_at": "2026-02-23T23:40:40.305497Z",
+    "first_discovered": "2026-02-23T23:45:20.205914+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
