@@ -815,5 +815,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Staff Software Engineer, Query (Optimization)",
+    "location": "Alberta; British Columbia; Manitoba; Nova Scotia; Ontario; Quebec",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7646261",
+    "job_id": "7646261",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7646261",
+    "posted_at": "2026-02-23T10:28:21-05:00",
+    "scraped_at": "2026-02-23T15:56:48.047720Z",
+    "first_discovered": "2026-02-23T16:01:19.088625+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
