@@ -283,5 +283,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Robinhood",
+    "title": "Staff Technical Recruiter, General Engineering",
+    "location": "Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7624213?t=gh_src=&gh_jid=7624213",
+    "job_id": "7624213",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7624213",
+    "posted_at": "2026-02-24T15:14:31-05:00",
+    "scraped_at": "2026-02-24T20:47:52.757132Z",
+    "first_discovered": "2026-02-24T20:53:02.687708+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
