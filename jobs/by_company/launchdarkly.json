@@ -416,5 +416,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "LaunchDarkly",
+    "title": "Senior Solutions Engineer - APAC",
+    "location": "APAC - Australia",
+    "url": "https://job-boards.greenhouse.io/launchdarkly/jobs/7641802003",
+    "job_id": "7641802003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7641802003",
+    "posted_at": "2026-02-24T12:08:44-05:00",
+    "scraped_at": "2026-02-24T18:04:29.933128Z",
+    "first_discovered": "2026-02-24T18:08:37.602116+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -720,5 +720,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Engineering Manager, Network Infrastructure (Cloud)",
+    "location": "Remote - USA",
+    "url": "https://careers.airbnb.com/positions/7343909?gh_jid=7343909",
+    "job_id": "7343909",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7343909",
+    "posted_at": "2026-02-24T12:51:25-05:00",
+    "scraped_at": "2026-02-24T18:02:06.107317Z",
+    "first_discovered": "2026-02-24T18:08:37.602116+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
