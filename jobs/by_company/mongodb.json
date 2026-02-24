@@ -834,5 +834,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Software Engineer",
+    "location": "Dublin",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7639152",
+    "job_id": "7639152",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7639152",
+    "posted_at": "2026-02-24T08:03:37-05:00",
+    "scraped_at": "2026-02-24T13:24:48.867744Z",
+    "first_discovered": "2026-02-24T13:29:26.056975+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
