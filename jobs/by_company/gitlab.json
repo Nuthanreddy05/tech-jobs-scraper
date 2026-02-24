@@ -1328,5 +1328,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "GitLab",
+    "title": "Customer Success Engineer, Digital ",
+    "location": "Remote, North America",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8430401002",
+    "job_id": "8430401002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8430401002",
+    "posted_at": "2026-02-24T13:21:58-05:00",
+    "scraped_at": "2026-02-24T19:52:19.841444Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

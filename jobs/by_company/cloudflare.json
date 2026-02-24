@@ -1252,5 +1252,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Product Manager - Email Security",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7647554?gh_jid=7647554",
+    "job_id": "7647554",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7647554",
+    "posted_at": "2026-02-24T13:58:24-05:00",
+    "scraped_at": "2026-02-24T19:51:47.525471Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

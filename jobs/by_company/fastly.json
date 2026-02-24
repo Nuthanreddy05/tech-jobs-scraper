@@ -378,5 +378,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Fastly",
+    "title": "Senior Principal Engineer - Platform Engineering",
+    "location": "Denver, CO; New York City, NY; San Francisco, CA",
+    "url": "https://www.fastly.com/about/jobs/apply?gh_jid=7636291",
+    "job_id": "7636291",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7636291",
+    "posted_at": "2026-02-24T13:07:41-05:00",
+    "scraped_at": "2026-02-24T19:52:29.983342Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

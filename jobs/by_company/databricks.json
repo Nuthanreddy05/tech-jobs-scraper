@@ -929,5 +929,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Solutions Engineer - Public Sector (DoW - 4th Estate)",
+    "location": "Maryland; Virginia; Washington, D.C.",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8415021002",
+    "job_id": "8415021002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8415021002",
+    "posted_at": "2026-02-24T14:01:51-05:00",
+    "scraped_at": "2026-02-24T19:51:02.979450Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Solutions Engineer - Public Sector (Navy)",
+    "location": "San Diego, California",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8415016002",
+    "job_id": "8415016002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8415016002",
+    "posted_at": "2026-02-24T14:43:17-05:00",
+    "scraped_at": "2026-02-24T19:51:02.979455Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -625,5 +625,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Opendoor",
+    "title": "Pricing Analyst",
+    "location": "Phoenix, Arizona, United States",
+    "url": "https://www.opendoor.com/careers/open-positions?gh_jid=4654072006",
+    "job_id": "4654072006",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4654072006",
+    "posted_at": "2026-02-24T14:29:47-05:00",
+    "scraped_at": "2026-02-24T19:53:49.754156Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

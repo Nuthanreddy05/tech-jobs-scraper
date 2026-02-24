@@ -758,5 +758,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Roblox",
+    "title": "Principal Backend Software Engineer",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7639617?gh_jid=7639617",
+    "job_id": "7639617",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7639617",
+    "posted_at": "2026-02-24T13:24:57-05:00",
+    "scraped_at": "2026-02-24T19:52:01.569000Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Roblox",
+    "title": "Senior Backend Software Engineer",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7579594?gh_jid=7579594",
+    "job_id": "7579594",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7579594",
+    "posted_at": "2026-02-24T13:25:00-05:00",
+    "scraped_at": "2026-02-24T19:52:01.569292Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

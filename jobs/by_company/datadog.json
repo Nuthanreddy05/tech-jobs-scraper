@@ -891,5 +891,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Enterprise Sales Engineer - SLED",
+    "location": "California, USA, Remote; Colorado, USA, Remote; Dallas, Texas, USA",
+    "url": "https://careers.datadoghq.com/detail/7647175/?gh_jid=7647175",
+    "job_id": "7647175",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7647175",
+    "posted_at": "2026-02-24T14:37:01-05:00",
+    "scraped_at": "2026-02-24T19:51:51.265168Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Datadog",
+    "title": "Senior Sales Engineer - FED",
+    "location": "District of Columbia, USA, Remote; Maryland, USA, Remote; Virginia, USA, Remote",
+    "url": "https://careers.datadoghq.com/detail/7647169/?gh_jid=7647169",
+    "job_id": "7647169",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7647169",
+    "posted_at": "2026-02-24T14:05:11-05:00",
+    "scraped_at": "2026-02-24T19:51:51.266350Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

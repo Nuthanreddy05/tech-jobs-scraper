@@ -872,5 +872,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Software Engineer, DBX",
+    "location": "United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7645147",
+    "job_id": "7645147",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7645147",
+    "posted_at": "2026-02-24T13:54:09-05:00",
+    "scraped_at": "2026-02-24T19:51:53.319405Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Software Engineer, DBX",
+    "location": "Alberta; Ontario; Quebec",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7645149",
+    "job_id": "7645149",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7645149",
+    "posted_at": "2026-02-24T13:54:26-05:00",
+    "scraped_at": "2026-02-24T19:51:53.319409Z",
+    "first_discovered": "2026-02-24T19:56:33.709313+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
