@@ -67063,5 +67063,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Offensive Security Research Engineer, Safeguards",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5123011008",
+    "job_id": "5123011008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5123011008",
+    "posted_at": "2026-02-23T23:57:06-05:00",
+    "scraped_at": "2026-02-24T04:58:12.822549Z",
+    "first_discovered": "2026-02-24T05:03:58.578714+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
