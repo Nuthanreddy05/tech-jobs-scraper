@@ -587,5 +587,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Opendoor",
+    "title": "Data Scientist",
+    "location": "Seattle, Washington, United States",
+    "url": "https://www.opendoor.com/careers/open-positions?gh_jid=4653303006",
+    "job_id": "4653303006",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4653303006",
+    "posted_at": "2026-02-23T20:19:10-05:00",
+    "scraped_at": "2026-02-24T02:49:52.950014Z",
+    "first_discovered": "2026-02-24T02:52:36.340285+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -891,5 +891,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Plaid",
+    "title": "Engineering Manager - IDV",
+    "location": "New York",
+    "url": "https://jobs.lever.co/plaid/f50f9386-06b2-4b85-94b5-e265720949bc",
+    "job_id": "f50f9386-06b2-4b85-94b5-e265720949bc",
+    "team": "Engineering",
+    "commitment": "Full-time",
+    "description": "<div><span style=\"font-size: 16px\">We believe that the way people interact with their finances will drastically improve in the next few years. We\u2019re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid\u2019s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Washington D.C., London and Amsterdam.</span></div><div><br></div><div>We\u2019re the Identity Verification team, a fast-moving, customer-obsessed group that builds products to help customers safely onboard good users and block fraudsters.</div><div><br></div><div>As Engineering Manager for Identity Verification, you will guide and grow a team of engineers, own the product roadmap in partnership with PMs, and set technical strategy in partnership with your tech leads. You\u2019ll coordinate cross-functionally within IDV and across other Plaid orgs, shaping the future of a high-impact \u201cstartup within a startup.\u201d</div>",
+    "portal": "lever",
+    "posted_at": "1771887998596",
+    "scraped_at": "2026-02-24T02:50:24.012458Z",
+    "first_discovered": "2026-02-24T02:52:36.340285+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
