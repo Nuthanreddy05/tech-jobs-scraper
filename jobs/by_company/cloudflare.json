@@ -1271,5 +1271,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Software Engineer, Growth ",
+    "location": "Hybrid",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/6885717?gh_jid=6885717",
+    "job_id": "6885717",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "6885717",
+    "posted_at": "2026-02-24T17:50:59-05:00",
+    "scraped_at": "2026-02-24T23:40:27.625292Z",
+    "first_discovered": "2026-02-24T23:45:08.067114+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
