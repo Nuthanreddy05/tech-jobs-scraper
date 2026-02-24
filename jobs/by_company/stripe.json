@@ -986,5 +986,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Stripe",
+    "title": "Frontend Engineer, Payments & Risk",
+    "location": "N/A",
+    "url": "https://stripe.com/jobs/search?gh_jid=7325252",
+    "job_id": "7325252",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7325252",
+    "posted_at": "2026-02-24T17:31:35-05:00",
+    "scraped_at": "2026-02-24T22:41:06.375709Z",
+    "first_discovered": "2026-02-24T22:46:51.392661+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

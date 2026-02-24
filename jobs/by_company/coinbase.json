@@ -1594,5 +1594,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Backend - Platform (FinHub - Transfers)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7651090?gh_jid=7651090",
+    "job_id": "7651090",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7651090",
+    "posted_at": "2026-02-24T17:39:50-05:00",
+    "scraped_at": "2026-02-24T22:41:31.279789Z",
+    "first_discovered": "2026-02-24T22:46:51.392661+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
