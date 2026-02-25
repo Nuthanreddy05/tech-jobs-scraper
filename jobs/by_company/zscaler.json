@@ -3950,5 +3950,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Manager - Software Development Engineering",
+    "location": "Hyderabad, IND",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/4947258007",
+    "job_id": "4947258007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "4947258007",
+    "posted_at": "2026-02-25T00:54:49-05:00",
+    "scraped_at": "2026-02-25T06:12:46.430840Z",
+    "first_discovered": "2026-02-25T06:16:24.911614+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
