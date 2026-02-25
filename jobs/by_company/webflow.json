@@ -112,5 +112,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Webflow",
+    "title": "Engineering Manager, Datastores",
+    "location": "Argentina Remote",
+    "url": "https://job-boards.greenhouse.io/webflow/jobs/7648674",
+    "job_id": "7648674",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7648674",
+    "posted_at": "2026-02-24T18:41:10-05:00",
+    "scraped_at": "2026-02-25T02:49:27.470879Z",
+    "first_discovered": "2026-02-25T02:53:42.459962+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
