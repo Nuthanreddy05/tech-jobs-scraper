@@ -625,5 +625,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Principal Product Marketing Manager - Developer Marketing",
+    "location": "United States",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7589895&gh_jid=7589895",
+    "job_id": "7589895",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7589895",
+    "posted_at": "2026-02-25T11:12:00-05:00",
+    "scraped_at": "2026-02-25T16:16:04.501577Z",
+    "first_discovered": "2026-02-25T16:20:45.750331+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

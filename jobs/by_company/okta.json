@@ -2278,5 +2278,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Senior Financial Analyst, GTM ",
+    "location": "San Francisco, California",
+    "url": "https://www.okta.com/company/careers/opportunity/7650322?gh_jid=7650322",
+    "job_id": "7650322",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7650322",
+    "posted_at": "2026-02-25T10:58:34-05:00",
+    "scraped_at": "2026-02-25T16:16:26.834474Z",
+    "first_discovered": "2026-02-25T16:20:45.750331+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Solutions Engineer, Okta ",
+    "location": "New York, New York; Washington, DC",
+    "url": "https://www.okta.com/company/careers/opportunity/7535312?gh_jid=7535312",
+    "job_id": "7535312",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7535312",
+    "posted_at": "2026-02-25T10:51:58-05:00",
+    "scraped_at": "2026-02-25T16:16:26.835025Z",
+    "first_discovered": "2026-02-25T16:20:45.750331+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
