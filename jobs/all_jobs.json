@@ -69572,5 +69572,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Lyft",
+    "title": "Engineering Manager, Lyft Urban Solutions",
+    "location": "New York, NY",
+    "url": "https://app.careerpuck.com/job-board/lyft/job/8430584002?gh_jid=8430584002",
+    "job_id": "8430584002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8430584002",
+    "posted_at": "2026-02-25T15:03:38-05:00",
+    "scraped_at": "2026-02-25T20:46:12.020984Z",
+    "first_discovered": "2026-02-25T20:49:11.348836+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
