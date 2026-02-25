@@ -4007,5 +4007,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Technical Support Engineer",
+    "location": "Escazu, CRI",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5060257007",
+    "job_id": "5060257007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5060257007",
+    "posted_at": "2026-02-25T12:29:55-05:00",
+    "scraped_at": "2026-02-25T18:07:21.139773Z",
+    "first_discovered": "2026-02-25T18:11:07.563699+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

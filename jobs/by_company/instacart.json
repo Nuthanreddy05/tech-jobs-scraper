@@ -587,5 +587,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Director, Product - Platform",
+    "location": "Canada - Remote (ON, AB, BC, or NS Only)",
+    "url": "https://instacart.careers/job/?gh_jid=7648670",
+    "job_id": "7648670",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7648670",
+    "posted_at": "2026-02-25T12:38:12-05:00",
+    "scraped_at": "2026-02-25T18:06:15.893592Z",
+    "first_discovered": "2026-02-25T18:11:07.563699+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Director, Product - Platform",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7648668",
+    "job_id": "7648668",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7648668",
+    "posted_at": "2026-02-25T11:59:24-05:00",
+    "scraped_at": "2026-02-25T18:06:15.893599Z",
+    "first_discovered": "2026-02-25T18:11:07.563699+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

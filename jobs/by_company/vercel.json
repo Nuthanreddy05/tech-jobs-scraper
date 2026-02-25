@@ -188,5 +188,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Vercel",
+    "title": "Senior Workday Integrations Engineer",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5812684004",
+    "job_id": "5812684004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5812684004",
+    "posted_at": "2026-02-25T12:43:08-05:00",
+    "scraped_at": "2026-02-25T18:06:42.089237Z",
+    "first_discovered": "2026-02-25T18:11:07.563699+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Vercel",
+    "title": "Sr. Engineering Manager, Platform",
+    "location": "Hybrid - San Francisco, New York City",
+    "url": "https://job-boards.greenhouse.io/vercel/jobs/5461002004",
+    "job_id": "5461002004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5461002004",
+    "posted_at": "2026-02-25T11:43:34-05:00",
+    "scraped_at": "2026-02-25T18:06:42.089361Z",
+    "first_discovered": "2026-02-25T18:11:07.563699+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

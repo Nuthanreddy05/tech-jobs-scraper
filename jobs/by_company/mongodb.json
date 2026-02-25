@@ -929,5 +929,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "SRE Team Lead, Fleet Management",
+    "location": "Austin; Boston; Chicago; Denver; Miami; New York City; San Francisco; Seattle",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7650199",
+    "job_id": "7650199",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7650199",
+    "posted_at": "2026-02-25T12:06:13-05:00",
+    "scraped_at": "2026-02-25T18:06:27.708652Z",
+    "first_discovered": "2026-02-25T18:11:07.563699+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
