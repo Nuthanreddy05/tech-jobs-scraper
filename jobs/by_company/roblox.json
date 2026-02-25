@@ -872,5 +872,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Roblox",
+    "title": "Strategic Financial Analyst, Revenue",
+    "location": "San Mateo, CA, United States",
+    "url": "https://careers.roblox.com/jobs/7651824?gh_jid=7651824",
+    "job_id": "7651824",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7651824",
+    "posted_at": "2026-02-25T18:16:31-05:00",
+    "scraped_at": "2026-02-25T23:37:36.905659Z",
+    "first_discovered": "2026-02-25T23:42:05.595280+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

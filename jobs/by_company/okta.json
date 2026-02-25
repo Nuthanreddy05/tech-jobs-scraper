@@ -2335,5 +2335,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Staff Software Engineer - Federal",
+    "location": "Washington, DC",
+    "url": "https://www.okta.com/company/careers/opportunity/7571064?gh_jid=7571064",
+    "job_id": "7571064",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7571064",
+    "posted_at": "2026-02-25T18:20:36-05:00",
+    "scraped_at": "2026-02-25T23:37:51.281675Z",
+    "first_discovered": "2026-02-25T23:42:05.595280+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

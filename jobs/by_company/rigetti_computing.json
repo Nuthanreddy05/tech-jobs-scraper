@@ -188,5 +188,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Rigetti Computing",
+    "title": "2026 Internship Project: Quantum Simulation",
+    "location": "Berkeley, CA or Fremont, CA",
+    "url": "https://jobs.lever.co/rigetti/dd0808aa-67e0-4515-a8a3-174ff703805c",
+    "job_id": "dd0808aa-67e0-4515-a8a3-174ff703805c",
+    "team": "Benchmarking & App Engineering",
+    "commitment": "Intern",
+    "description": "<div><span style=\"font-size: 16px;\">Rigetti Computing is building the world\u2019s most powerful computers to solve humanity\u2019s most pressing problems. We believe this technology will fundamentally change the world for the better and will affect nearly every industry over the coming decades. Rigetti Computing is leading this change by developing and demonstrating quantum computing applications in quantum optimization, quantum machine learning, and quantum simulation.</span></div><div><br></div><div><span style=\"font-size: 24px;\">About the internship</span></div><div><span style=\"font-size: 16px;\">As an intern, you will work alongside quantum researchers to develop and implement a quantum many-body simulation aimed at solving classically intractable problems and answering fundamental questions about quantum system dynamics. In the context of contemporary noisy quantum computers, you will co-design experiments specifically tailored to extract maximum performance from Rigetti's hardware. Using numerical simulation tools, you will define the crossover regime where classical emulation falters as problem size increases, but experimental quantum performance is challenged by noise. You will execute experiments on Rigetti's QPUs and benchmark the results against defined targets to help identify the threshold for quantum advantage. This role offers a unique opportunity to conduct high-impact research in an industrial R&amp;D environment, working on a cross-functional project that involves Applications and Quantum Engineering staff.</span></div><div><br></div><div><span style=\"font-size: 16px;\">The internship should last a minimum of 3 months over the summer of 2026, with flexible start and end dates. Although the mentors will be remote, there is flexibility to work remotely or in Rigetti\u2019s office in Berkeley, CA.</span></div>",
+    "portal": "lever",
+    "posted_at": "1772049472186",
+    "scraped_at": "2026-02-25T23:40:15.241706Z",
+    "first_discovered": "2026-02-25T23:42:05.595280+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Rigetti Computing",
+    "title": "Microwave and Cryogenics Test Engineer",
+    "location": "Fremont, CA",
+    "url": "https://jobs.lever.co/rigetti/7eb798d5-75e6-4bf4-893e-f9fe9d8a169e",
+    "job_id": "7eb798d5-75e6-4bf4-893e-f9fe9d8a169e",
+    "team": "QPU Engineering Operations",
+    "commitment": "Full-time",
+    "description": "<div><span style=\"font-size: 16px;\">Rigetti Computing is building the world\u2019s most powerful computers to help solve humanity\u2019s most pressing problems. Our quantum computing technology has the potential to transform nearly every industry over the coming decades. As a public company with deep roots in research and engineering, we are expanding our Engineering Operations team to support rapid advances in quantum hardware.</span></div><div><br></div><div><span style=\"font-size: 18px;\">Role Overview</span></div><div><span style=\"font-size: 16px;\">We are seeking an experienced </span><b style=\"font-size: 16px;\">Microwave and Cryogenics Test Engineer</b><span style=\"font-size: 16px;\"> to join our Fremont, CA Engineering Operations team. This is a hands-on, operations-focused role in a highly collaborative, research-driven environment.</span></div><div><br></div><div><span style=\"font-size: 16px;\">In this role, you will work closely with physicists, engineers, and technicians to assemble, test, and support advanced RF and cryogenic systems that enable next-generation quantum processors. You will be responsible for operating and maintaining cryogenic infrastructure, characterizing custom RF hardware, developing best practices, and troubleshooting complex systems that span RF, vacuum, cryogenics, and electronics.</span></div><div><br></div><div><span style=\"font-size: 16px;\">The ideal candidate brings deep laboratory experience with R&amp;D hardware and has contributed hands-on within interdisciplinary teams in industry, academia, or national labs.</span></div>",
+    "portal": "lever",
+    "posted_at": "1771538358875",
+    "scraped_at": "2026-02-25T23:40:15.241732Z",
+    "first_discovered": "2026-02-25T23:42:05.595280+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
