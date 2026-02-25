@@ -2316,5 +2316,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Staff Compliance Analyst - Federal",
+    "location": "Washington, DC",
+    "url": "https://www.okta.com/company/careers/opportunity/7571077?gh_jid=7571077",
+    "job_id": "7571077",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7571077",
+    "posted_at": "2026-02-25T16:51:58-05:00",
+    "scraped_at": "2026-02-25T22:42:53.734309Z",
+    "first_discovered": "2026-02-25T22:47:17.546441+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

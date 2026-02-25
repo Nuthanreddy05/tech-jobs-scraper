@@ -169,5 +169,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Rigetti Computing",
+    "title": "2026 Internship Project: Hamiltonian Learning",
+    "location": "Berkeley, CA or Fremont, CA",
+    "url": "https://jobs.lever.co/rigetti/45c46817-51d9-40f6-82f7-191c38980494",
+    "job_id": "45c46817-51d9-40f6-82f7-191c38980494",
+    "team": "Benchmarking & App Engineering",
+    "commitment": "Intern",
+    "description": "<div><span style=\"font-size: 16px;\">Rigetti Computing is building the world\u2019s most powerful computers to solve humanity\u2019s most pressing problems. We believe this technology will fundamentally change the world for the better and will affect nearly every industry over the coming decades. Understanding the bottlenecks and improving the fidelities of operations on quantum chips is critical to achieve this goal.</span></div><div><br></div><div><span style=\"font-size: 18px;\">About the internship</span></div><div><span style=\"font-size: 16px;\">As an intern, you will work on implementing algorithms to learn the native Hamiltonian and noise governing the qubits on a superconducting quantum chip during parallel gate execution. You will model the effective Hamiltonian and noise on a small multi-qubit subsystem, co-design experiments to validate the model, reconstruct the Hamiltonian and noise from numerical simulations, and validate the model on the chip. You will produce a pre-production research codebase which can be used for continued development to learn the Hamiltonian and noise. This is a rare opportunity for an intern to work on cutting edge research outside academia, with the opportunity to interface with benchmarking, calibration, and device theory teams.</span></div><div><br></div><div><b><span style=\"font-size: 16px;\">Additional points:</span></b><span style=\"font-size: 16px;\"> There is flexibility to work remotely or in the office at Berkeley. Your mentors will be remote. The internship should last 3 months over the summer of 2026, with flexible start and end dates.</span></div><div><br></div>",
+    "portal": "lever",
+    "posted_at": "1772049111793",
+    "scraped_at": "2026-02-25T22:45:24.066905Z",
+    "first_discovered": "2026-02-25T22:47:17.546441+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

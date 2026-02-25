@@ -777,5 +777,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Airbnb",
+    "title": "Product Manager, Trip Quality Merchandising and AI",
+    "location": "San Francisco, CA, United States",
+    "url": "https://careers.airbnb.com/positions/7651661?gh_jid=7651661",
+    "job_id": "7651661",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7651661",
+    "posted_at": "2026-02-25T17:19:28-05:00",
+    "scraped_at": "2026-02-25T22:41:36.891673Z",
+    "first_discovered": "2026-02-25T22:47:17.546441+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
