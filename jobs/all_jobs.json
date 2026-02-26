@@ -70142,5 +70142,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Applications Engineer 2",
+    "location": "Remote - India",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7646270",
+    "job_id": "7646270",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7646270",
+    "posted_at": "2026-02-26T00:21:09-05:00",
+    "scraped_at": "2026-02-26T06:06:34.781545Z",
+    "first_discovered": "2026-02-26T06:10:56.750344+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
