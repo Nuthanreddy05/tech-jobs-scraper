@@ -1309,5 +1309,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Manager, Solutions Engineering",
+    "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7439830?gh_jid=7439830",
+    "job_id": "7439830",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7439830",
+    "posted_at": "2026-02-26T10:36:42-05:00",
+    "scraped_at": "2026-02-26T16:01:00.564531Z",
+    "first_discovered": "2026-02-26T16:06:28.410363+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
