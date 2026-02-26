@@ -226,5 +226,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Rigetti Computing",
+    "title": "2026 Internship Project: Quantum Hardware Characterization (Software)",
+    "location": "Fremont, CA",
+    "url": "https://jobs.lever.co/rigetti/e1920c0d-1f40-4d31-8511-110eb26b8e7d",
+    "job_id": "e1920c0d-1f40-4d31-8511-110eb26b8e7d",
+    "team": "Quantum Materials",
+    "commitment": "Intern",
+    "description": "<div><span style=\"font-size: 16px;\">We are seeking a motivated undergraduate intern to support software development for the characterization of advanced microwave amplifiers used in next-generation quantum systems.</span></div><div><br></div><div><span style=\"font-size: 16px;\">The intern will migrate and standardize measurement scripts into the company\u2019s software stack, working closely with hardware and software engineers.</span></div><div><br></div><div><span style=\"font-size: 16px;\">This role provides hands-on exposure to microwave measurement systems, applied physics concepts in quantum sensing, hardware\u2013software integration, and production-level engineering workflows. The completed migration will directly support scalable quantum architectures by enabling more robust and maintainable measurement infrastructure.</span></div><div><br></div>",
+    "portal": "lever",
+    "posted_at": "1772052729825",
+    "scraped_at": "2026-02-26T20:52:15.731642Z",
+    "first_discovered": "2026-02-26T20:54:07.832233+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Rigetti Computing",
+    "title": "Senior FPGA Architect, Control Systems",
+    "location": "Berkeley, CA",
+    "url": "https://jobs.lever.co/rigetti/efc17b70-a451-4aeb-8a37-70cb7201693b",
+    "job_id": "efc17b70-a451-4aeb-8a37-70cb7201693b",
+    "team": "Control Systems",
+    "commitment": "Full-time",
+    "description": "<div><span style=\"font-size: 16px;\">Rigetti is seeking a Senior FPGA Architect to join the development of FPGA-based control hardware used to drive our quantum processors. In this role, you will define FPGA architectures, implement high-performance digital logic, and collaborate closely with hardware, firmware, and quantum engineering teams to build scalable, low-latency control systems.</span></div>",
+    "portal": "lever",
+    "posted_at": "1770776492029",
+    "scraped_at": "2026-02-26T20:52:15.731720Z",
+    "first_discovered": "2026-02-26T20:54:07.832233+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

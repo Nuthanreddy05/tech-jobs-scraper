@@ -3342,5 +3342,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Google Workspace & Cloud Engineer",
+    "location": "UT - Cottonwood Heights ; MT - Helena ",
+    "url": "https://sofi.com/careers/job/7646433003?gh_jid=7646433003",
+    "job_id": "7646433003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7646433003",
+    "posted_at": "2026-02-26T14:48:32-05:00",
+    "scraped_at": "2026-02-26T20:50:39.179019Z",
+    "first_discovered": "2026-02-26T20:54:07.832233+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

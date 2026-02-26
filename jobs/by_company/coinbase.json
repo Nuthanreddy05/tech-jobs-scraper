@@ -1708,5 +1708,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Software Engineer, Backend (Institutional - Foundations, Reporting & Monetization)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7655686?gh_jid=7655686",
+    "job_id": "7655686",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7655686",
+    "posted_at": "2026-02-26T14:14:33-05:00",
+    "scraped_at": "2026-02-26T20:48:59.146782Z",
+    "first_discovered": "2026-02-26T20:54:07.832233+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Software Engineer, Backend (Institutional - Custody)",
+    "location": "Remote - USA",
+    "url": "https://www.coinbase.com/careers/positions/7013955?gh_jid=7013955",
+    "job_id": "7013955",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7013955",
+    "posted_at": "2026-02-26T15:30:21-05:00",
+    "scraped_at": "2026-02-26T20:48:59.146935Z",
+    "first_discovered": "2026-02-26T20:54:07.832233+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
