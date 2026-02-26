@@ -1556,5 +1556,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Senior Staff Software Engineer, API",
+    "location": "Remote-Friendly (Travel-Required) | San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5134895008",
+    "job_id": "5134895008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5134895008",
+    "posted_at": "2026-02-26T17:23:51-05:00",
+    "scraped_at": "2026-02-26T22:41:14.221583Z",
+    "first_discovered": "2026-02-26T22:46:59.634295+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
