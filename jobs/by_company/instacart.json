@@ -625,5 +625,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Senior Software Engineer, Technical Search Visibility",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7656204",
+    "job_id": "7656204",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7656204",
+    "posted_at": "2026-02-25T19:31:28-05:00",
+    "scraped_at": "2026-02-26T02:43:54.580196Z",
+    "first_discovered": "2026-02-26T02:48:46.233129+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

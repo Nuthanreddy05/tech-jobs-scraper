@@ -340,5 +340,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Robinhood",
+    "title": "Senior Recruiter, Security & Privacy and Corporate Engineering",
+    "location": "Chicago, IL; Menlo Park, CA; New York, NY",
+    "url": "https://boards.greenhouse.io/robinhood/jobs/7624291?t=gh_src=&gh_jid=7624291",
+    "job_id": "7624291",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7624291",
+    "posted_at": "2026-02-25T21:29:18-05:00",
+    "scraped_at": "2026-02-26T02:43:37.942337Z",
+    "first_discovered": "2026-02-26T02:48:46.233129+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

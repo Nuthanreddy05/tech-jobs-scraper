@@ -1518,5 +1518,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Manager, Applied AI Engineering, Life Sciences (Beneficial Deployments)",
+    "location": "San Francisco, CA | New York City, NY",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5132578008",
+    "job_id": "5132578008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5132578008",
+    "posted_at": "2026-02-25T19:19:11-05:00",
+    "scraped_at": "2026-02-26T02:42:57.952959Z",
+    "first_discovered": "2026-02-26T02:48:46.233129+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

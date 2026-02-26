@@ -3304,5 +3304,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Product Manager, Advanced AI & Risk Data Solutions",
+    "location": "United States",
+    "url": "https://sofi.com/careers/job/7644238003?gh_jid=7644238003",
+    "job_id": "7644238003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7644238003",
+    "posted_at": "2026-02-25T19:47:25-05:00",
+    "scraped_at": "2026-02-26T02:45:20.875141Z",
+    "first_discovered": "2026-02-26T02:48:46.233129+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
