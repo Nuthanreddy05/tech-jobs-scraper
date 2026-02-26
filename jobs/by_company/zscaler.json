@@ -4064,5 +4064,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Director, Product Management-AI Partnerships and Ecosystem",
+    "location": "Remote - USA; San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5058765007",
+    "job_id": "5058765007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5058765007",
+    "posted_at": "2026-02-26T11:21:14-05:00",
+    "scraped_at": "2026-02-26T17:15:01.262811Z",
+    "first_discovered": "2026-02-26T17:18:59.306844+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
