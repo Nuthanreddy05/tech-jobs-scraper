@@ -2373,5 +2373,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Senior Site Reliability Engineer - Observability ",
+    "location": "Bellevue, Washington",
+    "url": "https://www.okta.com/company/careers/opportunity/7658254?gh_jid=7658254",
+    "job_id": "7658254",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7658254",
+    "posted_at": "2026-02-26T18:13:10-05:00",
+    "scraped_at": "2026-02-26T23:39:14.675769Z",
+    "first_discovered": "2026-02-26T23:43:29.332348+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
