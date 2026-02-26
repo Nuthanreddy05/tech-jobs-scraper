@@ -492,5 +492,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Pinterest",
+    "title": "Sr. Security Software Engineer, Application Security",
+    "location": "Chicago, IL, US; Remote, US",
+    "url": "https://www.pinterestcareers.com/jobs/?gh_jid=7494708",
+    "job_id": "7494708",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7494708",
+    "posted_at": "2026-02-26T14:00:07-05:00",
+    "scraped_at": "2026-02-26T19:02:11.758674Z",
+    "first_discovered": "2026-02-26T19:07:30.731056+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
