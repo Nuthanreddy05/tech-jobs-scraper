@@ -549,5 +549,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Dropbox",
+    "title": "Poland Software Engineering Intern (Summer 2026)",
+    "location": "Remote - Poland",
+    "url": "https://jobs.dropbox.com/listing/7309198?gh_jid=7309198",
+    "job_id": "7309198",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7309198",
+    "posted_at": "2026-02-27T10:40:42-05:00",
+    "scraped_at": "2026-02-27T15:44:11.481611Z",
+    "first_discovered": "2026-02-27T15:49:44.888427+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
