@@ -1442,5 +1442,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "GitLab",
+    "title": "Customer Success Engineer, EMEA",
+    "location": "Remote, EMEA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8431114002",
+    "job_id": "8431114002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8431114002",
+    "posted_at": "2026-02-27T09:21:53-05:00",
+    "scraped_at": "2026-02-27T14:49:21.634215Z",
+    "first_discovered": "2026-02-27T14:54:07.354104+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

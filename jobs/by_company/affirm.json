@@ -2791,5 +2791,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Staff Software Engineer, Backend (Deal reporting) ",
+    "location": "Remote Poland",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7637823003",
+    "job_id": "7637823003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7637823003",
+    "posted_at": "2026-02-27T08:55:57-05:00",
+    "scraped_at": "2026-02-27T14:50:04.592771Z",
+    "first_discovered": "2026-02-27T14:54:07.354104+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Affirm",
+    "title": "Staff Software Engineer, Backend (Deal Reporting)",
+    "location": "Remote Spain",
+    "url": "https://job-boards.greenhouse.io/affirm/jobs/7637825003",
+    "job_id": "7637825003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7637825003",
+    "posted_at": "2026-02-27T08:55:56-05:00",
+    "scraped_at": "2026-02-27T14:50:04.592775Z",
+    "first_discovered": "2026-02-27T14:54:07.354104+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
