@@ -1100,5 +1100,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Databricks",
+    "title": "Sr. Technical Curriculum Developer - Data Warehousing/Analytics Engineering",
+    "location": "United States",
+    "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=8409527002",
+    "job_id": "8409527002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8409527002",
+    "posted_at": "2026-02-27T16:28:31-05:00",
+    "scraped_at": "2026-02-27T21:36:29.436247Z",
+    "first_discovered": "2026-02-27T21:41:58.959524+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
