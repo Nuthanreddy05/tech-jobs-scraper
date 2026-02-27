@@ -169,5 +169,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "PagerDuty",
+    "title": "Software Engineer 2 - Team Incident Analysis",
+    "location": "Toronto",
+    "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5809003004",
+    "job_id": "5809003004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5809003004",
+    "posted_at": "2026-02-27T11:06:36-05:00",
+    "scraped_at": "2026-02-27T16:52:07.090013Z",
+    "first_discovered": "2026-02-27T16:56:04.994602+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -701,5 +701,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Threat Detection Engineer - SIEM and Cloud Security (GenAI)",
+    "location": "Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7662541&gh_jid=7662541",
+    "job_id": "7662541",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7662541",
+    "posted_at": "2026-02-27T11:24:55-05:00",
+    "scraped_at": "2026-02-27T16:51:24.916918Z",
+    "first_discovered": "2026-02-27T16:56:04.994602+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

@@ -1670,5 +1670,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": "Software Engineer - Video",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7661919",
+    "job_id": "7661919",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7661919",
+    "posted_at": "2026-02-27T11:24:21-05:00",
+    "scraped_at": "2026-02-27T16:51:43.949674Z",
+    "first_discovered": "2026-02-27T16:56:04.994602+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

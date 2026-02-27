@@ -3361,5 +3361,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Home Loans Senior Data Analyst",
+    "location": "Cottonwood Heights, Utah, Remote",
+    "url": "https://sofi.com/careers/job/7619833003?gh_jid=7619833003",
+    "job_id": "7619833003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7619833003",
+    "posted_at": "2026-02-27T11:50:26-05:00",
+    "scraped_at": "2026-02-27T16:52:38.362553Z",
+    "first_discovered": "2026-02-27T16:56:04.994602+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
