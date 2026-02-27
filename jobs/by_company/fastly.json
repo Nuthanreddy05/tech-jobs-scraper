@@ -435,5 +435,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Fastly",
+    "title": "Senior Customer Solutions Engineer, Streaming Media - Mandarin Speaking\u00a0",
+    "location": "Albuquerque, NM; Austin, TX; Boise, ID; Cheyenne, WY; Chicago, IL; Dallas, TX; Denver, CO; Des Moines, IA; Detroit, MI; Houston, TX; Indianapolis, IN; Las Vegas, NV; Los Angeles, CA; Milwaukee, WI; Minneapolis, MN; Oklahoma City, OK; Phoenix, AZ; Portland, OR; Sacramento, CA; Salt Lake City, UT; San Diego, CA; San Francisco, CA; San Jose, CA; Seattle, WA; St. Louis, MO; Wichita, KS",
+    "url": "https://www.fastly.com/about/jobs/apply?gh_jid=7663819",
+    "job_id": "7663819",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7663819",
+    "posted_at": "2026-02-27T16:43:03-05:00",
+    "scraped_at": "2026-02-27T22:33:36.085580Z",
+    "first_discovered": "2026-02-27T22:37:46.614477+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

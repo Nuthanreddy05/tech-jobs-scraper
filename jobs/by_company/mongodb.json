@@ -1100,5 +1100,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Cloud Security Engineer",
+    "location": "New York City; United States",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7656727",
+    "job_id": "7656727",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7656727",
+    "posted_at": "2026-02-27T17:04:32-05:00",
+    "scraped_at": "2026-02-27T22:32:54.485804Z",
+    "first_discovered": "2026-02-27T22:37:46.614477+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Staff Enterprise Architect, Data",
+    "location": "Palo Alto",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7644002",
+    "job_id": "7644002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7644002",
+    "posted_at": "2026-02-27T17:05:28-05:00",
+    "scraped_at": "2026-02-27T22:32:54.486511Z",
+    "first_discovered": "2026-02-27T22:37:46.614477+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
