@@ -1043,5 +1043,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Senior Curriculum Engineer",
+    "location": "Dublin",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7657115",
+    "job_id": "7657115",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7657115",
+    "posted_at": "2026-02-27T12:28:18-05:00",
+    "scraped_at": "2026-02-27T17:42:42.874321Z",
+    "first_discovered": "2026-02-27T17:47:29.013164+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
