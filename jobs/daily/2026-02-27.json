@@ -1,0 +1,40 @@
+[
+  {
+    "company": "Anthropic",
+    "title": "Cloud Service Provider Accounting Manager",
+    "location": "San Francisco, CA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5026678008",
+    "job_id": "5026678008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5026678008",
+    "posted_at": "2026-02-26T19:34:00-05:00",
+    "scraped_at": "2026-02-27T02:41:42.527924Z",
+    "first_discovered": "2026-02-27T02:47:33.392065+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Twilio",
+    "title": " Lead Consultant / Engineer - Zuora Billings and Revenue",
+    "location": "Remote - US",
+    "url": "https://job-boards.greenhouse.io/twilio/jobs/7360572",
+    "job_id": "7360572",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7360572",
+    "posted_at": "2026-02-26T19:27:59-05:00",
+    "scraped_at": "2026-02-27T02:43:09.034309Z",
+    "first_discovered": "2026-02-27T02:47:33.392065+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  }
+]
