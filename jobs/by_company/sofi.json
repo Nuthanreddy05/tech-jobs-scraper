@@ -3380,5 +3380,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "SoFi",
+    "title": "Senior Frontend Engineer, Crypto",
+    "location": "WA - Seattle; UT - Cottonwood Heights; CA - San Francisco; NY - New York City   ",
+    "url": "https://sofi.com/careers/job/7601518003?gh_jid=7601518003",
+    "job_id": "7601518003",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7601518003",
+    "posted_at": "2026-02-27T13:59:41-05:00",
+    "scraped_at": "2026-02-27T19:40:54.418048Z",
+    "first_discovered": "2026-02-27T19:44:23.079483+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

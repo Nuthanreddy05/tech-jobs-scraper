@@ -663,5 +663,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Senior Machine Learning Engineer, Search & Recommendations Ranking",
+    "location": "US - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7565508",
+    "job_id": "7565508",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7565508",
+    "posted_at": "2026-02-27T14:24:59-05:00",
+    "scraped_at": "2026-02-27T19:39:31.799911Z",
+    "first_discovered": "2026-02-27T19:44:23.079483+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
