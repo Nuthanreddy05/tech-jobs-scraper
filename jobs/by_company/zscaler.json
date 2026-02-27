@@ -4102,5 +4102,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Cloud Operations Project Manager - Platform Service Delivery",
+    "location": "San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5056481007",
+    "job_id": "5056481007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5056481007",
+    "posted_at": "2026-02-27T13:27:19-05:00",
+    "scraped_at": "2026-02-27T18:57:50.251329Z",
+    "first_discovered": "2026-02-27T19:01:28.532420+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Zscaler",
+    "title": "Sr. Staff Program Manager - Cloud Infrastructure Services",
+    "location": "Remote - USA; San Jose, California, USA",
+    "url": "https://job-boards.greenhouse.io/zscaler/jobs/5056483007",
+    "job_id": "5056483007",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5056483007",
+    "posted_at": "2026-02-27T13:19:57-05:00",
+    "scraped_at": "2026-02-27T18:57:50.252216Z",
+    "first_discovered": "2026-02-27T19:01:28.532420+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

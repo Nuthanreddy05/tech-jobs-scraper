@@ -188,5 +188,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "PagerDuty",
+    "title": "Engineering Manager - Platform Integrations",
+    "location": "Lisbon",
+    "url": "https://job-boards.greenhouse.io/pagerduty/jobs/5813107004",
+    "job_id": "5813107004",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5813107004",
+    "posted_at": "2026-02-27T13:43:16-05:00",
+    "scraped_at": "2026-02-27T18:57:40.851815Z",
+    "first_discovered": "2026-02-27T19:01:28.532420+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

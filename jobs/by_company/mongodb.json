@@ -1062,5 +1062,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Software Engineer 3, Atlas Search Systems",
+    "location": "Toronto",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7662950",
+    "job_id": "7662950",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7662950",
+    "posted_at": "2026-02-27T12:56:25-05:00",
+    "scraped_at": "2026-02-27T18:56:56.773140Z",
+    "first_discovered": "2026-02-27T19:01:28.532420+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

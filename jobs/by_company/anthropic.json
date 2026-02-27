@@ -1594,5 +1594,43 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Research Engineer / Research Scientist, Pre-training",
+    "location": "Z\u00fcrich, CH",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5135168008",
+    "job_id": "5135168008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5135168008",
+    "posted_at": "2026-02-27T13:25:16-05:00",
+    "scraped_at": "2026-02-27T18:55:45.835714Z",
+    "first_discovered": "2026-02-27T19:01:28.532420+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "Senior Engineer, Datacenter Server Lifecycle",
+    "location": "San Francisco, CA | Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5136281008",
+    "job_id": "5136281008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5136281008",
+    "posted_at": "2026-02-27T13:27:43-05:00",
+    "scraped_at": "2026-02-27T18:55:45.835893Z",
+    "first_discovered": "2026-02-27T19:01:28.532420+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
