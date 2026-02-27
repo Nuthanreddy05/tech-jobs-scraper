@@ -682,5 +682,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Elastic",
+    "title": "Senior Software Engineer \u2013 Developer Productivity",
+    "location": "Spain",
+    "url": "https://jobs.elastic.co/jobs?gh_jid=7614536&gh_jid=7614536",
+    "job_id": "7614536",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7614536",
+    "posted_at": "2026-02-27T05:35:47-05:00",
+    "scraped_at": "2026-02-27T10:50:14.599596Z",
+    "first_discovered": "2026-02-27T10:55:05.897790+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
