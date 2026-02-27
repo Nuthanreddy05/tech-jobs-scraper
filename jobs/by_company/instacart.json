@@ -682,5 +682,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Instacart",
+    "title": "Senior Risk and Compliance Automation Engineer",
+    "location": "United States - Remote",
+    "url": "https://instacart.careers/job/?gh_jid=7662527",
+    "job_id": "7662527",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7662527",
+    "posted_at": "2026-02-27T17:33:32-05:00",
+    "scraped_at": "2026-02-27T23:33:01.595374Z",
+    "first_discovered": "2026-02-27T23:37:51.548866+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]

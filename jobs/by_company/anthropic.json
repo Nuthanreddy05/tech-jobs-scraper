@@ -1632,5 +1632,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Anthropic",
+    "title": "AI Solutions Architect, Communications",
+    "location": "New York City, NY; San Francisco, CA; Seattle, WA",
+    "url": "https://job-boards.greenhouse.io/anthropic/jobs/5134153008",
+    "job_id": "5134153008",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "5134153008",
+    "posted_at": "2026-02-27T18:28:40-05:00",
+    "scraped_at": "2026-02-27T23:32:00.096879Z",
+    "first_discovered": "2026-02-27T23:37:51.548866+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
