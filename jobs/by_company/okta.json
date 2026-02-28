@@ -2392,5 +2392,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Okta",
+    "title": "Communications AI Strategy & Operations Intern (Summer 2026)",
+    "location": "San Francisco, California",
+    "url": "https://www.okta.com/company/careers/opportunity/7665195?gh_jid=7665195",
+    "job_id": "7665195",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7665195",
+    "posted_at": "2026-02-27T18:43:24-05:00",
+    "scraped_at": "2026-02-28T02:31:46.148317Z",
+    "first_discovered": "2026-02-28T02:35:59.677474+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
