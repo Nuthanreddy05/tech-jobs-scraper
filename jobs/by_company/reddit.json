@@ -359,5 +359,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Reddit",
+    "title": "Director of Design, Ads Platform",
+    "location": "Remote - United States",
+    "url": "https://job-boards.greenhouse.io/reddit/jobs/7666317",
+    "job_id": "7666317",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7666317",
+    "posted_at": "2026-02-28T11:37:32-05:00",
+    "scraped_at": "2026-02-28T17:27:48.375029Z",
+    "first_discovered": "2026-02-28T17:33:05.778111+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
