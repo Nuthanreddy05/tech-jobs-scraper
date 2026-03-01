@@ -1404,5 +1404,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Cloudflare",
+    "title": "Senior Solution Engineer - Mid-Market",
+    "location": "Distributed",
+    "url": "https://boards.greenhouse.io/cloudflare/jobs/7654328?gh_jid=7654328",
+    "job_id": "7654328",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7654328",
+    "posted_at": "2026-03-01T15:09:42-05:00",
+    "scraped_at": "2026-03-01T20:36:44.321930Z",
+    "first_discovered": "2026-03-01T20:41:25.796327+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
