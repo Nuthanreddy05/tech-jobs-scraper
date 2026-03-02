@@ -1138,5 +1138,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "MongoDB",
+    "title": "Staff Engineer",
+    "location": "Gurugram",
+    "url": "https://www.mongodb.com/careers/job/?gh_jid=7583617",
+    "job_id": "7583617",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7583617",
+    "posted_at": "2026-03-02T03:07:30-05:00",
+    "scraped_at": "2026-03-02T08:56:18.259678Z",
+    "first_discovered": "2026-03-02T09:00:51.430984+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
