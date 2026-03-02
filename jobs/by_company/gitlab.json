@@ -1461,5 +1461,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "GitLab",
+    "title": "Senior Backend Engineer (Ruby and/or Go), Tenant Scale; Cells Infrastructure",
+    "location": "Remote, Americas; Remote, APAC; Remote, EMEA",
+    "url": "https://job-boards.greenhouse.io/gitlab/jobs/8437148002",
+    "job_id": "8437148002",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "8437148002",
+    "posted_at": "2026-03-02T04:35:57-05:00",
+    "scraped_at": "2026-03-02T10:00:53.450184Z",
+    "first_discovered": "2026-03-02T10:05:14.311215+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
