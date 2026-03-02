@@ -1765,5 +1765,24 @@
     "days_old": 0,
     "apply_priority": "HIGH",
     "freshness_score": 100
+  },
+  {
+    "company": "Coinbase",
+    "title": "Senior Software Engineer,  Data Platform ",
+    "location": "Remote - India",
+    "url": "https://www.coinbase.com/careers/positions/7656859?gh_jid=7656859",
+    "job_id": "7656859",
+    "departments": [],
+    "description": "",
+    "portal": "greenhouse",
+    "company_slug": "7656859",
+    "posted_at": "2026-03-02T06:51:07-05:00",
+    "scraped_at": "2026-03-02T13:16:41.186023Z",
+    "first_discovered": "2026-03-02T13:21:41.256093+00:00Z",
+    "times_seen": 1,
+    "hours_old": 0.0,
+    "days_old": 0,
+    "apply_priority": "HIGH",
+    "freshness_score": 100
   }
 ]
